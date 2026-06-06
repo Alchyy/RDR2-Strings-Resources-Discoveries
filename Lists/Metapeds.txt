@@ -1,5 +1,6 @@
 n/a = unnamed outfit
 Cut Outfit: Name (AnimScene)
+Settings.ymt: Name (AnimScene)
 
 ---------------------------------------------------------update\metapeds\a_c_alligator_01.ymt (4 Outfits)
 Line     5:    n/a
@@ -623,9 +624,10 @@ Line     5:    n/a
 ---------------------------------------------------------update\metapeds\a_c_horse_ardennes_strawberryroan.ymt (1 Outfit)
 Line     5:    n/a
 
----------------------------------------------------------update\metapeds\a_c_horse_belgian_blondchestnut.ymt (1 Outfit) + (1 Cut Outfit)
+---------------------------------------------------------update\metapeds\a_c_horse_belgian_blondchestnut.ymt (1 Outfit) + (1 Settings.ymt)
 Line     5:    n/a
-Cut Outfit:    0x74D74B1C (cutscene@mud3b_int)
+
+Settings.ymt:    0x74D74B1C (cutscene@mud3b_int)
 
 ---------------------------------------------------------update\metapeds\a_c_horse_belgian_mealychestnut.ymt (1 Outfit)
 Line     5:    n/a
@@ -6457,9 +6459,10 @@ Line   379:    meta_outfit_default
 Line   577:    meta_outfit_endless_summer
 Line   775:    meta_wearable_fishing
 
----------------------------------------------------------update\metapeds\cs_ramon_cortez.ymt (1 Outfit) + (1 Cut Outfit)
-Cut Outfit:    bindings_feet_bulky (cutscene@sad3_mcs1)
+---------------------------------------------------------update\metapeds\cs_ramon_cortez.ymt (1 Outfit) + (1 Settings.ymt)
 Line     5:    meta_outfit_default
+
+Settings.ymt:    bindings_feet_bulky (cutscene@sad3_mcs1)
 
 ---------------------------------------------------------update\metapeds\cs_reverendfortheringham.ymt (2 Outfits)
 Line     5:    meta_outfit_default
@@ -14772,7 +14775,7 @@ Line  5594:    meta_outfit_rancher_alt
 Line  5820:    meta_outfit_rancher_alt_001
 Line  6046:    meta_outfit_wedding
 
----------------------------------------------------------update\metapeds\player_zero.ymt (74 Outfits) + (7 Cut Outfits)
+---------------------------------------------------------update\metapeds\player_zero.ymt (74 Outfits) + (2 Cut Outfits) + (5 Settings.ymt)
 Line     5:    meta_dalt_001_outfit
 Line   247:    meta_outfit_cold_weather
 Line   478:    meta_outfit_cold_weather_opencoat
@@ -14849,11 +14852,12 @@ Line 11818:    trapper_outfit_outlaw_d
 Line 11914:    trapper_outfit_outlaw_e
 Line 11999:    trapper_outfit_rnch_sheep_a
 Line 12095:    trapper_outfit_rnch_sheep_b
-Cut Outfit:    0x08EEDF07 (cutscene@mob2_mcs_1)
-Cut Outfit:    0x17C87CBA (cutscene@rslvc_s3_int)
-Cut Outfit:    0x652668B6 (cutscene@fin1_mcs1)
-Cut Outfit:    0x86155956 (cutscene@calen_fff1/fin1_mcs3/lssol_ext/ntv0_int/rdtc1_rsc2/rdtc3_rsc4/robt_s1_mcs1/roddf_s1_ext)
-Cut Outfit:    0xB418B588 (cutscene@camch_crob2)
+
+Settings.ymt:    0x08EEDF07 (cutscene@mob2_mcs_1)
+Settings.ymt:    0x17C87CBA (cutscene@rslvc_s3_int)
+Settings.ymt:    0x652668B6 (cutscene@fin1_mcs1)
+Settings.ymt:    0x86155956 (cutscene@calen_fff1/fin1_mcs3/lssol_ext/ntv0_int/rdtc1_rsc2/rdtc3_rsc4/robt_s1_mcs1/roddf_s1_ext)
+Settings.ymt:    0xB418B588 (cutscene@camch_crob2)
 
 ---------------------------------------------------------update\metapeds\player_zero_scripted_outfits.ymt (127 Outfits)
 Line     5:    meta_outfit_army
@@ -14984,12 +14988,13 @@ Line 32681:    metaped_valentinecl_001
 Line 32939:    metaped_valentinecl_002
 Line 33222:    metaped_valentinecl_003
 
----------------------------------------------------------update\metapeds\p_c_horse_01.ymt (1 Outfit) + (4 Cut Outfits)
+---------------------------------------------------------update\metapeds\p_c_horse_01.ymt (1 Outfit) + (2 Cut Outfits) + (1 Settings.ymt)
 Line     5:    n/a
 Cut Outfit:    meta_horse_default (script@story@mud5@leadout@mcs3@leadout_toride)
-Cut Outfit:    meta_horse_just_saddle_only (script@vignette@hosea_14@...) (7 files)
 Cut Outfit:    0xDABAFDE0 (script@beat@wilderness@discoverables@overturned_hearse@overturned_hearse)
 Cut Outfit:    0xDABAFDE0 (script@beat@wilderness@wilderness_chest_3@wilderness_chest_3)
+
+Settings.ymt	meta_horse_just_saddle_only (script@vignette@hosea_14@...) (7 files)
 
 ---------------------------------------------------------update\metapeds\rces_abigail3_females_01.ymt (2 Outfits)
 Line     5:    rces_abigail3_attractive_woman
@@ -17874,9 +17879,10 @@ Line     5:    n/a
 ---------------------------------------------------------update\metapeds\u_m_m_unibountyhunter_01.ymt (1 Outfit)
 Line     5:    n/a
 
----------------------------------------------------------update\metapeds\u_m_m_unibountyhunter_02.ymt (1 Outfit) + (1 Cut Outfit)
+---------------------------------------------------------update\metapeds\u_m_m_unibountyhunter_02.ymt (1 Outfit) + (1 Settings.ymt)
 Line     5:    n/a
-Cut Outfit:    bindings_hands_bulky (cutscene@tre1_mcs0)
+
+Settings.ymt:    bindings_hands_bulky (cutscene@tre1_mcs0)
 
 ---------------------------------------------------------update\metapeds\u_m_m_unidusterhenchman_01.ymt (2 Outfits)
 Line     5:    n/a
