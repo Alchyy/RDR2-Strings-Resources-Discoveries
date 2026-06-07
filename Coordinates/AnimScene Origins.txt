@@ -1031,8 +1031,8 @@ x, y, z, debugModel (filename.yas) (dlcpack), Marker Color
 -1790.15, -371.1788, 159.1354, p_c_horse_01 (script@story@utp1@leadin@mcs_4_a1@leadin_front.yas)
 -1790.15, -371.1788, 159.1354, p_c_horse_01 (script@story@utp1@leadin@mcs_4_a1@leadin_front_npcs.yas)
 -1790.15, -371.1788, 159.1354, player_zero (script@story@utp1@leadin@mcs_4_a1@leadin_front_player.yas)
--1790.025, -389.113, 159.313, p_trapdoor01x (script@proc@shoprobberies@strgen@trapdoor_mth.yas)
 -1790.025, -389.113, 159.313, p_trapdoor01x (script@proc@shoprobberies@strgen@trap_door_base.yas)
+-1790.025, -389.113, 159.313, p_trapdoor01x (script@proc@shoprobberies@strgen@trapdoor_mth.yas)
 -1790.025, -389.1125, 159.3125, p_trapdoor01x (script@proc@shoprobberies@strgen@trap_door_enter.yas)
 -1790.656, -339.939, 177.6796, (script@cme@finale2_cme_04_hanging.yas)
 -1790.744, -815.0248, 106.4566, (script@fast_travel@loc@fast_travel_loc_o06a.yas)
@@ -1382,16 +1382,16 @@ x, y, z, debugModel (filename.yas) (dlcpack), Marker Color
 -1649.0568, -1373.1538, 86.16551, cs_uncle (script@vignette@beecher@charles_and_uncle_4@quick_exit.yas) (PS4), ffffff
 -1649.0568, -1373.1538, 86.16551, p_chair20x (script@vignette@beecher@abigail_and_jack_3@action_b_big_bed.yas)
 -1649.0568, -1373.1538, 86.16551, p_chair20x (script@vignette@beecher@abigail_and_jack_3@action_b_small_bed.yas)
--1649.0568, -1373.1538, 86.16551, p_feather01x (0x49C45C78.yas) (PS4), ffffff
--1649.0568, -1373.1538, 86.16551, p_feather01x (0x3528C527.yas) (PS4), ffffff
--1649.0568, -1373.1538, 86.16551, p_feather01x (0xA3486394.yas) (PS4), ffffff
 -1649.0568, -1373.1538, 86.16551, p_feather01x (script@vignette@beecher@uncle_and_jack_1@action.yas)
 -1649.0568, -1373.1538, 86.16551, p_feather01x (script@vignette@beecher@uncle_and_jack_1@base.yas)
 -1649.0568, -1373.1538, 86.16551, p_feather01x (script@vignette@beecher@uncle_and_jack_1@enter.yas) (PS4), ffffff
 -1649.0568, -1373.1538, 86.16551, p_feather01x (script@vignette@beecher@uncle_and_jack_1@exit_quick.yas) (PS4), ffffff
 -1649.0568, -1373.1538, 86.16551, p_feather01x (script@vignette@beecher@uncle_and_jack_1@idle_a.yas) (PS4), ffffff
+-1649.0568, -1373.1538, 86.16551, p_feather01x (script@vignette@beecher@uncle_and_jack_1@idle_b_look_front.yas) (PS4), ffffff
+-1649.0568, -1373.1538, 86.16551, p_feather01x (script@vignette@beecher@uncle_and_jack_1@idle_c_look_back.yas) (PS4), ffffff
 -1649.0568, -1373.1538, 86.16551, p_feather01x (script@vignette@beecher@uncle_and_jack_1@idle_d.yas) (PS4), ffffff
 -1649.0568, -1373.1538, 86.16551, p_feather01x (script@vignette@beecher@uncle_and_jack_1@idle_e.yas) (PS4), ffffff
+-1649.0568, -1373.1538, 86.16551, p_feather01x (script@vignette@beecher@uncle_and_jack_1@idle_f_look_front.yas) (PS4), ffffff
 -1648.0889, -1384.5293, 83.99944, player_three (script@vignette@beecher@abigail_6@jack_base.yas)
 -1647.6, 1639.7, 235.4, (0x1C1F44E4.yas) (patchpack002), eeff00
 -1646.8, -1376.5, 85.1025, (script@cme@sad3_timelapse_shot2.yas)
@@ -1495,7 +1495,6 @@ x, y, z, debugModel (filename.yas) (dlcpack), Marker Color
 -1632.03, 642.46, 124.95, cs_albertmason (script@rcm@masn@ig@ig_2_photosofwolves@ig_2_photosofwolves.yas)
 -1632.03, 642.46, 124.95, cs_albertmason (script@rcm@masn@ig@ig_2_photosofwolves@rc3_player_blendout.yas)
 -1632.03, 642.462, 124.947, a_c_coyote_01 (cutscene@rmasn_rc4.yas)
--1632.03, 642.462, 124.947, cs_albertmason (script@rcm@masn@leadout@rsc_3@leadout.yas)
 -1632.03, 642.462, 124.947, cs_albertmason (cutscene@rmasn_rc3.yas)
 -1632.03, 642.462, 124.947, cs_albertmason (cutscene@rmasn_rc4_p1a1_t05.yas)
 -1632.03, 642.462, 124.947, cs_albertmason (script@rcm@masn@leadin@rsc_3@base.yas)
@@ -1519,6 +1518,7 @@ x, y, z, debugModel (filename.yas) (dlcpack), Marker Color
 -1632.03, 642.462, 124.947, cs_albertmason (script@rcm@masn@leadin@rsc_4@leadin_rightback.yas)
 -1632.03, 642.462, 124.947, cs_albertmason (script@rcm@masn@leadin@rsc_4@leadin_rightfront.yas)
 -1632.03, 642.462, 124.947, cs_albertmason (script@rcm@masn@leadout@rc4@leadout.yas)
+-1632.03, 642.462, 124.947, cs_albertmason (script@rcm@masn@leadout@rsc_3@leadout.yas)
 -1632.03, 642.462, 124.947, p_cs_camera (script@rcm@masn@leadin@rsc_4@leadin_props.yas)
 -1631.967, -1358.61, 86.55379, (script@timelapse@rbch21_timelapse.yas)
 -1630.533, -1339.018, 82.012, a_c_dogrufus_01 (script@rcm@jck2@leadin@rsc1@base.yas)
@@ -1856,8 +1856,8 @@ x, y, z, debugModel (filename.yas) (dlcpack), Marker Color
 -1397.7, -218.83, 100.87, p_knife02x (script@proc@eventareas@appleseed@leadin@int@leadin_ilo.yas)
 -1397.71, -218.83, 100.87, p_axe02x (0x66696AAC.yas)
 -1397.71, -218.83, 100.87, p_c_horse_01 (cutscene@lcmp_int.yas)
--1397.619, -208.72313, 101.87672, u_m_m_bivforeman_01 (script@proc@eventareas@appleseed@no_outdoor_job.yas)
 -1397.619, -208.72313, 101.87672, u_m_m_bivforeman_01 (script@proc@eventareas@appleseed@foreman_orders.yas)
+-1397.619, -208.72313, 101.87672, u_m_m_bivforeman_01 (script@proc@eventareas@appleseed@no_outdoor_job.yas)
 -1389.6313, 747.3438, 150.54756, (script@load_screens@loc@l07a.yas)
 -1388.68, -2221.169, 44.186, mp_female (mp005) (cutscene@lbwin_int.yas), 4cc922
 -1388.68, -2221.169, 44.186, mp_female (mp007) (cutscene@lbwin_int.yas), 4cc922
@@ -1937,9 +1937,9 @@ x, y, z, debugModel (filename.yas) (dlcpack), Marker Color
 -1353.555, 2424.466, 306.9181, p_stickfirepoker01x (script@vignette@bill_3@base.yas) (PS4), ffffff
 -1353.555, 2424.466, 306.9181, p_stickfirepoker01x (script@vignette@bill_3@exit.yas) (PS4), ffffff
 -1353.555, 2424.466, 306.9181, p_stickfirepoker01x (script@vignette@bill_3@exit_idle.yas) (PS4), ffffff
--1353.613, 2424.5, 307.089, cs_dutch (0x25D0C266.yas) (PS4), ffffff
+-1353.613, 2424.5, 307.089, cs_dutch (script@vignette@dutch_and_hosea_2@end_loop_dutch.yas) (PS4), ffffff
 -1353.613, 2424.5, 307.089, cs_dutch (script@vignette@dutch_and_hosea_2@exit_dutch.yas) (PS4), ffffff
--1353.613, 2424.5, 307.089, cs_hoseamatthews (0x8C325D07.yas) (PS4), ffffff
+-1353.613, 2424.5, 307.089, cs_hoseamatthews (script@vignette@dutch_and_hosea_2@end_loop_hosea.yas) (PS4), ffffff
 -1353.613, 2424.5, 307.089, cs_hoseamatthews (script@vignette@dutch_and_hosea_2@exit_hosea.yas) (PS4), ffffff
 -1353.719, 2424.53, 306.9631, cs_jackmarston (0x4EE17B48.yas) (PS4), ffffff
 -1353.719, 2424.53, 306.9631, cs_jackmarston (0x7D40E3DF.yas) (PS4), ffffff
@@ -2163,8 +2163,8 @@ x, y, z, debugModel (filename.yas) (dlcpack), Marker Color
 -1182.5834, 326.5278, 43.965824, p_c_horse_01 (cutscene@robt_s3_ext.yas)
 -1175.9, 0.4, 41.2, (script@common@trl1@horse_crossing@horse_crossing.yas)
 -1175.54, -11.83, 40.24, p_axe02x (script@story@utp2@ig@ig_4@ig_4_chop_tree_run_away.yas)
--1175.54, -11.83, 40.24, stagecoach004x (script@story@utp2@ig@ig_4_ambush_react@ig_4_ambush_react_coach.yas)
 -1175.54, -11.83, 40.24, stagecoach004x (0xF299487D.yas)
+-1175.54, -11.83, 40.24, stagecoach004x (script@story@utp2@ig@ig_4_ambush_react@ig_4_ambush_react_coach.yas)
 -1175.54, -11.83, 40.38, s_coach2crashedutopia2 (cutscene@utp2_mcs2.yas)
 -1175.535, -11.8308, 40.38, s_coach2crashedutopia2 (cutscene@utp2_ext.yas)
 -1173.418, 1364.082, 267.451, (script@fast_travel@loc@fast_travel_loc_k07b.yas)
@@ -2321,11 +2321,11 @@ x, y, z, debugModel (filename.yas) (dlcpack), Marker Color
 -922.88, 722.1075, 105.6262, cs_javierescuella (script@story@wnt4@ig@trainjump_javier.yas)
 -922.06635, 1560.2369, 238.84229, (script@establisher@grizzlies_s_2.yas)
 -920, 727.11, 99.43, cs_cornwalltrainconductor (script@story@wnt4@ig@ig_6_enemy_shot@enemy_shot.yas)
--920, 727.11, 99.43, cs_lenny (script@story@wnt4@ig@trainhang_pull_up.yas)
 -920, 727.11, 99.43, cs_lenny (script@story@wnt4@ig@ig5_trainhang_pull_up_mg@ig5_trainhang_pull_up_mg.yas)
 -920, 727.11, 99.43, cs_lenny (script@story@wnt4@ig@ig5_trainhang_pull_up_mg@ig5_trainhang_pull_up_mg_mth.yas)
 -920, 727.11, 99.43, cs_lenny (script@story@wnt4@ig@trainhang_lenny_fall.yas)
 -920, 727.11, 99.43, cs_lenny (script@story@wnt4@ig@trainhang_lenny_loop.yas)
+-920, 727.11, 99.43, cs_lenny (script@story@wnt4@ig@trainhang_pull_up.yas)
 -919.0334, -1996.6863, 41.474216, (script@establisher@quakers_cove.yas)
 -919.9689, -52.47131, 42.31251, (script@load_screens@loc@m08a.yas)
 -915.13, -637.11, 71.26, (mp005) (0x58B18CEB.yas), 4cc922
@@ -2947,7 +2947,7 @@ x, y, z, debugModel (filename.yas) (dlcpack), Marker Color
 -517.9, -481.4, 94.3, (script@cme@rbnp12_cme_shot4.yas)
 -512.3, -180.7, 41.9, (script@cme@sad3_cme_river_crossing_2.yas)
 -510.8194, 229.8949, 40.7143, p_fishingpole01x (script@rcm@abi1@ig@rabi1_bait_rod_jack_child@rabi1_bait_rod_jack_child.yas)
--505.1724, 533.6559, 104.4742, a_m_m_valtownfolk_01 (0x9CB27482.yas)
+-505.1724, 533.6559, 104.4742, a_m_m_valtownfolk_01 (script@beat@town@murderforhire@stranger.yas)
 -493.8, 2304.2, 292.12, a_c_bull_01 (script@beat@wilderness@discoverables@cattle_carcasses@pose.yas)
 -490.1, 441.9, 97.6, (script@cme@mud5_cme_shot2.yas)
 -489.3752, 244.7542, 42.75, mp005_p_collectorshovel01 (mp005) (script@mech@treasure_hunting@grab.yas), 4cc922
@@ -3174,8 +3174,8 @@ x, y, z, debugModel (filename.yas) (dlcpack), Marker Color
 -314.8399, 818.1826, 120.9728, s_inv_moneyclip01x (script@beat@town@deadjohn@var01@valentinevar01.yas)
 -314.8399, 818.1826, 120.9728, s_inv_moneyclip01x (script@beat@town@deadjohn@var01@valentinevar02.yas)
 -313.152, 829.182, 118.494, p_watertrough01x (script@beat@town@drownmurder@drown.yas)
--313.934, 803.364, 117.981, cs_charlessmith (script@story@mud2@leadin@mcs_1@failure.yas)
 -313.934, 803.364, 117.981, cs_charlessmith (script@story@mud2@leadin@mcs_1@charlesendloop.yas)
+-313.934, 803.364, 117.981, cs_charlessmith (script@story@mud2@leadin@mcs_1@failure.yas)
 -313.934, 803.364, 117.981, cs_charlessmith (script@story@mud2@leadin@mcs_1@leadin_left.yas)
 -313.934, 803.364, 117.981, cs_charlessmith (script@story@mud2@leadin@mcs_1@leadin_right.yas)
 -313.934, 803.364, 117.981, cs_charlessmith (script@story@mud2@leadin@mcs_1@loop.yas)
@@ -3202,8 +3202,8 @@ x, y, z, debugModel (filename.yas) (dlcpack), Marker Color
 -311.75, 806.26, 117.9696, p_bottlebeer01x (0x6C448032.yas) (PS4), ffffff
 -311.75, 806.26, 117.9696, p_bottlebeer01x (0x29CD795F.yas) (PS4), ffffff
 -311.75, 806.26, 117.9696, p_bottlebeer01x (0x774D483C.yas) (PS4), ffffff
--311.459, 803.467, 118.03, p_cs_letter02x (script@story@mud3@ig@letter.yas)
 -311.459, 803.467, 118.03, p_cs_letter02x (script@story@mud3@ig@ig_9_innkeepcomplains@base.yas)
+-311.459, 803.467, 118.03, p_cs_letter02x (script@story@mud3@ig@letter.yas)
 -311.459, 803.467, 118.03, player_zero (0xF7B0C551.yas)
 -311.459, 803.467, 118.03, u_m_m_valpoopingman_01 (script@story@mud3@ig@ig_3_room2a@base.yas)
 -311.459, 803.467, 118.03, u_m_m_valpoopingman_01 (script@story@mud3@ig@ig_3_room2a@base_arthur.yas)
@@ -3597,8 +3597,8 @@ x, y, z, debugModel (filename.yas) (dlcpack), Marker Color
 -272.044, 808.2, 118.37, cs_genstorymale (script@proc@bountyhunting@deputy_scene.yas)
 -272.044, 808.2, 118.37, player_zero (script@proc@bountyhunting@take_reward.yas)
 -272.044, 808.22, 118.37, p_diningchairs01x (script@proc@bountyhunting@sheriff_scene.yas)
--272.044, 808.32, 118.37, 0xDE77F5A5 (script@proc@bountyhunting@cell_valentine_cower.yas)
 -272.044, 808.32, 118.37, 0xDE77F5A5 (script@proc@bountyhunting@cell_valentine.yas)
+-272.044, 808.32, 118.37, 0xDE77F5A5 (script@proc@bountyhunting@cell_valentine_cower.yas)
 -272.052, 808.25, 118.369, p_cs_lockjail01x (0x744BE80F.yas)
 -272.0521, 808.2503, 118.3685, p_cs_lockjail01x (script@proc@bountyhunting@put_in_cell.yas)
 -272.0521, 808.2583, 118.3685, p_cs_lockjail01x (script@proc@bountyhunting@blackwater@jail_drop_off.yas)
@@ -4599,35 +4599,35 @@ x, y, z, debugModel (filename.yas) (dlcpack), Marker Color
 -138.76862, -27.492344, 95.08776, p_bowl03x_stew (script@vignette@charles_3@base.yas)
 -138.76862, -27.492344, 95.08776, p_bowl04x_stew (script@vignette@lenny_susan_marybeth_1@action.yas)
 -138.76862, -27.492344, 95.08776, p_bowl04x_stew (script@vignette@lenny_susan_marybeth_1@base.yas)
--138.76862, -27.492344, 95.08776, p_chair_barrel04b (script@vignette@karen_drinktable_barrelstand_enter_back.yas)
--138.76862, -27.492344, 95.08776, p_chair_barrel04b (0x5AFF8C26.yas) (PS4), ffffff
--138.76862, -27.492344, 95.08776, p_chair_barrel04b (script@vignette@sean_drinktable_barrel@sit_exit_right.yas) (PS4), ffffff
--138.76862, -27.492344, 95.08776, p_chair_barrel04b (0x7CB881D6.yas) (PS4), ffffff
--138.76862, -27.492344, 95.08776, p_chair_barrel04b (script@vignette@karen_drinktable_barrelstand_exit_left_bottle.yas)
--138.76862, -27.492344, 95.08776, p_chair_barrel04b (script@vignette@karen_drinktable_barrelstand_exit_right.yas)
--138.76862, -27.492344, 95.08776, p_chair_barrel04b (0x32D3EE0D.yas) (PS4), ffffff
--138.76862, -27.492344, 95.08776, p_chair_barrel04b (script@vignette@karen_drinktable_barrelstand_enter_left_bottle.yas)
--138.76862, -27.492344, 95.08776, p_chair_barrel04b (script@vignette@sean_drinktable_barrel@stand_enter_right_bottle.yas) (PS4), ffffff
--138.76862, -27.492344, 95.08776, p_chair_barrel04b (script@vignette@sean_drinktable_barrel@stand_exit_right.yas) (PS4), ffffff
--138.76862, -27.492344, 95.08776, p_chair_barrel04b (script@vignette@karen_drinktable_barrelstand_enter_left.yas)
--138.76862, -27.492344, 95.08776, p_chair_barrel04b (script@vignette@sean_drinktable_barrel@stand_enter_right.yas) (PS4), ffffff
--138.76862, -27.492344, 95.08776, p_chair_barrel04b (script@vignette@sean_drinktable_barrel@sit_exit_left_bottle.yas) (PS4), ffffff
--138.76862, -27.492344, 95.08776, p_chair_barrel04b (script@vignette@sean_drinktable_barrel@sit_exit_right_bottle.yas) (PS4), ffffff
--138.76862, -27.492344, 95.08776, p_chair_barrel04b (script@vignette@karen_drinktable_barrelstand_enter_right.yas)
--138.76862, -27.492344, 95.08776, p_chair_barrel04b (script@vignette@sean_drinktable_barrel@stand_enter_left_bottle.yas) (PS4), ffffff
 -138.76862, -27.492344, 95.08776, p_chair_barrel04b (0x25499181.yas) (PS4), ffffff
--138.76862, -27.492344, 95.08776, p_chair_barrel04b (0xAEC93C3A.yas) (PS4), ffffff
--138.76862, -27.492344, 95.08776, p_chair_barrel04b (0xB60D1C07.yas) (PS4), ffffff
--138.76862, -27.492344, 95.08776, p_chair_barrel04b (script@vignette@sean_drinktable_barrel@stand_enter_left.yas) (PS4), ffffff
--138.76862, -27.492344, 95.08776, p_chair_barrel04b (script@vignette@sean_drinktable_barrel@stand_exit_right_bottle.yas) (PS4), ffffff
--138.76862, -27.492344, 95.08776, p_chair_barrel04b (script@vignette@sean_drinktable_barrel@stand_exit_left_bottle.yas) (PS4), ffffff
--138.76862, -27.492344, 95.08776, p_chair_barrel04b (0xFC607A55.yas) (PS4), ffffff
--138.76862, -27.492344, 95.08776, p_chair_barrel04b (0xFCE08DDB.yas) (PS4), ffffff
 -138.76862, -27.492344, 95.08776, p_chair_barrel04b (script@vignette@bill_10@action.yas)
 -138.76862, -27.492344, 95.08776, p_chair_barrel04b (script@vignette@hosea_9@base.yas)
 -138.76862, -27.492344, 95.08776, p_chair_barrel04b (script@vignette@karen_8@action.yas)
 -138.76862, -27.492344, 95.08776, p_chair_barrel04b (script@vignette@karen_8@base.yas)
+-138.76862, -27.492344, 95.08776, p_chair_barrel04b (script@vignette@karen_drinktable_barrel@shift_bwd.yas) (PS4), ffffff
+-138.76862, -27.492344, 95.08776, p_chair_barrel04b (script@vignette@karen_drinktable_barrel@shift_fwd.yas) (PS4), ffffff
+-138.76862, -27.492344, 95.08776, p_chair_barrel04b (script@vignette@karen_drinktable_barrelstand_enter_back.yas)
+-138.76862, -27.492344, 95.08776, p_chair_barrel04b (script@vignette@karen_drinktable_barrelstand_enter_left.yas)
+-138.76862, -27.492344, 95.08776, p_chair_barrel04b (script@vignette@karen_drinktable_barrelstand_enter_left_bottle.yas)
+-138.76862, -27.492344, 95.08776, p_chair_barrel04b (script@vignette@karen_drinktable_barrelstand_enter_right.yas)
+-138.76862, -27.492344, 95.08776, p_chair_barrel04b (script@vignette@karen_drinktable_barrelstand_exit_left_bottle.yas)
+-138.76862, -27.492344, 95.08776, p_chair_barrel04b (script@vignette@karen_drinktable_barrelstand_exit_right.yas)
 -138.76862, -27.492344, 95.08776, p_chair_barrel04b (script@vignette@music@uncle_sean_2@base.yas)
+-138.76862, -27.492344, 95.08776, p_chair_barrel04b (script@vignette@sean_drinktable_barrel@shift_fwd_badassmalec.yas) (PS4), ffffff
+-138.76862, -27.492344, 95.08776, p_chair_barrel04b (script@vignette@sean_drinktable_barrel@shift_fwd_drunkmalec.yas) (PS4), ffffff
+-138.76862, -27.492344, 95.08776, p_chair_barrel04b (script@vignette@sean_drinktable_barrel@sit_exit_left_bottle.yas) (PS4), ffffff
+-138.76862, -27.492344, 95.08776, p_chair_barrel04b (script@vignette@sean_drinktable_barrel@sit_exit_right.yas) (PS4), ffffff
+-138.76862, -27.492344, 95.08776, p_chair_barrel04b (script@vignette@sean_drinktable_barrel@sit_exit_right_bottle.yas) (PS4), ffffff
+-138.76862, -27.492344, 95.08776, p_chair_barrel04b (script@vignette@sean_drinktable_barrel@stand_enter_front.yas) (PS4), ffffff
+-138.76862, -27.492344, 95.08776, p_chair_barrel04b (script@vignette@sean_drinktable_barrel@stand_enter_front_bottle.yas) (PS4), ffffff
+-138.76862, -27.492344, 95.08776, p_chair_barrel04b (script@vignette@sean_drinktable_barrel@stand_enter_left.yas) (PS4), ffffff
+-138.76862, -27.492344, 95.08776, p_chair_barrel04b (script@vignette@sean_drinktable_barrel@stand_enter_left_bottle.yas) (PS4), ffffff
+-138.76862, -27.492344, 95.08776, p_chair_barrel04b (script@vignette@sean_drinktable_barrel@stand_enter_right.yas) (PS4), ffffff
+-138.76862, -27.492344, 95.08776, p_chair_barrel04b (script@vignette@sean_drinktable_barrel@stand_enter_right_bottle.yas) (PS4), ffffff
+-138.76862, -27.492344, 95.08776, p_chair_barrel04b (script@vignette@sean_drinktable_barrel@stand_exit_left.yas) (PS4), ffffff
+-138.76862, -27.492344, 95.08776, p_chair_barrel04b (script@vignette@sean_drinktable_barrel@stand_exit_left_bottle.yas) (PS4), ffffff
+-138.76862, -27.492344, 95.08776, p_chair_barrel04b (script@vignette@sean_drinktable_barrel@stand_exit_right.yas) (PS4), ffffff
+-138.76862, -27.492344, 95.08776, p_chair_barrel04b (script@vignette@sean_drinktable_barrel@stand_exit_right_bottle.yas) (PS4), ffffff
 -138.76862, -27.492344, 95.08776, p_guitar01x (script@vignette@wrk@javier_work_1@b@action.yas)
 -138.76862, -27.492344, 95.08776, p_guitar01x (script@vignette@wrk@javier_work_1@b@base.yas) (PS4), ffffff
 -138.76862, -27.492344, 95.08776, p_guitar01x (script@vignette@wrk@javier_work_1@b@base_outro.yas) (PS4), ffffff
@@ -5016,10 +5016,6 @@ x, y, z, debugModel (filename.yas) (dlcpack), Marker Color
 -124.8385, -29.71034, 95.888, player_zero (script@vignette@dutch_33@player_karen@reject_dance.yas)
 -124.8385, -29.71034, 95.888, player_zero (script@vignette@dutch_33@player_karen@request_dance.yas)
 -124.8502, -29.70732, 94.89832, cs_marybeth (script@vignette@dutch_32@arthur_marybeth@dance.yas)
--124.8502, -29.70732, 94.89832, player_zero (0x50D0AFBB.yas) (PS4), ffffff
--124.8502, -29.70732, 94.89832, player_zero (0x103D4D1E.yas) (PS4), ffffff
--124.8502, -29.70732, 94.89832, player_zero (0xA2BD3853.yas) (PS4), ffffff
--124.8502, -29.70732, 94.89832, player_zero (0xCF5B5D2C.yas) (PS4), ffffff
 -124.8502, -29.70732, 94.89832, player_zero (script@vignette@dutch_33@player_karen@accept_dance.yas) (PS4), ffffff
 -124.8502, -29.70732, 94.89832, player_zero (script@vignette@dutch_33@player_karen@dance.yas)
 -124.8502, -29.70732, 94.89832, player_zero (script@vignette@dutch_33@player_karen@dance_enter.yas) (PS4), ffffff
@@ -5031,6 +5027,10 @@ x, y, z, debugModel (filename.yas) (dlcpack), Marker Color
 -124.8502, -29.70732, 94.89832, player_zero (script@vignette@dutch_33@player_karen@dance_flare_e.yas) (PS4), ffffff
 -124.8502, -29.70732, 94.89832, player_zero (script@vignette@dutch_33@player_karen@dance_loop.yas) (PS4), ffffff
 -124.8502, -29.70732, 94.89832, player_zero (script@vignette@dutch_33@player_karen@dance_over.yas) (PS4), ffffff
+-124.8502, -29.70732, 94.89832, player_zero (script@vignette@dutch_33@player_karen@dance_rot_lt_long.yas) (PS4), ffffff
+-124.8502, -29.70732, 94.89832, player_zero (script@vignette@dutch_33@player_karen@dance_rot_lt_short.yas) (PS4), ffffff
+-124.8502, -29.70732, 94.89832, player_zero (script@vignette@dutch_33@player_karen@dance_rot_rt_long.yas) (PS4), ffffff
+-124.8502, -29.70732, 94.89832, player_zero (script@vignette@dutch_33@player_karen@dance_rot_rt_short.yas) (PS4), ffffff
 -124.23851, -30.158474, 95.85439, player_zero (script@vignette@wnt@susan_grf_mayhem_1@action.yas)
 -123.4287, -27.6299, 94.68, (script@fast_travel@establisher@camp@horseshoe_overlook_1.yas)
 -123.8592, -25.8471, 94.9403, p_cs_newspaper_02x (script@common@cnv_camp@cahsh@pker@action.yas)
@@ -5176,10 +5176,10 @@ x, y, z, debugModel (filename.yas) (dlcpack), Marker Color
 -121, -28.6, 95.8, p_knittingneedle01x (script@story@sal1@leadin@int@ilo.yas)
 -121, -28.6, 95.8, p_stickfirepoker01x (script@vignette@camp_fire@javier_5@base.yas)
 -121, -28.6, 95.8, player_zero (0x4B11A2FC.yas) (cnv_camp@cahsh@cnv2)
--121, -28.6, 95.8, player_zero (script@rcm@calen@ig@drink_ig1@drink_ig1.yas) (script_rc@calen@ig@drink_ig1)
 -121, -28.6, 95.8, player_zero (0xF7DEA405.yas) (cnv_camp@cadtc@fish@ig1)
 -121, -28.6, 95.8, player_zero (script@fast_travel@intro@camps@gang_camp_exit_horseshoe_east.yas)
 -121, -28.6, 95.8, player_zero (script@fast_travel@intro@camps@gang_camp_exit_horseshoe_north.yas)
+-121, -28.6, 95.8, player_zero (script@rcm@calen@ig@drink_ig1@drink_ig1.yas) (script_rc@calen@ig@drink_ig1)
 -121, -28.6, 95.8, player_zero (script@rcm@mud3@s1@leadin@int@leadin.yas)
 -121, -28.6, 95.8, player_zero (script@story@mud3@leadin@int@ilo.yas)
 -121, -28.6, 95.8, s_campledger01x (cutscene@rdown_rsc2.yas)
@@ -5852,9 +5852,9 @@ x, y, z, debugModel (filename.yas) (dlcpack), Marker Color
 -3.996015, 70.27194, 6.350697, p_loghalf01x (scenario@amb_work@prop_human_wood_chop@logdrop1@trans@pickuprside1_01_05_04.yas)
 -2.475, 78.548, 6.431, a_c_deer_01 (0x22C3C0E9.yas), c92222
 -2.022678, 73.97934, 7.350786, cs_genstorymale (0xCFC6AA30.yas), c92222
--2.037575, 76.103935, 7.350939, p_cs_billstack01x (script@proc@bankrobberies@vaults@smallenter.yas)
 -2.037575, 76.103935, 7.350939, p_cs_billstack01x (script@proc@bankrobberies@vaults@small.yas)
 -2.037575, 76.103935, 7.350939, p_cs_billstack01x (script@proc@bankrobberies@vaults@smallbase.yas)
+-2.037575, 76.103935, 7.350939, p_cs_billstack01x (script@proc@bankrobberies@vaults@smallenter.yas)
 -2.056111, 76.11777, 6.350697, p_loghalf01x (scenario@amb_work@prop_human_wood_chop@carrylog2@react_look@pl.yas)
 -2.056111, 76.11777, 6.350697, s_m_m_valcowpoke_01 (scenario@amb_camp@world_camp_fire_cooking@male_a@eating@reacts.yas)
 -2.056111, 76.11777, 6.350697, s_m_m_valcowpoke_01 (scenario@amb_camp@world_camp_fire_cooking@male_a@reacts.yas)
@@ -6139,8 +6139,8 @@ x, y, z, debugModel (filename.yas) (dlcpack), Marker Color
 -1.47005, 75.29982, 7.350691, player_zero (scenario@mech@player_open_moneybox_table@enter_l.yas)
 -1.47005, 75.29982, 7.350692, p_cs_pick01x (0x10E56054.yas)
 -1.47005, 75.29982, 7.350698, p_cs_pick01x (0xC3D781C7.yas)
--1.47005, 75.299774, 7.35094, gatlingmaxim02 (script@vehicle@gatling@die_right.yas), c92222
 -1.47005, 75.299774, 7.35094, gatlingmaxim02 (script@vehicle@gatling@die_left.yas), c92222
+-1.47005, 75.299774, 7.35094, gatlingmaxim02 (script@vehicle@gatling@die_right.yas), c92222
 -1.082292, 71.8002, 8.082773, p_desk08x (0x0E17893E.yas)
 -1.092288, 71.03438, 8.350525, player_zero (scenario@mech@camp_setup@on_foot.yas)
 -1.092292, 71.034386, 7.350525, player_zero (scenario@mech@camp_setup@dismount.yas)
@@ -6212,8 +6212,8 @@ x, y, z, debugModel (filename.yas) (dlcpack), Marker Color
 -1.470629, 75.48148, 6.350697, s_m_m_valcowpoke_01 (scenario@amb_work@prop_human_wood_chop@grab_log_far@react_look@pl.yas)
 -1.477082, 78.86575, 7.350965, player_zero (mech_skin@deer_stow_horse_skin_lt.yas)
 -1.504093, 75.24112, 8.105068, w_repeater_carbine01 (mp006) (script@mp@trans@reverseanglecam_onhorse_m.yas), 4cc922
--1.509375, 73.52869, 7.346484, player_zero (script@proc@shoprobberies@rhodesgun@trapdoor_mth.yas)
 -1.509375, 73.52869, 7.346484, player_zero (script@proc@shoprobberies@rhodesgun@trap_door_base.yas)
+-1.509375, 73.52869, 7.346484, player_zero (script@proc@shoprobberies@rhodesgun@trapdoor_mth.yas)
 -1.515861, 74.62189, 7.350623, p_door_wglass01x (0x5F2D0EDD.yas) (script@common...), c92222
 -1.515861, 74.62189, 7.350623, p_door_wglass01x (0x03431CA8.yas) (script@common...), c92222
 -1.517071, 75.53434, 7.350781, cs_genstorymale (scenario@randomevent@wagon_lift@threepeds@base.yas) (PS4), ffffff
@@ -6551,12 +6551,12 @@ x, y, z, debugModel (filename.yas) (dlcpack), Marker Color
 0, 0, 0, cs_hectorfellowes (cutscene@rmayr_s3_mcs1.yas)
 0, 0, 0, cs_hectorfellowes (script@rcm@rmayr@leadin@s3@mcs1@leadin.yas)
 0, 0, 0, cs_hoseamatthews (0x7D1DF587.yas)
-0, 0, 0, cs_hoseamatthews (script@story@ind1@ig@ig1_walk_and_talk@ig1_walkandtalk.yas)
 0, 0, 0, cs_hoseamatthews (script@rcm@chnt1@ig@ig11_hosea_point_cme@ig11_hosea_point_cme.yas)
 0, 0, 0, cs_hoseamatthews (script@rcm@rhmr0@ig@ig7_hosea_calls_arthur_in_sc@hoseacallsarthurinsc.yas)
 0, 0, 0, cs_hoseamatthews (script@story@brt1@ig@ig_4_talk_to_saloon_guys@ig_4_talk_to_saloon_guys_hosea.yas)
 0, 0, 0, cs_hoseamatthews (script@story@brt1@ig@ig_4_talk_to_saloon_guys@ig_4_talk_to_saloon_guys_wagon.yas)
 0, 0, 0, cs_hoseamatthews (script@story@brt1@leadin@mcs_1@wagon_part1.yas)
+0, 0, 0, cs_hoseamatthews (script@story@ind1@ig@ig1_walk_and_talk@ig1_walkandtalk.yas)
 0, 0, 0, cs_hoseamatthews (script@story@mud1@ig@ig11_javier_greeting_arthur_hosea@ig11_javier_greeting_arthur_hosea.yas)
 0, 0, 0, cs_hoseamatthews (script@story@mud1@ig@ig13_hosea_climb_on_wagon@ig13_hosea_climb_on_wagon.yas)
 0, 0, 0, cs_jackmarston_teen (script@rcm@rch1@ig@ig_2_imaginativeparents@ig_2_imaginativeparents.yas)
@@ -6834,9 +6834,6 @@ x, y, z, debugModel (filename.yas) (dlcpack), Marker Color
 0, 0, 0, player_three (script@story@rabi21@walkandtalk.yas)
 0, 0, 0, player_zero (0x5A0713DB.yas)
 0, 0, 0, player_zero (0x5BB78A0A.yas)
-0, 0, 0, player_zero (script@specialped@pdatc_town_crier@ig@ig_5@pdatc_ig5_arthur_sick.yas)
-0, 0, 0, player_zero (script@rcm@rbnp2@s1@ig2_penelopeandbeaumeet@ig2_penelopeandbeaumeet_p3.yas)
-0, 0, 0, player_zero (script@story@bou1@ig@ig4_discipline@ig4_discipline_benedict.yas)
 0, 0, 0, player_zero (script@common@cnv_camp@cabll@brob1@arthurdialogue.yas)
 0, 0, 0, player_zero (script@common@cnv_camp@mini_games@five_finger_dynamic@intro.yas)
 0, 0, 0, player_zero (script@common@cnv_camp@mini_games@poker_dynamic@intro.yas)
@@ -6847,6 +6844,7 @@ x, y, z, debugModel (filename.yas) (dlcpack), Marker Color
 0, 0, 0, player_zero (script@rcm@dopn@ig@ig2_collapse@ig2_collapse.yas)
 0, 0, 0, player_zero (script@rcm@dopn@ig@ig_arthur_reaction@arthur_reaction.yas)
 0, 0, 0, player_zero (script@rcm@fma@ig@rc4_ig12@rc4_ig12_walkntalk.yas)
+0, 0, 0, player_zero (script@rcm@rbnp2@s1@ig2_penelopeandbeaumeet@ig2_penelopeandbeaumeet_p3.yas)
 0, 0, 0, player_zero (script@rcm@rbnp2@s1@ig_beauandpenelopeontrain@ig_beauandpenelopeontrain.yas)
 0, 0, 0, player_zero (script@rcm@rhmr0@ig@ig0_camp_approach@ig0_camp_approach.yas)
 0, 0, 0, player_zero (script@rcm@rmayr@ig@ig1_meet_professor@ig1_meet_professor.yas)
@@ -6855,6 +6853,7 @@ x, y, z, debugModel (filename.yas) (dlcpack), Marker Color
 0, 0, 0, player_zero (script@rcm@sad1@ig@rsc2_ig0_int@rsc2_ig0_int_arthur.yas)
 0, 0, 0, player_zero (script@specialped@pdatc_town_crier@ig@ig_2@pdatc_ig2_cnv1.yas)
 0, 0, 0, player_zero (script@specialped@pdatc_town_crier@ig@ig_3@pdatc_ig3_cnv2.yas)
+0, 0, 0, player_zero (script@specialped@pdatc_town_crier@ig@ig_5@pdatc_ig5_arthur_sick.yas)
 0, 0, 0, player_zero (script@specialped@pdatc_town_crier@ig@ig_7@pdatc_ig7_aggro.yas)
 0, 0, 0, player_zero (script@specialped@pdgvn_gavins_friend@ig@ig_2@ig_2.yas)
 0, 0, 0, player_zero (script@specialped@pdgvn_gavins_friend@ig@ig_3@ig_3.yas)
@@ -6862,6 +6861,7 @@ x, y, z, debugModel (filename.yas) (dlcpack), Marker Color
 0, 0, 0, player_zero (script@specialped@pdsnw_sun_worshipper@ig@ig_10@pdsnw_ig10_prev_aggro.yas)
 0, 0, 0, player_zero (script@specialped@pdsnw_sun_worshipper@ig@ig_11@pdsnw_ig11_callout_above.yas)
 0, 0, 0, player_zero (script@specialped@pdsnw_sun_worshipper@ig@ig_12@pdsnw_ig12_aggros.yas)
+0, 0, 0, player_zero (script@story@bou1@ig@ig4_discipline@ig4_discipline_benedict.yas)
 0, 0, 0, player_zero (script@story@bou1@ig@ig4_discipline@ig4_discipline_player.yas)
 0, 0, 0, player_zero (script@story@brt1@ig@ig3_carry_moonshine@ig3_carry_moonshine.yas)
 0, 0, 0, player_zero (script@story@brt2@ig@ig_2_pickupguard@ig_2_wagon_driveoff.yas)
@@ -7169,8 +7169,8 @@ x, y, z, debugModel (filename.yas) (dlcpack), Marker Color
 40.35233, 102.1536, 101.2929, cart01 (script@beat@wilderness@checkpoint@small.yas)
 40.45478, 12.04762, 101.4917, s_inv_medicine01x (dlc_content_extra) (script@beat@wilderness@herbalistcamp@directional_exchange_new.yas), 4cc922
 41.5, 34.8, 102.2, p_c_horse_01 (script@story@mud5@ig@ig_28_train_cross@ig_28_train_cross.yas)
-45.601337, 101.2692, 101.61417, male_skeleton (script@beat@wilderness@checkpoint@wave_rifle.yas)
 45.601337, 101.2692, 101.61417, male_skeleton (script@beat@wilderness@checkpoint@wave_pistol.yas)
+45.601337, 101.2692, 101.61417, male_skeleton (script@beat@wilderness@checkpoint@wave_rifle.yas)
 45.630695, -36.199066, 103.11466, player_zero (script@mech@horse_gear_transfer.yas)
 46.5377, 47.73809, 102.2589, g_m_m_unicriminals_01 (script@beat@wilderness@prisonwagon@normal@thanks.yas)
 47.8, 1.5, 102.5, cs_balloonoperator (0x25B0C29F.yas)
@@ -7196,8 +7196,8 @@ x, y, z, debugModel (filename.yas) (dlcpack), Marker Color
 63.33538, 1554.4856, 113.95256, (0x607210AF.yas) (patchpack003), eeff00
 74.80276, -235.3163, 108.4467, mp_u_m_m_fos_musician_01 (mp009) (0xB63ED86D.yas), 4cc922
 77.479, 229.566, 7.584, cs_genstorymale (script@proc@handovers@player_handovers@give_money.yas)
-78.519, 229.566, 7.594, cs_genstorymale (script@proc@handovers@ped_handovers@give_money.yas)
 78.519, 229.566, 7.594, cs_genstorymale (script@proc@handovers@ped_handovers@give_brooch.yas)
+78.519, 229.566, 7.594, cs_genstorymale (script@proc@handovers@ped_handovers@give_money.yas)
 78.519, 229.566, 8.801967, player_zero (mp006) (script@beat@wilderness@suspensiontrap@handover.yas), 4cc922
 78.519, 229.566, 8.801967, player_zero (mp007) (script@beat@wilderness@suspensiontrap@handover.yas), 4cc922
 78.519, 229.566, 8.801967, player_zero (script@beat@wilderness@suspensiontrap@handover.yas)
@@ -7566,14 +7566,14 @@ x, y, z, debugModel (filename.yas) (dlcpack), Marker Color
 493.8682, 2229.065, 247.5141, cs_charlessmith (script@story@nts3@ig@ig0_charles_intro_wnt@ig0_charles_wnt.yas)
 494.01, 2226.05, 244.65, cs_rainsfall (script@story@ntv1@leadin@int@leadin.yas)
 494.01, 2226.05, 244.66, a_f_m_waptownfolk_01 (script@story@ntv3@ig12_nativewapitireaction_p3@ig12_nativewapitireaction_p3.yas)
-494.01, 2226.05, 244.66, p_bedrollopen03x (script@story@ntv3@ig12_nativewapitireaction_p2@ig12_nativewapitireaction_p2_injured_loop.yas)
 494.01, 2226.05, 244.66, p_bedrollopen03x (script@story@ntv3@ig12_nativewapitireaction_p2@ig12_nativewapitireaction_p2.yas)
+494.01, 2226.05, 244.66, p_bedrollopen03x (script@story@ntv3@ig12_nativewapitireaction_p2@ig12_nativewapitireaction_p2_injured_loop.yas)
 494.01, 2226.05, 244.66, p_c_horse_01 (script@story@ntv3@ig12_nativewapitireaction_p1@ig12_nativewapitireaction_p1.yas)
 494.01, 2226.05, 244.66, p_cs_blanket01x (script@rcm@rmnr1@leadin@rsc1@leadin.yas)
 494.01, 2226.05, 244.66, p_cs_blanket01x (script@rcm@rmnr1@leadout@rsc1@leadout.yas)
-494.01, 2226.05, 244.66, p_journal01x (script@rcm@rmnr1@leadin@rsc4@leadin_playlists.yas)
 494.01, 2226.05, 244.66, p_journal01x (script@rcm@rmnr1@leadin@rsc4@base.yas)
 494.01, 2226.05, 244.66, p_journal01x (script@rcm@rmnr1@leadin@rsc4@leadin_only.yas)
+494.01, 2226.05, 244.66, p_journal01x (script@rcm@rmnr1@leadin@rsc4@leadin_playlists.yas)
 494.01, 2226.05, 244.66, p_journal01x (script@rcm@rmnr1@leadout@rsc4@leadout.yas)
 494.01, 2226.05, 244.66, s_wap_rainsfalls (script@story@ntv3@leadin@ext@leadin.yas)
 494.01, 2226.048, 244.658, cs_rainsfall (script@story@nts3@leadin@int@leadin.yas)
@@ -7830,7 +7830,7 @@ x, y, z, debugModel (filename.yas) (dlcpack), Marker Color
 665.5107, -1243.862, 43.1096, cs_micahbell (script@vignette@micah_6@action_b_alt_front.yas)
 665.5107, -1243.862, 43.1096, cs_micahbell (script@vignette@micah_6@base.yas)
 665.5107, -1243.862, 43.1096, cs_micahbell (script@vignette@micah_6@exit.yas)
-665.5107, -1243.862, 43.10962, cs_dutch (0x1D35404D.yas) (PS4), ffffff
+665.5107, -1243.862, 43.10962, cs_dutch (script@vignette@dutch_and_hosea_10@action_b_dutch_exit.yas) (PS4), ffffff
 665.5107, -1243.862, 43.10962, cs_hoseamatthews (script@vignette@bill_5@action_b_int_front.yas)
 665.5107, -1243.862, 43.10962, cs_hoseamatthews (script@vignette@bill_5@action_b_int_left.yas)
 665.5107, -1243.862, 43.10962, cs_hoseamatthews (script@vignette@bill_5@action_b_int_right.yas)
@@ -8148,8 +8148,8 @@ x, y, z, debugModel (filename.yas) (dlcpack), Marker Color
 813.3414, 471.1235, 107.6436, a_c_eagle_01 (script@ambient@animal@scavengers@crows_eagle_eating_deer@action.yas)
 813.6467, 470.6885, 108.6396, a_c_vulture_01 (script@ambient@animal@scavengers@vulture_eating_human@action.yas)
 816.9364, -7245.016, 152.7, (script@cme@smuggler1_cme_gameplay.yas)
-817.94, -613.72, 73.4, cs_charlessmith (script@story@mud3b@ig@ig_2@ig2_watch_passengers_charles_enter.yas)
 817.94, -613.72, 73.4, cs_charlessmith (script@story@mud3b@ig@ig_1@ig1_knockout_engineer.yas)
+817.94, -613.72, 73.4, cs_charlessmith (script@story@mud3b@ig@ig_2@ig2_watch_passengers_charles_enter.yas)
 817.94, -613.72, 73.4, cs_johnmarston (cutscene@mud3b_mcs1.yas)
 817.94, -613.72, 73.4, s_m_m_unitrainguards_01 (script@story@mud3b@ig@ig_9_knockout_guard@ig9_knockout_guard_sean.yas)
 817.94, -613.72, 80, player_zero (script@story@mud3b@leadin@mcs1@leadin.yas)
@@ -8458,10 +8458,10 @@ x, y, z, debugModel (filename.yas) (dlcpack), Marker Color
 1160.433, -1381.431, 68.60925, (script@mpstory@mpclay2@int_loops@session_screen_rhodes.yas) (patchpack002), eeff00
 1162.61, -7258.57, 76.88, p_cigarette_cs02x (script@story@fus2@ig@fus2_ig27_walk_avoid_break_guard@ig27_walk_avoid_break_guard.yas)
 1162.61, -7258.57, 76.878, p_cs_ropelegsplit (script@story@fus2@ig@fus2_ig18_rocking_escape@ig18_rocking_escape.yas)
-1162.61, -7258.57, 76.8782, cs_leon (script@story@fus2@ig@fus2_ig27_walk_avoid_break_guard@ig27_walk_avoid_break_guard_leon.yas)
 1162.61, -7258.57, 76.8782, cs_leon (script@story@fus2@ig@fus2_ig23_corner_guard_spot@fus2_ig23_guard_spot_leon.yas)
 1162.61, -7258.57, 76.8782, cs_leon (script@story@fus2@ig@fus2_ig24_cautious_wall_walk@fus2_ig24_cautious_wall_walk.yas)
 1162.61, -7258.57, 76.8782, cs_leon (script@story@fus2@ig@fus2_ig27_walk_avoid_break_guard@ig27_leon_sneak.yas)
+1162.61, -7258.57, 76.8782, cs_leon (script@story@fus2@ig@fus2_ig27_walk_avoid_break_guard@ig27_walk_avoid_break_guard_leon.yas)
 1162.61, -7258.57, 76.8782, p_chair21x (script@story@fus2@ig@fus2_ig16_interrogation_struggle@ig16_leon_baptiste_loop.yas)
 1162.61, -7258.57, 76.8782, p_cs_gag01x (cutscene@fus2_ext.yas)
 1162.61, -7258.57, 76.8782, p_cs_ropehandssplit (script@story@fus2@ig@fus2_ig16_interrogation@ig16_interrogation.yas)
@@ -8474,10 +8474,10 @@ x, y, z, debugModel (filename.yas) (dlcpack), Marker Color
 1162.62, -7258.57, 76.8782, a_m_m_smhthug_01 (script@story@fus2@ig@fus2_ig32_hanging_fall@fus2_ig32_hanging_fall_v1.yas)
 1162.62, -7258.57, 76.8782, a_m_m_smhthug_01 (script@story@fus2@ig@fus2_ig32_hanging_fall@fus2_ig32_hanging_fall_v2.yas)
 1162.62, -7258.57, 76.8782, cs_baptiste (script@story@fus2@leadout@mcs3@leadout.yas)
-1162.62, -7258.57, 76.8782, cs_leon (script@story@fus2@ig@fus2_ig28_guard_check_away@fus2_ig28_guard_check_away_leon.yas)
 1162.62, -7258.57, 76.8782, cs_leon (script@story@fus2@ig@fus2_ig20_stairs_cover@fus2_ig20_stairs_cover.yas)
 1162.62, -7258.57, 76.8782, cs_leon (script@story@fus2@ig@fus2_ig22_follow_leon@fus2_ig22_follow_leon.yas)
 1162.62, -7258.57, 76.8782, cs_leon (script@story@fus2@ig@fus2_ig26_guard_shout_check@fus2_ig26_leon_sneak.yas)
+1162.62, -7258.57, 76.8782, cs_leon (script@story@fus2@ig@fus2_ig28_guard_check_away@fus2_ig28_guard_check_away_leon.yas)
 1162.62, -7258.57, 76.8782, cs_leon (script@story@fus2@ig@fus2_ig29_guard_kick_chair@fus2_ig29_action_kick_chair_leon.yas)
 1162.62, -7258.57, 76.8782, cs_leon (script@story@fus2@ig@fus2_ig30_hanging_help@fus2_ig30_hanging_help_v1.yas)
 1162.62, -7258.57, 76.8782, cs_leon (script@story@fus2@ig@fus2_ig30_hanging_help@fus2_ig30_hanging_help_v2.yas)
@@ -8583,8 +8583,8 @@ x, y, z, debugModel (filename.yas) (dlcpack), Marker Color
 1239.57, -1298.43, 77.39, p_cs_coachroutes01x (script@rcm@chrb@leadin@rc2@leadin_stand.yas)
 1239.57, -1298.43, 77.39, p_cs_suitcase05x (script@rcm@rbnp2@s1@ig3_beauandpenelopeplatformidle@ig3_beauandpenelopeplatformidle.yas)
 1239.57, -1298.43, 77.39, p_door_val_jail01x (script@rcm@sad1@ig@rsc3_ig6_manexitspostoffice@ig6_manexitspostoffice.yas)
-1239.57, -1298.43, 77.39, player_zero (script@rcm@chrb@ig@ig_1_waitinginline.yas)
 1239.57, -1298.43, 77.39, player_zero (script@rcm@chrb@ig@ig1_visit_clerk@ig1_visit_clerk.yas)
+1239.57, -1298.43, 77.39, player_zero (script@rcm@chrb@ig@ig_1_waitinginline.yas)
 1239.57, -1298.43, 77.39, u_m_m_rhdtrainstationworker_01 (script@rcm@sad1@ig@rsc2_ig3_talktoclerk@talktoclerk.yas)
 1239.329, -1293.128, 76.8983, p_cs_suitcase05x (script@rcm@rbnp2@s1@ig2_penelopeandbeaumeet@ig2_penelopeandbeaumeet_p1.yas)
 1239.329, -1293.128, 76.8983, player_zero (script@rcm@rbnp2@s1@ig2_penelopeandbeaumeet@ig2_penelopeandbeaumeet_p2.yas)
@@ -8753,8 +8753,8 @@ x, y, z, debugModel (filename.yas) (dlcpack), Marker Color
 1338.748, -1376.114, 80.5353, p_register06x (0x56E6AA5D.yas)
 1338.6217, -845.9303, 73.66777, (0x8022076A.yas)
 1338.7479, -1376.1136, 80.532486, cs_genstorymale (script@beat@town@parlor_ambush@patron_attack.yas)
-1338.7479, -1376.1136, 80.532486, p_doorrhosaloon01_l (script@beat@town@parlor_ambush@choke.yas), c92222
 1338.7479, -1376.1136, 80.532486, p_doorrhosaloon01_l (script@beat@town@parlor_ambush@charge_right.yas)
+1338.7479, -1376.1136, 80.532486, p_doorrhosaloon01_l (script@beat@town@parlor_ambush@choke.yas), c92222
 1338.7479, -1376.1136, 80.532486, p_doorrhosaloon01_l (script@beat@town@parlor_ambush@shove.yas)
 1340.45, -1306.83, 75.61, cs_billwilliamson (script@story@gry3@ig@ig_bill_cover@bill_cover_p1.yas)
 1340.45, -1306.83, 75.61, cs_billwilliamson (script@story@gry3@ig@ig_bill_cover@bill_cover_p2.yas)
@@ -8905,11 +8905,11 @@ x, y, z, debugModel (filename.yas) (dlcpack), Marker Color
 1362.335, -1303.659, 76.7414, p_desk07x (script@proc@bountyhunting@sheriff_rewards@rhodes@sitrelax_rhodes.yas)
 1362.335, -1303.659, 76.7414, p_desk07x (script@proc@bountyhunting@sheriff_rewards@rhodes@sitwriting_rhodes.yas)
 1362.364, -1303.67, 76.741, p_desk07x (script@proc@bountyhunting@sheriff_rewards@rhodes@stand_rhodes.yas)
-1362.364, -1303.67, 76.7414, p_desk07x (script@proc@bountyhunting@rhodes@jail_sheriff.yas)
 1362.364, -1303.67, 76.7414, p_desk07x (0x3D25E353.yas)
 1362.364, -1303.67, 76.7414, p_desk07x (0x27A52A46.yas)
 1362.364, -1303.67, 76.7414, p_desk07x (0x6610DBE6.yas)
 1362.364, -1303.67, 76.7414, p_desk07x (0xEDF54EBE.yas)
+1362.364, -1303.67, 76.7414, p_desk07x (script@proc@bountyhunting@rhodes@jail_sheriff.yas)
 1363.163, -7192.438, 45.538, player_zero (cutscene@fus1_ext.yas)
 1367.011, 1777.444, 220.438, cs_warvet (script@rcm@warv@ig@stage_03@ig2_wolfattack@ig2_wolfattack.yas)
 1367.011, 1777.444, 220.438, cs_warvet (script@rcm@warv@ig@stage_03@ig5_deadwolf@ig5_deadwolf.yas)
@@ -8959,8 +8959,8 @@ x, y, z, debugModel (filename.yas) (dlcpack), Marker Color
 1391.669, -2086.151, 51.5479, cs_famousgunslinger_05 (mp008) (script@gfh@bel@ig2_jobbriefs@ig2_jobbriefs.yas), 4cc922
 1393.448, -1133.937, 75.4942, cs_genstoryfemale (script@beat@town@domestic_dispute@rhodes.yas)
 1394.7, -649.47, 70.91, cs_kieran (script@rcm@dst3@leadin@base.yas)
-1394.7, -649.47, 70.91, player_zero (script@rcm@dst3@leadin@leadin_left.yas)
 1394.7, -649.47, 70.91, player_zero (script@rcm@dst3@leadin@leadin_front.yas)
+1394.7, -649.47, 70.91, player_zero (script@rcm@dst3@leadin@leadin_left.yas)
 1394.7, -649.471, 70.913, p_campfire02xb (cutscene@rslvc_s3_int.yas)
 1394.7, -649.471, 70.913, p_campfire02xb (script@rcm@slvc@s3@leadin@int@leadin.yas)
 1394.7, -649.471, 70.913, p_campfire02xb (script@rcm@slvc@s3@leadout@int@leadout.yas)
@@ -9025,8 +9025,8 @@ x, y, z, debugModel (filename.yas) (dlcpack), Marker Color
 1421.849, 1305.8296, 161.52393, w_repeater_carbine01 (cutscene@ntv2_mcs3.yas)
 1422.296, -7323.915, 80, player_zero (cutscene@gua2_ext_p7a2_t04.yas)
 1422.6904, 339.30396, 89.051544, (script@establisher@emerald_ranch.yas)
-1424.588, 382.204, 89, cs_lillymillet (script@proc@loansharking@emerald@argue.yas)
 1424.588, 382.204, 89, cs_lillymillet (0xC29CB889.yas)
+1424.588, 382.204, 89, cs_lillymillet (script@proc@loansharking@emerald@argue.yas)
 1424.588, 382.204, 89, cs_lillymillet (script@proc@loansharking@emerald@leadin@mcs1@intro.yas)
 1424.588, 382.204, 89, cs_lillymillet (script@proc@loansharking@emerald@leadin@mcs1@leadin.yas)
 1425.841, -2186.84, 48.01758, p_stoolfolding01x (script@ambient@campfiregang@lemoyne@captivecamp@knockout.yas)
@@ -9203,10 +9203,10 @@ x, y, z, debugModel (filename.yas) (dlcpack), Marker Color
 1519.91, 434.2, 90.67, cs_sistercalderon (script@rcm@cld2@leadout@rsc3@leadout_arthur.yas)
 1521.53, -775.9227, 44.052, re_skippingstones_teens_01 (script@beat@wilderness@skippingstones@young.yas)
 1521.086, -776.4237, 44.012, cs_genstorymale (script@beat@wilderness@skippingstones@old.yas)
+1522.005, 431.2095, 89.67456, player_zero (script@mini_game@dominoes@player_00_win.yas)
 1522.005, 431.2095, 89.67456, player_zero (script@mini_game@dominoes@player_01_win.yas)
 1522.005, 431.2095, 89.67456, player_zero (script@mini_game@dominoes@player_02_win.yas)
 1522.005, 431.2095, 89.67456, player_zero (script@mini_game@dominoes@player_03_win.yas)
-1522.005, 431.2095, 89.67456, player_zero (script@mini_game@dominoes@player_00_win.yas)
 1522.005, 431.2095, 89.67456, player_zero (script@mini_game@dominoes@player_female_win.yas)
 1522.0048, 431.20947, 89.678955, (lightrig@dominoes_generic.yas)
 1522.6588, 1445.2676, 154.0595, p_glass001x (script@story@ind1@ai_scenario_reactions@party_ai_miss_tweedie@party_ai_miss_twee.yas)
@@ -9325,8 +9325,8 @@ x, y, z, debugModel (filename.yas) (dlcpack), Marker Color
 1626.62, -7210.551, 111.8577, (script@cme@smuggler1_cme_00_leaving_01_shot.yas)
 1627.25, -366.26, 75.01, p_chair04x (script@proc@homerobberies@lonnie@deception.yas)
 1627.25, -366.2561, 74.9099, cs_genstorymale (script@proc@homerobberies@lonnie@endsurrender.yas)
-1627.225, -362.2988, 74.8929, player_zero (script@proc@homerobberies@lonnie@floorstash@right.yas)
 1627.225, -362.2988, 74.8929, player_zero (script@proc@homerobberies@lonnie@floorstash@left.yas)
+1627.225, -362.2988, 74.8929, player_zero (script@proc@homerobberies@lonnie@floorstash@right.yas)
 1630.7, -1870, 50.0225, a_c_coyote_01 (script@ambient@animal@dreams_coyotecoyote_02_dutch_03.yas)
 1630.7, -1870, 50.0225, a_c_coyote_01 (script@ambient@animal@dreams_coyotecoyote_03_gang_03.yas)
 1641.8, 1473.1, 145.095, (script@cme@ntv2_cme_shot5.yas)
@@ -9383,9 +9383,9 @@ x, y, z, debugModel (filename.yas) (dlcpack), Marker Color
 1707.5906, -1008.38416, 43.27587, player_zero (scenario@proc@shacks@serial_killer@player_inspect_pot@base.yas)
 1709.427, -1003.732, 42.4447, cs_genstorymale (script@proc@shacks@serialkiller@chopidle.yas)
 1709.427, -1003.732, 42.4447, p_doorsgl02x (0x52051AA9.yas)
-1709.427, -1003.732, 42.4447, s_sk2_trapdoor (script@proc@shacks@serialkiller@encounter.yas)
 1709.427, -1003.732, 42.4447, s_sk2_trapdoor (0x38B35BC2.yas)
 1709.427, -1003.732, 42.4447, s_sk2_trapdoor (script@proc@shacks@serialkiller@confront.yas)
+1709.427, -1003.732, 42.4447, s_sk2_trapdoor (script@proc@shacks@serialkiller@encounter.yas)
 1711.556, 1220.1075, 223.0845, (script@fast_travel@loc@fast_travel_loc_k13a.yas)
 1713.1257, 1129.2235, 250.0294, (script@rcm@hntn@stage_01@ig_cme_blendout.yas)
 1723.105, -1379.01, 46.58669, (script@timelapse@rbnp12_timelapse.yas)
@@ -9561,8 +9561,8 @@ x, y, z, debugModel (filename.yas) (dlcpack), Marker Color
 1786.621, -84.753, 55.804, cs_aberdeenpigfarmer (script@proc@homerobberies@aberdeen@return.yas)
 1786.755, 908.3793, 113.0206, (script@fast_travel@loc@fast_travel_loc_l13a.yas)
 1788.56, -86.826, 55.8022, p_chair20x (script@proc@homerobberies@aberdeen@waitdinner.yas)
-1788.59, -87.4673, 55.7225, cs_aberdeenpigfarmer (script@proc@homerobberies@aberdeen@leadin@mcs_1@pullupachair.yas)
 1788.59, -87.4673, 55.7225, cs_aberdeenpigfarmer (0xDB5256EB.yas)
+1788.59, -87.4673, 55.7225, cs_aberdeenpigfarmer (script@proc@homerobberies@aberdeen@leadin@mcs_1@pullupachair.yas)
 1788.558, -86.827, 55.7578, p_cs_bottleslim01x (script@proc@homerobberies@aberdeen@drinkvignette.yas)
 1788.593, -87.4677, 55.8021, p_chair18x (scenario@proc@aberdeen@prop_player_sit_drink@base.yas)
 1788.593, -87.4677, 55.8021, p_chair18x (scenario@proc@aberdeen@prop_player_sit_drink@enter_left.yas)
@@ -10309,8 +10309,8 @@ x, y, z, debugModel (filename.yas) (dlcpack), Marker Color
 2341.659, 1364.902, 105.3913, cs_micahbell (script@vignette@jack_3@action_b_back_l.yas)
 2341.659, 1364.902, 105.3913, cs_micahbell (script@vignette@jack_3@action_b_back_r.yas)
 2341.659, 1364.902, 105.3913, cs_micahbell (script@vignette@jack_3@action_b_front.yas)
-2341.659, 1364.902, 105.3913, p_cigarette_cs02x (script@vignette@jack_3@exit_fast.yas) (PS4), ffffff
 2341.659, 1364.902, 105.3913, p_cigarette_cs02x (script@vignette@jack_3@enter_walk.yas) (PS4), ffffff
+2341.659, 1364.902, 105.3913, p_cigarette_cs02x (script@vignette@jack_3@exit_fast.yas) (PS4), ffffff
 2341.659, 1364.902, 105.3913, p_cigarette_cs02x (script@vignette@jack_3@exit_walk.yas) (PS4), ffffff
 2341.659, 1364.902, 105.3913, p_matchstick01x (script@vignette@jack_3@base.yas)
 2341.659, 1364.902, 105.3913, p_matchstick01x (script@vignette@jack_3@idles.yas) (PS4), ffffff
@@ -11284,7 +11284,6 @@ x, y, z, debugModel (filename.yas) (dlcpack), Marker Color
 2635.31, -1300.06, 57.24, cs_johnmarston (0x08C086D6.yas)
 2635.31, -1300.06, 57.24, cs_johnmarston (0x8F75E5CF.yas)
 2635.31, -1300.06, 57.24, cs_johnmarston (0x19F29507.yas)
-2635.31, -1300.06, 57.24, cs_johnmarston (script@story@nbd1@leadout@mcs_1@leadout_scene.yas)
 2635.31, -1300.06, 57.24, cs_johnmarston (cutscene@nbd1_mcs2.yas)
 2635.31, -1300.06, 57.24, cs_johnmarston (script@story@nbd1@ig@ig_3_arriveatbank@ig_3_arrival_john.yas)
 2635.31, -1300.06, 57.24, cs_johnmarston (script@story@nbd1@ig@ig_16_arrivalatbank@ig_16_arrivalatbankgang.yas)
@@ -11295,6 +11294,7 @@ x, y, z, debugModel (filename.yas) (dlcpack), Marker Color
 2635.31, -1300.06, 57.24, cs_johnmarston (script@story@nbd1@leadin@mcs2@leadin.yas)
 2635.31, -1300.06, 57.24, cs_johnmarston (script@story@nbd1@leadin@mcs2@leadin_left.yas)
 2635.31, -1300.06, 57.24, cs_johnmarston (script@story@nbd1@leadin@mcs2@leadin_right.yas)
+2635.31, -1300.06, 57.24, cs_johnmarston (script@story@nbd1@leadout@mcs_1@leadout_scene.yas)
 2635.31, -1300.06, 57.24, cs_lenny (0xAB8913A8.yas)
 2635.31, -1300.06, 57.24, cs_lenny (0xC6D48AB2.yas)
 2635.31, -1300.06, 57.24, p_c_horse_01 (script@story@nbd1@ig@ig_3_arriveatbank@ig_3.yas)
@@ -11621,8 +11621,8 @@ x, y, z, debugModel (filename.yas) (dlcpack), Marker Color
 2747, -1270.8, 49.8, p_crucifix02x (script@rcm@cldn@leadout@rsc6@leadout.yas)
 2747, -1270.83, 49.8, cs_sistercalderon (script@rcm@cld2@leadin@rsc1@ilo.yas)
 2747, -1270.83, 49.8, cs_sistercalderon (script@rcm@cldn@ig@rsc6_ig1_conversationwithpriest@conversation.yas)
-2747, -1270.84, 49.8, p_bell05x (script@rcm@rcld2@ig@rsc1_ig2@arthur_give_food.yas)
 2747, -1270.84, 49.8, p_bell05x (script@rcm@rcld2@ig@rsc1_ig1@calderon_asking_for_money.yas)
+2747, -1270.84, 49.8, p_bell05x (script@rcm@rcld2@ig@rsc1_ig2@arthur_give_food.yas)
 2747, -1270.8352, 49.8, cs_sistercalderon (cutscene@rcld2_rsc1.yas)
 2748.6, 1686.5, 152.1, mp_female (mp008) (0x71D23595.yas), 4cc922
 2749.25, -1343.48, 59.11, p_cs_portfolio01x (script@rcm@fma@ig@rc6_ig2@rc6_ig2.yas)

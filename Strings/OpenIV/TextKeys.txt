@@ -36441,6 +36441,14 @@ consumable_potent_horse_stimulant_cataloguedesc
 consumable_potent_horse_stimulant_desc
 consumable_potent_medicine
 consumable_potent_medicine_cataloguedesc1
+consumable_potent_medicine_cataloguedesc2
+consumable_potent_medicine_cataloguedesc3
+consumable_potent_medicine_cataloguedesc4
+consumable_potent_medicine_cataloguedesc5
+consumable_potent_medicine_cataloguedesc6
+consumable_potent_medicine_cataloguedesc7
+consumable_potent_medicine_cataloguedesc8
+consumable_potent_medicine_cataloguedesc9
 consumable_potent_medicine_cataloguedesc10
 consumable_potent_medicine_cataloguedesc11
 consumable_potent_medicine_cataloguedesc12
@@ -116824,7 +116832,6 @@ pms_help
 pms_ms
 pms_pour
 pnot_hostility_trans
-po1_04_props_combo02_149_lod
 poisonedwel5_hlp1
 poisonedwel5_hlp2
 poisonedwell2_obj
@@ -137137,7 +137144,6 @@ rprsn_first_01
 rprsn_first_02
 rprsn_grass_01
 rprsn_grass_02
-rprsn_haaw
 rprsn_hitch_01
 rprsn_hitch_02
 rprsn_hurry_1
@@ -139013,7 +139019,6 @@ s_grd_03_crst1_1
 s_grd_03_crst2_1
 s_grd_04_crst1_1
 s_grd_04_crst2_1
-s_greet_a_hes_watching
 sack
 sad1_accompany
 sad1_backon
@@ -141767,14 +141772,6 @@ scm
 scocom
 scr
 scr1
-scra
-scrb
-scrc
-scrd
-scre
-scrf
-scrg
-scrh
 script@rcm@roddf@leadin@roddf_s1@int@front
 scroll_tip
 scsc_0283a_1
@@ -144768,7 +144765,6 @@ slave_fail7
 slave_fail13
 slave_fail14
 sleep
-slod1_2_0_1_children_t_06_lod_n_lod
 slotid_weapon_0
 slotid_weapon_1
 slow_down

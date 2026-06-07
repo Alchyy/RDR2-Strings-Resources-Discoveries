@@ -53,26 +53,26 @@ Blue Marker = n/a
 -1642.538319, -1371.980915, 84.465302, cs_uncle / uncle (script@vignette@beecher@charles_and_uncle_4@enter.yas) (PS4), 4cc922
 -1613.141433, -1383.572750, 82.348856, cs_jackmarston_teen / jack (script@vignette@beecher@uncle_and_jack_1@enter.yas) (PS4), 4cc922
 -1613.208896, -1383.665489, 82.572609, p_feather01x / feather (script@vignette@beecher@uncle_and_jack_1@enter.yas) (PS4), 4cc922
--1612.416637, -1383.903988, 81.982367, p_feather01x / feather (0x49C45C78.yas) (script@vignette) (PS4), 4cc922
+-1612.416637, -1383.903988, 81.982367, p_feather01x / feather (script@vignette@beecher@uncle_and_jack_1@idle_b_look_front.yas) (script@vignette) (PS4), 4cc922
 -1612.477275, -1383.766249, 82.167763, p_feather01x / feather (script@vignette@beecher@uncle_and_jack_1@exit_quick.yas) (PS4), 4cc922
--1612.484717, -1383.258582, 82.350481, cs_jackmarston_teen / jack (0x3528C527.yas) (script@vignette) (PS4), 4cc922
--1612.547170, -1383.293837, 82.345897, cs_jackmarston_teen / jack (0x49C45C78.yas) (script@vignette) (PS4), 4cc922
+-1612.484717, -1383.258582, 82.350481, cs_jackmarston_teen / jack (script@vignette@beecher@uncle_and_jack_1@idle_f_look_front.yas) (script@vignette) (PS4), 4cc922
+-1612.547170, -1383.293837, 82.345897, cs_jackmarston_teen / jack (script@vignette@beecher@uncle_and_jack_1@idle_b_look_front.yas) (script@vignette) (PS4), 4cc922
 -1612.578520, -1383.453436, 82.342819, cs_jackmarston_teen / jack (script@vignette@beecher@uncle_and_jack_1@idle_d.yas) (PS4), 4cc922
 -1612.584070, -1383.799427, 81.985041, p_feather01x / feather (script@vignette@beecher@uncle_and_jack_1@idle_a.yas) (PS4), 4cc922
 -1612.592055, -1383.484337, 82.287332, cs_jackmarston_teen / jack (script@vignette@beecher@uncle_and_jack_1@exit_quick.yas) (PS4), 4cc922
--1612.605910, -1383.529181, 82.030603, p_feather01x / feather (0x3528C527.yas) (script@vignette) (PS4), 4cc922
+-1612.605910, -1383.529181, 82.030603, p_feather01x / feather (script@vignette@beecher@uncle_and_jack_1@idle_f_look_front.yas) (script@vignette) (PS4), 4cc922
 -1612.638170, -1383.329596, 82.354211, cs_jackmarston_teen / jack (script@vignette@beecher@uncle_and_jack_1@idle_a.yas) (PS4), 4cc922
 -1612.650653, -1383.443312, 82.351001, cs_jackmarston_teen / jack (script@vignette@beecher@uncle_and_jack_1@idle_e.yas) (PS4), 4cc922
 -1612.652120, -1383.628754, 82.123902, p_feather01x / feather (script@vignette@beecher@uncle_and_jack_1@idle_d.yas) (PS4), 4cc922
--1612.655340, -1383.393499, 82.345873, cs_jackmarston_teen / jack (0xA3486394.yas) (script@vignette) (PS4), 4cc922
--1612.710880, -1383.582240, 82.076108, p_feather01x / feather (0xA3486394.yas) (script@vignette) (PS4), 4cc922
+-1612.655340, -1383.393499, 82.345873, cs_jackmarston_teen / jack (script@vignette@beecher@uncle_and_jack_1@idle_c_look_back.yas) (script@vignette) (PS4), 4cc922
+-1612.710880, -1383.582240, 82.076108, p_feather01x / feather (script@vignette@beecher@uncle_and_jack_1@idle_c_look_back.yas) (script@vignette) (PS4), 4cc922
 -1612.749400, -1383.719391, 81.993459, p_feather01x / feather (script@vignette@beecher@uncle_and_jack_1@idle_e.yas) (PS4), 4cc922
--1611.663726, -1384.223568, 81.534386, cs_uncle / uncle (0x49C45C78.yas) (script@vignette) (PS4), 4cc922
--1611.663726, -1384.223568, 81.534386, cs_uncle / uncle (0x3528C527.yas) (script@vignette) (PS4), 4cc922
--1611.663726, -1384.223568, 81.534386, cs_uncle / uncle (0xA3486394.yas) (script@vignette) (PS4), 4cc922
 -1611.663726, -1384.223568, 81.534386, cs_uncle / uncle (script@vignette@beecher@uncle_and_jack_1@idle_a.yas) (PS4), 4cc922
+-1611.663726, -1384.223568, 81.534386, cs_uncle / uncle (script@vignette@beecher@uncle_and_jack_1@idle_b_look_front.yas) (script@vignette) (PS4), 4cc922
+-1611.663726, -1384.223568, 81.534386, cs_uncle / uncle (script@vignette@beecher@uncle_and_jack_1@idle_c_look_back.yas) (script@vignette) (PS4), 4cc922
 -1611.663726, -1384.223568, 81.534386, cs_uncle / uncle (script@vignette@beecher@uncle_and_jack_1@idle_d.yas) (PS4), 4cc922
 -1611.663726, -1384.223568, 81.534386, cs_uncle / uncle (script@vignette@beecher@uncle_and_jack_1@idle_e.yas) (PS4), 4cc922
+-1611.663726, -1384.223568, 81.534386, cs_uncle / uncle (script@vignette@beecher@uncle_and_jack_1@idle_f_look_front.yas) (script@vignette) (PS4), 4cc922
 -1607.527447, -1424.768822, 80.936807, p_haybale03x / haybale (script@vignette@beecher@jack_1@exit_stand.yas) (PS4), 4cc922
 -1607.603756, -1424.714345, 80.817665, p_haybale03x / haybale (script@vignette@beecher@jack_1@exit_walk.yas) (PS4), 4cc922
 -1607.603756, -1424.714345, 80.817665, p_haybale03x / haybale (script@vignette@beecher@jack_1@idles.yas) (PS4), 4cc922
@@ -273,7 +273,7 @@ Blue Marker = n/a
 -1359.681808, 2439.469968, 308.313751, cs_dutch / dutch (script@vignette@dutch_and_hosea_1@idle_a.yas) (PS4), 4cc922
 -1359.792605, 2439.462502, 307.404778, p_chair04x / p_chair04x (script@vignette@dutch_and_hosea_1@idle_a.yas) (PS4), 4cc922
 -1359.918757, 2440.233547, 307.852167, p_crate14bx / p_crate14x (script@vignette@dutch_and_hosea_1@idle_a.yas) (PS4), 4cc922
--1354.273159, 2424.173033, 308.023861, cs_hoseamatthews / hosea (0x8C325D07.yas) (script@vignette) (PS4), 4cc922
+-1354.273159, 2424.173033, 308.023861, cs_hoseamatthews / hosea (script@vignette@dutch_and_hosea_2@end_loop_hosea.yas) (script@vignette) (PS4), 4cc922
 -1354.273159, 2424.173033, 308.023861, cs_hoseamatthews / hosea (script@vignette@dutch_and_hosea_2@exit_hosea.yas) (PS4), 4cc922
 -1354.537592, 2424.203619, 307.935680, cs_billwilliamson / bill (script@vignette@bill_3@action_a.yas) (PS4), 4cc922
 -1354.537592, 2424.203619, 307.935680, cs_billwilliamson / bill (script@vignette@bill_3@action_b.yas) (PS4), 4cc922
@@ -292,7 +292,7 @@ Blue Marker = n/a
 -1353.224580, 2423.201853, 308.240647, cs_javierescuella / javier (script@vignette@dutch_and_javier_1@intro_loop.yas) (PS4), 4cc922
 -1353.224580, 2423.201853, 308.240647, cs_javierescuella / javier (script@vignette@dutch_and_javier_1@wait_a.yas) (PS4), 4cc922
 -1353.224580, 2423.201853, 308.240647, cs_javierescuella / javier (script@vignette@dutch_and_javier_1@wait_b.yas) (PS4), 4cc922
--1353.258437, 2432.646829, 308.237585, cs_dutch / dutch (0x25D0C266.yas) (script@vignette) (PS4), 4cc922
+-1353.258437, 2432.646829, 308.237585, cs_dutch / dutch (script@vignette@dutch_and_hosea_2@end_loop_dutch.yas) (script@vignette) (PS4), 4cc922
 -1353.258437, 2432.646829, 308.237585, cs_dutch / dutch (script@vignette@dutch_and_hosea_2@exit_dutch.yas) (PS4), 4cc922
 -1353.554600, 2424.466300, 306.918100, player_zero / arthur (script@vignette@dutch_and_javier_1@action_b_interrupt.yas) (PS4), null
 -1353.554600, 2424.466300, 306.918100, player_zero / arthur (script@vignette@dutch_and_javier_1@action_c_interrupt.yas) (PS4), c92222
@@ -1018,53 +1018,53 @@ Blue Marker = n/a
 -140.944810, -40.402479, 95.613326, cs_genstorymale / gen_male_a (script@vignette@camp_fire@john_1@exit.yas) (PS4), 4cc922
 -140.997656, -22.727413, 95.980339, a_c_deer_01 / deer (0xEA34B450.yas) (script@ambient) (PS4), 4cc922
 -140.998075, -22.727897, 95.979778, a_c_deer_01 / deer (0xEA34B450.yas) (script@ambient) (PS4), 4cc922
--139.042065, -28.545811, 95.683872, p_bottlejd01x / bottle (0xFC607A55.yas) (script@vignette) (PS4), 4cc922
--139.053303, -28.853002, 95.649858, p_bottlejd01x / bottle (0x5AFF8C26.yas) (script@vignette) (PS4), 4cc922
+-139.042065, -28.545811, 95.683872, p_bottlejd01x / bottle (script@vignette@karen_drinktable_barrel@shift_bwd.yas) (script@vignette) (PS4), 4cc922
+-139.053303, -28.853002, 95.649858, p_bottlejd01x / bottle (script@vignette@karen_drinktable_barrel@shift_fwd.yas) (script@vignette) (PS4), 4cc922
 -139.094000, -23.660000, 96.076576, cs_revswanson / swanson (0x5E428A23.yas) (script@vignette) (PS4), 4cc922
 -139.094000, -23.660000, 96.084310, cs_revswanson / swanson (0x1BA2C12E.yas) (script@vignette) (PS4), 4cc922
 -139.094000, -23.660002, 96.080179, cs_revswanson / swanson (0x3D8106F7.yas) (script@vignette) (PS4), 4cc922
 -139.113693, -28.793711, 96.198811, p_bottlejd01x / bottle (script@vignette@sean_drinktable_barrel@stand_enter_right_bottle.yas) (PS4), 4cc922
 -139.198568, -23.984581, 95.966374, p_bottlejd01x / bottle (0x1BA2C12E.yas) (script@vignette) (PS4), 4cc922
 -139.236892, -28.622841, 95.086420, p_chair_barrel04b / karen_barrel (script@vignette@music@uncle_susan_karen_1@outro_base.yas) (PS4), 4cc922
--139.244359, -28.798099, 95.628065, cs_sean / sean (0xFCE08DDB.yas) (script@vignette) (PS4), 4cc922
--139.283987, -29.226274, 96.207079, p_bottlejd01x / bottle (0x7CB881D6.yas) (script@vignette) (PS4), 4cc922
--139.289101, -28.709535, 95.087180, p_chair_barrel04b / barrel (0xFC607A55.yas) (script@vignette) (PS4), 4cc922
+-139.244359, -28.798099, 95.628065, cs_sean / sean (script@vignette@sean_drinktable_barrel@shift_fwd_drunkmalec.yas) (script@vignette) (PS4), 4cc922
+-139.283987, -29.226274, 96.207079, p_bottlejd01x / bottle (script@vignette@sean_drinktable_barrel@stand_enter_front_bottle.yas) (script@vignette) (PS4), 4cc922
+-139.289101, -28.709535, 95.087180, p_chair_barrel04b / barrel (script@vignette@karen_drinktable_barrel@shift_bwd.yas) (script@vignette) (PS4), 4cc922
 -139.295578, -28.701571, 95.589572, cs_karen / karen (script@vignette@music@uncle_susan_karen_1@outro_base.yas) (PS4), 4cc922
--139.296046, -28.823256, 95.639902, cs_sean / sean (0x32D3EE0D.yas) (script@vignette) (PS4), 4cc922
--139.305150, -28.891239, 95.091963, p_chair_barrel04b / barrel (0x32D3EE0D.yas) (script@vignette) (PS4), 4cc922
--139.305150, -28.891239, 95.091963, p_chair_barrel04b / barrel (0xFCE08DDB.yas) (script@vignette) (PS4), 4cc922
+-139.296046, -28.823256, 95.639902, cs_sean / sean (script@vignette@sean_drinktable_barrel@shift_fwd_badassmalec.yas) (script@vignette) (PS4), 4cc922
+-139.305150, -28.891239, 95.091963, p_chair_barrel04b / barrel (script@vignette@sean_drinktable_barrel@shift_fwd_badassmalec.yas) (script@vignette) (PS4), 4cc922
+-139.305150, -28.891239, 95.091963, p_chair_barrel04b / barrel (script@vignette@sean_drinktable_barrel@shift_fwd_drunkmalec.yas) (script@vignette) (PS4), 4cc922
 -139.309245, -28.594447, 95.090806, p_chair_barrel04b / barrel (0x25499181.yas) (script@vignette) (PS4), 4cc922
--139.309245, -28.594447, 95.090806, p_chair_barrel04b / barrel (0xAEC93C3A.yas) (script@vignette) (PS4), 4cc922
 -139.309245, -28.594447, 95.090806, p_chair_barrel04b / barrel (script@vignette@sean_drinktable_barrel@sit_exit_left_bottle.yas) (PS4), 4cc922
 -139.309245, -28.594447, 95.090806, p_chair_barrel04b / barrel (script@vignette@sean_drinktable_barrel@sit_exit_right.yas) (PS4), 4cc922
 -139.309245, -28.594447, 95.090806, p_chair_barrel04b / barrel (script@vignette@sean_drinktable_barrel@sit_exit_right_bottle.yas) (PS4), 4cc922
+-139.309245, -28.594447, 95.090806, p_chair_barrel04b / barrel (script@vignette@sean_drinktable_barrel@stand_exit_left.yas) (script@vignette) (PS4), 4cc922
 -139.309245, -28.594447, 95.090806, p_chair_barrel04b / barrel (script@vignette@sean_drinktable_barrel@stand_exit_left_bottle.yas) (PS4), 4cc922
 -139.309245, -28.594447, 95.090806, p_chair_barrel04b / barrel (script@vignette@sean_drinktable_barrel@stand_exit_right.yas) (PS4), 4cc922
 -139.309245, -28.594447, 95.090806, p_chair_barrel04b / barrel (script@vignette@sean_drinktable_barrel@stand_exit_right_bottle.yas) (PS4), 4cc922
--139.316647, -28.626042, 95.855147, cs_karen / karen (0xFC607A55.yas) (script@vignette) (PS4), 4cc922
+-139.316647, -28.626042, 95.855147, cs_karen / karen (script@vignette@karen_drinktable_barrel@shift_bwd.yas) (script@vignette) (PS4), 4cc922
 -139.334182, -28.571014, 95.633991, cs_sean / sean (0x25499181.yas) (script@vignette) (PS4), 4cc922
--139.334182, -28.571014, 95.633991, cs_sean / sean (0xAEC93C3A.yas) (script@vignette) (PS4), 4cc922
 -139.334182, -28.571014, 95.633991, cs_sean / sean (script@vignette@sean_drinktable_barrel@sit_exit_left_bottle.yas) (PS4), 4cc922
 -139.334182, -28.571014, 95.633991, cs_sean / sean (script@vignette@sean_drinktable_barrel@sit_exit_right.yas) (PS4), 4cc922
 -139.334182, -28.571014, 95.633991, cs_sean / sean (script@vignette@sean_drinktable_barrel@sit_exit_right_bottle.yas) (PS4), 4cc922
+-139.334182, -28.571014, 95.633991, cs_sean / sean (script@vignette@sean_drinktable_barrel@stand_exit_left.yas) (script@vignette) (PS4), 4cc922
 -139.334182, -28.571014, 95.633991, cs_sean / sean (script@vignette@sean_drinktable_barrel@stand_exit_left_bottle.yas) (PS4), 4cc922
 -139.334182, -28.571014, 95.633991, cs_sean / sean (script@vignette@sean_drinktable_barrel@stand_exit_right.yas) (PS4), 4cc922
 -139.334182, -28.571014, 95.633991, cs_sean / sean (script@vignette@sean_drinktable_barrel@stand_exit_right_bottle.yas) (PS4), 4cc922
--139.353123, -28.863987, 95.087180, p_chair_barrel04b / barrel (0x5AFF8C26.yas) (script@vignette) (PS4), 4cc922
--139.365429, -28.872390, 95.855147, cs_karen / karen (0x5AFF8C26.yas) (script@vignette) (PS4), 4cc922
+-139.353123, -28.863987, 95.087180, p_chair_barrel04b / barrel (script@vignette@karen_drinktable_barrel@shift_fwd.yas) (script@vignette) (PS4), 4cc922
+-139.365429, -28.872390, 95.855147, cs_karen / karen (script@vignette@karen_drinktable_barrel@shift_fwd.yas) (script@vignette) (PS4), 4cc922
 -139.367246, -23.769912, 95.812732, p_bottlejd01x / bottle (0x5E428A23.yas) (script@vignette) (PS4), 4cc922
 -139.385113, -27.311771, 95.886264, p_bottlebeer01x / susan_bottle (script@vignette@music@uncle_susan_karen_1@outro_base.yas) (PS4), 4cc922
--139.410998, -28.837368, 95.088207, p_chair_barrel04b / barrel (0x7CB881D6.yas) (script@vignette) (PS4), 4cc922
--139.410998, -28.837368, 95.088207, p_chair_barrel04b / barrel (0xB60D1C07.yas) (script@vignette) (PS4), 4cc922
+-139.410998, -28.837368, 95.088207, p_chair_barrel04b / barrel (script@vignette@sean_drinktable_barrel@stand_enter_front.yas) (script@vignette) (PS4), 4cc922
+-139.410998, -28.837368, 95.088207, p_chair_barrel04b / barrel (script@vignette@sean_drinktable_barrel@stand_enter_front_bottle.yas) (script@vignette) (PS4), 4cc922
 -139.410998, -28.837368, 95.088207, p_chair_barrel04b / barrel (script@vignette@sean_drinktable_barrel@stand_enter_left.yas) (PS4), 4cc922
 -139.410998, -28.837368, 95.088207, p_chair_barrel04b / barrel (script@vignette@sean_drinktable_barrel@stand_enter_left_bottle.yas) (PS4), 4cc922
 -139.410998, -28.837368, 95.088207, p_chair_barrel04b / barrel (script@vignette@sean_drinktable_barrel@stand_enter_right.yas) (PS4), 4cc922
 -139.410998, -28.837368, 95.088207, p_chair_barrel04b / barrel (script@vignette@sean_drinktable_barrel@stand_enter_right_bottle.yas) (PS4), 4cc922
--139.514721, -29.473592, 96.095597, cs_sean / sean (0x7CB881D6.yas) (script@vignette) (PS4), 4cc922
+-139.514721, -29.473592, 96.095597, cs_sean / sean (script@vignette@sean_drinktable_barrel@stand_enter_front_bottle.yas) (script@vignette) (PS4), 4cc922
 -139.529241, -42.958376, 95.566873, cs_genstorymale / gen_male_b (script@vignette@camp_fire@bill_1@exit.yas) (PS4), 4cc922
 -139.529668, -42.958606, 95.548476, cs_genstorymale / gen_male_b (script@vignette@camp_fire@john_5@exit.yas) (PS4), 4cc922
 -139.542059, -42.968651, 95.507503, cs_genstorymale / gen_male_a (script@vignette@camp_fire@bill_5@base_outro.yas) (PS4), 4cc922
--139.596216, -29.301505, 96.095791, cs_sean / sean (0xB60D1C07.yas) (script@vignette) (PS4), 4cc922
+-139.596216, -29.301505, 96.095791, cs_sean / sean (script@vignette@sean_drinktable_barrel@stand_enter_front.yas) (script@vignette) (PS4), 4cc922
 -139.600261, -19.618919, 95.086367, s_chuckwagon01x / wagon (script@vignette@bill_7@action_a.yas) (PS4), 4cc922
 -139.600261, -19.618919, 95.086367, s_chuckwagon01x / wagon (script@vignette@bill_7@base.yas) (PS4), 4cc922
 -139.600261, -19.618919, 95.086367, s_chuckwagon01x / wagon (script@vignette@bill_7@charles@base.yas) (PS4), 4cc922
@@ -1268,8 +1268,8 @@ Blue Marker = n/a
 -138.950218, -43.087888, 95.545321, cs_genstorymale / gen_male_a (script@vignette@camp_fire@uncle_3@exit.yas) (PS4), 4cc922
 -138.953489, -39.958355, 95.582206, player_one / arthur (0x0BD16BB9.yas) (script@vignette) (PS4), 4cc922
 -138.953489, -39.958355, 95.582206, player_one / arthur (0xFFC2A7C0.yas) (script@vignette) (PS4), 4cc922
--138.962787, -28.213849, 95.886181, p_bottlejd01x / bottle (0x32D3EE0D.yas) (script@vignette) (PS4), 4cc922
--138.962787, -28.213849, 95.886181, p_bottlejd01x / bottle (0xFCE08DDB.yas) (script@vignette) (PS4), 4cc922
+-138.962787, -28.213849, 95.886181, p_bottlejd01x / bottle (script@vignette@sean_drinktable_barrel@shift_fwd_badassmalec.yas) (script@vignette) (PS4), 4cc922
+-138.962787, -28.213849, 95.886181, p_bottlejd01x / bottle (script@vignette@sean_drinktable_barrel@shift_fwd_drunkmalec.yas) (script@vignette) (PS4), 4cc922
 -138.971261, -23.333522, 96.215545, p_bottlejd01x / bottle (0x3D8106F7.yas) (script@vignette) (PS4), 4cc922
 -138.978146, -39.972176, 95.506702, player_zero / arthur (script@vignette@camp_fire@arthur_1@action_a_front.yas) (PS4), 4cc922
 -138.978909, -26.172873, 95.084755, p_guitar01x / guitar (script@vignette@wrk@javier_work_1@b@base.yas) (PS4), 4cc922
@@ -1604,14 +1604,14 @@ Blue Marker = n/a
 -126.703528, -7.085806, 95.255198, p_loghalf02x / loghalf02_2 (script@vignette@micah_23@action.yas) (PS4), 4cc922
 -126.787833, -7.287332, 95.270388, p_loghalf01x / loghalf01_5 (script@vignette@micah_23@action.yas) (PS4), 4cc922
 -126.787833, -7.287332, 95.270388, p_loghalf02x / loghalf02_1 (script@vignette@micah_23@action.yas) (PS4), 4cc922
--125.072174, -29.466922, 95.898320, player_zero / arthur (0x50D0AFBB.yas) (script@vignette) (PS4), 4cc922
+-125.072174, -29.466922, 95.898320, player_zero / arthur (script@vignette@dutch_33@player_karen@dance_rot_rt_short.yas) (script@vignette) (PS4), 4cc922
 -125.099844, -34.674992, 95.871921, cs_marybeth / ig_marybeth (script@vignette@dutch_32@arthur_marybeth@dance_over.yas) (PS4), 4cc922
--125.242206, -29.379422, 95.926240, cs_karen / karen (0xA2BD3853.yas) (script@vignette) (PS4), 4cc922
--125.242206, -29.379422, 95.926240, cs_karen / karen (0xCF5B5D2C.yas) (script@vignette) (PS4), 4cc922
+-125.242206, -29.379422, 95.926240, cs_karen / karen (script@vignette@dutch_33@player_karen@dance_rot_lt_long.yas) (script@vignette) (PS4), 4cc922
+-125.242206, -29.379422, 95.926240, cs_karen / karen (script@vignette@dutch_33@player_karen@dance_rot_lt_short.yas) (script@vignette) (PS4), 4cc922
 -125.246968, -22.532729, 96.098158, cs_billwilliamson / billwilliamson (script@vignette@bill_2@exit_loop.yas) (PS4), 4cc922
 -125.246968, -22.532730, 96.098158, cs_billwilliamson / billwilliamson (script@vignette@bill_2@exit.yas) (PS4), 4cc922
--125.276606, -29.488853, 95.919183, cs_karen / karen (0x50D0AFBB.yas) (script@vignette) (PS4), 4cc922
--125.276606, -29.488853, 95.919183, cs_karen / karen (0x103D4D1E.yas) (script@vignette) (PS4), 4cc922
+-125.276606, -29.488853, 95.919183, cs_karen / karen (script@vignette@dutch_33@player_karen@dance_rot_rt_long.yas) (script@vignette) (PS4), 4cc922
+-125.276606, -29.488853, 95.919183, cs_karen / karen (script@vignette@dutch_33@player_karen@dance_rot_rt_short.yas) (script@vignette) (PS4), 4cc922
 -125.291379, -29.421206, 95.915703, cs_karen / karen (script@vignette@dutch_33@player_karen@dance_enter.yas) (PS4), 4cc922
 -125.291379, -29.421206, 95.915703, cs_karen / karen (script@vignette@dutch_33@player_karen@dance_flare_a.yas) (PS4), 4cc922
 -125.291379, -29.421206, 95.915703, cs_karen / karen (script@vignette@dutch_33@player_karen@dance_flare_b.yas) (PS4), 4cc922
@@ -1635,7 +1635,7 @@ Blue Marker = n/a
 -125.388369, -29.368025, 95.922716, cs_karen / karen (script@vignette@dutch_33@player_karen@dance_flare_b.yas) (PS4), 4cc922
 -125.411327, -34.061421, 95.871921, cs_marybeth / ig_marybeth (script@vignette@dutch_32@arthur_marybeth@accept_dance.yas) (PS4), 4cc922
 -125.411444, -29.413520, 95.915483, cs_karen / karen (script@vignette@dutch_33@player_karen@dance_exit.yas) (PS4), 4cc922
--125.456583, -29.842372, 95.915703, cs_karen / karen (0x50D0AFBB.yas) (script@vignette) (PS4), 4cc922
+-125.456583, -29.842372, 95.915703, cs_karen / karen (script@vignette@dutch_33@player_karen@dance_rot_rt_short.yas) (script@vignette) (PS4), 4cc922
 -125.528691, -21.555926, 95.955722, p_bottletequilafull01x / p_bottletequilafull01x (script@vignette@bill_2@exit.yas) (PS4), 4cc922
 -125.534711, -21.551553, 95.983011, p_bottletequilafull01x / p_bottletequilafull01x (script@vignette@bill_2@exit_loop.yas) (PS4), 4cc922
 -125.638363, -29.583909, 95.898410, cs_karen / karen (script@vignette@dutch_33@player_karen@accept_dance.yas) (PS4), 4cc922
@@ -1648,10 +1648,6 @@ Blue Marker = n/a
 -124.827566, -29.711987, 95.898318, player_zero / arthur (script@vignette@dutch_33@player_karen@accept_dance.yas) (PS4), 4cc922
 -124.838458, -29.710337, 95.898320, player_zero / arthur (script@vignette@dutch_33@player_karen@dance_exit.yas) (PS4), 4cc922
 -124.838458, -29.710337, 95.898320, player_zero / arthur (script@vignette@dutch_33@player_karen@dance_flare_b.yas) (PS4), 4cc922
--124.838459, -29.710337, 95.898320, player_zero / arthur (0x50D0AFBB.yas) (script@vignette) (PS4), 4cc922
--124.838459, -29.710337, 95.898320, player_zero / arthur (0x103D4D1E.yas) (script@vignette) (PS4), 4cc922
--124.838459, -29.710337, 95.898320, player_zero / arthur (0xA2BD3853.yas) (script@vignette) (PS4), 4cc922
--124.838459, -29.710337, 95.898320, player_zero / arthur (0xCF5B5D2C.yas) (script@vignette) (PS4), 4cc922
 -124.838459, -29.710337, 95.898320, player_zero / arthur (script@vignette@dutch_33@player_karen@dance_enter.yas) (PS4), 4cc922
 -124.838459, -29.710337, 95.898320, player_zero / arthur (script@vignette@dutch_33@player_karen@dance_flare_a.yas) (PS4), 4cc922
 -124.838459, -29.710337, 95.898320, player_zero / arthur (script@vignette@dutch_33@player_karen@dance_flare_b.yas) (PS4), 4cc922
@@ -1660,9 +1656,13 @@ Blue Marker = n/a
 -124.838459, -29.710337, 95.898320, player_zero / arthur (script@vignette@dutch_33@player_karen@dance_flare_e.yas) (PS4), 4cc922
 -124.838459, -29.710337, 95.898320, player_zero / arthur (script@vignette@dutch_33@player_karen@dance_loop.yas) (PS4), 4cc922
 -124.838459, -29.710337, 95.898320, player_zero / arthur (script@vignette@dutch_33@player_karen@dance_over.yas) (PS4), 4cc922
+-124.838459, -29.710337, 95.898320, player_zero / arthur (script@vignette@dutch_33@player_karen@dance_rot_lt_long.yas) (script@vignette) (PS4), 4cc922
+-124.838459, -29.710337, 95.898320, player_zero / arthur (script@vignette@dutch_33@player_karen@dance_rot_lt_short.yas) (script@vignette) (PS4), 4cc922
+-124.838459, -29.710337, 95.898320, player_zero / arthur (script@vignette@dutch_33@player_karen@dance_rot_rt_long.yas) (script@vignette) (PS4), 4cc922
+-124.838459, -29.710337, 95.898320, player_zero / arthur (script@vignette@dutch_33@player_karen@dance_rot_rt_short.yas) (script@vignette) (PS4), 4cc922
 -124.850200, -29.707320, 95.898322, player_zero / arthur (script@vignette@dutch_33@player_karen@accept_dance.yas) (PS4), 4cc922
--124.913515, -29.482648, 95.915703, cs_karen / karen (0xA2BD3853.yas) (script@vignette) (PS4), 4cc922
--124.987521, -30.014867, 95.898320, player_zero / arthur (0xA2BD3853.yas) (script@vignette) (PS4), 4cc922
+-124.913515, -29.482648, 95.915703, cs_karen / karen (script@vignette@dutch_33@player_karen@dance_rot_lt_short.yas) (script@vignette) (PS4), 4cc922
+-124.987521, -30.014867, 95.898320, player_zero / arthur (script@vignette@dutch_33@player_karen@dance_rot_lt_short.yas) (script@vignette) (PS4), 4cc922
 -123.008306, -22.434104, 96.046806, female_skeleton / female (0x6CDF4EFB.yas) (script@ambient) (PS4), 4cc922
 -123.041915, -22.366741, 96.051012, male_skeleton / male (0xB89D9718.yas) (script@ambient) (PS4), 4cc922
 -123.041915, -22.366741, 96.051012, male_skeleton / male (0xB7845FE0.yas) (script@ambient) (PS4), 4cc922
@@ -2290,11 +2290,11 @@ Blue Marker = n/a
 666.757521, -1244.635410, 43.662234, cs_hoseamatthews / hosea (script@vignette@hosea_2@base.yas) (PS4), 4cc922
 666.757521, -1244.635410, 43.662234, cs_hoseamatthews / hosea (script@vignette@hosea_2@wait.yas) (PS4), 4cc922
 666.757521, -1244.635410, 43.662234, cs_hoseamatthews / hosea (script@vignette@hosea_2@wait_to_base.yas) (PS4), 4cc922
-667.066770, -1245.070830, 44.154001, cs_dutch / dutch (0x1D35404D.yas) (script@vignette) (PS4), 4cc922
+667.066770, -1245.070830, 44.154001, cs_dutch / dutch (script@vignette@dutch_and_hosea_10@action_b_dutch_exit.yas) (script@vignette) (PS4), 4cc922
 667.105393, -1274.656817, 43.708417, cs_kieran / kieran (script@vignette@bill_4@enter.yas) (PS4), 4cc922
 667.105393, -1274.656817, 43.708417, cs_kieran / kieran (script@vignette@bill_4@exit.yas) (PS4), 4cc922
 667.105393, -1274.656817, 43.708417, cs_kieran / kieran (script@vignette@bill_4@idle_a.yas) (PS4), 4cc922
-667.146078, -1244.693745, 43.948603, p_cigarlit01x / cigarlit (0x1D35404D.yas) (script@vignette) (PS4), 4cc922
+667.146078, -1244.693745, 43.948603, p_cigarlit01x / cigarlit (script@vignette@dutch_and_hosea_10@action_b_dutch_exit.yas) (script@vignette) (PS4), 4cc922
 667.154108, -1274.735830, 43.322286, p_cs_saddle02x / saddle (script@vignette@bill_4@enter.yas) (PS4), 4cc922
 667.160460, -1274.771156, 43.745515, p_brushhorse02x / brush (script@vignette@bill_4@enter.yas) (PS4), 4cc922
 667.329748, -1244.311871, 44.192400, cs_hoseamatthews / hosea (script@vignette@hosea_4@exit.yas) (PS4), 4cc922
