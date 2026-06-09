@@ -2085,6 +2085,7 @@ advert_whr_half_sent_free
 advert_whr_half_sent_free_cataloguedesc1
 advert_whr_half_sent_free_cataloguedesc2
 advert_whr_half_sent_free_cataloguedesc3
+advert_whr_half_weapons
 advert_whr_half_weapons_cataloguedesc1
 advert_whr_half_weapons_cataloguedesc2
 advert_whr_half_weapons_cataloguedesc3
@@ -72431,6 +72432,7 @@ joe_passed_last_02
 joe_passed_last_03
 joe_passed_last_04
 joe_passed_last_05
+joe_return
 joe_return_job_01
 joe_return_job_02
 joe_return_job_03

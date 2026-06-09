@@ -3030,6 +3030,7 @@ Light Blue = Miscellanous
 4257.758, -3805.8333, 136.5344, Corpse (dis_grm_famousemerald.ymap), 9D00FF
 4309.702, -3698.4048, 109.16276, El Hueco Cliff Entrance (Occlusion Model) (elh_01_.ymap), 9D00FF
 4329.5845, -3764.6184, 44.638645, El Hueco Sea Entrance (Occlusion Model) (elh_01_.ymap), 9D00FF
+4350.134, -3700.409, 41.6071, El Hueco Sea Entrance (Occlusion Model) (elh_01_.ymap), 9D00FF
 9091.229, -4406.939, 41.37012, agu_boz0101_int (nbd1 outro cutscene ship) (0x99690F12.ymap), 9D00FF
 
 ======================= MISCELLANOUS ======================
