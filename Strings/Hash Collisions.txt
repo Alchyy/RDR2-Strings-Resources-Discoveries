@@ -5,18 +5,6 @@ Key: 0x00D81A5A
 ======================
 
 === HASH COLLISION ===
-Key: 0x03777E36
-[0] OutlawSingleStoryRecovery
-[1] RightPickUpTargetLerpPhaseEnd
-======================
-
-=== HASH COLLISION ===
-Key: 0x06E5EE97
-[0] ai_react@dominoes@table@begin_game@collect_tiles@idle@00
-[1] veh_driveby@aim@wagon@front_bench@shared@shortarms@base@forward@transitions@to_backward_ready
-======================
-
-=== HASH COLLISION ===
 Key: 0x08EA1056
 [0] audVehicleReflectionsEntity__UpdateLoadedInteriors
 [1] horse_loadout
@@ -44,12 +32,6 @@ Key: 0x0A9C7D61
 Key: 0x0C084FB7
 [0] p_bottlebeer01x_fus1_mcs2_p2_t06_shot_2
 [1] p_straw_may_r1
-======================
-
-=== HASH COLLISION ===
-Key: 0x0CCCB35B
-[0] GlMarybeth
-[1] FishingCastBlendOut
 ======================
 
 === HASH COLLISION ===
@@ -143,21 +125,9 @@ Key: 0x1EEE2E7C
 ======================
 
 === HASH COLLISION ===
-Key: 0x20F2243D
-[0] PdExLargeAgedCarcassMed
-[1] fBulletEventResistanceDecrement
-======================
-
-=== HASH COLLISION ===
 Key: 0x21C2E5A1
 [0] mp_coat_fr1_019_open_duelwield
 [1] player_zero_hat_band_008_c0_000_mb
-======================
-
-=== HASH COLLISION ===
-Key: 0x2216F5C8
-[0] MMMexarmyHispanic
-[1] RecoilRecoveryRate
 ======================
 
 === HASH COLLISION ===
@@ -179,15 +149,9 @@ Key: 0x223D6C73
 ======================
 
 === HASH COLLISION ===
-Key: 0x2246F580
-[0] ChResponseNavyDont
-[1] yawSpeedErrorExp
-======================
-
-=== HASH COLLISION ===
 Key: 0x2279BF17
 [0] mgmaw_ch_mill
-[1] (yas files)
+[1] UNKNOWN (yas files)
 ======================
 
 === HASH COLLISION ===
@@ -203,21 +167,9 @@ Key: 0x237FBFD7
 ======================
 
 === HASH COLLISION ===
-Key: 0x265AD52D
-[0] ig1_b_12
-[1] u_06__lod_1_1_-4
-======================
-
-=== HASH COLLISION ===
 Key: 0x26A78D5B
 [0] dewclm_arthurpickup_low_level04
 [1] tobacco_pick
-======================
-
-=== HASH COLLISION ===
-Key: 0x279BB093
-[0] resoh1g
-[1] veh_horseback@seat_saddle@male@agitated_high@idle@variation@rearup01
 ======================
 
 === HASH COLLISION ===
@@ -230,12 +182,6 @@ Key: 0x279E2718
 Key: 0x2BFF7C61
 [0] fast_travel_trackup_25mm_slow
 [1] mp_pant_mr1_023_full_c1_000_ab
-======================
-
-=== HASH COLLISION ===
-Key: 0x2C929EA1
-[0] h_15__hd_0_-3_0_slod
-[1] hi@o_09__collision_4
 ======================
 
 === HASH COLLISION ===
@@ -257,45 +203,9 @@ Key: 0x30593B68
 ======================
 
 === HASH COLLISION ===
-Key: 0x31A55F8C
-[0] Mission_Unholstered
-[1] _FadeOutStartDist
-======================
-
-=== HASH COLLISION ===
-Key: 0x331A7E26
-[0] coverregion[366][336
-[1] o_08__lod_1_-2_-4
-======================
-
-=== HASH COLLISION ===
 Key: 0x35F849B3
 [0] saddlecombotrapper_hr1_001_c1_000_nm+hi
 [1] agu_05_ruinwalls_4_lod
-======================
-
-=== HASH COLLISION ===
-Key: 0x370DC602
-[0] Spare_Large
-[1] INPUT_MINIGAME_FFF_SKIP_TURN
-======================
-
-=== HASH COLLISION ===
-Key: 0x38B3764A
-[0] Req_Lean
-[1] RadarMode
-======================
-
-=== HASH COLLISION ===
-Key: 0x3B8D72B9
-[0] Povlo
-[1] VehicleMinSpeedForAiActivation
-======================
-
-=== HASH COLLISION ===
-Key: 0x3B8F523D
-[0] mud5_offstreet
-[1] val_gen_bareknuckleguy
 ======================
 
 === HASH COLLISION ===
@@ -311,33 +221,9 @@ Key: 0x3F8A66B8
 ======================
 
 === HASH COLLISION ===
-Key: 0x3FD649C6
-[0] TrackedCriminalOutfitCategories
-[1] w_03__slod1_2_1_-1_children
-======================
-
-=== HASH COLLISION ===
-Key: 0x4133B1C0
-[0] mod_p_cs_electricchair01x
-[1] sdf_text_1_1
-======================
-
-=== HASH COLLISION ===
-Key: 0x423EDF7F
-[0] FishSea
-[1] INPUT_SNIPER_ZOOM_IN_ONLY
-======================
-
-=== HASH COLLISION ===
 Key: 0x42D02DC3
 [0] lightbar1
 [1] m_06__lod_1_3_-3
-======================
-
-=== HASH COLLISION ===
-Key: 0x433C2769
-[0] cs_slavebook01x_burned_ab+hi
-[1] y_03__lod_1_2_1
 ======================
 
 === HASH COLLISION ===
@@ -347,33 +233,9 @@ Key: 0x44662EDA
 ======================
 
 === HASH COLLISION ===
-Key: 0x4494E8B0
-[0] ChairFeetTogetherWithpropGuitarSlow
-[1] DistanceForStraightLineModeIfLos
-======================
-
-=== HASH COLLISION ===
-Key: 0x4991F61F
-[0] GambMaleHeliRequest
-[1] BumpedByPedMinDotVel
-======================
-
-=== HASH COLLISION ===
 Key: 0x4ABF9493
 [0] on_horse_speed_restriction_ignore_mount_class
 [1] rcexo_rsc2_lij_1
-======================
-
-=== HASH COLLISION ===
-Key: 0x4BE82F09
-[0] WheelXProp
-[1] noiseAmplitudeHorizontal
-======================
-
-=== HASH COLLISION ===
-Key: 0x4D173FFF
-[0] fin1_feal_01
-[1] t_04__collision_0
 ======================
 
 === HASH COLLISION ===
@@ -419,33 +281,15 @@ Key: 0x54161567
 ======================
 
 === HASH COLLISION ===
-Key: 0x54AF53FA
-[0] Minigame_Sp_Blackjack
-[1] AdornmentToggle
-======================
-
-=== HASH COLLISION ===
 Key: 0x560E8A94
 [0] mod_crp_cornstalks_ca_sim
 [1] siltwater_pond
 ======================
 
 === HASH COLLISION ===
-Key: 0x5689608C
-[0] -441.200012
-[1] std_brioso_front_right
-======================
-
-=== HASH COLLISION ===
 Key: 0x56FA0FCE
 [0] ghla9_xmas_02
 [1] weapon_melee_knife_beartomahawk
-======================
-
-=== HASH COLLISION ===
-Key: 0x57D40070
-[0] journal_entry_chap4_rbprhntn5
-[1] journal_entry_chap6_odriscoll6_4
 ======================
 
 === HASH COLLISION ===
@@ -458,12 +302,6 @@ Key: 0x57FA05CB
 Key: 0x59764F90
 [0] completion_skin_animal
 [1] p_axe01x_ph_r_hand
-======================
-
-=== HASH COLLISION ===
-Key: 0x59B05BB0
-[0] greet_long_time_beaver_05
-[1] new_frn_01_park_01
 ======================
 
 === HASH COLLISION ===
@@ -485,33 +323,9 @@ Key: 0x5BB0CB00
 ======================
 
 === HASH COLLISION ===
-Key: 0x5D3BDBBF
-[0] SkinGcWhistle
-[1] DecayRate
-======================
-
-=== HASH COLLISION ===
-Key: 0x5E134DE0
-[0] mod_p_cs_rag01x
-[1] rottweiler_core
-======================
-
-=== HASH COLLISION ===
-Key: 0x5ED492C8
-[0] GfhReasonActiveFetchNet
-[1] overrideColor
-======================
-
-=== HASH COLLISION ===
 Key: 0x5F2B25B0
 [0] ckptb_cong_1
 [1] csen8
-======================
-
-=== HASH COLLISION ===
-Key: 0x61D4C295
-[0] VipEarningsNormalWh
-[1] boatWashPtFxSpeedEvoMax
 ======================
 
 === HASH COLLISION ===
@@ -533,21 +347,9 @@ Key: 0x62C4822B
 ======================
 
 === HASH COLLISION ===
-Key: 0x62E42A0D
-[0] hi@s_09__static_instance_0
-[1] r_09_placement_collision_28
-======================
-
-=== HASH COLLISION ===
 Key: 0x64612296
 [0] hub_coupon_offer_pamphlet_tranquillizer_rounds_discount_30
 [1] rbt20_ig1_p1_6
-======================
-
-=== HASH COLLISION ===
-Key: 0x66EC43DC
-[0] Wdd
-[1] RepeatDelay
 ======================
 
 === HASH COLLISION ===
@@ -566,12 +368,6 @@ Key: 0x68060FBA
 Key: 0x680FEA26
 [0] jral_st1_01
 [1] shack_rc_lod_ma
-======================
-
-=== HASH COLLISION ===
-Key: 0x69D5633C
-[0] DriverHeadbobMusicVan
-[1] resetParam
 ======================
 
 === HASH COLLISION ===
@@ -611,21 +407,9 @@ Key: 0x6E8E1C38
 ======================
 
 === HASH COLLISION ===
-Key: 0x70297C0D
-[0] Should_Key
-[1] OnTransportTransitionBackToFrontAim
-======================
-
-=== HASH COLLISION ===
 Key: 0x70AA63E2
 [0] fetch_outlaw_cornwall_0_scoretimer_team_primary_pass
 [1] mp_boot_fr1_001_full
-======================
-
-=== HASH COLLISION ===
-Key: 0x714D472B
-[0] CampStoringDark
-[1] INPUT_MINIGAME_POKER_YOUR_CARDS
 ======================
 
 === HASH COLLISION ===
@@ -638,18 +422,6 @@ Key: 0x721382B6
 Key: 0x72C66A6B
 [0] CstagPoint
 [1] IkHorsebackDefault
-======================
-
-=== HASH COLLISION ===
-Key: 0x72C8DFB8
-[0] arthur_meat_low_supply_13
-[1] pd_medium_gator_carcass_hvy
-======================
-
-=== HASH COLLISION ===
-Key: 0x73D92107
-[0] prin_p4_28
-[1] str_general_store
 ======================
 
 === HASH COLLISION ===
@@ -677,12 +449,6 @@ Key: 0x76BBCE44
 ======================
 
 === HASH COLLISION ===
-Key: 0x77E308EE
-[0] bjpst
-[1] serve_left_slide_3
-======================
-
-=== HASH COLLISION ===
 Key: 0x78D3ACDA
 [0] amb_tal_dismembered02x__collision_2
 [1] l_07__static_instance_37
@@ -707,12 +473,6 @@ Key: 0x7C2AC90B
 ======================
 
 === HASH COLLISION ===
-Key: 0x7C66C274
-[0] Reaction_Box
-[1] DoorUpperbodyClipSetHash
-======================
-
-=== HASH COLLISION ===
 Key: 0x7DA0A2D3
 [0] n_94__slod1_2_-1_-1
 [1] p_w_stock_wood
@@ -725,12 +485,6 @@ Key: 0x7EA1DCCF
 ======================
 
 === HASH COLLISION ===
-Key: 0x7FADAF38
-[0] Horse_Action_Seat
-[1] MaxAngleStickyRegion
-======================
-
-=== HASH COLLISION ===
 Key: 0x83937FFD
 [0] p_potclay02x_01
 [1] y_04__lod_1_0_1
@@ -740,12 +494,6 @@ Key: 0x83937FFD
 Key: 0x84853213
 [0] dlc_mp_bh_m_feet_2_3
 [1] hat_mr1_129
-======================
-
-=== HASH COLLISION ===
-Key: 0x84AAF941
-[0] animal_rabbit_32_ab
-[1] mod_p_peanutsingle01x
 ======================
 
 === HASH COLLISION ===
@@ -785,33 +533,9 @@ Key: 0x8D169A40
 ======================
 
 === HASH COLLISION ===
-Key: 0x8D1C9A93
-[0] EnterGroupValBla
-[1] StatsChallengeMPAwardUIInfo
-======================
-
-=== HASH COLLISION ===
-Key: 0x8D3DA2F1
-[0] ig1_b_10
-[1] u_06__lod_1_1_-2
-======================
-
-=== HASH COLLISION ===
-Key: 0x8D941026
-[0] BaseSpReqMpc
-[1] MudSoakMin
-======================
-
-=== HASH COLLISION ===
 Key: 0x8E9079A6
 [0] lockondistance
 [1] out_b_05_04_lod
-======================
-
-=== HASH COLLISION ===
-Key: 0x9183D9E7
-[0] STORE_CANNOT_PURCHASE_CASH
-[1] badger_rio_volwholeregion
 ======================
 
 === HASH COLLISION ===
@@ -833,12 +557,6 @@ Key: 0x92E387C7
 ======================
 
 === HASH COLLISION ===
-Key: 0x930EAD75
-[0] -1403.800049,506.006989,95.474899
-[1] ArWidgetsHunter
-======================
-
-=== HASH COLLISION ===
 Key: 0x9504ADBE
 [0] FishingAddSide
 [1] PCF_DisableFriendlyAmbientAnimalFollowing
@@ -848,12 +566,6 @@ Key: 0x9504ADBE
 Key: 0x961A969B
 [0] -2030.750000
 [1] AnimalBonding
-======================
-
-=== HASH COLLISION ===
-Key: 0x96219728
-[0] fromnormal_abort
-[1] mech_cover@enter@arthur@dual@base@low@fwd@bothhands@left_trig@mid@stand_run@normal
 ======================
 
 === HASH COLLISION ===
@@ -881,21 +593,9 @@ Key: 0x987422F5
 ======================
 
 === HASH COLLISION ===
-Key: 0x988245CF
-[0] UnfocusMediumLeadin
-[1] HD_BACK
-======================
-
-=== HASH COLLISION ===
 Key: 0x99B377B8
 [0] INPUT_VEH_SHUFFLE
 [1] mpdc_playerskilled_headshot_fme_00
-======================
-
-=== HASH COLLISION ===
-Key: 0x99B93B45
-[0] PmClean
-[1] GravityFactor
 ======================
 
 === HASH COLLISION ===
@@ -908,12 +608,6 @@ Key: 0x99E11F55
 Key: 0x9AE63D30
 [0] trad_gn_slngang_01
 [1] veh_driveby@aim@coach@exterior@shortarms@base@mid_right@outro
-======================
-
-=== HASH COLLISION ===
-Key: 0x9BF888CC
-[0] journal_entry_chap4_rbprhntn2
-[1] journal_entry_chap6_odriscoll6_1
 ======================
 
 === HASH COLLISION ===
@@ -947,15 +641,9 @@ Key: 0xA0CB3B48
 ======================
 
 === HASH COLLISION ===
-Key: 0xA248CD07
-[0] ig1_b_11
-[1] u_06__lod_1_1_-3
-======================
-
-=== HASH COLLISION ===
 Key: 0xA3491726
 [0] p_pipe02x_ma
-[1] (.yas)
+[1] UNKNOWN (.yas)
 ======================
 
 === HASH COLLISION ===
@@ -977,12 +665,6 @@ Key: 0xA989B3D8
 ======================
 
 === HASH COLLISION ===
-Key: 0xA9ADA436
-[0] journal_entry_chap4_rbprhntn3
-[1] journal_entry_chap6_odriscoll6_2
-======================
-
-=== HASH COLLISION ===
 Key: 0xAAB9C076
 [0] 905783836
 [1] mob4_scared_civ
@@ -1001,33 +683,9 @@ Key: 0xAE0CBF33
 ======================
 
 === HASH COLLISION ===
-Key: 0xAEA109C2
-[0] IntenUn
-[1] PedMood_Drunk
-======================
-
-=== HASH COLLISION ===
-Key: 0xAED5C2E3
-[0] frontsitslake4
-[1] repairstable1
-======================
-
-=== HASH COLLISION ===
-Key: 0xAEF22483
-[0] KillhimV
-[1] DontBreakRopes
-======================
-
-=== HASH COLLISION ===
 Key: 0xAF71EC59
 [0] IdlesGenericFemale
 [1] AIMEMLOC_BAY_SaintDenis
-======================
-
-=== HASH COLLISION ===
-Key: 0xAF8DD8CD
-[0] f_09__static_instance_157
-[1] mp005_mplobby_base_desert_veg_01
 ======================
 
 === HASH COLLISION ===
@@ -1045,7 +703,7 @@ Key: 0xB05ABA34
 === HASH COLLISION ===
 Key: 0xB08F6568
 [0] k_14__hd_0_2_-2
-[1] (.yas)
+[1] UNKNOWN (.yas)
 ======================
 
 === HASH COLLISION ===
@@ -1061,21 +719,9 @@ Key: 0xB16C7B3A
 ======================
 
 === HASH COLLISION ===
-Key: 0xB1C73F77
-[0] distlodlights_medium033
-[1] vest_mr1_001_c3_000_nm
-======================
-
-=== HASH COLLISION ===
 Key: 0xB804ED71
 [0] NormalPairSet
 [1] mp_re_slumpedhunter_warm_02
-======================
-
-=== HASH COLLISION ===
-Key: 0xB86C41B3
-[0] journal_entry_chap4_rbprhntn4
-[1] journal_entry_chap6_odriscoll6_3
 ======================
 
 === HASH COLLISION ===
@@ -1127,21 +773,9 @@ Key: 0xC065884E
 ======================
 
 === HASH COLLISION ===
-Key: 0xC0A06678
-[0] frontsitslake5
-[1] repairstable2
-======================
-
-=== HASH COLLISION ===
 Key: 0xC1322297
 [0] award_net_awards_hunting_014_005_f
 [1] i_13__static_instance_11
-======================
-
-=== HASH COLLISION ===
-Key: 0xC1A1A3C7
-[0] McLoadAnd
-[1] Unhook_DecideKeep
 ======================
 
 === HASH COLLISION ===
@@ -1163,21 +797,9 @@ Key: 0xC3829A9E
 ======================
 
 === HASH COLLISION ===
-Key: 0xC5CDA606
-[0] diime
-[1] pickup_weapon_repeater_winchester
-======================
-
-=== HASH COLLISION ===
 Key: 0xC69FC871
 [0] amb_tal_dismembered02x__collision_1
 [1] l_07__static_instance_36
-======================
-
-=== HASH COLLISION ===
-Key: 0xCC23C937
-[0] chat_local_event_shoprob_nbx_rob_09
-[1] speaker_brynn_tildon
 ======================
 
 === HASH COLLISION ===
@@ -1190,18 +812,6 @@ Key: 0xCC74A20D
 Key: 0xCCB144FC
 [0] dialogue_delivery_benedict_multi_2
 [1] n_15__slod1_2_-1_1
-======================
-
-=== HASH COLLISION ===
-Key: 0xCD098631
-[0] GfmSimpleGroupSetCurve
-[1] MinPassengerTimeToLeaveVehicle
-======================
-
-=== HASH COLLISION ===
-Key: 0xCD6E8710
-[0] GuaHateFrRoleTimidAlt
-[1] VFXGROUP_SOIL_DEEP
 ======================
 
 === HASH COLLISION ===
@@ -1271,12 +881,6 @@ Key: 0xDE1B56C7
 ======================
 
 === HASH COLLISION ===
-Key: 0xDF3D6377
-[0] GangCameraHPhotographyNb
-[1] HF_CVT
-======================
-
-=== HASH COLLISION ===
 Key: 0xDF8F51A3
 [0] clothing_item_m_ugarment_005_tint_004
 [1] vest_mr1_016_c0_000_m
@@ -1301,12 +905,6 @@ Key: 0xE53119F1
 ======================
 
 === HASH COLLISION ===
-Key: 0xE545E974
-[0] Number_Emote
-[1] uiAnimationValueColor
-======================
-
-=== HASH COLLISION ===
 Key: 0xE6EA3230
 [0] PtfxSight
 [1] fTargetRadiusGoToScenarioPosition
@@ -1315,43 +913,13 @@ Key: 0xE6EA3230
 === HASH COLLISION ===
 Key: 0xEAA08177
 [0] cs_archiedowntween_ms1_boot_000_c0_000_nm
-[1] (catalog_sp.ymt)
+[1] UNKNOWN (catalog_sp.ymt)
 ======================
 
 === HASH COLLISION ===
 Key: 0xEAB81FCF
 [0] igig3_hosea_preps_stagecoach1
 [1] q_16__lod_1_-2_0
-======================
-
-=== HASH COLLISION ===
-Key: 0xEB13EAE6
-[0] Interaction_Bird
-[1] SlowdownDistance
-======================
-
-=== HASH COLLISION ===
-Key: 0xEBA96F49
-[0] coverregion[366][333
-[1] o_08__lod_1_-2_-1
-======================
-
-=== HASH COLLISION ===
-Key: 0xEDB45E9E
-[0] IgnoreXY
-[1] Up_Left
-======================
-
-=== HASH COLLISION ===
-Key: 0xEECDC932
-[0] EmeraldranchStem
-[1] INPUT_INTERACTION_MENU
-======================
-
-=== HASH COLLISION ===
-Key: 0xEEE1AF82
-[0] 03_mp_01
-[1] mod_p_barrelhalf09dx
 ======================
 
 === HASH COLLISION ===
@@ -1391,21 +959,9 @@ Key: 0xF2E90751
 ======================
 
 === HASH COLLISION ===
-Key: 0xF3FDE1AC
-[0] f_09__static_instance_159
-[1] mp005_mplobby_base_desert_veg_03
-======================
-
-=== HASH COLLISION ===
 Key: 0xF521951B
 [0] mgfla_ch_amb_2
 [1] p_bottlenavyrum01x_a_abal
-======================
-
-=== HASH COLLISION ===
-Key: 0xF55A4962
-[0] GfhInteriorLonger
-[1] CurveSets
 ======================
 
 === HASH COLLISION ===
@@ -1431,16 +987,3 @@ Key: 0xFB414C47
 [0] levels/rdr3/terrain/rstu_07_10/u_07_
 [1] trn4_int_44
 ======================
-
-=== HASH COLLISION ===
-Key: 0xFF866353
-[0] hi@s_09__static_instance_1
-[1] r_09_placement_collision_29
-======================
-
-=== HASH COLLISION ===
-Key: 0xFF956FAE
-[0] CubDoor
-[1] fTurretCamPitchMin
-======================
-

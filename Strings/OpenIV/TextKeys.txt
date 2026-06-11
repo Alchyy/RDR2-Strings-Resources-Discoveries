@@ -16684,7 +16684,6 @@ charles_follow
 charles_return
 charles_wait
 charvehartdir
-chat_local_event_shoprob_nbx_rob_09
 chcl1_action_1
 chcl1_action_2
 chcl1_action_3
@@ -140377,6 +140376,7 @@ sad5_ext_24
 sad5_ext_25
 sad5_ext_26
 sad5_ext_27
+sad5_ext_28
 sad5_ext_29
 sad5_ext_30
 sad5_ext_31
@@ -146101,6 +146101,7 @@ speaker_brt2_guard_1
 speaker_brt2_guard_2
 speaker_brt2_guard_4
 speaker_brt2_servant
+speaker_brynn_tildon
 speaker_bw_cinemaworker
 speaker_calloway
 speaker_camilla_mcclair
