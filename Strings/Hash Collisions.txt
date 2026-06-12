@@ -987,3 +987,27 @@ Key: 0xFB414C47
 [0] levels/rdr3/terrain/rstu_07_10/u_07_
 [1] trn4_int_44
 ======================
+
+=== HASH COLLISION ===
+Key: 0x765D0EF1
+[0] blouse_fr1_000_c_merge
+[1] cliff_edges[127][154]
+======================
+
+=== HASH COLLISION ===
+Key: 0xCEFEA526
+[0] gang_odriscollboys_bgv003
+[1] cliff_edges[15][22]
+======================
+
+=== HASH COLLISION ===
+Key: 0x541868F5
+[0] linger_d_joe
+[1] cliff_edges[32][46]
+======================
+
+=== HASH COLLISION ===
+Key: 0x19950512
+[0] val_sal_int_decal08+hi
+[1] cliff_edges[131][151]
+======================
