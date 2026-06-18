@@ -1393,10 +1393,6 @@ levels_6.rpf\levels\rdr3\terrain\instance_placement\rstu_11_14_static_collision.
 
 r_13__static_instance_2.ybn
 ===================================================================================================
-levels_6.rpf\levels\rdr3\terrain\jklm_07_10\l_07_.rpf (1 file)
-
-l_07__j_10_+hi.ytd
-===================================================================================================
 levels_8.rpf\levels\rdr3\terrain\nopq_03_06\p_06_placement.rpf (5 files)
 
 p_06p_bee_barn_vegtemp_1.ybn
@@ -1459,4 +1455,4 @@ rowpack_0.rpf\dlcpacks\rowassetpack\row.rpf (1 file)
 textures_0.rpf\textures\deferredprobes\deferred_probes_128x128.rpf (1 file)
 textures_0.rpf\textures\deferredprobes\deferred_probes_256x256.rpf (1 file)
 
-305855776.ytd
+305855776.ytd	// mic_hideout_int

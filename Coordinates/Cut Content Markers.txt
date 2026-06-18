@@ -15,15 +15,15 @@ Light Blue = Miscellanous
 ======================== LOCATIONS ========================
 
 -4450, -2950, 30, Critchley's Ranch, c92222
--2365, 2115, 325, Cairn Lodge (Cliffpoints) (fghi_3_6_area_slod4), c92222
+-2365, 2115, 325, Cairn Lodge (cliff_edges[72][162].ymt) (fghi_3_6_area_slod4), c92222
 -1800, -2100, 80, Pacific Union Railroad Camp, c92222
 -1715, -870, 100, Fort Riggs Holding Camp (Leaked Map), c92222
 -950, 1510, 150, Adler's Ranch (Leaked Map), c92222
 -710, 1960, 375, Colter (Leaked Map), c92222
--380, 1920, 270, Chez Porter (Cliffpoints), c92222
-30, 2090, 300, Fairvale Shanty (Cliffpoints), c92222
+-380, 1920, 270, Chez Porter (cliff_edges[112][158].ymt), c92222
+30, 2090, 300, Fairvale Shanty (cliff_edges[120][161].ymt), c92222
 240, -75, 150, Castors Pond (Leaked Map), c92222
-271, 1739, 200, Wallace Station (Cliffpoints), c92222
+271, 1739, 200, Wallace Station (cliff_edges[125][154].ymt), c92222
 315, 2365, 300, Chez Porter (Leaked Map), c92222
 465, 2970, 520, Cohutta (Leaked Map), c92222
 590, 2970, 550, Tempest Rim (Leaked Map), c92222
@@ -32,7 +32,7 @@ Light Blue = Miscellanous
 665, 2800, 374, Moonstone Pond (Leaked Map) (water.dat), c92222
 860, -290, 120, Dewberry Creek (Caravan Camp) (Leaked Map), c92222
 890, 1120, 175, Carmody Dell (Leaked Map), c92222
-1020, 2590, 297, O'Creagh's Run (p_shopmap01x.yft) (Cliffpoints), c92222
+1020, 2590, 297, O'Creagh's Run (p_shopmap01x.yft), c92222
 1035, 3090, 366, O'Creagh's Run (Leaked Map) (water.dat), c92222
 1080, 1560, 230, Old Fort Wallace (Leaked Map), c92222
 1186, 1876, 250, Wallace Station (Railway Map), c92222
@@ -41,20 +41,22 @@ Light Blue = Miscellanous
 1645, 920, 150, Aberdeen Pig Farm (Leaked Map), c92222
 1700, 2175, 253, Calumet Ravine (p_shopmap01x.yft), c92222
 1761, 1370, 200, Clingman (Leaked Map), c92222
+1819.87, 2353.94, 317.993, Witches Cauldron (cliff_edges[156][167].ymt), c92222
 1830, 2125, 250, Dzoavits Claim (Leaked Map), c92222
 1840, 2705, 420, The Loft (Leaked Map), c92222
-1995.42, 2156.24, 334.346, The Loft (Cliffpoints), c92222
+1995.42, 2156.24, 334.346, The Loft (cliff_edges[159][163].ymt), c92222
 2415, 2910, 320, Doverhill (Leaked Map), c92222
 2440, -1450, 100, Criard Slaughterhouse (Leaked Map), c92222
+2482.72, 1579.87, 89.2516, Manito Glade (shack_ai) (cliff_edges[169][151].ymt), c92222
 2680, 2265, 200, Brandywine Drop (Leaked Map), c92222
 2880, 2560, 220, Doverhill (PS4), c92222
 2945, 2995, 280, Rocky Seven (Leaked Map), c92222
 2970, 470, 80, Tallulah Jetty (Leaked Map), c92222
-3715, 250, 175, Sisika Penitentiary (Leaked Map), c92222
 3670, -4050, 70, Cinco Torres (Cliffpoints), c92222
 3675, 1860, 150, Van Horn Trading Post (Leaked Map), c92222
-3915, -3810, 100, Le Vilaj (Leaked Map), c92222
+3715, 250, 175, Sisika Penitentiary (Leaked Map), c92222
 3900, -3300, 120, Aguasdulces, c92222
+3915, -3810, 100, Le Vilaj (Leaked Map), c92222
 4096, -3584, 500, Guama, c92222
 4170, -3670, 200, La Capilla (Cliffpoints), c92222
 4280, -3415, 120, El Nido / Miyzon (Cliffpoints), c92222
@@ -1873,6 +1875,7 @@ Light Blue = Miscellanous
 1991.975464, 2479.047119, 356.512512, wb_net_ambient_chest (netambientchest_eastgrz.psin) (PS4), ffffff
 1996.028320, 2159.517090, 330.059113, ransack_reach_over_volume_1m5_0m5_2m0 - ransack_generic - lof_outpost_int (ransack_theloft.psin) (PS4), ffffff
 1998.873779, 2160.669922, 330.058868, ransack_reach_over_volume_1m5_0m5_2m0 - ransack_generic - lof_outpost_int (ransack_theloft.psin) (PS4), ffffff
+2009.8652, -922.59235, 40.890842, wb_disco_gator_eggs (discosoutheast.psin) (PS4), ffffff
 2084.399902, -1779.099976, 40.5, wb_campfire (campfires_bna.psin) (PS4), ffffff
 2100.096924, -1918.845215, 41.211189, none (herbs_bna.psin) (PS4), ffffff
 2161.800049, -1740, 40.700001, wb_campfire (campfires_bna.psin) (PS4), ffffff
@@ -3048,7 +3051,7 @@ Light Blue = Miscellanous
 -2460.756, -1007.691, 176.992, region_tal_cochinay - volCylinder (regionvolumes.ymt)
 -2432.4753, 2146.3523, 329.2762, hash_amb_vig_wolves_playing_c (ambientvignettes.ymt)
 -2361.3728, 2180.239, 340.8387, hash_amb_vig_fox_hunt_in_snow (ambientvignettes.ymt)
--1686.64, -1180.41, 90.3724, Unknown Structure (Cliffpoints) (cliff_edges[86][96].ymt)
+-1686.64, -1180.41, 90.3724, Unknown Structure (Windmill?) (cliff_edges[86][96].ymt)
 -1280, -7936, 80.57789, Disabled Terrain Tile (d_07.rpf)
 -1280, -7424, 157.97012, Disabled Terrain Tile (c_07.rpf)
 -1257.973, 836.588, 175.674, vol_mission_area (fetch_gfh_recover.ymt)
@@ -3069,9 +3072,9 @@ Light Blue = Miscellanous
 -629.39386, 2358.9675, 378.33426, Wagon Slod (fghi_7_10_area_slod4_children.ydd)
 -477.673, 2811.999, 365.575, hash_amb_vig_fox_hunt_in_snow (ambientvignettes.ymt)
 -407.9194, 1822.28, 233.2834, vol_guard_0 (fetch_gfh_destroy.ymt)
--332.703, -58.0894, 46.3098, Unknown Structure (Cliffpoints) (cliff_edges[113][118].ymt)
+-332.703, -58.0894, 46.3098, Unknown Shack (cliff_edges[113][118].ymt)
 -305.0939, 1875.3994, 232.784, hash_amb_vig_bear_scratch_back (ambientvignettes.ymt)
-106.85, -526.516, 53.6085, Unknown Structure (Cliffpoints) (cliff_edges[122][109].ymt)
+106.85, -526.516, 53.6085, Unknown Shack (cliff_edges[122][109].ymt)
 153.021, 2457.77, 371.063, Mystery Hole (Cliffpoints)
 203.81, 2244.02, 274.76, Hot Spring (Cliffpoints)
 250.5921, -105.0462, 105.26198, Castors Pond (Center Point) (mapdatacullboxes_new.meta)
@@ -3119,15 +3122,14 @@ Light Blue = Miscellanous
 1704.665, -7396.841, 91.6342, fog_int_man_house_01 (popzone_volume.ymt)
 1711.413, -7401.771, 91.23421, fog_int_man_house_02 (popzone_volume.ymt)
 1760.339, 1350.444, 165.10527, clingman (Center Point) (mapdatacullboxes_new.meta)
-1808.8, -1932.25, 45.133, Unknown Structure (Cliffpoints) (cliff_edges[156][81].ymt)
-1819.87, 2353.94, 317.993, Unknown Structure (Cliffpoints) (cliff_edges[156][167].ymt)
-1824.61, -1945.54, 45.133, Unknown Structure (Cliffpoints) (cliff_edges[156][81].ymt)
-1837.07, -1957.54, 45.133, Unknown Structure (Cliffpoints) (cliff_edges[156][80].ymt)
+1808.8, -1932.25, 45.133, Unknown Building 3 (cliff_edges[156][81].ymt)
+1824.61, -1945.54, 45.133, Unknown Building 2 (cliff_edges[156][81].ymt)
+1837.07, -1957.54, 45.133, Unknown Building 1 (cliff_edges[156][80].ymt)
 1846.398193, 2123.803711, 215.093781, Dzoavits Claim (Center Point) (mapdatacullboxes_new.meta)
 1852.398, 2688.804, 384.0938, The Loft (Center Point) (mapdatacullboxes_new.meta)
 1890.4866, 300.30182, 76.81897, p_candlegroup04x (hf_murder_before) (shack_hf_int.ytyp)
 1903.84, 2118.43, 238.8478, cml_dzo (popzone_volume.ymt)
-2027.37, -1932.25, 43.1363, Unknown Structure (Cliffpoints) (cliff_edges[160][81].ymt)
+2027.37, -1932.25, 43.1363, Unknown Shack (cliff_edges[160][81].ymt)
 2046.7476, -7040.223, 50.510487, 00_leaving_01_shot (script/story/smuggler1/mission_jump_cameras.ymt)
 2048, -3584, 20.3346, Disabled Guarma Outskirts Tile (outg_b_03_hd_13.ydr) (gua_out_b_03.rpf)
 2059.223, -7070.2573, 45.173733, 01_river_01_shot (script/story/smuggler1/mission_jump_cameras.ymt)
@@ -3137,10 +3139,9 @@ Light Blue = Miscellanous
 2343.8591, -1495.0234, 46.52639, new_pie_tunnel_dest (ind2) (new_pie_tunnel_int.ytyp)
 2391.0994, -790.3151, 41.04547, Boat Slod (no_13_14_area_slod3_children.ydd)
 2453.566, 2930.868, 289.728, doverhill (Center Point) (mapdatacullboxes_new.meta)
-2460.67, -832.546, 43.8784, Unknown Structure (Cliffpoints) (cliff_edges[169][103].ymt)
-2482.72, 1579.87, 89.2516, Unknown Structure (Cliffpoints) (cliff_edges[169][151].ymt)
+2460.67, -832.546, 43.8784, Unknown Shack (cliff_edges[169][103].ymt)
 2714.2148, 3423.673, 233.99313, Old Kamassa River Bed
-2866.71, 1034.41, 45.929, Unknown Structure (Cliffpoints) (cliff_edges[177][140].ymt)
+2866.71, 1034.41, 45.929, Unknown Shack (cliff_edges[177][140].ymt)
 2979.186, 3003.53, 247.11667, Rocky Seven (Center Point) (mapdatacullboxes_new.meta)
 2981.0574, 2997.6907, 247.255, center (rocky_seven.ymt)
 3266.4194, -3705.5432, 40.721912, 0xA5B10316 (script/story/gua2/explore.ymt)
