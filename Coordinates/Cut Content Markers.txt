@@ -1683,7 +1683,7 @@ Light Blue = Miscellanous
 4259, -2745.6, 115, (sceneOrigin) (lightrig@metapeditor@metapeditor_generic.yas), 4cc922
 4259, -2745.6, 116.00332, (sceneOrigin) (lightrig@metapeditor@metapeditor_backlight.yas), 4cc922
 
-======================== PS4 FILES ========================
+======================== PS4 SCENARIOS ========================
 
 -5526.448730, -2955.768555, -1.343897, wb_bounty_poster (tubleweed.psin) (PS4), ffffff
 -5517.011719, -2940.908936, -3.100817, world_human_stand_waiting (tubleweed.psin) (PS4), ffffff
@@ -1734,15 +1734,32 @@ Light Blue = Miscellanous
 -1283.074951, 1932.782959, 194.882599, world_animal_deer_grazing - animals_deer - rc_pearson_hunting (0x4D4DEF80.psin) (PS4), ffffff
 -1263.134033, 1940.623047, 193.634201, world_animal_deer_grazing - animals_deer - rc_pearson_hunting (0x4D4DEF80.psin) (PS4), ffffff
 -1256.708984, 1959.348999, 194.378296, world_animal_deer_grazing - animals_deer - rc_pearson_hunting (0x4D4DEF80.psin) (PS4), ffffff
--863.702087, -745.628052, 58.878708, world_human_browse_window - hmr_lm_husband - lms_husband_longday (lonemule.psin) (PS4), ffffff
--862.597839, -742.07843, 59.922607, levdes_spawn_whiskey_bottle (lonemule.psin) (PS4), ffffff
--861.107056, -743.477844, 59.390232, prop_human_seat_chair - hmr_lm_wife - lms_wife_longday (lonemule.psin) (PS4), ffffff
--859.015625, -760.50592, 58.016796, stand - animals_dog_husky - lms_dog_longday (lonemule.psin) (PS4), ffffff
--858.989624, -730.587341, 58.976757, 0x237657A0 - animals_dog_husky - lms_dog_night (lonemule.psin) (PS4), ffffff
--857.432617, -743.777588, 60.383652, levdes_spawn_tonic (lonemule.psin) (PS4), ffffff
--853.083862, -741.529724, 59.392406, world_human_sleep_drunk - hmr_lm_wife - lms_wife_night (lonemule.psin) (PS4), ffffff
--852.891968, -740.568176, 59.543449, levdes_spawn_pocketwatch (lonemule.psin) (PS4), ffffff
--852.901978, -742.065674, 59.392406, world_human_sleep_drunk - hmr_lm_husband - lms_husband_night (lonemule.psin) (PS4), ffffff
+-870.3445, -749.0607, 58.72257, world_animal_coyote_wander - animals_dog_husky - lms_dog_longday (lonemule.psin) (PS4), ffffff
+-869.18713, -741.62726, 58.72076, world_human_sleep_drunk - animals_dog_husky - lms_dog_night (lonemule.psin) (PS4), ffffff
+-869.60547, -736.7306, 59.055008, world_animal_coyote_wander - animals_dog_husky - lms_dog_longday (lonemule.psin) (PS4), ffffff
+-863.7021, -745.62805, 58.878708, world_human_browse_window - hmr_lm_husband - lms_husband_longday (lonemule.psin) (PS4), ffffff
+-863.08484, -742.9844, 58.905743, world_human_leaning_forwards - hmr_lm_wife - lms_wife_longday (lonemule.psin) (PS4), ffffff
+-862.59784, -742.0784, 59.922607, levdes_spawn_whiskey_bottle (lonemule.psin) (PS4), ffffff
+-861.10706, -743.47784, 59.390232, prop_human_seat_chair - hmr_lm_wife - lms_wife_longday (lonemule.psin) (PS4), ffffff
+-860.52, -742.177, 58.878708, world_human_coffee_drink - hmr_lm_husband - lms_husband_longday (lonemule.psin) (PS4), ffffff
+-859.0156, -760.5059, 58.016796, stand - animals_dog_husky - lms_dog_longday (lonemule.psin) (PS4), ffffff
+-859.6292, -746.0081, 56.50839, levdes_spawn_potent_horsestimulant - none - pickups (lonemule.psin) (PS4), ffffff
+-859.7221, -750.107, 58.781296, world_human_sleep_drunk - animals_dog_husky - lms_dog_night (lonemule.psin) (PS4), ffffff
+-859.44446, -745.17847, 58.878708, stand - animals_dog_husky - lms_dog_longday (lonemule.psin) (PS4), ffffff
+-859.68854, -746.0661, 56.50839, levdes_spawn_potent_horsestimulant - none - pickups (lonemule.psin) (PS4), ffffff
+-858.3223, -744.9632, 60.38365, levdes_spawn_tobacco (lonemule.psin) (PS4), ffffff
+-858.9896, -730.58734, 58.976757, world_human_sleep_drunk - animals_dog_husky - lms_dog_night (lonemule.psin) (PS4), ffffff
+-857.4326, -743.7776, 60.38365, levdes_spawn_tonic (lonemule.psin) (PS4), ffffff
+-857.5111, -743.62573, 60.38365, levdes_spawn_medicine (lonemule.psin) (PS4), ffffff
+-854.0002, -744.74243, 58.878708, world_human_smoke - hmr_lm_husband - lms_husband_longday (lonemule.psin) (PS4), ffffff
+-854.5091, -745.0919, 58.878708, world_human_coffee_drink - hmr_lm_wife - lms_wife_longday (lonemule.psin) (PS4), ffffff
+-853.08386, -741.5297, 59.392406, world_human_sleep_drunk - hmr_lm_wife - lms_wife_night (lonemule.psin) (PS4), ffffff
+-853.93146, -739.1495, 60.037636, levdes_spawn_shotgunammo (lonemule.psin) (PS4), ffffff
+-853.98425, -739.2238, 60.037636, levdes_spawn_shotgunammo (lonemule.psin) (PS4), ffffff
+-852.902, -742.0657, 59.392406, world_human_sleep_drunk - hmr_lm_husband - lms_husband_night (lonemule.psin) (PS4), ffffff
+-852.89197, -740.5682, 59.54345, levdes_spawn_pocketwatch (lonemule.psin) (PS4), ffffff
+-848.15674, -742.0282, 58.81387, world_human_sleep_drunk - animals_dog_husky - lms_dog_night (lonemule.psin) (PS4), ffffff
+-846.7183, -745.613, 58.741745, world_animal_coyote_wander - animals_dog_husky - lms_dog_longday (lonemule.psin) (PS4), ffffff
 -761.94928, -1906.274902, 50.644867, wb_disco_donkey_lady (discowest.psin) (PS4), ffffff
 -685.99231, 1430.416504, 309.659027, world_player_respawn_squat_ground (respawn_grizzliessoutheast.psin) (PS4), ffffff
 -657.75531, 2283.403809, 389.404388, world_player_respawn_inspect_photo (respawn_grizzliesnortheast.psin) (PS4), ffffff
@@ -1869,21 +1886,22 @@ Light Blue = Miscellanous
 1708.802612, -1006.681580, 42.469013, ransack_reach_over_volume_0m8_0m5_2m0 - ransack_generic - shack_sk2_int (shack_serialkiller.psin) (PS4), ffffff
 1719.727661, 899.62854, 115.591713, world_player_respawn_lean_back_wall (respawn_aberdeenfarm.psin) (PS4), ffffff
 1749.411987, 896.632019, 116.029999, 0xCFC34354 (respawn_hrt_temp.psin) (PS4), ffffff
+1773.0708, -1554.6151, 40.2725, wb_herb_milkweed (herbs_bna.psin) (PS4), ffffff
 1779.465698, 2689.078857, 367.885773, world_player_respawn_inspect_photo (respawn_chezporter.psin) (PS4), ffffff
 1798.599976, 1371.321533, 163.767273, world_player_respawn_inspect_photo (respawn_clingman.psin) (PS4), ffffff
-1954.754639, -2108.922607, 41.761105, wb_herb_oleander (herbs_bna.psin) (PS4), ffffff
+1954.7546, -2108.9226, 41.761105, wb_herb_milkweed (herbs_bna.psin) (PS4), ffffff
 1991.975464, 2479.047119, 356.512512, wb_net_ambient_chest (netambientchest_eastgrz.psin) (PS4), ffffff
 1996.028320, 2159.517090, 330.059113, ransack_reach_over_volume_1m5_0m5_2m0 - ransack_generic - lof_outpost_int (ransack_theloft.psin) (PS4), ffffff
 1998.873779, 2160.669922, 330.058868, ransack_reach_over_volume_1m5_0m5_2m0 - ransack_generic - lof_outpost_int (ransack_theloft.psin) (PS4), ffffff
 2009.8652, -922.59235, 40.890842, wb_disco_gator_eggs (discosoutheast.psin) (PS4), ffffff
 2084.399902, -1779.099976, 40.5, wb_campfire (campfires_bna.psin) (PS4), ffffff
-2100.096924, -1918.845215, 41.211189, none (herbs_bna.psin) (PS4), ffffff
+2100.097, -1918.8452, 41.21119, wb_herb_milkweed (herbs_bna.psin) (PS4), ffffff
 2161.800049, -1740, 40.700001, wb_campfire (campfires_bna.psin) (PS4), ffffff
 2175.719727, 2128.392334, 229.866486, player_camp_marker - wb_playercamp_wilderness (playercamps_grz_temp.psin) (PS4), ffffff
 2186.199951, 2492.710938, 259.710999, 0xCFC34354 (respawn_cml_temp.psin) (PS4), ffffff
 2186.203857, 2492.682617, 259.518127, world_player_respawn_sit_ground_inspect_photo (respawn_calumetravine.psin) (PS4), ffffff
 2211.694824, 2127.331299, 251.840683, player_camp_marker - wb_playercamp_landmark (playercamps_grz_temp.psin) (PS4), ffffff
-2244.581299, -1589.31311, 40.987377, none (herbs_bna.psin) (PS4), ffffff
+2244.5813, -1589.3131, 40.987377, wb_herb_oleander (herbs_bna.psin) (PS4), ffffff
 2250.800049, -1731.800049, 40.599998, wb_campfire (campfires_bna.psin) (PS4), ffffff
 2276.511719, -1432.280151, 40.470322, world_dead_body_spawn - nbx_mansion_male - hide_cri_dead_guy_1 (criardslaughterhouse.psin) (PS4), ffffff
 2280.708984, -1445.947998, 41.503551, walk (criardslaughterhouse.psin) (PS4), ffffff
@@ -1904,8 +1922,9 @@ Light Blue = Miscellanous
 2319.214111, -1479.077148, 41.503551, walk (criardslaughterhouse.psin) (PS4), ffffff
 2320.9021, -1462.348267, 41.5341, world_human_guard (criardslaughterhouse.psin) (PS4), ffffff
 2324.27124, -1471.565918, 40.926067, world_human_guard (criardslaughterhouse.psin) (PS4), ffffff
-2328.556152, -2029.823608, 40.528156, none (herbs_bna.psin) (PS4), ffffff
-2435.818359, -1771.735718, 40.572784, none (herbs_bna.psin) (PS4), ffffff
+2328.5562, -2029.8236, 40.528156, wb_herb_oleander (herbs_bna.psin) (PS4), ffffff
+2373.4849, -1350.0182, 42.36339, wb_herb_milkweed (herbs_bna.psin) (PS4), ffffff
+2435.8184, -1771.7357, 40.572784, wb_herb_milkweed (herbs_bna.psin) (PS4), ffffff
 2485.29248, -1548.009521, 45.055485, arthur_bounty_posters_4 (newbordeaux_docks.psin) (PS4), ffffff
 2527.494141, -1285.337402, 48.166466, companion_bounty_posters (newbordeaux_commercial.psin) (PS4), ffffff
 2528.251221, -1311.992676, 48.136887, arthur_bounty_posters_1 (newbordeaux_commercial.psin) (PS4), ffffff
@@ -1938,7 +1957,7 @@ Light Blue = Miscellanous
 2866.800049, 2550.510986, 172.311005, 0xCFC34354 (respawn_roa_temp.psin) (PS4), ffffff
 2867.917236, 2553.968994, 189.406265, world_player_respawn_seat_steps (respawn_doverhill.psin) (PS4), ffffff
 2901.310303, 2573.927246, 167.803558, dov_lab_int (ransack_doverhill.psin) (PS4), ffffff
-2961.144531, -1158.391602, 40.900963, wb_herb_oleander (herbs_bna.psin) (PS4), ffffff
+2961.1445, -1158.3916, 40.900963, wb_herb_milkweed (herbs_bna.psin) (PS4), ffffff
 3415.542725, 1973.581787, 80.565979, world_player_respawn_lean_back_wall (respawn_roanokecoast.psin) (PS4), ffffff
 3419.510986, 1979.411011, 79.911003, levdes_spawn_alaskan_ginseng_pickup (respawn_roa_temp.psin) (PS4), ffffff
 3571.50293, 155.58873, 45.288589, world_player_respawn_lean_back_wall (respawn_sisika.psin) (PS4), ffffff
@@ -2515,6 +2534,7 @@ Light Blue = Miscellanous
 4079.339844, -3449.558838, 88.479126, world_human_guard_military - agu_guard_01 (aguasdulces.psin) (PS4), ffffff
 4170.815918, -3662.136475, 156.693207, world_player_respawn_inspect_photo (respawn_guarmasouth.psin) (PS4), ffffff
 4315.089844, -3432.092529, 80.091606, world_player_respawn_inspect_photo (respawn_guarmanorth.psin) (PS4), ffffff
+
 
 ======================== PERSCHARS ========================
 

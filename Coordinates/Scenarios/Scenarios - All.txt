@@ -26524,6 +26524,7 @@
 -870.906, -1357.6843, 42.634514, world_human_sack_pickup_1 - blw_carriage_house (blackwater.ymt)
 -870.1081, -1335.4457, 43.434933, prop_human_seat_chair_read_newspaper - bla_upperclass_male (blackwater.ymt)
 -870.2135, -302.34357, 46.4832, world_animal_coyote_resting - animals_coyotes - big_valley_animals (heartlandswilderness_river.ymt)
+-870.3445, -749.0607, 58.72257, world_animal_coyote_wander - animals_dog_husky - lms_dog_longday (lonemule.psin), ffffff
 -870.3642, -1386.6827, 42.54748, world_human_bucket_drink_ladle_ground - blw_blacksmith (blackwater.ymt)
 -870.4001, -742.7162, 58.56594, world_animal_sparrow_eating_ground - animals_sparrows (bgv_wilderness_east.ymt)
 -870.5023, -1637.429, 68.15484, world_human_stare_stoic - bla_upperclass_female (blackwater.ymt)
@@ -26544,7 +26545,6 @@
 -870.66644, -2028.4401, 40.5, world_vehicle_drive_solo - rowboat (greatplainswilderness_south_traffic.ymt)
 -870.67053, -1393.3655, 42.52814, world_animal_dog_sniffing_ground - animals_dog_hound (blackwater.ymt)
 -870.91223, -818.29724, 54.673756, world_animal_fox_digging - animals_fox - big_valley_animals (bgv_wilderness_east.ymt)
--870.344482, -749.060730, 58.722569, world_animal_coyote_wander - animals_dog_husky - lms_dog_longday (lonemule.psin), ffffff
 -869.0218, -1333.4817, 42.95377, world_human_stand_waiting - bla_male (blackwater.ymt)
 -869.709, 320.21786, 95.20635, world_human_lean_railing (downsranch.ymt)
 -869.1984, -1357.4082, 42.620293, world_human_straw_broom_working - blw_carriage_house (blackwater.ymt)
@@ -26561,18 +26561,18 @@
 -869.7214, -1357.9363, 42.603725, world_human_broom_pickup_putdown - blw_carriage_house (blackwater.ymt)
 -869.9498, -1341.0172, 42.240974, world_human_sack_put_down_1 - grt_wagon_delivery_1 (blackwater.ymt)
 -869.10345, -179.19589, 79.13977, world_animal_turkey_grazing - animals_turkeys_wild (bgv_wilderness_east.ymt)
+-869.18713, -741.62726, 58.72076, world_human_sleep_drunk - animals_dog_husky - lms_dog_night (lonemule.psin), ffffff
 -869.39764, -1945.084, 47.85043, wb_spice_wild_mint - herbs_cooking (herbs_grt.ymt)
 -869.41547, -1396.2651, 42.54256, world_human_write_notebook - blw_blacksmith (blackwater.ymt)
 -869.44617, -299.12045, 47.303253, world_animal_coyote_howling_sitting - animals_coyotes - big_valley_animals (heartlandswilderness_river.ymt)
 -869.55994, 325.45862, 94.896065, world_human_bucket_pickup_putdown_empty (downsranch.ymt)
+-869.60547, -736.7306, 59.055008, world_animal_coyote_wander - animals_dog_husky - lms_dog_longday (lonemule.psin), ffffff
 -869.71484, -1637.7228, 68.14862, world_human_fan - bla_upperclass_female (blackwater.ymt)
 -869.74774, 332.21143, 95.44888, world_human_pitch_hay_spread - dor_ranchers (downsranch.ymt)
 -869.77496, -181.62581, 78.8284, world_animal_turkey_grazing - animals_turkeys_wild (bgv_wilderness_east.ymt)
 -869.80225, 558.92615, 55.311638, stand - animals_toad (grizzlieswilderness_south.ymt)
 -869.92816, -1275.7759, 42.26801, world_human_fire_coffee_kettle (blackwater.ymt)
--869.187134, -741.627258, 58.720760, 0x237657A0 - animals_dog_husky - lms_dog_night (lonemule.psin), ffffff
 -869.511780, 1527.413208, 248.748871, world_animal_fox_flee - animals_fox - grizzlies_animals (0x4D4DEF80.psin), ffffff
--869.605469, -736.730591, 59.055008, world_animal_coyote_wander - animals_dog_husky - lms_dog_longday (lonemule.psin), ffffff
 -869.879761, 1015.632996, 164.543900, stand - animals_hawks - grizzlies_animals (0x4D4DEF80.psin), ffffff
 -868.97, 342.15533, 95.531265, world_human_pitch_hay_scoop_with_haypile - dor_ranchers (downsranch.ymt)
 -868.0273, -1393.0543, 42.505222, world_animal_dog_sleeping - animals_dog_hound (blackwater.ymt)
@@ -26740,18 +26740,18 @@
 -863.5814, -345.301, 42.615387, wb_spice_wild_mint - herbs_cooking (herbs_bgv.ymt)
 -863.5886, -1626.9017, 66.40449, world_human_smoke_nervous_stressed - bla_laborers_male (blackwater.ymt)
 -863.6313, -1400.7552, 42.578194, world_animal_dog_digging - animals_dog_hound (blackwater.ymt)
+-863.7021, -745.62805, 58.878708, world_human_browse_window - hmr_lm_husband - lms_husband_longday (lonemule.psin), ffffff
 -863.7979, 337.13928, 95.42379, world_human_bale_pickup_2 - dor_ranchers - dow_barn_int (downsranch.ymt)
 -863.8103, 337.13086, 95.42372, world_human_bale_pickup_1 - dor_ranchers - dow_barn_int (downsranch.ymt)
 -863.8423, -1381.4918, 42.64205, world_human_drunk_passed_out_floor - bla_laborers_male_hispanic (blackwater.ymt)
+-863.08484, -742.9844, 58.905743, world_human_leaning_forwards - hmr_lm_wife - lms_wife_longday (lonemule.psin), ffffff
 -863.11743, -1295.3145, 42.13336, world_human_write_notebook - bla_laborers_male (blackwater.ymt)
 -863.14624, -1381.0363, 42.650673, world_human_bale_put_down_1 - blw_carriage_house (blackwater.ymt)
 -863.73914, 321.4749, 94.66405, world_human_farmer_rake (downsranch.ymt)
 -863.77405, 329.7494, 95.33251, world_human_bale_put_down_2 - dor_ranchers (downsranch.ymt)
 -863.78326, -1359.7891, 49.217293, world_animal_sparrow_on_perch - animals_sparrows (blackwater.ymt)
 -863.84094, 315.95554, 94.84332, world_animal_pig_resting - animals_pigs (downsranch.ymt)
--863.084839, -742.984375, 58.905743, world_human_leaning_forwards - hmr_lm_wife - lms_wife_longday (lonemule.psin), ffffff
 -863.85876, 325.95572, 95.09324, world_animal_pig_resting - animals_pigs (downsranch.ymt)
--863.702087, -745.628052, 58.878708, world_human_browse_window - hmr_lm_husband - lms_husband_longday (lonemule.psin), ffffff
 -862.0485, 322.3865, 94.71224, world_animal_pig_resting - animals_pigs (downsranch.ymt)
 -862.3029, -1642.154, 67.23903, world_animal_dog_sniffing_ground - animals_dog_australiansheperd (blackwater.ymt)
 -862.3486, -412.4579, 41.01683, world_animal_squirrel_eating - animals_squirrel (heartlandswilderness_river.ymt)
@@ -26777,10 +26777,10 @@
 -862.56067, 315.32736, 94.807434, world_animal_pig_eat_trough - animals_pigs (downsranch.ymt)
 -862.58984, -1359.2172, 42.65388, world_human_hammer_wall - blw_carriage_house (blackwater.ymt)
 -862.59314, -1398.3231, 42.63859, world_animal_dog_resting - animals_dog_hound (blackwater.ymt)
+-862.59784, -742.0784, 59.922607, levdes_spawn_whiskey_bottle (lonemule.psin), ffffff
 -862.63324, 320.15778, 94.72324, world_animal_pig_grazing - animals_pigs (downsranch.ymt)
 -862.79425, 345.44577, 98.88999, world_animal_bird_on_perch - animals_songbird (downsranch.ymt)
 -862.89545, 360.73746, 95.76332, world_human_crouch_inspect (downsranch.ymt)
--862.597839, -742.078430, 59.922607, levdes_spawn_whiskey_bottle (lonemule.psin), ffffff
 -861.0089, -1281.4746, 42.543392, world_human_book_table_pickup - blw_construction_boss (blackwater.ymt)
 -861.0096, 333.59634, 98.796844, ransack_reach_over_volume_table_top_0m5_0m5_0m80 - ransack_generic - dow_barn_int (ransack_downesranch.ymt)
 -861.361, -1359.2153, 42.648922, world_human_hammer_kneel - blw_carriage_house (blackwater.ymt)
@@ -26801,10 +26801,11 @@
 -861.6421, 348.96774, 95.567696, world_animal_ox_grazing - animals_oxen (downsranch.ymt)
 -861.7116, 20.807297, 40.5, stand - animals_ducks (heartlandswilderness_river.ymt)
 -861.9825, -747.12537, 62.909683, world_animal_bird_on_perch - animals_scenario_birds_on_perch (bgv_wilderness_east.ymt)
+-861.10706, -743.47784, 59.390232, prop_human_seat_chair - hmr_lm_wife - lms_wife_longday (lonemule.psin), ffffff
 -861.46466, -1242.7357, 45.06553, world_human_hammer_ground - bla_laborers_male (blackwater.ymt)
 -861.68726, -1247.331, 45.83368, world_human_clipboard - bla_laborers_male (blackwater.ymt)
 -861.79614, 324.21448, 94.86389, world_animal_pig_grazing - animals_pigs (downsranch.ymt)
--861.107056, -743.477844, 59.390232, prop_human_seat_chair - hmr_lm_wife - lms_wife_longday (lonemule.psin), ffffff
+-860.52, -742.177, 58.878708, world_human_coffee_drink - hmr_lm_husband - lms_husband_longday (lonemule.psin), ffffff
 -860.0233, 181.81607, 91.54334, wb_campfire_small - campfires (campfires_hrt.ymt)
 -860.0271, 327.63077, 95.199455, world_human_write_notebook (downsranch.ymt)
 -860.577, -749.3346, 58.735676, world_animal_raccoon_eating_ground - animals_raccoon - big_valley_animals (bgv_wilderness_east.ymt)
@@ -26843,9 +26844,9 @@
 -860.99677, -1386.1259, 42.542603, world_animal_dog_sniffing_ground - animals_dog_hound (blackwater.ymt)
 -860.223999, -742.838379, 55.944454, ransack_reach_over_volume_1m5_0m5_2m0 - ransack_generic - lon_mule_int (ransack_lonemulestead.psin), ffffff
 -860.464355, -742.201660, 55.974617, ransack_reach_over_volume_1m5_0m5_2m0 - ransack_generic - lon_mule_int (ransack_lonemulestead.psin), ffffff
--860.520020, -742.177002, 58.878708, world_human_coffee_drink - hmr_lm_husband - lms_husband_longday (lonemule.psin), ffffff
 -859.7, 336.2584, 95.41675, world_human_bale_pickup_1 - dor_ranchers - dow_barn_int (downsranch.ymt)
 -859.099, -914.31305, 40.73105, world_animal_duck_ground_resting - animals_ducks (bgv_wilderness_east.ymt)
+-859.0156, -760.5059, 58.016796, stand - animals_dog_husky - lms_dog_longday (lonemule.psin), ffffff
 -859.277, -1357.7113, 42.649555, world_human_straw_broom_working - blw_carriage_house (blackwater.ymt)
 -859.0378, 331.6717, 95.436424, world_human_bale_pickup_2 - dor_ranchers - dow_barn_int (downsranch.ymt)
 -859.0389, -1325.8259, 42.48646, world_animal_dog_drink_ground - animals_dogs_street (blackwater.ymt)
@@ -26859,15 +26860,16 @@
 -859.4921, -748.7326, 58.758953, world_animal_raccoon_eating_ground - animals_raccoon - big_valley_animals (bgv_wilderness_east.ymt)
 -859.5489, 346.17233, 95.46607, world_animal_cow_drink_trough - animals_cows - dow_demo_cows (downsranch.ymt)
 -859.6271, -1301.326, 42.167316, world_human_crouch_inspect - bla_laborers_male (blackwater.ymt)
+-859.6292, -746.0081, 56.50839, levdes_spawn_potent_horsestimulant - none - pickups (lonemule.psin), ffffff
 -859.6981, -1273.7113, 42.55132, world_human_write_notebook - blw_construction_assistant (blackwater.ymt)
 -859.7037, -1311.2993, 42.065426, world_human_sternguy_idles (blackwater.ymt)
 -859.7086, -1626.8455, 66.11169, world_human_bucket_pickup_putdown_empty - bla_laborers_male (blackwater.ymt)
+-859.7221, -750.107, 58.781296, world_human_sleep_drunk - animals_dog_husky - lms_dog_night (lonemule.psin), ffffff
 -859.7839, -745.4812, 55.97847, world_animal_raccoon_eating_ground - animals_raccoon - big_valley_animals - lon_mule_int (bgv_wilderness_east.ymt)
 -859.8055, 331.8111, 95.37976, world_human_bale_pickup_1 - dor_ranchers - dow_barn_int (downsranch.ymt)
 -859.8565, 359.38046, 96.78442, world_animal_bird_on_perch - animals_songbird (downsranch.ymt)
 -859.08746, -1274.9471, 42.551342, world_human_flee (blackwater.ymt)
 -859.9375, -1275.3356, 42.55132, world_human_lean_back_wall_smoking_bar_ca - blw_construction_boss (blackwater.ymt)
--859.015625, -760.505920, 58.016796, stand - animals_dog_husky - lms_dog_longday (lonemule.psin), ffffff
 -859.16455, -1274.4076, 42.55132, world_human_coffee_drink - blw_construction_boss (blackwater.ymt)
 -859.16815, 1.087103, 40.577282, stand - animals_ducks (heartlandswilderness_river.ymt)
 -859.16943, -324.3276, 42.808777, wb_spice_wild_mint - herbs_cooking (herbs_bgv.ymt)
@@ -26876,18 +26878,16 @@
 -859.33514, -1277.9193, 42.543316, world_human_clipboard - blw_construction_foreman_1 (blackwater.ymt)
 -859.33563, -985.32776, 40.50007, world_animal_deer_drinking - animals_buck - grizzlies_animals (bgv_wilderness_south.ymt)
 -859.39764, 360.88828, 96.070946, world_human_crouch_inspect (downsranch.ymt)
+-859.44446, -745.17847, 58.878708, stand - animals_dog_husky - lms_dog_longday (lonemule.psin), ffffff
 -859.60065, -1327.1884, 42.475952, world_human_flee (blackwater.ymt)
 -859.68665, 336.2565, 95.416664, world_human_bale_pickup_2 - dor_ranchers - dow_barn_int (downsranch.ymt)
+-859.68854, -746.0661, 56.50839, levdes_spawn_potent_horsestimulant - none - pickups (lonemule.psin), ffffff
 -859.72906, 329.40628, 95.298874, world_human_sit_ground_reading_book - dor_husband (downsranch.ymt)
 -859.76825, 2.510978, 40.576363, stand - animals_ducks (heartlandswilderness_river.ymt)
 -859.77454, -1853.5157, 61.11747, world_animal_coyote_howling_sitting - animals_coyotes (greatplainswilderness_coastal.ymt)
 -859.91797, -1279.9026, 42.543293, world_human_glass_put_down_crate_table - blw_construction_boss (blackwater.ymt)
 -859.95667, -1281.4254, 42.55149, world_human_clipboard_pickup - blw_construction_foreman_1 (blackwater.ymt)
 -859.96686, -745.0007, 55.973957, world_animal_raccoon_eating_ground - animals_raccoon - big_valley_animals - lon_mule_int (bgv_wilderness_east.ymt)
--859.444458, -745.178467, 58.878708, stand - animals_dog_husky - lms_dog_longday (lonemule.psin), ffffff
--859.629211, -746.008118, 56.508389, levdes_spawn_potent_horsestimulant - pickups (lonemule.psin), ffffff
--859.688538, -746.066101, 56.508389, levdes_spawn_potent_horsestimulant - pickups (lonemule.psin), ffffff
--859.722107, -750.106995, 58.781296, 0x237657A0 - animals_dog_husky - lms_dog_night (lonemule.psin), ffffff
 -858.0464, -1278.8207, 42.543373, world_human_stare_stoic - glo_oil_delivery_1 (blackwater.ymt)
 -858.487, -1277.9406, 42.56425, world_human_book_table_pickup_putdown - blw_construction_assistant (blackwater.ymt)
 -858.0509, 19.785316, 40.61435, world_animal_muskrat_eating - animals_muskrat (heartlandswilderness_river.ymt)
@@ -26895,6 +26895,7 @@
 -858.0915, -1932.1096, 46.97331, world_animal_boar_sleeping - animals_boar (greatplainswilderness_coastal.ymt)
 -858.1178, -1943.6539, 47.707664, world_animal_badger_eat_ground - animals_badger (greatplainswilderness_coastal.ymt)
 -858.2116, -915.1913, 40.783264, world_animal_duck_ground_resting - animals_ducks (bgv_wilderness_east.ymt)
+-858.3223, -744.9632, 60.38365, levdes_spawn_tobacco (lonemule.psin), ffffff
 -858.3547, 94.08437, 47.151188, stand - animals_bluejay - heartlands_animals (heartlandswilderness_west.ymt)
 -858.3692, -1359.2239, 42.63591, world_human_hammer_kneel - blw_carriage_house (blackwater.ymt)
 -858.4509, -1279.869, 42.560104, world_human_glass_pickup_crate - blw_construction_boss (blackwater.ymt)
@@ -26903,6 +26904,7 @@
 -858.7571, 2.791499, 40.574173, stand - animals_ducks (heartlandswilderness_river.ymt)
 -858.07935, -1327.6534, 42.50236, world_human_wash_face_bucket_ground - bla_laborers_male_hispanic (blackwater.ymt)
 -858.8762, -913.5259, 40.835632, world_animal_duck_ground_resting - animals_ducks (bgv_wilderness_east.ymt)
+-858.9896, -730.58734, 58.976757, world_human_sleep_drunk - animals_dog_husky - lms_dog_night (lonemule.psin), ffffff
 -858.19196, -1279.7225, 42.54337, world_human_write_notebook - blw_construction_assistant (blackwater.ymt)
 -858.30664, 312.33133, 94.66466, world_human_crouch_inspect (downsranch.ymt)
 -858.35767, -1385.7935, 42.540333, world_human_lumber_pickup_2 - blw_blacksmith (blackwater.ymt)
@@ -26915,8 +26917,6 @@
 -858.77704, 331.71637, 95.45422, world_human_bale_pickup_1 - dor_ranchers - dow_barn_int (downsranch.ymt)
 -858.83417, -1385.867, 42.545044, world_human_crouch_inspect - blw_blacksmith (blackwater.ymt)
 -858.89087, 313.16284, 94.68203, world_human_hammer_kneel (downsranch.ymt)
--858.322327, -744.963196, 60.383652, levdes_spawn_tobacco (lonemule.psin), ffffff
--858.989624, -730.587341, 58.976757, 0x237657A0 - animals_dog_husky - lms_dog_night (lonemule.psin), ffffff
 -857.0853, -1233.103, 52.62549, world_human_crouch_inspect - glo_oil_delivery_1 (blackwater.ymt)
 -857.1407, -1199.0321, 42.540474, world_human_sleep_ground_pillow - bla_laborers_male_white (blackwater.ymt)
 -857.1708, -1943.41, 47.69477, wb_herb_american_ginseng - herbs_crafting (herbs_grt.ymt)
@@ -26926,7 +26926,9 @@
 -857.2913, -1236.6392, 52.62549, world_human_write_notebook - bla_laborers_male (blackwater.ymt)
 -857.2919, 329.28806, 98.7682, world_human_smoke - val_farmer_male (heartlandswilderness_west.ymt)
 -857.3038, -1246.1683, 49.313057, world_human_crouch_inspect - bla_laborers_male (blackwater.ymt)
+-857.4326, -743.7776, 60.38365, levdes_spawn_tonic (lonemule.psin), ffffff
 -857.4965, -1388.5225, 42.5325, world_animal_dog_sniffing_ground - animals_dog_hound (blackwater.ymt)
+-857.5111, -743.62573, 60.38365, levdes_spawn_medicine (lonemule.psin), ffffff
 -857.5522, -1277.618, 42.54331, world_human_smoke - blw_construction_boss (blackwater.ymt)
 -857.5818, 328.77554, 95.11781, world_human_pitch_fork_pickup_putdown (downsranch.ymt)
 -857.5827, 328.7689, 95.11788, world_human_pitch_fork_pickup (downsranch.ymt)
@@ -26943,8 +26945,6 @@
 -857.89734, -915.70026, 40.784935, world_animal_duck_ground_resting - animals_ducks (bgv_wilderness_east.ymt)
 -857.96246, -1379.0695, 42.56006, world_human_flee (blackwater.ymt)
 -857.96295, -803.60516, 53.439354, world_animal_rabbit_grazing - animals_rabbit - big_valley_animals (bgv_wilderness_east.ymt)
--857.432617, -743.777588, 60.383652, levdes_spawn_tonic (lonemule.psin), ffffff
--857.511108, -743.625732, 60.383652, levdes_spawn_medicine (lonemule.psin), ffffff
 -856.0318, -1247.3907, 45.82978, world_human_hammer_wall - bla_laborers_male (blackwater.ymt)
 -856.0395, -1376.21, 47.419525, world_animal_sparrow_on_perch - animals_sparrows (blackwater.ymt)
 -856.1356, -1369.674, 49.586613, world_animal_pigeon_on_perch - animals_pigeons (blackwater.ymt)
@@ -26999,8 +26999,8 @@
 -855.318359, 986.598511, 152.640991, world_animal_deer_grazing - animals_deer - grizzlies_animals (0x4D4DEF80.psin), ffffff
 -855.490234, 979.910828, 149.976303, world_animal_deer_grazing - animals_deer - grizzlies_animals (0x4D4DEF80.psin), ffffff
 -855.774048, 984.893799, 152.003876, world_animal_deer_grazing - animals_deer - grizzlies_animals (0x4D4DEF80.psin), ffffff
+-854.0002, -744.74243, 58.878708, world_human_smoke - hmr_lm_husband - lms_husband_longday (lonemule.psin), ffffff
 -854.078, -1245.671, 42.490845, world_human_lumber_put_down_3 - bla_laborers_male (blackwater.ymt)
--854.000183, -744.742432, 58.878708, world_human_smoke - hmr_lm_husband - lms_husband_longday (lonemule.psin), ffffff
 -854.0738, -1245.669, 42.490944, world_human_lumber_put_down_2 - bla_laborers_male (blackwater.ymt)
 -854.843, -1332.5104, 42.4587, world_human_lean_back_wall_smoking_bar_ca - grt_wagon_delivery_1 (blackwater.ymt)
 -854.869, -724.8262, 58.880695, world_animal_rabbit_grazing - animals_rabbit (lonemulestead.ymt)
@@ -27010,6 +27010,7 @@
 -854.1919, 1561.2659, 255.50551, stand - animals_rabbit - grizzlies_animals (grizzlieswilderness_south.ymt)
 -854.2183, -1371.9698, 42.615284, world_human_write_notebook - blw_wagon_delivery_2 (blackwater.ymt)
 -854.3578, 2.314621, 40.566463, stand - animals_ducks (heartlandswilderness_river.ymt)
+-854.5091, -745.0919, 58.878708, world_human_coffee_drink - hmr_lm_wife - lms_wife_longday (lonemule.psin), ffffff
 -854.5746, 333.0844, 102.47318, world_animal_bird_on_perch - animals_songbird (downsranch.ymt)
 -854.5811, -1287.595, 48.97308, world_animal_sparrow_on_perch - animals_sparrows (blackwater.ymt)
 -854.5834, -1288.2498, 48.999672, world_animal_sparrow_on_perch - animals_sparrows (blackwater.ymt)
@@ -27025,7 +27026,6 @@
 -854.35223, -1316.0209, 42.20628, world_human_stand_waiting - bla_police (blackwater.ymt)
 -854.65375, -1314.2206, 42.23591, world_human_smoke_cigar - bla_townfolk_male (blackwater.ymt)
 -854.89813, -1313.2365, 42.243656, world_human_fan - bla_townfolk_female (blackwater.ymt)
--854.509094, -745.091919, 58.878708, world_human_coffee_drink - hmr_lm_wife - lms_wife_longday (lonemule.psin), ffffff
 -853.1797, -1363.9962, 42.536633, world_human_flee (blackwater.ymt)
 -853.2223, 343.37555, 96.30955, world_animal_bird_on_perch - animals_songbird (downsranch.ymt)
 -853.2629, 474.38007, 88.55546, world_animal_fox_eating_ground - amb_gang_campfire_scavengers (gangcamps_amb_hrt.ymt)
@@ -27035,6 +27035,7 @@
 -853.6317, 344.98428, 95.54228, world_human_bale_put_down_1 - dor_ranchers (downsranch.ymt)
 -853.6399, -188.34547, 77.63591, world_animal_squirrel_eating - animals_squirrel - big_valley_animals (bgv_wilderness_east.ymt)
 -853.6553, 345.23114, 95.55924, world_human_bale_put_down_2 - dor_ranchers (downsranch.ymt)
+-853.08386, -741.5297, 59.392406, world_human_sleep_drunk - hmr_lm_wife - lms_wife_night (lonemule.psin), ffffff
 -853.8426, -1373.7954, 42.613335, world_human_stare_stoic - bla_townfolk_male (blackwater.ymt)
 -853.9323, -1246.8906, 45.828312, world_human_hammer_ground - bla_laborers_male (blackwater.ymt)
 -853.20294, -431.90103, 40.551876, world_animal_squirrel_eating - animals_squirrel (heartlandswilderness_river.ymt)
@@ -27044,14 +27045,14 @@
 -853.56024, -1361.4203, 42.6853, world_human_flee (blackwater.ymt)
 -853.73016, -1286.2931, 42.32747, world_human_smoke_nervous_stressed - bla_laborers_male_white (blackwater.ymt)
 -853.82855, -747.9135, 58.456978, world_animal_sparrow_eating_ground - animals_sparrows (bgv_wilderness_east.ymt)
--853.083862, -741.529724, 59.392406, world_human_sleep_drunk - hmr_lm_wife - lms_wife_night (lonemule.psin), ffffff
 -853.91907, -1368.9545, 42.595085, world_human_straw_broom_working - blw_carriage_house_night (blackwater.ymt)
+-853.93146, -739.1495, 60.037636, levdes_spawn_shotgunammo (lonemule.psin), ffffff
 -853.98145, -1205.5684, 42.600903, world_human_lean_back_wall_smoking_male_a_ca - bla_laborers_male_white (blackwater.ymt)
--853.931458, -739.149475, 60.037636, levdes_spawn_shotgunammo (lonemule.psin), ffffff
--853.984253, -739.223816, 60.037636, levdes_spawn_shotgunammo (lonemule.psin), ffffff
+-853.98425, -739.2238, 60.037636, levdes_spawn_shotgunammo (lonemule.psin), ffffff
 -852.0345, 22.848022, 40.6492, levdes_spawn_valerian_root - rpg_pickup (cards_hrt.ymt)
 -852.0839, 324.61935, 95.74483, world_animal_crow_on_perch - animals_crows (downsranch.ymt)
 -852.881, 641.3048, 95.54354, world_animal_rabbit_grazing - animals_rabbit (grizzlieswilderness_south.ymt)
+-852.902, -742.0657, 59.392406, world_human_sleep_drunk - hmr_lm_husband - lms_husband_night (lonemule.psin), ffffff
 -852.1117, -1217.827, 42.54163, world_human_lean_back_wall_smoking_bar_ca - blw_construction_01 (blackwater.ymt)
 -852.1891, 184.04938, 91.53991, player_camp_marker (playercamps_hrt_temp.ymt)
 -852.1975, 325.8671, 94.79751, walk - animals_dog_australiansheperd (downsranch.ymt)
@@ -27070,10 +27071,9 @@
 -852.45544, 474.2463, 89.019196, ransack_reach_over_volume_table_top_0m8_0m5_0m80 - ransack_generic (gangcamps_amb_hrt.ymt)
 -852.68506, -1204.8971, 42.57741, world_human_stand_waiting - bla_laborers_male_white (blackwater.ymt)
 -852.80347, -1206.0092, 42.58865, world_human_stare_stoic - bla_laborers_male_white (blackwater.ymt)
+-852.89197, -740.5682, 59.54345, levdes_spawn_pocketwatch (lonemule.psin), ffffff
 -852.90515, 474.56613, 88.97304, ransack_reach_over_volume_table_top_0m8_0m5_0m80 - ransack_generic (gangcamps_amb_hrt.ymt)
 -852.91095, -1973.5944, 48.745327, player_camp_marker - wb_playercamp_fishing (playercamps_grt_temp.ymt)
--852.891968, -740.568176, 59.543449, levdes_spawn_pocketwatch (lonemule.psin), ffffff
--852.901978, -742.065674, 59.392406, world_human_sleep_drunk - hmr_lm_husband - lms_husband_night (lonemule.psin), ffffff
 -851.607, -362.0118, 40.593132, world_animal_duck_ground_resting - animals_ducks (bgv_wilderness_east.ymt)
 -851.615, 367.70877, 96.38326, world_human_crouch_inspect (downsranch.ymt)
 -851.1106, -1220.4459, 42.54021, world_human_sack_put_down_1 - blw_construction_03 (blackwater.ymt)
@@ -27170,6 +27170,7 @@
 -848.8783, 98.95108, 44.82341, world_animal_raccoon_eating_ground - animals_raccoon (heartlandswilderness_river.ymt)
 -848.9243, 641.51404, 94.96459, world_animal_bear_foraging_ground - animals_bear (grizzlieswilderness_south.ymt)
 -848.10657, 355.41037, 96.08307, world_human_write_notebook (downsranch.ymt)
+-848.15674, -742.0282, 58.81387, world_human_sleep_drunk - animals_dog_husky - lms_dog_night (lonemule.psin), ffffff
 -848.15796, 468.86118, 89.74363, wb_campfire_gang - campfires (campfires_hrt.ymt)
 -848.20184, 370.35074, 96.26092, world_animal_goat_grazing_domestic - animals_goat (downsranch.ymt)
 -848.46564, 462.8641, 89.39459, world_animal_cow_eating_ground - amb_gang_campfire_scavengers (gangcamps_amb_hrt.ymt)
@@ -27177,7 +27178,6 @@
 -848.63275, -1214.1431, 42.545357, world_camp_bowl_pickup_crate_table - blw_construction_foreman_2 (blackwater.ymt)
 -848.68115, -1212.741, 42.532516, world_camp_bowl_put_down_washbasin (blackwater.ymt)
 -848.78613, 318.12054, 95.71823, world_animal_crow_on_perch - animals_crows (downsranch.ymt)
--848.156738, -742.028198, 58.813869, 0x237657A0 - animals_dog_husky - lms_dog_night (lonemule.psin), ffffff
 -847.0104, 473.43686, 89.4936, world_animal_crow_eating_ground - amb_gang_campfire_scavengers (gangcamps_amb_hrt.ymt)
 -847.858, 367.39014, 96.342285, world_animal_goat_grazing_domestic - animals_goat (downsranch.ymt)
 -847.893, 1058.828, 145.21765, stand - animals_snake (grizzlieswilderness_south.ymt)
@@ -27203,6 +27203,7 @@
 -846.5853, -1207.8257, 43.10656, world_human_smoke - blw_construction_01 (blackwater.ymt)
 -846.6457, -748.7581, 58.217106, world_animal_sparrow_eating_ground - animals_sparrows (bgv_wilderness_east.ymt)
 -846.6527, 86.52652, 43.169224, world_animal_small_flee - animals_small_flee - big_valley_animals (heartlandswilderness_river.ymt)
+-846.7183, -745.613, 58.741745, world_animal_coyote_wander - animals_dog_husky - lms_dog_longday (lonemule.psin), ffffff
 -846.7912, 369.03543, 96.30624, world_animal_goat_resting_domestic - animals_goat (downsranch.ymt)
 -846.8352, -1232.7571, 52.62549, world_human_crouch_inspect - glo_oil_delivery_1 (blackwater.ymt)
 -846.8772, 319.31604, 94.57388, world_human_crouch_inspect (downsranch.ymt)
@@ -27218,7 +27219,6 @@
 -846.56696, -288.69626, 47.082134, world_animal_rabbit_grazing - animals_rabbit - big_valley_animals (heartlandswilderness_river.ymt)
 -846.60925, -1189.67, 42.547424, world_human_smoke_nervous_stressed - blw_construction_01 (blackwater.ymt)
 -846.81946, 132.12126, 48.210503, world_animal_squirrel_eating - animals_squirrel (heartlandswilderness_river.ymt)
--846.718323, -745.612976, 58.741745, world_animal_coyote_wander - animals_dog_husky - lms_dog_longday (lonemule.psin), ffffff
 -845.126, -1202.7109, 43.107468, world_human_stare_stoic - bla_laborers_male (blackwater.ymt)
 -845.0256, -1208.456, 43.10944, world_human_lean_back_wall_smoking_bar_ca - bla_laborers_male (blackwater.ymt)
 -845.374, 465.76913, 90.16486, world_animal_crow_eating_perched - amb_gang_campfire_scavengers (gangcamps_amb_hrt.ymt)
@@ -63691,6 +63691,7 @@
 1507.2589, -1662.9968, 60.32975, wb_herb_yarrow - herbs_crafting (herbs_scm.ymt)
 1507.2946, -6877.66, 73.142136, world_human_farmer_weeding - gua_workers (guarma_fusars_compound.ymt)
 1507.3302, -1469.5272, 71.27891, world_animal_coyote_digging - animals_coyotes - amb_gang_campfire_scavengers (gangcamps_amb_scm.ymt)
+1507.3472, -858.99744, 43.51671, wb_herb_milkweed (herbs_bna.psin), ffffff
 1507.3942, -6871.2773, 72.88303, walk (guarma_fusars_compound.ymt)
 1507.5659, -1924.3175, 47.20304, wb_herb_hummingbird_sage - herbs_crafting (herbs_scm.ymt)
 1507.6312, -3.048807, 94.80843, world_animal_deer_grazing - animals_deer - heartlands_animals (heartlandswilderness_east.ymt)
@@ -63700,7 +63701,6 @@
 1507.8402, -1806.3575, 55.38982, world_animal_crow_on_perch - animals_crows (scarlettmeadows_wilderness_swamp_south.ymt)
 1507.9064, -1467.2317, 74.026634, world_animal_crow_on_perch - amb_gang_campfire_scavengers (gangcamps_amb_scm.ymt)
 1507.9388, -1468.0021, 71.276085, ransack_reach_over_volume_table_top_0m8_0m5_0m80 - ransack_generic (gangcamps_amb_scm.ymt)
-1507.347168, -858.997437, 43.516708, wb_herb_oleander (herbs_bna.psin), ffffff
 1508.271, -7048.629, 76.52866, walk - gua_guard - gua_guard_chains (guarma_fusars_compound.ymt)
 1508.399, -6875.1016, 72.96786, walk (guarma_fusars_compound.ymt)
 1508.0881, -1374.5594, 70.603165, wb_herb_hummingbird_sage - herbs_crafting (herbs_scm.ymt)
@@ -66731,6 +66731,7 @@
 1669.5835, -1339.8917, 42.569393, world_human_farmer_weeding - cgh_farmhand (caligafields_west.ymt)
 1669.6116, -612.27795, 43.822563, ransack_reach_over_volume_table_top_0m8_0m5_0m80 - ransack_generic (disco_scm.ymt)
 1669.6173, -1760.5856, 53.197323, world_animal_turkey_grazing - animals_turkeys_wild (scarlettmeadows_wilderness_swamp_south.ymt)
+1669.6349, -1237.6504, 40.85049, wb_herb_oleander (herbs_bna.psin), ffffff
 1669.7219, -612.46545, 43.584602, ransack_reach_over_volume_table_top_0m8_0m5_0m80 - ransack_generic (disco_scm.ymt)
 1669.7224, -1334.6201, 42.38724, world_human_farmer_weeding - cgh_farmhand (caligafields_west.ymt)
 1669.7476, -1768.8109, 52.453598, world_animal_turkey_grazing - animals_turkeys_wild (scarlettmeadows_wilderness_swamp_south.ymt)
@@ -66739,7 +66740,6 @@
 1669.311401, -981.739380, 40.566429, animals_ducks (bayounwawilderness.psin), ffffff
 1669.492432, -979.175049, 40.535595, animals_ducks (bayounwawilderness.psin), ffffff
 1669.555542, -979.784790, 40.552002, animals_ducks (bayounwawilderness.psin), ffffff
-1669.634888, -1237.650391, 40.850491, none (herbs_bna.psin), ffffff
 1670.032, -875.2324, 40.531044, stand - animals_alligator_sml - bayou_animals (bayounwa_wilderness_north_west.ymt)
 1670.62, -1343.0856, 42.63731, world_human_farmer_weeding - cgh_farmhand (caligafields_west.ymt)
 1670.0251, -1201.9396, 40.499985, world_hazard_gator_pit - animals_alligator (bayounwa_wilderness_north_west.ymt)
@@ -67372,6 +67372,7 @@
 1703.3367, 1511.2119, 146.8818, ransack_shop_vol_1m0_0m50_2m0 - ransack_generic - vet_house_int (ransack_veteranhomestead.ymt)
 1703.3494, -1672.7489, 51.03862, world_animal_boar_grazing - animals_boar (scarlettmeadows_wilderness_swamp_south.ymt)
 1703.3855, -2004.6791, 43.703903, world_animal_coyote_howling_sitting - animals_coyotes - amb_gang_campfire_scavengers (gangcamps_amb_scm.ymt)
+1703.4039, -638.9328, 42.544254, wb_herb_milkweed (herbs_bna.psin), ffffff
 1703.4539, -1414.3694, 43.965187, walk (caligafields_southwest.ymt)
 1703.4788, -1597.6593, 51.10334, world_human_farmer_rake - cgh_farmhand (caligafields_southwest.ymt)
 1703.5132, -1416.5132, 44.084282, walk (caligafields_southwest.ymt)
@@ -67384,7 +67385,6 @@
 1703.8486, -1559.65, 48.699768, world_human_rake_putdown - cgh_farmhand (caligafields_southwest.ymt)
 1703.8916, -1454.2283, 46.306877, world_human_farmer_rake - cgh_farmhand (caligafields_southwest.ymt)
 1703.9785, 1390.8274, 144.88228, wb_horse_herb_common_bulrush - herbs_horse (herbs_gze.ymt)
-1703.403931, -638.932800, 42.544254, none (herbs_bna.psin), ffffff
 1704.65, -381.75, 49.74941, levdes_spawn_cig - cig_cards_glue (cards_blu.ymt)
 1704.84, -399.74585, 48.120316, world_animal_squirrel_eating - animals_chipmunk (scarlettmeadows_wilderness_forest_north.ymt)
 1704.548, -675.2653, 40.591373, stand - animals_alligator_sml (bayounwa_wilderness_north_west.ymt)
@@ -68817,6 +68817,7 @@
 1773.281, 1361.1356, 162.19609, world_human_hammer_table - camp_males - cli_tenant2_longday (clingman.ymt)
 1773.0304, -1399.5302, 43.0125, world_human_straw_broom_working - cgh_farmhand (caligahall.ymt)
 1773.438, -1581.7113, 44.66902, walk - cgh_guard (caligafields_southwest.ymt)
+1773.0708, -1554.6151, 40.2725, wb_herb_milkweed (herbs_bna.psin), ffffff
 1773.1387, -1579.2649, 44.477306, walk - cgh_guard (caligafields_southwest.ymt)
 1773.1694, -1406.1962, 54.42045, world_animal_bird_on_perch - animals_scenario_birds_on_perch (caligahall.ymt)
 1773.3413, -1767.0479, 49.43606, world_animal_squirrel_eating - animals_squirrel (scarlettmeadows_wilderness_swamp_south.ymt)
@@ -68831,7 +68832,6 @@
 1773.8655, -1223.7565, 40.499992, drive - rowboatswamp (scarlettmeadows_wilderness_swamp_south.ymt)
 1773.8967, 473.71423, 110.951584, wb_berry_red_raspberry - herbs_consumable (herbs_roa.ymt)
 1773.9028, -1517.6836, 44.29497, walk (caligafields_south.ymt)
-1773.070801, -1554.615112, 40.272499, wb_herb_oleander (herbs_bna.psin), ffffff
 1773.223145, 1491.185425, 153.735016, world_animal_coyote_eating_ground - animals_coyotes - roanoke_animals (cumberlandwilderness.psin), ffffff
 1774.169, -1523.001, 44.223316, world_human_farmer_rake - cgh_farmhand (caligafields_south.ymt)
 1774.0284, -464.3737, 51.075153, world_animal_bird_on_perch - animals_crows (scm_kudzu.ymt)
@@ -70259,12 +70259,12 @@
 1845.3998, -14.311703, 65.96608, world_animal_rabbit_grazing - animals_rabbit (roa_wilderness_southriver_lower.ymt)
 1845.5151, -1841.831, 42.348988, world_human_horse_tend_brush_link (shadybelle.ymt)
 1845.5273, -968.4158, 40.407288, stand - animals_alligator_sml - bayou_animals (bayounwa_wilderness_north_west.ymt)
+1845.5596, -914.66235, 41.39858, wb_herb_oleander (herbs_bna.psin), ffffff
 1845.7269, 934.47614, 119.85943, ransack_reach_over_volume_0m8_0m8_2m0 (roa_wilderness_northriver.ymt)
 1845.8146, -1461.4622, 42.51149, walk (caligafields_south.ymt)
 1845.8584, 933.9518, 119.79104, ransack_reach_over_volume_0m8_0m8_2m0 (roa_wilderness_northriver.ymt)
 1845.8601, -1593.7867, 44.808823, walk - cgh_guard (caligafields_south.ymt)
 1845.9092, -1429.677, 41.107086, walk - cgh_guard (caligafields_south.ymt)
-1845.559570, -914.662354, 41.398579, none (herbs_bna.psin), ffffff
 1846.083, 937.2869, 120.15053, wb_campfire_small - campfires (campfires_roa.ymt)
 1846.197, -1767.1409, 44.423332, world_animal_boar_resting - animals_boar (scarlettmeadows_wilderness_swamp_south.ymt)
 1846.0306, -1417.689, 42.023724, world_human_twnrec_scrub_blood_floor_bucket - cgh_townfolk_female (caligahall.ymt)
@@ -71331,6 +71331,7 @@
 1876.621, 1609.688, 171.74777, world_animal_deer_grazing - animals_deer - roanoke_animals (cumberlandwilderness_east.ymt)
 1876.764, -1892.0518, 41.72908, world_animal_dog_sniffing_ground - animals_dog_catahoulacur (shadybelle.ymt)
 1876.873, -1871.1615, 41.80932, world_human_fire_tend_kneel (shadybelle.ymt)
+1876.963, -1808.6921, 40.93116, wb_herb_milkweed (herbs_bna.psin), ffffff
 1876.1064, -1307.9508, 41.84075, world_human_farmer_weeding - cgh_farmhand (caligahall.ymt)
 1876.1162, -1879.8425, 41.927288, world_human_fan - perschar_comp_karen (shadybelle.ymt)
 1876.1179, -1529.5575, 44.544106, walk (caligafields_south.ymt)
@@ -71367,7 +71368,6 @@
 1876.9746, 574.1266, 113.237595, world_animal_squirrel_eating - animals_squirrel (roa_wilderness_southriver_upper.ymt)
 1876.9814, -999.9479, 41.353, world_animal_heron_resting - animals_herons (bayounwa_wilderness_north_west.ymt)
 1876.024048, 1608.750854, 172.636765, world_animal_deer_grazing - animals_deer - roanoke_animals (cumberlandwilderness.psin), ffffff
-1876.963013, -1808.692139, 40.931160, wb_herb_oleander (herbs_bna.psin), ffffff
 1877.67, -1857.2457, 41.808537, world_human_smoke - perschar_comp_john (shadybelle.ymt)
 1877.325, -1867.3906, 41.80932, stand (shadybelle.ymt)
 1877.666, -1000.061, 41.257484, world_animal_heron_resting - animals_herons (bayounwa_wilderness_north_west.ymt)
@@ -72420,6 +72420,7 @@
 1904.3292, -1214.0387, 41.582, walk - cgh_guard (caligahall.ymt)
 1904.3668, -1233.7473, 41.23809, world_human_farmer_weeding - cgh_farmhand (caligahall.ymt)
 1904.3685, -1847.3054, 42.250183, levdes_spawn_thrown_tomahawk_handle_down - shb_hideout_confederates (cards_scm.ymt)
+1904.3779, -720.2329, 41.16678, wb_herb_milkweed (herbs_bna.psin), ffffff
 1904.4747, -720.4555, 41.162464, world_animal_possum_eat_ground - animals_possums (scm_kudzu.ymt)
 1904.5139, -1242.3865, 41.222076, world_human_farmer_weeding - cgh_farmhand (caligahall.ymt)
 1904.6237, -1296.4438, 41.880016, world_human_farmer_weeding - cgh_farmhand (caligahall.ymt)
@@ -72431,7 +72432,6 @@
 1904.9315, -1867.6, 42.129498, world_human_smoke - perschar_comp_john (shadybelle.ymt)
 1904.9321, -1225.1736, 41.331455, world_human_farmer_weeding - cgh_farmhand (caligahall.ymt)
 1904.9832, -1329.7817, 41.66032, world_animal_ox_grazing - animals_oxen (caligafields_south.ymt)
-1904.377930, -720.232910, 41.166779, wb_herb_oleander (herbs_bna.psin), ffffff
 1905.62, -1860.7006, 46.34925, ransack_reach_over_volume_0m8_0m8_2m0 - sha_mansion_int (shadybelle.ymt)
 1905.266, -1223.6991, 41.32911, walk (caligahall.ymt)
 1905.0625, -1302.4886, 41.933064, world_human_feed_pigs - cgh_farmhand (caligahall.ymt)
@@ -73720,11 +73720,11 @@
 1954.6465, -1285.559, 40.777184, world_human_guard_scout - cgh_guard (caligahall.ymt)
 1954.7301, -846.1413, 40.669567, world_human_guard_scout - ora_guard (bay_orangegrove.ymt)
 1954.7512, -2001.8224, 40.554787, stand - animals_turtle (scarlettmeadows_wilderness_swamp_south.ymt)
+1954.7546, -2108.9226, 41.761105, wb_herb_milkweed (herbs_bna.psin), ffffff
 1954.8057, 254.88344, 75.86383, wb_herb_hummingbird_sage - herbs_crafting (herbs_roa.ymt)
 1954.9521, -650.1685, 40.694168, world_animal_duck_ground_resting - animals_ducks (scm_kudzu.ymt)
 1954.9529, -1477.1237, 42.34629, world_human_farmer_weeding - cgh_farmhand (caligafields_southeast.ymt)
 1954.9686, 101.28436, 87.49005, world_animal_rabbit_grazing - animals_rabbit (roa_wilderness_southriver_lower.ymt)
-1954.754639, -2108.922607, 41.761105, wb_herb_oleander (herbs_bna.psin), ffffff
 1955.0001, -1510.7821, 42.844788, world_human_feed_pigs - cgh_farmhand (caligafields_southeast.ymt)
 1955.0016, -1312.8696, 40.78073, world_animal_sparrow_eating_ground - animals_sparrow_rigs (caligahall.ymt)
 1955.0149, -202.40956, 50.742584, world_animal_crow_on_perch - animals_crows - roanoke_animals (roa_wilderness_southriver_lower.ymt)
@@ -73804,9 +73804,9 @@
 1958.6089, 1116.2046, 151.22977, world_animal_sparrow_on_perch - animals_sparrow_rigs (cumberlandwilderness_east.ymt)
 1958.6805, -1630.628, 40.782356, stand - animals_toad (scarlettmeadows_wilderness_swamp_south.ymt)
 1958.7339, -1356.8107, 40.65197, world_human_feed_pigs - cgh_farmhand (caligafields_southeast.ymt)
+1958.7671, -1168.8348, 40.562675, wb_herb_milkweed (herbs_bna.psin), ffffff
 1958.8203, -330.5996, 40.49999, world_hazard_gator_pit - animals_alligator (scm_kudzu.ymt)
 1958.8735, -731.1259, 40.68761, world_hazard_gator_pit_land - animals_alligator (scm_kudzu.ymt)
-1958.767090, -1168.834839, 40.562675, wb_herb_oleander (herbs_bna.psin), ffffff
 1959.000000, -1634.699951, 40.799999, wb_campfire (campfires_bna.psin), ffffff
 1959.0145, 1195.0046, 173.65845, world_animal_squirrel_eating - animals_squirrel (cumberlandwilderness_east.ymt)
 1959.0199, -1944.9994, 41.031467, world_human_guard_scout (shadybelle.ymt)
@@ -74765,9 +74765,9 @@
 2010.8386, -428.0946, 40.520115, stand - animals_bullfrog (scm_kudzu.ymt)
 2010.8812, -78.525826, 54.568222, world_animal_squirrel_eating - animals_squirrel (roa_wilderness_southriver_lower.ymt)
 2010.9048, 932.5225, 115.623535, world_animal_rabbit_grazing - animals_rabbit - roanoke_animals (roa_wilderness_northriver.ymt)
+2010.9279, -410.97806, 40.670532, wb_herb_oleander (herbs_bna.psin), ffffff
 2010.361938, -951.088806, 40.530605, animals_herons (bayounwawilderness.psin), ffffff
 2010.553833, -404.918427, 40.865364, animals_ducks (bayounwawilderness.psin), ffffff
-2010.927856, -410.978058, 40.670532, none (herbs_bna.psin), ffffff
 2011.0538, -502.98587, 40.972515, ransack_reach_over_centered_ground_pickup (ransack_lagras.ymt)
 2011.1483, 965.79974, 113.00007, world_animal_rabbit_grazing - animals_rabbit - roanoke_animals (roa_wilderness_northriver.ymt)
 2011.2125, -1425.2079, 41.81111, walk (caligafields_southeast.ymt)
@@ -76322,6 +76322,7 @@
 2099.7595, -598.7, 40.58902, world_animal_goat_sleeping - animals_goat (lagras.ymt)
 2100.69, -1387.4949, 40.499996, world_hazard_gator_pit - animals_alligator (bayounwa_wilderness_central.ymt)
 2100.086, -1603.4188, 40.499992, stand - animals_turtle (bayounwa_wilderness_south.ymt)
+2100.097, -1918.8452, 41.21119, wb_herb_milkweed (herbs_bna.psin), ffffff
 2100.153, -354.99326, 40.781796, stand - animals_bullfrog (scm_kudzu.ymt)
 2100.419, -579.80994, 40.57114, world_animal_chicken_eating - animal_hen (lagras.ymt)
 2100.471, -2008.1461, 40.5, stand_imprecise - animals_alligator (bayounwa_wilderness_south.ymt)
@@ -76335,7 +76336,6 @@
 2100.6558, -44.95081, 59.668087, world_animal_deer_grazing - animals_deer - roanoke_animals (roa_wilderness_southriver_lower.ymt)
 2100.7104, -1899.9259, 40.5, world_hazard_gator_pit - animals_alligator (bayounwa_wilderness_south.ymt)
 2100.8728, 87.1177, 69.02819, wb_herb_american_ginseng - herbs_crafting (herbs_roa.ymt)
-2100.096924, -1918.845215, 41.211189, none (herbs_bna.psin), ffffff
 2101.0203, -579.1339, 40.577282, world_animal_goat_grazing (lagras.ymt)
 2101.212, -577.19794, 40.6224, world_human_coffee_drink (lagras.ymt)
 2101.0356, -1235.5116, 41.572132, world_animal_raccoon_eating_ground - animals_raccoon (bayounwa_wilderness_central.ymt)
@@ -76671,6 +76671,7 @@
 2116.1711, -607.2563, 40.653725, world_animal_goat_grazing - animals_goat (lagras.ymt)
 2116.1963, -602.24066, 40.709465, world_animal_chicken_eating (lagras.ymt)
 2116.2053, -1902.3364, 40.510864, world_animal_heron_resting - animals_cranewhooping (bayounwa_wilderness_south.ymt)
+2116.2285, -735.92993, 40.49828, wb_herb_oleander (herbs_bna.psin), ffffff
 2116.4229, 1507.0745, 130.82085, world_animal_squirrel_eating - animals_squirrel (roa_wilderness_northriver.ymt)
 2116.4243, -604.37244, 40.724766, world_animal_goat_grazing - animals_goat (lagras.ymt)
 2116.4543, -150.98044, 49.54768, world_animal_coyote_digging - animals_coyotes - roanoke_animals (roa_wilderness_southriver.ymt)
@@ -76682,7 +76683,6 @@
 2116.8738, -599.3692, 41.612988, world_human_drinking - lag_mother_1 (lagras.ymt)
 2116.9614, -386.04657, 40.897682, stand - animals_bullfrog (scm_kudzu.ymt)
 2116.9849, -1964.2765, 40.499992, world_animal_heron_resting - animals_spoonbill - bayou_animals (bayounwa_wilderness_south.ymt)
-2116.228516, -735.929932, 40.498280, none (herbs_bna.psin), ffffff
 2117.242, -194.17015, 47.222363, world_animal_deer_grazing - animals_deer (roa_wilderness_southriver.ymt)
 2117.242, -194.17015, 47.222363, world_animal_deer_grazing - animals_deer (roa_wilderness_southriver_lower.ymt)
 2117.308, -546.4778, 41.033024, world_human_crouch_inspect (lagras.ymt)
@@ -76908,6 +76908,7 @@
 2126.7368, -623.92163, 40.591545, world_animal_dog_sitting - lag_dogs (lagras.ymt)
 2127.0251, -1653.8579, 40.499992, stand - animals_turtle (bayounwa_wilderness_south.ymt)
 2127.458, -1292.1449, 42.54231, world_animal_rat_eating - animals_rat (bayounwa_wilderness_central.ymt)
+2127.685, -925.3016, 40.902615, wb_herb_milkweed (herbs_bna.psin), ffffff
 2127.3035, -597.16736, 41.614777, world_human_stand_fishing (lagras.ymt)
 2127.3208, -598.5964, 41.61451, world_human_stare_stoic (lagras.ymt)
 2127.3564, 493.5968, 100.324936, world_animal_squirrel_eating - animals_squirrel (roa_wilderness_southriver_lower.ymt)
@@ -76919,7 +76920,6 @@
 2127.8335, -598.0094, 41.61247, world_human_smoke - lag_father_1 (lagras.ymt)
 2127.9426, 152.79433, 74.887474, player_camp_marker - wb_playercamp_landmark (playercamps_roa_temp.ymt)
 2127.600098, -441.600006, 40.700001, wb_campfire (campfires_bna.psin), ffffff
-2127.685059, -925.301575, 40.902615, wb_herb_oleander (herbs_bna.psin), ffffff
 2128.897, -511.91638, 40.644035, stand - animals_cormorant (bayounwa_wilderness_north_central.ymt)
 2128.1287, 733.2954, 148.56813, world_animal_squirrel_eating - animals_squirrel (roa_wilderness_southriver.ymt)
 2128.1287, 733.2954, 148.56813, world_animal_squirrel_eating - animals_squirrel (roa_wilderness_southriver_upper.ymt)
@@ -77484,6 +77484,7 @@
 2159.4097, -1165.9889, 40.517666, world_animal_duck_ground_resting - animals_ducks (bayounwa_wilderness_central.ymt)
 2159.4192, 546.00916, 97.84498, world_animal_squirrel_eating - animals_squirrel (roa_wilderness_southriver_lower.ymt)
 2159.4482, -1086.2001, 40.653404, world_hazard_gator_pit_land - animals_alligator (bayounwa_wilderness_central.ymt)
+2159.5095, -1359.5465, 40.55543, wb_herb_oleander (herbs_bna.psin), ffffff
 2159.5493, -1113.9576, 40.55837, stand - animals_alligator_sml (bayounwa_wilderness_central.ymt)
 2159.5535, -1075.9774, 41.131325, wb_herb_milkweed - herbs_crafting (herbs_bay.ymt)
 2159.5632, -385.3928, 39.98313, stand - animals_bullfrog (scm_kudzu.ymt)
@@ -77492,7 +77493,6 @@
 2159.6323, -1921.0646, 40.5, stand_imprecise - animals_alligator (bayounwa_wilderness_south.ymt)
 2159.8552, -1865.1106, 40.5, world_hazard_gator_pit - animals_alligator (bayounwa_wilderness_south.ymt)
 2159.9749, -1472.432, 40.59902, stand - animals_alligator_sml (bayounwa_wilderness_central.ymt)
-2159.509521, -1359.546509, 40.555431, none (herbs_bna.psin), ffffff
 2160.03, -613.152, 40.541138, world_animal_chicken_eating - animal_hen (lagras.ymt)
 2160.0024, -898.5894, 41.009636, world_hazard_gator_pit_land - animals_alligator (bayounwa_wilderness_central.ymt)
 2160.177, 1217.0415, 157.22794, world_animal_squirrel_eating - animals_squirrel (roa_wilderness_northriver.ymt)
@@ -79228,12 +79228,12 @@
 2244.4338, 294.949, 43.52137, stand - animals_ducks (roa_wilderness_southriver_lower.ymt)
 2244.5227, -97.67388, 46.116756, world_animal_sparrow_on_perch - animals_sparrows (macleanshouse.ymt)
 2244.5789, -127.153046, 45.448956, walk - animals_dog_collie (macleanshouse.ymt)
+2244.5813, -1589.3131, 40.987377, wb_herb_oleander (herbs_bna.psin), ffffff
 2244.6338, -1327.6248, 40.50001, world_hazard_gator_pit - animals_alligator (bayounwa_wilderness_central.ymt)
 2244.7202, -148.93076, 45.51011, walk - animals_dog_collie (macleanshouse.ymt)
 2244.7493, 1410.4148, 91.66572, world_animal_sparrow_eating_ground - animals_songbird (roa_wilderness_northriver.ymt)
 2244.7502, 2041.3657, 205.13411, world_animal_squirrel_eating - animals_squirrel (roa_wilderness_farnorth.ymt)
 2244.9988, -621.4606, 40.527832, world_animal_heron_resting - animals_cranewhooping - bayou_animals (bayounwa_wilderness_north_central.ymt)
-2244.581299, -1589.313110, 40.987377, none (herbs_bna.psin), ffffff
 2245.057, -379.30127, 40.764545, player_camp_marker - wb_playercamp_wilderness (playercamps_blu_temp.ymt)
 2245.162, 1222.8857, 119.50297, world_animal_rabbit_grazing - animals_rabbit (roa_wilderness_northriver.ymt)
 2245.236, -1128.2288, 41.91179, world_animal_boar_sitting - animals_boar (bayounwa_wilderness_central.ymt)
@@ -81077,6 +81077,7 @@
 2310.8794, 1531.5925, 126.04349, world_animal_rabbit_grazing - animals_rabbit (roa_wilderness_northriver.ymt)
 2310.8833, 1631.1844, 86.46158, world_animal_bird_on_perch - animals_songbird (roa_wilderness_northriver.ymt)
 2310.9045, 379.18884, 52.234886, world_animal_rabbit_grazing - animals_rabbit (roa_wilderness_southriver.ymt)
+2310.9065, -410.38498, 41.14025, wb_herb_milkweed (herbs_bna.psin), ffffff
 2310.9148, -150.30809, 40.38513, drive (roa_wilderness_central_traffic.ymt)
 2310.9575, -1025.0486, 40.5, world_hazard_gator_pit - animals_alligator (bayounwa_wilderness_central.ymt)
 2310.024414, -1480.048218, 41.502823, world_human_smoke (criardslaughterhouse.psin), ffffff
@@ -81086,7 +81087,6 @@
 2310.497559, -1426.768066, 41.534256, world_human_guard (criardslaughterhouse.psin), ffffff
 2310.513672, -1451.583130, 41.574211, walk - hide_cri_dead_guy_1 (criardslaughterhouse.psin), ffffff
 2310.625977, -1460.430542, 41.603939, world_human_sack_put_down_1 (criardslaughterhouse.psin), ffffff
-2310.906494, -410.384979, 41.140251, none (herbs_bna.psin), ffffff
 2310.993408, -1452.517822, 41.570614, world_human_drinking (criardslaughterhouse.psin), ffffff
 2311.0037, 59.30655, 50.371777, world_animal_turkey_grazing - animals_turkeys_wild (roa_wilderness_southriver_lower.ymt)
 2311.189, 1862.5945, 136.86217, world_animal_sparrow_eating_ground - animals_songbird (roa_wilderness_farnorth.ymt)
@@ -81611,6 +81611,7 @@
 2328.4402, 990.6409, 75.23774, world_animal_rabbit_grazing - animals_rabbit_poisoned (roa_wilderness_southriver.ymt)
 2328.4402, 990.6409, 75.23774, world_animal_rabbit_grazing - animals_rabbit_poisoned (roa_wilderness_southriver_upper.ymt)
 2328.4404, 1816.051, 121.95108, world_animal_deer_grazing - animals_buck (roa_wilderness_northriver.ymt)
+2328.5562, -2029.8236, 40.528156, wb_herb_oleander (herbs_bna.psin), ffffff
 2328.5571, 113.557335, 48.33689, world_animal_sparrow_on_perch - animals_sparrow_rigs (roa_wilderness_southriver_lower.ymt)
 2328.5576, -1280.0348, 44.665226, world_human_farmer_weeding - nbx_grounds_keeper_1 (saintdenis_residential.ymt)
 2328.5576, 540.79834, 85.19594, world_animal_deer_grazing - animals_deer - roanoke_animals (roa_wilderness_southriver.ymt)
@@ -81622,7 +81623,6 @@
 2328.8335, -540.6296, 40.499992, drive - bay_central_traffic (bayounwa_wilderness_central_traffic.ymt)
 2328.8843, 1483.1691, 136.71808, world_animal_squirrel_eating - animals_chipmunk (roa_wilderness_northriver.ymt)
 2328.9336, -1463.8671, 44.912918, world_human_box_pickup_1 - sdn_docks_male (saintdenis_docks_west.ymt)
-2328.556152, -2029.823608, 40.528156, none (herbs_bna.psin), ffffff
 2329.19, 88.48937, 49.54727, world_animal_boar_grazing - animals_boar - roanoke_animals (roa_wilderness_southriver_lower.ymt)
 2329.0283, -1325.6039, 42.438404, world_animal_rat_eating - animals_rat (bayounwa_wilderness_central.ymt)
 2329.573, 1310.98, 95.84631, world_human_guard_scout (beaverhollow.ymt)
@@ -82045,9 +82045,9 @@
 2342.6157, 590.1868, 76.1646, world_animal_rabbit_grazing - animals_rabbit (roa_wilderness_southriver_upper.ymt)
 2342.7297, -1481.0011, 44.927525, world_human_sugar_sack_pickup_1 - sdn_docks_male (saintdenis_docks_west.ymt)
 2342.8213, 1349.61, 105.464584, world_human_sit_ground_coffee_drink - perschar_comp_abigail (beaverhollow.ymt)
+2342.8425, -1054.5343, 42.824287, wb_herb_milkweed (herbs_bna.psin), ffffff
 2342.8882, 135.14053, 45.216953, world_animal_deer_grazing - animals_buck (roa_wilderness_southriver_lower.ymt)
 2342.9492, 844.44965, 82.19317, wb_disco_dreamcatchers - wb_discoverables (disco_roa.ymt)
-2342.842529, -1054.534302, 42.824287, none (herbs_bna.psin), ffffff
 2343.0076, 1253.3938, 85.251785, world_animal_bird_on_perch - animals_sparrow_rigs (roa_wilderness_northriver.ymt)
 2343.0244, 1354.677, 105.26884, world_camp_jack_sleep - perschar_comp_jack (beaverhollow.ymt)
 2343.476, -452.9085, 40.78742, stand - animals_bullfrog (blu_wilderness_west.ymt)
@@ -82776,6 +82776,7 @@
 2365.1594, 1276.9539, 108.09171, walk (beaverhollow.ymt)
 2365.1643, 1404.2999, 128.97328, walk - perschar_comp_adlers (beaverhollow.ymt)
 2365.1682, 1330.0298, 104.91384, world_animal_horse_grazing (beaverhollow.ymt)
+2365.1858, -734.6247, 41.020782, wb_herb_oleander (herbs_bna.psin), ffffff
 2365.2556, 1354.172, 105.13046, world_human_washboard_basin - perschar_comp_tilly (beaverhollow.ymt)
 2365.2783, 837.53546, 78.39859, ransack_reach_over_volume_wide_ground_pickup - amb_gang_campfire_hat (gangcamps_amb_roa.ymt)
 2365.2883, 1040.1284, 86.43081, world_animal_turkey_grazing - animals_turkeys_wild (roa_wilderness_northriver.ymt)
@@ -82796,7 +82797,6 @@
 2365.7012, 28.716373, 43.094242, world_animal_squirrel_eating - animals_squirrel (roa_wilderness_southriver_lower.ymt)
 2365.8164, -645.8135, 40.77599, world_animal_big_cat_resting - animals_panther (bayounwa_wilderness_north_central.ymt)
 2365.8176, 1350.8204, 105.19713, ransack_reach_over_volume_1m0_0m5_2m0 - p_m_zero (beaverhollow.ymt)
-2365.185791, -734.624695, 41.020782, none (herbs_bna.psin), ffffff
 2365.622314, -1530.406616, 41.488495, world_human_stand_fishing - nbx_docks_male (newbordeaux_docks.psin), ffffff
 2366.28, 2038.3309, 171.62126, world_animal_rabbit_grazing - animals_rabbit (roa_wilderness_farnorth.ymt)
 2366.65, 236.79916, 50.419094, world_animal_turkey_grazing - animals_turkeys_wild (roa_wilderness_southriver.ymt)
@@ -83046,6 +83046,7 @@
 2373.2458, 1434.2234, 138.0661, world_animal_squirrel_eating - animals_chipmunk (roa_wilderness_northriver.ymt)
 2373.2478, 1292.0371, 110.06906, world_animal_squirrel_eating - animals_chipmunk (roa_wilderness_northriver.ymt)
 2373.3906, -509.41284, 40.5, world_hazard_gator_pit - animals_alligator (bayounwa_wilderness_north_central.ymt)
+2373.4849, -1350.0182, 42.36339, wb_herb_milkweed (herbs_bna.psin), ffffff
 2373.4863, -1203.4069, 44.9903, world_human_broom_working - sdn_laborers (saintdenis_residential.ymt)
 2373.5378, 603.7062, 71.91077, world_animal_bird_on_perch - animals_scenario_birds_on_perch (roa_wilderness_southriver.ymt)
 2373.5378, 603.7062, 71.91077, world_animal_bird_on_perch - animals_scenario_birds_on_perch (roa_wilderness_southriver_upper.ymt)
@@ -83059,7 +83060,6 @@
 2373.9446, -1144.6561, 45.533215, world_human_stare_stoic - sdn_police (saintdenis_residential.ymt)
 2373.9531, 1340.9912, 105.19356, world_human_bucket_drink_ladle_ground (beaverhollow.ymt)
 2373.9697, 1711.0934, 99.606606, world_animal_coyote_digging - animals_coyotes - roanoke_animals (roa_wilderness_northriver.ymt)
-2373.484863, -1350.018188, 42.363392, none (herbs_bna.psin), ffffff
 2374.0024, 1049.4309, 89.47303, world_animal_sparrow_on_perch - animals_sparrow_rigs (roa_wilderness_northriver.ymt)
 2374.063, 787.801, 69.18689, world_animal_squirrel_eating - animals_squirrel (roa_wilderness_southriver.ymt)
 2374.063, 787.801, 69.18689, world_animal_squirrel_eating - animals_squirrel (roa_wilderness_southriver_upper.ymt)
@@ -83170,6 +83170,7 @@
 2377.1626, -1125.3278, 45.44153, walk - sdn_police (saintdenis_residential_north.ymt)
 2377.1711, -1041.5875, 42.979496, world_human_farmer_rake - sdn_laborers (saintdenis_residential_north.ymt)
 2377.2114, 1348.5308, 105.133026, world_human_coffee_drink - perschar_comp_tilly (beaverhollow.ymt)
+2377.2188, -536.2093, 40.399883, wb_herb_oleander (herbs_bna.psin), ffffff
 2377.2434, 2009.453, 170.61342, wb_horse_herb_wild_carrots - herbs_horse (herbs_roa.ymt)
 2377.3713, 1349.0421, 105.13081, stand (beaverhollow.ymt)
 2377.4124, -832.4807, 40.5444, stand - animals_snake (bayounwa_wilderness_north_central.ymt)
@@ -83187,7 +83188,6 @@
 2377.8782, 1349.2748, 105.13031, world_human_sit_drink - perschar_comp_uncle (beaverhollow.ymt)
 2377.8853, 1399.7423, 128.83733, world_animal_squirrel_eating - animals_chipmunk (roa_wilderness_northriver.ymt)
 2377.9097, 1350.6475, 105.13012, stand (beaverhollow.ymt)
-2377.218750, -536.209290, 40.399883, none (herbs_bna.psin), ffffff
 2378.145, 574.8364, 73.067566, world_animal_crow_on_perch - animals_crows (roa_wilderness_southriver.ymt)
 2378.145, 574.8364, 73.067566, world_animal_crow_on_perch - animals_crows (roa_wilderness_southriver_upper.ymt)
 2378.387, -586.092, 40.58117, world_animal_big_cat_drinking - animals_panther (bayounwa_wilderness_north_central.ymt)
@@ -85248,11 +85248,11 @@
 2435.6177, 641.4281, 68.825836, world_animal_coyote_howling - animals_coyotes - amb_gang_campfire_scavengers (gangcamps_amb_roa.ymt)
 2435.6284, 1326.6234, 118.31887, world_animal_squirrel_eating - animals_squirrel (roa_wilderness_northriver.ymt)
 2435.7676, 1094.3169, 93.22762, world_animal_turkey_grazing - animals_turkeys_wild (roa_wilderness_northriver.ymt)
+2435.8184, -1771.7357, 40.572784, wb_herb_milkweed (herbs_bna.psin), ffffff
 2435.8828, -1307.0659, 44.99524, world_human_farmer_weeding - sdn_laborers (saintdenis_residential.ymt)
 2435.9546, 196.19894, 46.53411, world_animal_rabbit_grazing - animals_rabbit (roa_wilderness_southriver_lower.ymt)
 2435.9563, -825.8475, 40.89506, world_animal_boar_grazing - animals_boar (bayounwa_wilderness_north_central.ymt)
 2435.202148, -1241.987549, 45.104443, 0x19646DE8 - nbx_residential_male (newbordeaux_residential.psin), ffffff
-2435.818359, -1771.735718, 40.572784, none (herbs_bna.psin), ffffff
 2436.0046, -1504.6759, 44.968964, world_human_push_broom_working - sdn_docks_male (saintdenis_docks_west.ymt)
 2436.0146, -1179.9758, 45.497368, walk - sdn_police (saintdenis_residential.ymt)
 2436.161, -562.22253, 40.519993, stand - animals_turtle - bayou_animals (bayounwa_wilderness_north_central.ymt)
@@ -94204,6 +94204,7 @@
 2630.5461, -1273.408, 51.259136, world_human_lean_back_wall_smoking_bar_ca - sdn_police (saintdenis_church.ymt)
 2630.5574, -992.40753, 43.197594, world_human_smoke_cigar - sdn_upperclass_male (saintdenis_residential_north.ymt)
 2630.5632, -920.0367, 41.333817, world_human_sugar_sack_pickup_2 - sdn_laborers_black (saintdenis_ruralsouth.ymt)
+2630.6055, -867.40283, 40.875797, wb_herb_milkweed (herbs_bna.psin), ffffff
 2630.6204, -850.6972, 41.457928, world_human_farmer_rake - sdn_laborers (saintdenis_ruralnorth.ymt)
 2630.6758, -503.43845, 40.75971, world_hazard_gator_pit_land - animals_alligator (bayounwa_wilderness_north_east.ymt)
 2630.6877, -1399.8207, 45.323116, sc_world_human_sit_ground_passed_out - sdn_laborers (saintdenis_mainstreet.ymt)
@@ -94219,7 +94220,6 @@
 2630.9805, -1442.1433, 45.43986, world_human_push_broom_working - sdn_laborers (saintdenis_industrial.ymt)
 2630.220947, -1233.333374, 58.586559, world_human_stand_waiting - nbx_upperclass_female (newbordeaux_french.psin), ffffff
 2630.460938, -1381.274048, 45.165108, levdes_spawn_law - nbx_police - nbx_law (newbordeaux_industrial.psin), ffffff
-2630.605469, -867.402832, 40.875797, wb_herb_oleander (herbs_bna.psin), ffffff
 2630.658203, -1229.045776, 52.380379, world_human_drinking_posh - nbx_upperclass_male (newbordeaux_french.psin), ffffff
 2630.699707, -1233.632935, 53.188766, world_human_lean_wall_right - nbx_upperclass_male (newbordeaux_french.psin), ffffff
 2631.93, -1026.641, 43.161583, world_human_stand_waiting - sdn_middleclass_female_white (saintdenis_residential_north.ymt)
@@ -97871,6 +97871,7 @@
 2696.0518, -1260.1909, 53.601017, world_human_lean_back_wall - sdn_middleclass_male_white (saintdenis_church.ymt)
 2696.531, -18.483908, 53.245792, world_animal_deer_grazing - animals_buck (roa_wilderness_southcoast.ymt)
 2696.561, -1217.7922, 51.223934, world_human_shop_browse - sdn_lowerclass_female (saintdenis_french.ymt)
+2696.0586, -1020.3059, 42.842014, wb_herb_milkweed (herbs_bna.psin), ffffff
 2696.599, -385.21103, 40.499992, stand - animals_watersnake (blu_wilderness_west.ymt)
 2696.757, -1457.8927, 45.26688, world_human_stare_stoic - sdn_upperclass_male (saintdenis_trainstation.ymt)
 2696.809, -1149.951, 53.81482, world_human_clean_window - sdn_lowerclass_female (saintdenis_french.ymt)
@@ -97909,7 +97910,6 @@
 2696.9036, -1206.6539, 55.469265, world_human_inspect - sdn_middleclass_female - new_art_int (saintdenis_french.ymt)
 2696.9617, -520.3329, 40.499992, stand - animals_turtle (bayounwa_wilderness_north_east.ymt)
 2696.9841, -1281.446, 56.619965, world_human_fan - sdn_middleclass_female_white (saintdenis_church.ymt)
-2696.058594, -1020.305908, 42.842014, none (herbs_bna.psin), ffffff
 2696.409180, -1271.384644, 49.500465, levdes_spawn_law - nbx_police - nbx_law (newbordeaux_commercial.psin), ffffff
 2696.417969, -1378.632812, 45.336124, world_human_lean_wall_right - nbx_townfolk_male (newbordeaux_commercial.psin), ffffff
 2696.493164, -1189.381958, 51.084248, world_human_stand_waiting - nbx_townfolk_female - nbx_odriscolls_5_reg_2 (newbordeaux_french.psin), ffffff
@@ -108124,6 +108124,7 @@
 2961.657, 1370.1823, 52.846615, world_human_sack_pickup_2 - asb_plant_workers - ann_coaltipple_int_main (annesburg_factory.ymt)
 2961.0977, 1368.9608, 43.790462, levdes_spawn_law (levdes_annesburg.ymt)
 2961.1306, 748.5058, 51.15822, world_animal_dog_sniffing_ground - animals_dog_australiansheperd (vanhorn_horseshop.ymt)
+2961.1445, -1158.3916, 40.900963, wb_herb_milkweed (herbs_bna.psin), ffffff
 2961.2854, 1272.267, 42.851963, world_human_pee - asb_guards (annesburg.ymt)
 2961.3765, 1765.7566, 87.01112, world_animal_sparrow_eating_ground - animals_songbird (roa_wilderness_farnorth.ymt)
 2961.3772, 1376.4208, 50.32263, world_human_smoke - asb_plant_workers - ann_coaltipple_int_main (annesburg_factory.ymt)
@@ -108147,7 +108148,6 @@
 2961.8235, 1421.6097, 44.04397, world_human_push_broom_working - asb_house_under_construction (annesburg_lumberyards.ymt)
 2961.8582, 1307.355, 43.486244, world_human_guard_military (annesburg.ymt)
 2961.9792, 775.7395, 50.399418, world_animal_horse_grazing_domestic - animal_horse_corral (vanhorn_horseshop.ymt)
-2961.144531, -1158.391602, 40.900963, wb_herb_oleander (herbs_bna.psin), ffffff
 2962.116, 785.26135, 50.399456, world_animal_horse_grazing_domestic - animal_horse_corral (vanhorn_horseshop.ymt)
 2962.0208, 477.5082, 47.617638, world_human_lean_wall_right - vht_townfolk_male - van_citizen (vanhorntradingpost.ymt)
 2962.384, 1418.1868, 44.044037, world_human_lumber_put_down_3 - asb_townfolk_males - asb_house_under_construction (annesburg_lumberyards.ymt)
