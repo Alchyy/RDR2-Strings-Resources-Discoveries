@@ -97,7 +97,7 @@ Key: 0x1997D689
 === HASH COLLISION ===
 Key: 0x19C14100
 [0] player_zero_bandolier_010_c0_000_m+hi
-[1] ?
+[1] UNKNOWN (strauss.yldb)
 ======================
 
 === HASH COLLISION ===
@@ -1010,4 +1010,52 @@ Key: 0x541868F5
 Key: 0x19950512
 [0] val_sal_int_decal08+hi
 [1] cliff_edges[131][151]
+======================
+
+=== HASH COLLISION ===
+Key: 0x149F3DE7
+[0] 0882_a_m_m_civ_poor_black_aggressive_02b
+[1] UNKNOWN (1006_s_m_m_dispatchpolice_white_02.yldb)
+======================
+
+=== HASH COLLISION ===
+Key: 0xF82860FB
+[0] 1496.737061,422.941803,89.601402
+[1] UNKNOWN (1035_u_m_m_sdcustomvendor_01.yldb)
+======================
+
+=== HASH COLLISION ===
+Key: 0xD67F36C2
+[0] 2834.517578,-1302.755615,45.726822
+[1] UNKNOWN (uncle_es.yldb)
+======================
+
+=== HASH COLLISION ===
+Key: 0xD0B9DEEB
+[0] 5027432
+[1] UNKNOWN (unsg2au.yldb)
+======================
+
+=== HASH COLLISION ===
+Key: 0x0EEF620F
+[0] 55
+[1] UNKNOWN (0484_u_m_m_valsheriff_01.yldb)
+======================
+
+=== HASH COLLISION ===
+Key: 0xE5C50FBB
+[0] 56
+[1] UNKNOWN (0484_u_m_m_valsheriff_01.yldb)
+======================
+
+=== HASH COLLISION ===
+Key: 0x085A7EEF
+[0] 59.831299
+[1] UNKNOWN (reir_rider.yldb)
+======================
+
+=== HASH COLLISION ===
+Key: 0xC8EBD680
+[0] amb_rest_drunk@world_human_drinking@moonshine@male_d@idle_c
+[1] UNKNOWN (news.yldb)
 ======================

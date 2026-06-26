@@ -2535,7 +2535,6 @@ Light Blue = Miscellanous
 4170.815918, -3662.136475, 156.693207, world_player_respawn_inspect_photo (respawn_guarmasouth.psin) (PS4), ffffff
 4315.089844, -3432.092529, 80.091606, world_player_respawn_inspect_photo (respawn_guarmanorth.psin) (PS4), ffffff
 
-
 ======================== PERSCHARS ========================
 
 -3729.53, -2601.11, -13.94, armadillo/amd_train_station_worker - shop (psp_armadillo.ymt), ec42f5

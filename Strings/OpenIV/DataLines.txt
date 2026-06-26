@@ -2555,7 +2555,6 @@
 924
 925
 0926_a_m_m_civ_poor_white_avoid_09
-0926_amd
 926
 0927_a_m_m_civ_poor_white_avoid_10
 927
@@ -30775,6 +30774,9 @@ a_m_m_vhtthug_01
 a_m_m_vhtthug_01_r2pvg
 a_m_m_vhttownfolk_01
 a_m_m_vhttownfolk_01_r2pvg
+a_m_m_waptownfolk_01
+a_m_m_waptownfolk_01^2
+a_m_m_waptownfolk_01^3
 a_m_m_wapwarriors_01
 a_m_m_wapwarriors_01^1
 a_m_m_wapwarriors_01^1_dual_nts2_int_p1_t06_shot_1
@@ -85023,6 +85025,7 @@ bool_timelapse2
 bool_timelapse3
 bool_timelapse4
 bool_timelapse5
+bool_timelapse_day
 bool_timelapse_early
 bool_timelapse_ifnight
 bool_timelapse_late
@@ -88636,6 +88639,7 @@ braith_guard1
 braith_guard2
 braith_mansion_props
 braithewaite_manor
+braithewaitemanor
 braithewaitemanor1
 braithewaitemanor2
 braithwaite
@@ -88778,6 +88782,7 @@ brandy_bottle
 brandywine
 brandywine drop
 brandywine drop (crates)
+brandywinedrop
 brave
 brave_01
 brave_02
@@ -148472,6 +148477,7 @@ cmpndm_top_inventions
 cmpndm_top_painters
 cmpndm_top_stage
 cmpndm_top_travel
+cmpndm_top_wildflora
 cmpndm_travel_airballoon
 cmpndm_travel_balenerwv
 cmpndm_travel_camelcaravan
@@ -157203,6 +157209,7 @@ component_melee_blade_material_9_desc
 component_melee_engraving_1
 component_melee_engraving_2
 component_melee_engraving_3
+component_melee_engraving_4
 component_melee_engraving_material_1
 component_melee_engraving_material_2
 component_melee_engraving_material_3
@@ -158182,6 +158189,7 @@ compsons stead
 compsons_stead
 compsons_stead_turnin_horses_nearby
 compsons_stead_turnin_players_mounted
+compsonsstead
 compstd
 comvelrdsthresh
 concern_exit_beau
@@ -159843,6 +159851,7 @@ coords
 coot's chapel
 coots chapel (crates)
 coots_chapel
+cootschapel
 cop
 cop01pr_combo_14_lod
 cop01pr_combo_dslod
@@ -318977,6 +318986,7 @@ kit_emote_reaction_who_me_1
 kit_emote_reaction_who_me_1_description
 kit_emote_reaction_yeehaw_1
 kit_emote_reaction_yeehaw_1_description
+kit_emote_styles_all
 kit_emote_taunt_best_shot_1
 kit_emote_taunt_best_shot_1_desc
 kit_emote_taunt_boohoo_1
@@ -337403,6 +337413,7 @@ maco_walkway_lod
 macomb's end
 macomb's end (boat)
 macombs end (vehicles)
+macombsend
 macro_shack01_lightbox
 mad_scientist
 madam_nazar
@@ -365921,6 +365932,7 @@ mortarpestlemorning
 mossy flats
 mossy flats (hideout)
 mossy_flats
+mossyflats
 mother
 motherboy_exit_a_f_m_waptownfolk_01
 motherboy_exit_ig_wapitiboy
@@ -469039,6 +469051,8 @@ pbl_idle_loop_a_chair_rancher
 pbl_idle_loop_b
 pbl_idle_loop_b_chair_rancher
 pbl_idle_loop_c
+pbl_idle_loop_hiding_anxious_a
+pbl_idle_loop_hiding_b
 pbl_idle_loop_tied_up_rancher
 pbl_idle_loops
 pbl_idle_ng
@@ -469459,6 +469473,7 @@ pbl_lowaim_to_cover_v1_right
 pbl_lowaim_to_cover_v2_left
 pbl_lowaim_to_cover_v2_right
 pbl_lowtohigh
+pbl_lt_gesture_callover
 pbl_lt_no_gesture_callover
 pbl_lt_skin_all
 pbl_lumbago
@@ -476293,6 +476308,7 @@ pl_enterlennyrunsacrossroof
 pl_enterright
 pl_envelope_loop
 pl_escape
+pl_escapenoose_react
 pl_every_child_deserves_to_eat
 pl_every_little_helps
 pl_evidence_of_wolf_p1
@@ -494969,6 +494985,7 @@ pro_worker_jack_bed_ambient
 pro_worker_jack_bed_cs
 pro_worker_lightbox
 pro_worker_p_bedbunk03x
+pro_worker_tabledressing
 pro_workers
 pro_workhouseint
 pro_workhouseint_shell
@@ -504454,6 +504471,7 @@ quakers cove
 quakers cove far
 quakers_cove
 quakers_cove_turnin_players_mounted
+quakerscove
 question
 question_01_ped02
 question_02_ped02
@@ -522512,6 +522530,7 @@ roanoke_vista3
 roanoke_vista4
 roanokeomj
 roanoketrapper
+roanokevalley
 roar_1
 roar_2
 roar_3
@@ -561356,6 +561375,11 @@ stool_f_loop_alt_6_waiting_for_shot
 stool_f_loop_alt_7_waiting_for_shot
 stool_flexfight_p1
 stool_flexfight_p2
+stool_folding
+stool_folding2
+stool_folding3
+stool_folding4
+stool_folding5
 stool_g_alt_player_shot
 stool_g_alt_player_shot_stomach
 stool_idle_a
@@ -568893,6 +568917,7 @@ takephoto_3_mason
 takephoto_3_shutter
 takephoto_3_tripod
 takepota
+takewinnings
 taking_too_long
 tal
 tal_0
@@ -570878,6 +570903,7 @@ theboyval-protection
 theboyval-ransackblocking
 theboyval-removeprotection
 theboyval-spawn-restrict
+theloft
 theme
 themed
 themes
@@ -608090,9 +608116,11 @@ wardrobe_coats_owned_page
 wardrobe_coats_tooltip
 wardrobe_complexion
 wardrobe_complexion_2
+wardrobe_corset_owned_page
 wardrobe_corset_tooltip
 wardrobe_corsets
 wardrobe_dresses
+wardrobe_dresses_owned_page
 wardrobe_dresses_tooltip
 wardrobe_eyebrows
 wardrobe_eyeliner
@@ -608130,6 +608158,7 @@ wardrobe_gunbelts_tooltip
 wardrobe_hair
 wardrobe_hair_accessories
 wardrobe_hair_accessories_tooltip
+wardrobe_hair_accessory_owned_page
 wardrobe_hat_crafted_page
 wardrobe_hat_owned_page
 wardrobe_hats
@@ -608230,8 +608259,10 @@ wardrobe_shirts_owned_page
 wardrobe_shirts_page
 wardrobe_shirts_tooltip
 wardrobe_skin_mottling
+wardrobe_skirt_owned_page
 wardrobe_skirt_tooltip
 wardrobe_skirts
+wardrobe_skirts_tooltip
 wardrobe_spots
 wardrobe_spurs_crafted_page
 wardrobe_spurs_owned_page
@@ -610703,6 +610734,7 @@ wilderness_l_friend
 wilderness_leader
 wilderness_leader_sony
 wilderness_m_friend
+wilderness_main_menu
 wilderness_n_friend
 wilderness_o_friend
 wilderness_p_friend
