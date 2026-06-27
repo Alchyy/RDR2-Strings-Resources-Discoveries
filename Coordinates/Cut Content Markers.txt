@@ -44,7 +44,7 @@ Light Blue = Miscellanous
 1819.87, 2353.94, 317.993, Witches Cauldron (cliff_edges[156][167].ymt), c92222
 1830, 2125, 250, Dzoavits Claim (Leaked Map), c92222
 1840, 2705, 420, The Loft (Leaked Map), c92222
-1995.42, 2156.24, 334.346, The Loft (cliff_edges[159][163].ymt), c92222
+1995, 2155, 340, The Loft (cliff_edges[159][163].ymt), c92222
 2415, 2910, 320, Doverhill (Leaked Map), c92222
 2440, -1450, 100, Criard Slaughterhouse (Leaked Map), c92222
 2482.72, 1579.87, 89.2516, Manito Glade (shack_ai) (cliff_edges[169][151].ymt), c92222
@@ -2791,17 +2791,51 @@ Light Blue = Miscellanous
 
 ==================== SCRIPT COORDINATES ===================
 
+-2307.8516, 2082.9495, 311.5616, blip_rc_gunslinger_2 (short_update.ysc), 2323FF
 -1699.8, -2103.5, 92, m_volPacUnionRR_Restriction (talltrees_population.ysc), 2323FF
 -1669.9, -2097.6, 45.0918, region_tal_pacificunionrr (main.ysc), 2323FF
 -786.504, 1938.825, 345.5919, Shelter Dialogue (rcm_pearson1.ysc), 2323FF
+-662.0871, 1941.7153, 283.2546, CSTAG_FLOW_WNT1_POST (ysc files), 2323FF
+-391.95374, 1929.7347, 246.22096, PRHM6_IG5_ARGUE (homeinvasion.ysc), 2323FF
+-386.6034, 1928.5148, 246.19598, PRHM6_IG5_ARGUE (homeinvasion.ysc), 2323FF
+-384.33728, 1928.51, 246.19087, PRHM6_IG5_ARGUE (homeinvasion.ysc), 2323FF
 -382.5, 1917.5, 225, m_volChezPorter_Restriction (grizzlieseast_population.ysc), 2323FF
 -380.2749, 1922.471, 295.698, Nameless Volume (chezporter.ysc), 2323FF
 32.3207, 2092.403, 276.5115, 0xB215B9AD (shack_gunfight) (shack scripts), 2323FF
+118.8025, 2446.6956, 349.1444, func_218 case 49 (rcm_war_veteran3.ysc), 2323FF
+119.28, 2446.0137, 349.3629, func_218 case 12 (rcm_war_veteran3.ysc), 2323FF
+127.3861, 2444.9675, 349.8318, func_218 case 50 (rcm_war_veteran3.ysc), 2323FF
+169.1442, 2379.3037, 318.6913, func_218 case 48 (rcm_war_veteran3.ysc), 2323FF
+178.7832, 2333.8496, 325.9737, func_218 case 47 (rcm_war_veteran3.ysc), 2323FF
+268.6854, 2253.4016, 299.2381, func_218 case 46 (rcm_war_veteran3.ysc), 2323FF
+288.85248, 2271.4583, 310.17465, func_218 case 45 (rcm_war_veteran3.ysc), 2323FF
+324.08, 2308.46, 300.31, func_218 case 28 (rcm_war_veteran3.ysc), 2323FF
+352.3065, 2559.3, 439.8306, func_218 case 42 (rcm_war_veteran3.ysc), 2323FF
+352.3065, 2559.3, 439.8306, func_218 case 44 (rcm_war_veteran3.ysc), 2323FF
+354.1978, 2570.505, 441.5386, func_218 case 11 (rcm_war_veteran3.ysc), 2323FF
+356.7071, 2573.2437, 442.0881, func_218 case 43 (rcm_war_veteran3.ysc), 2323FF
 537.9389, 3004.24, 485.7947, region_grz_cohutta (main.ysc), 2323FF
 718.4495, 3508.114, 587.7103, region_grz_tempest_rim (main.ysc), 2323FF
+762.142, 1455.038, 160.172, KIDNAP_VICTIM - REKV (beat scripts), 2323FF
+830.1321, -295.2338, 97.5959, CSTAG_FLOW_FUD1_POST (ysc files), 2323FF
+840.1897, 1221.4702, 141.6344, ESCORT - REESC (beat scripts), 2323FF
 1023.768, 1619.207, 200.1601, CS_CharlesSmith (native_son3.ysc), 2323FF
 1045.613, 1579.018, 193.0643, FIRE::STOP_FIRE_IN_RANGE (native_son3.ysc), 2323FF
+1050.879, 1568.52, 195.77, ENTITY::IS_ENTITY_IN_ANGLED_AREA (native_son3.ysc), 2323FF
 1054.465, 1592.802, 192.849, FIRE::STOP_FIRE_IN_RANGE (native_son3.ysc), 2323FF
+1065.561, 1579.638, 199.819, ENTITY::IS_ENTITY_IN_ANGLED_AREA (native_son3.ysc), 2323FF
+1128.2689, 1948.5778, 334.9919, func_218 case 21 (rcm_war_veteran3.ysc), 2323FF
+1128.2689, 1948.5778, 334.9919, func_218 case 22 (rcm_war_veteran3.ysc), 2323FF
+1128.2689, 1948.5778, 334.9919, func_218 case 23 (rcm_war_veteran3.ysc), 2323FF
+1128.2689, 1948.5778, 334.9919, func_218 case 24 (rcm_war_veteran3.ysc), 2323FF
+1148.9904, 1456.2644, 190.799, ESCORT - REESC (beat scripts), 2323FF
+1157.7844, 1931.2482, 333.62918, func_218 case 20 (rcm_war_veteran3.ysc), 2323FF
+1186.3984, 1895.2094, 318.5148, func_218 case 19 (rcm_war_veteran3.ysc), 2323FF
+1214.0907, 1895.3981, 310.1805, func_218 case 18 (rcm_war_veteran3.ysc), 2323FF
+1216.7365, 1894.9833, 309.64813, func_218 case 16 (rcm_war_veteran3.ysc), 2323FF
+1223.2433, 1884.0641, 314.5644, func_218 case 17 (rcm_war_veteran3.ysc), 2323FF
+1225.9594, 1886.5812, 314.3686, func_218 case 15 (rcm_war_veteran3.ysc), 2323FF
+1265.729, 1509.506, 184.41, func_207 case 22 (rcm_monroe11.ysc), 2323FF
 1290.313, -7270.661, 80.8624, cs_angel - DragGuard01 (fussar2.ysc), 2323FF
 1292.187, -7272.501, 80.22279, m_volMission[FUS2_VOLUME_CLIMBBAPTISTESKIP] (fussar2.ysc), 2323FF
 1292.478, -7269.083, 79.29964, m_volMission[FUS2_VOLUME_BAPTISTECAPTURETOP] (fussar2.ysc), 2323FF
@@ -2811,8 +2845,10 @@ Light Blue = Miscellanous
 1298.346, -7268.776, 76.83347, m_volMission[FUS2_VOLUME_FIRSTCLIMBTOPSECOND] (fussar2.ysc), 2323FF
 1308.86, -7215.31, 50.64332, m_volMission[FUS2_VOLUME_FIRSTCLIMBTOP] (fussar2.ysc), 2323FF
 1308.387, -7215.089, 50.64332, m_volMission[FUS2_VOLUME_BOTTOM_BOOST] (fussar2.ysc), 2323FF
+1315.677, 1471.6691, 160.1485, KIDNAP_VICTIM - REKV (beat scripts), 2323FF
 1339.638, -7207.559, 46.81272, m_volMission[FUS2_VOLUME_HANGINGPEDSPOT] (fussar2.ysc), 2323FF
 1348.062, -7207.51, 47.2621, m_volMission[FUS2_VOLUME_HANGINGPEDLOOKOVER] (fussar2.ysc), 2323FF
+1561.3123, 1602.5398, 188.8227, KIDNAP_VICTIM - REKV (beat scripts), 2323FF
 1652.195, 948.5524, 111.6896, (homeinvasion.ysc), 2323FF
 1666.794, 2180.789, 316.349, 0x6D798BC3 (shack_loony_cult) (shack scripts), 2323FF
 2726.63, 2524.21, 172.3039, right horse 8 (train_robbery4.ysc), 2323FF
@@ -2820,19 +2856,21 @@ Light Blue = Miscellanous
 2792.01, 738.0481, 75.1611, PHINEAS_T_RAMSBOTTOM (rcm_collect_cigarette_cards1.ysc), 2323FF
 2794.079, 2518.085, 163.5692, right horse 11 (train_robbery4.ysc), 2323FF
 2795.617, 2507.83, 161.8457, right horse 10 (train_robbery4.ysc), 2323FF
+2892.75, 2593.08, 185.33, TASK::TASK_LOOK_AT_COORD (rcm_crackpot2.ysc), 2323FF
 3018.176, 556.0834, 43.6546, PHINEAS_T_RAMSBOTTOM (rcm_collect_cigarette_cards1.ysc), 2323FF
 3043.875, 2282.176, 133.0114, s_m_y_army_01 (train_robbery4.ysc), 2323FF
 3059.949, 2276.733, 128.0094, s_m_y_army_01 (train_robbery4.ysc), 2323FF
 3077.661, 2257.308, 125.1843, s_m_y_army_01 (train_robbery4.ysc), 2323FF
 3078.904, 2259.303, 124.7211, s_m_y_army_01 (train_robbery4.ysc), 2323FF
 3114.044, 2187.458, 112.8681, left horse 20 (train_robbery4.ysc), 2323FF
-3221.388, 1809.026, 74.813, INJURED RIDER (beat scripts), 2323FF
+3221.388, 1809.026, 74.813, INJURED_RIDER - REIR (beat scripts), 2323FF
 3234.209, 2144.786, 105.5411, left horse 21 (train_robbery4.ysc), 2323FF
-3266.224, 1664.717, 60.269, INJURED RIDER (beat scripts), 2323FF
-3268.065, 1618.25, 51.5041, INJURED RIDER (beat scripts), 2323FF
+3266.224, 1664.717, 60.269, INJURED_RIDER - REIR (beat scripts), 2323FF
+3268.065, 1618.2496, 51.5041, INJURED_RIDER - REIR (beat scripts), 2323FF
 3331.508, 45.3197, 40.9721, BALLOONIST - cs_balloonoperator (gang2.ysc), 2323FF
 3410.746, -25.4598, 41.4789, (gang2.ysc), 2323FF
 3468.599, 291.5449, 42.8388, BALLOONIST - cs_balloonoperator (gang2.ysc), 2323FF
+3477.995, -3613.734, 44.629, OBJECT::CREATE_OBJECT (p_cs_playersatchel) (guama1.ysc), 2323FF
 3578.945, 106.222, 44.673, VOLUME_PRISON_ISLAND_SCENARIO_BLOCKING (gang2.ysc), 2323FF
 3600.645, 1797.846, 68.0986, PHINEAS_T_RAMSBOTTOM (rcm_collect_cigarette_cards1.ysc), 2323FF
 3631.745, 1868.769, 50.32811, Van horn - m_volTailorComp (vanhorntradingpost.ysc), 2323FF
@@ -2887,6 +2925,7 @@ Light Blue = Miscellanous
 3917, -3264.6, 54, guama_3_volume[0] (guama3.ysc), 2323FF
 3920.9, -3415.8, 56.3, stealth (guama3.ysc), 2323FF
 3920.858, -3275.098, 54.4434, stealth (guama3.ysc), 2323FF
+3923.916, -3192.353, 60.3056, CSTAG_FLOW_FUS1_POST (ysc files), 2323FF
 3924.6, -3408.8, 56.5, script_midcombat (guama3.ysc), 2323FF
 3927.304, -3411.76, 54.3244, HERCULE (guama3.ysc), 2323FF
 3927.984, -3414.674, 56.4, guama_3_volume[11] (guama3.ysc), 2323FF
