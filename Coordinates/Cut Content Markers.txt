@@ -2848,7 +2848,11 @@ Light Blue = Miscellanous
 1315.677, 1471.6691, 160.1485, KIDNAP_VICTIM - REKV (beat scripts), 2323FF
 1339.638, -7207.559, 46.81272, m_volMission[FUS2_VOLUME_HANGINGPEDSPOT] (fussar2.ysc), 2323FF
 1348.062, -7207.51, 47.2621, m_volMission[FUS2_VOLUME_HANGINGPEDLOOKOVER] (fussar2.ysc), 2323FF
+1522.035, 1861.257, 207.471, (train_robbery3.ysc), 2323FF
 1561.3123, 1602.5398, 188.8227, KIDNAP_VICTIM - REKV (beat scripts), 2323FF
+1563.85, 1811.65, 208.1, (train_robbery3.ysc), 2323FF
+1573.09, 1785.31, 206.36, OBJECT::CREATE_OBJECT (p_cigarette_cs01x) (train_robbery3_intro.ysc), 2323FF
+1573.85, 1784.88, 206.38, OBJECT::CREATE_OBJECT (p_cigarette_cs01x) (train_robbery3_intro.ysc), 2323FF
 1652.195, 948.5524, 111.6896, (homeinvasion.ysc), 2323FF
 1666.794, 2180.789, 316.349, 0x6D798BC3 (shack_loony_cult) (shack scripts), 2323FF
 2726.63, 2524.21, 172.3039, right horse 8 (train_robbery4.ysc), 2323FF

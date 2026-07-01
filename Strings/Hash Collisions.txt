@@ -1059,3 +1059,33 @@ Key: 0xC8EBD680
 [0] amb_rest_drunk@world_human_drinking@moonshine@male_d@idle_c
 [1] UNKNOWN (news.yldb)
 ======================
+
+=== HASH COLLISION ===
+Key: 0x24EC5898
+[0] pl_crowd_loop
+[1] UNKNOWN (arthur.yldb)
+======================
+
+=== HASH COLLISION ===
+Key: 0xF09467C5
+[0] animal_dog_bluetickcoonhound
+[1] UNKNOWN (brt1aud.yldb)
+======================
+
+=== HASH COLLISION ===
+Key: 0x382FFD8B
+[0] h_03__hd_0_-3_2
+[1] UNKNOWN (john_player.yldb)
+======================
+
+=== HASH COLLISION ===
+Key: 0xB4F298BA
+[0] input_multiplayer_dead_switch_respawn
+[1] spgj_tbp19a_1
+======================
+
+=== HASH COLLISION ===
+Key: 0x55742E4E
+[0] s_bckinboat_l
+[1] UNKNOWN (teen_jack.yldb)
+======================

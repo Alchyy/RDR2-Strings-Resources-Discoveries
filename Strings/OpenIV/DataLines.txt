@@ -429354,7 +429354,6 @@ on_ground_idle_yukon
 on_headshot
 on_horse_loop_ig_hoseamatthews
 on_horse_loop_p_c_horse_01^1
-on_horse_speed_restriction_ignore_mount_class
 on_horse_speed_restriction_jog
 on_horse_speed_restriction_walk
 on_kill

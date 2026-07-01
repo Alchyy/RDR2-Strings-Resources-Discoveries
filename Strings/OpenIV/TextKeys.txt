@@ -990,6 +990,7 @@ abi21_mcs1_14
 abi21_mcs1_15
 abi21_mcs1_li_1
 abi31_b_blackw
+abi31_b_boat
 abi31_b_cinema
 abi31_b_lake
 abi31_b_photo
@@ -1019,6 +1020,7 @@ abi31_f_uh
 abi31_f_wag
 abi31_f_wan
 abi31_h_sc
+abi31_i_abi
 abi31_ilo_tickets
 abi31_o_gcinema
 abi31_o_getboat
@@ -3393,6 +3395,7 @@ atz_ins_trb_el
 atz_ins_trb_mo
 atz_inspect
 aub
+auddes
 auddevsup
 auddir
 auddirn
@@ -3995,6 +3998,7 @@ award_role_collector_set_wildflowers
 award_role_collector_set_wildflowers_desc
 award_role_collector_set_witch_hunt
 award_role_collector_set_witch_hunt_desc
+awards_empty
 awards_set_g_007
 axisj_0
 axisj_1
@@ -4233,9 +4237,11 @@ banu1_actbalt_4
 bap2_penletter_desc
 bap10_i_badg
 bap10_i_beau
+bap10_i_gate
 bap10_i_spea
 bap10_o_inve
 bap11_h_horse
+bap11_h_sneak
 bap11_i_greet
 bap11_o_brait
 bap11_o_escape
@@ -4252,6 +4258,8 @@ bap12_b_beau
 bap12_b_churc
 bap12_b_cous
 bap12_b_pene
+bap12_b_rhode
+bap12_b_wagon
 bap12_bmount_1
 bap12_c_anta
 bap12_c_beau
@@ -4312,6 +4320,7 @@ bap12_f_beaud
 bap12_f_broke
 bap12_f_cous
 bap12_f_gray
+bap12_f_rally
 bap12_fight2_01
 bap12_fight2_02
 bap12_fight2_03
@@ -4326,6 +4335,7 @@ bap12_guard_01
 bap12_guard_02
 bap12_guard_nm_1
 bap12_i_beau
+bap12_i_cous
 bap12_ian_01
 bap12_ian_02
 bap12_ian_03
@@ -4338,6 +4348,7 @@ bap12_mount_1
 bap12_o_alley
 bap12_o_beat
 bap12_o_coac
+bap12_o_continue
 bap12_o_cool
 bap12_o_drive
 bap12_o_get_horse
@@ -5446,6 +5457,7 @@ bdul_mcs1_12
 bdul_mcs1_13
 bdul_mcs1_14
 bdul_mcs1_15
+bdul_o_blip
 bdul_o_catch
 bdul_o_disarm
 bdul_pay_a1_1
@@ -5547,6 +5559,7 @@ bed_quit
 bed_sit
 bed_sleep
 bee
+beechers11_ilo
 beechers11_obj_entb
 beechers11_obj_myho
 beechers12_ilo
@@ -5610,7 +5623,9 @@ bill_stack
 binkvideo
 bino_help_on_kit_slot
 bino_help_to_item_wheel
+bino_look
 bino_put_away
+bino_use
 bino_zoom
 bjck1_acta_1
 bjck1_actb_1
@@ -6153,10 +6168,13 @@ blw_take_lve_03
 blw_takep_j_01
 blw_takep_j_02
 bm1_uc_czy
+bm1_uc_dont
 bm1_uc_give
+bm1_uc_hug
 bm1_uc_name
 bm1_uc_no
 bm1_uc_noczy
+bm1_uc_nohug
 bm1_uc_noname
 bm1_uc_sure
 bminf_beckon_f1_01
@@ -6798,7 +6816,9 @@ bnp21_brtsis3_5
 bnp21_brtsis4_1
 bnp21_brtsis4_2
 bnp21_c_acce
+bnp21_c_drive
 bnp21_c_reje
+bnp21_c_stat
 bnp21_c_tick
 bnp21_complain1_1
 bnp21_complain1_2
@@ -6816,8 +6836,11 @@ bnp21_fht_iainc_1
 bnp21_fht_scotb_1
 bnp21_fht_scotb_2
 bnp21_g_pene
+bnp21_h_pass
+bnp21_h_train
 bnp21_horse_01
 bnp21_horse_02
+bnp21_i_pene
 bnp21_letsgo_1
 bnp21_letter_1
 bnp21_letter_2
@@ -6847,6 +6870,7 @@ bnp21_o_wbeau
 bnp21_o_wpene
 bnp21_o_wtrai
 bnp21_onhorse_1
+bnp21_r_alert
 bnp21_r_beaua
 bnp21_r_beaud
 bnp21_r_civil
@@ -7084,6 +7108,7 @@ bou1_call2_04
 bou1_call2_05
 bou1_call_1
 bou1_call_2
+bou1_calthorpe
 bou1_chall_1
 bou1_chall_2
 bou1_chall_3
@@ -8462,6 +8487,7 @@ brt1_mcs2_7
 brt1_mcs2_8
 brt1_mcs2_9
 brt1_mcs2_10
+brt1_mcs2_11
 brt1_mcs2_li_1
 brt1_mcs2_li_2
 brt1_mcs3_1
@@ -10721,6 +10747,7 @@ cal3_saved_1
 cal3_saved_2
 cal3_saved_j_1
 cal3_saved_j_2
+cal12_ilo
 cal12_pos
 cal_desc
 calcm_aftr_sad1_1
@@ -10930,6 +10957,7 @@ calderon1_f4a
 calderon1_f5
 calderon1_f6
 calderon1_f7
+calderon1_greet
 calderon1_nodonate
 calderon1_refuse
 calderon1_take
@@ -11301,6 +11329,7 @@ camera_bcrumb3
 camera_help
 camera_km_screen
 camp_add_task
+camp_afternoon
 camp_and_properties_footer
 camp_and_properties_header
 camp_and_properties_link
@@ -11318,6 +11347,7 @@ camp_combat_warn
 camp_craft
 camp_dbody_hon
 camp_dinner_available
+camp_evening
 camp_fast_travel
 camp_fire
 camp_fire_full_out
@@ -11338,6 +11368,7 @@ camp_info_funds
 camp_info_savings
 camp_info_supplies
 camp_item_value
+camp_launch_rc
 camp_law_grief
 camp_law_hon
 camp_law_warn
@@ -11347,17 +11378,31 @@ camp_location_category_nearby
 camp_location_header
 camp_map_help
 camp_meat_poor
+camp_morning
+camp_not_activity
+camp_not_caravan
+camp_not_carry
+camp_not_combat
+camp_not_complete
+camp_not_crime
+camp_not_intro
 camp_not_mission
+camp_not_nouse
 camp_not_probefail
+camp_not_setup
 camp_not_town
 camp_not_unknown
+camp_not_vehicle
 camp_not_wanted
+camp_outfit
 camp_party
 camp_pears
+camp_quit
 camp_rec_all
 camp_rec_avl
 camp_rec_back
 camp_rec_batch
+camp_rec_break
 camp_rec_brew
 camp_rec_brew_agn
 camp_rec_cook
@@ -11377,6 +11422,7 @@ camp_rem_stay
 camp_request
 camp_request_detail
 camp_rest
+camp_rest_quit
 camp_satchel
 camp_save
 camp_search
@@ -11388,6 +11434,7 @@ camp_shaving_trim_page
 camp_size_subh
 camp_sleep
 camp_sleep_back
+camp_sleep_tut
 camp_stats_subh
 camp_subh
 camp_teardown
@@ -11423,6 +11470,7 @@ camp_upg_tent_c
 camp_upg_tent_d
 camp_upg_tools
 camp_upg_veh
+camp_wake_time
 camp_weapon_locker
 campfire
 cams
@@ -12806,6 +12854,7 @@ cchsh_par_cnv1_11
 cchsh_par_cnv1_12
 cchsh_par_cnv1_13
 cchsh_par_cnv1_14
+ccig1_ilo_li
 ccig1_uc_grt
 ccig_rsc1_1
 ccig_rsc1_2
@@ -15495,7 +15544,10 @@ cfsh21_f_kpmt
 cfsh21_f_phgl
 cfsh_f_abgl
 cfsh_f_bklw
+cfsh_f_kpmt
+cfsh_ilo_li
 cfsh_o_ctgl
+cfsh_o_dmnt
 cfsh_o_flgl
 cfsh_o_gtfsh
 cfsh_o_gtph
@@ -16063,6 +16115,7 @@ chaingang4_obj
 chaingang5_obj
 chair
 challenge_notice_sub_info
+challenges_complete
 challenges_empty
 challenges_header
 challenges_tip_bandit_1
@@ -16684,6 +16737,7 @@ charart
 charart2
 charfacartdir
 charig
+charigtecart
 charles_abandon
 charles_catch_up
 charles_follow
@@ -18379,6 +18433,9 @@ ckpt_greet
 ckpt_objsearch
 ckpt_s_gen
 ckpt_s_leave
+ckpt_s_left
+ckpt_s_middle
+ckpt_s_right
 ckpt_s_slct
 ckpt_s_start
 ckpt_ucpl
@@ -18655,6 +18712,7 @@ cld2_dorkobj
 cld2_forcectx
 cld2_forcedoor
 cld2_forceobj
+cld2_forceprompt
 cld2_freesl
 cld2_gobase
 cld2_goshop_obj
@@ -38176,6 +38234,7 @@ cr_c_robh
 cr_c_rtl2
 cr_c_talk
 cr_coach_to
+cr_comp3_fc
 cr_comp3_obj5
 cr_comp3_obj6
 cr_dg_comp1_obj
@@ -38213,6 +38272,7 @@ cr_f_ldest
 cr_f_leftvip
 cr_f_p_arrest
 cr_f_p_dead
+cr_f_vipdead
 cr_fm_abancoach
 cr_fm_abancoachs
 cr_fm_abandrop
@@ -38246,10 +38306,12 @@ cr_fm_seaaban
 cr_fm_seanatt
 cr_fm_seandead
 cr_fm_seanhorse
+cr_fm_tillaban
 cr_fm_tillatt
 cr_fm_tilldead
 cr_fm_tillhorse
 cr_fm_wrecked
+cr_fm_wreckeds
 cr_h_note
 cr_help_blow_door
 cr_help_cargo
@@ -38266,6 +38328,7 @@ cr_ilo_rob
 cr_ilo_stop
 cr_ilo_threaten
 cr_ilo_trick
+cr_interact
 cr_logwagon
 cr_logwagon2
 cr_o_blow_door
@@ -38278,9 +38341,14 @@ cr_o_leave
 cr_o_leavecombat
 cr_o_lkill
 cr_o_lootpass
+cr_o_prepare
 cr_o_preparep
 cr_o_preparesp
 cr_o_preparewp
+cr_o_ridb
+cr_o_ridl
+cr_o_ridm
+cr_o_rids
 cr_o_robcoach
 cr_o_robcoacha
 cr_o_robcoachs
@@ -38292,6 +38360,7 @@ cr_o_stopcoachs
 cr_o_stranger
 cr_o_subduepass
 cr_o_tacklepass
+cr_o_talkpass
 cr_o_tran
 cr_o_waitcoach
 cr_o_waitcoachs
@@ -38437,7 +38506,9 @@ crime_vandalism_vehicle
 crime_vehicle_destruction
 crime_wanted_level_up_debug_high
 crime_wanted_level_up_debug_low
+crkf_ilo_li
 crkf_uc_grt
+crkf_uc_ins
 crl0r_1
 crl0s_1
 crl0s_2
@@ -39129,13 +39200,16 @@ crw5_c_acce
 crw5_c_gree
 crw5_c_neg
 crw5_c_pos
+crw5_c_reje
 crw5_f_aband
 crw5_f_olddie
+crw5_ilolabel
 crw5_o_fol
 crw5_o_gohouse
 crw5_o_killsg
 crw5_o_protect
 crw5_o_ret
+crw5_o_return
 crw_all_a_1
 crw_all_j_1
 crw_animation
@@ -41331,7 +41405,6 @@ cxt_moon2_giv
 cxt_sol_ab
 cxt_sol_dmd
 cyassl
-d3bee9ff_01
 d_blocked_crca1_1
 d_blocked_crca2_1
 d_blocked_crca3_1
@@ -41502,6 +41575,7 @@ daily_challenges_new
 daily_disabled
 daily_header
 daily_link
+daily_reset
 daily_streak_0
 daily_streak_1
 daily_streak_2
@@ -42328,6 +42402,7 @@ dch3_rsc3_li_1
 dch3_rsc3_li_2
 dch3_rsc3_li_3
 dch11_grt
+dch11_o_mnt
 dch_snotleave_1
 dd_bbush_trawl_a_h
 dd_bbush_trawl_d_h
@@ -43104,6 +43179,8 @@ dehrt_walking_1
 deleteerrfail
 deleteloadfail
 deletesavefail
+demo1_butcher
+demo1_temp
 dep_2d/ui
 dep_additional_art
 dep_ai/gameplay
@@ -48319,7 +48396,6 @@ dummyrcm
 dummyregion
 dummytutorial
 dump_wood
-dunlu9o
 dutch11_attacked
 dutch11_blip_body
 dutch11_blip_camp
@@ -48346,6 +48422,7 @@ dutch11_rese
 dutch11_ret_obj
 dutch11_return
 dutch11_space
+dutch11_stop_horse
 dutch12_obj
 dutch21_des
 dutch21_ent
@@ -48379,11 +48456,13 @@ dutch22_blip_room
 dutch22_blip_sbel
 dutch22_blip_swamp
 dutch22_obj
+dutch22_objb
 dutch_abandon
 dutch_catch_up
 dutch_follow
 dutch_return
 dwn2_don_hlp
+dwn2_ext_obj
 dwn2_fail
 dwn2_ldg_obj
 dwn2_nxt_hlp
@@ -54005,6 +54084,7 @@ fetch_wagon_break_obj_defend_vehicle_to
 fetch_wagon_break_obj_defend_vehicle_to_plural
 fetch_wagon_break_obj_destroy
 fetch_wagon_break_obj_drop
+fetch_wagon_break_obj_exit
 fetch_wagon_break_obj_get_on_mount
 fetch_wagon_break_obj_return
 fetch_wagon_break_obj_return_plural
@@ -54094,6 +54174,8 @@ fetch_wagon_thieves_obj_steal_from_posse
 fetch_wagon_thieves_obj_steal_from_posse_plural
 fetch_wagon_thieves_obj_steal_from_posse_secondary
 fetch_wagon_thieves_obj_steal_from_posse_secondary_plural
+fetch_wagon_thieves_objective_escaping
+fetch_wagon_thieves_objective_exit
 fetch_wagon_thieves_pvp_global_signal
 fetch_wagon_thieves_pvp_global_signal_plural
 fetch_wagon_thieves_scoretimer_cleanup_radius
@@ -54361,6 +54443,7 @@ fin1_call_micah_02
 fin1_call_micah_03
 fin1_call_micah_04
 fin1_call_micah_05
+fin1_call_out
 fin1_chall_2
 fin1_chall_3
 fin1_chest
@@ -54580,6 +54663,7 @@ fin1_fightmknif_09
 fin1_go_back
 fin1_grab
 fin1_grapple
+fin1_help_crawl
 fin1_help_john
 fin1_ig2_1
 fin1_ig3_1
@@ -55793,6 +55877,7 @@ fin2_obj_drag
 fin2_obj_drag2
 fin2_obj_find
 fin2_obj_flw
+fin2_obj_goons
 fin2_obj_goto
 fin2_obj_hang
 fin2_obj_lvr
@@ -55953,6 +56038,7 @@ fin2_wc_chase_2
 fin2_wrong_cha_01
 fin2_wrong_cha_02
 fin3_keep_1
+fin3_temp_obj
 finish_camp_chore
 finish_camp_chore_canceled
 finish_camp_chore_chop_wood
@@ -55978,7 +56064,6 @@ finman
 fire_cannon
 fire_mountedweapon
 fire_wood
-firewood_drop_action_set_data
 firewood_generic
 fish
 fish01_fail_law
@@ -56009,6 +56094,7 @@ fish03_fl_agrc
 fish03_fl_kcph
 fish03_fl_kplh
 fish03_fwcomp
+fish03_gfish
 fish03_h_lgfsh
 fish03_k_atk
 fish03_k_dead
@@ -56506,11 +56592,15 @@ fma4_f_dist
 fma4_f_doorman
 fma4_f_patro
 fma4_f_scar
+fma4_f_want
 fma4_o_goto
 fma4_o_leave
 fma4_o_prot
 fma4_o_search
+fma5_hint_1
+fma5_hint_2
 fma5_hlp_law
+fma5_o_catch
 fma5_o_dock
 fma5_o_fight
 fma5_o_return
@@ -57362,6 +57452,7 @@ fo_num
 fo_two_num
 focus_on_clue
 follow_leader
+folrec
 fom
 foreman_abandon
 foreman_return
@@ -58891,6 +58982,7 @@ fud1_mount_03
 fud1_ndwndsk_1
 fud1_o_beatc
 fud1_o_chaseab
+fud1_o_eboat
 fud1_o_fish
 fud1_o_follt
 fud1_o_getrod
@@ -59192,6 +59284,8 @@ fus1_fail_fsgd
 fus1_fail_glab
 fus1_fail_glij
 fus1_fail_glkl
+fus1_fail_hold
+fus1_fail_jav
 fus1_farguard_1
 fus1_flw_bld_1
 fus1_flw_clf_1
@@ -59531,6 +59625,7 @@ fus1_mcs6_8
 fus1_mcs6_9
 fus1_neargate_1
 fus1_obj_achdtc
+fus1_obj_cmbt
 fus1_obj_cvrdch
 fus1_obj_dfndj
 fus1_obj_dpbd
@@ -59608,6 +59703,7 @@ fus1_wchlft_01
 fus1_wchlft_02
 fus1_wlcvr_1
 fus2
+fus2_accept
 fus2_alert
 fus2_alert_1
 fus2_arthgrunt_01
@@ -59621,6 +59717,8 @@ fus2_batcov2_1
 fus2_batcover_1
 fus2_batfol_1
 fus2_beat_help
+fus2_boost
+fus2_boost_top
 fus2_bump_01
 fus2_bump_02
 fus2_bump_03
@@ -59628,7 +59726,12 @@ fus2_chall_2
 fus2_close_01
 fus2_close_02
 fus2_close_03
+fus2_cw_boost
+fus2_cw_jump
 fus2_dart_1
+fus2_de_pull
+fus2_debug
+fus2_deed
 fus2_desc
 fus2_desc_pm
 fus2_ext_1
@@ -59663,6 +59766,7 @@ fus2_folrand_02
 fus2_folrand_03
 fus2_folrand_04
 fus2_folrand_05
+fus2_fr_obj01
 fus2_gbeat_1
 fus2_gbeat_2
 fus2_gbeat_3
@@ -59677,7 +59781,11 @@ fus2_gbeat_11
 fus2_grief_bap_01
 fus2_grief_bap_02
 fus2_grief_bap_03
+fus2_gtr_climb
+fus2_gtr_esc
 fus2_gtr_fol
+fus2_hang_hlp
+fus2_honor_help
 fus2_hurry_01
 fus2_hurry_02
 fus2_hurry_03
@@ -59810,6 +59918,7 @@ fus2_int_esc
 fus2_int_help_look
 fus2_int_li_1
 fus2_int_li_2
+fus2_jump
 fus2_lacap_1
 fus2_lacap_dawd_01
 fus2_lacap_dawd_02
@@ -59843,9 +59952,12 @@ fus2_notshoot_03
 fus2_obj05
 fus2_obj_hang
 fus2_obj_khang
+fus2_obj_wleon
 fus2_obstruct_01
 fus2_obstruct_02
 fus2_obstruct_03
+fus2_pull
+fus2_reject
 fus2_ret_bap_01
 fus2_ret_bap_02
 fus2_ret_bap_03
@@ -59858,6 +59970,7 @@ fus2_stillsnipe_03
 fus2_strug_l
 fus2_strug_r
 fus2_uc_captor
+fus2_uc_climb
 fus2_uc_grapple
 fus2_uc_punch
 fus2_uc_rleft
@@ -59907,6 +60020,7 @@ gal_war_no_sc_local
 gal_war_updt_sc_local
 gamana
 gamani
+gamdes
 game_build
 game_build_formatted
 game_details_link
@@ -59932,6 +60046,7 @@ gang02_collect_letter
 gang02_downstairs
 gang02_downstairsobj
 gang02_fail_lk
+gang02_fail_lt
 gang02_fail_man
 gang02_fail_sb
 gang02_fail_warn_man
@@ -62577,6 +62692,7 @@ gng2_fail_csh
 gng2_fail_low
 gng2_fail_pltd
 gng2_fail_plts
+gng2_fail_rop
 gng2_fail_sad
 gng2_fail_sh
 gng2_fail_wtr
@@ -62948,6 +63064,7 @@ gng3_f_left
 gng3_f_left_s
 gng3_f_spo
 gng3_havepistol_1
+gng3_hors
 gng3_ig9_1
 gng3_ig10_1
 gng3_ig10_2
@@ -63429,6 +63546,7 @@ gry1_coming_02
 gry1_cones
 gry1_cover
 gry1_crashed
+gry1_crouch
 gry1_dawd_01
 gry1_dawd_02
 gry1_dawd_03
@@ -63453,10 +63571,12 @@ gry1_drop_02
 gry1_dropw_01
 gry1_dropw_02
 gry1_dutch
+gry1_dwagon
 gry1_dynamite3
 gry1_dynamite_select_p1
 gry1_dynamite_select_p2
 gry1_dynamite_select_p3
+gry1_enemy_ilo
 gry1_ext2_1
 gry1_ext2_2
 gry1_ext2_3
@@ -63542,8 +63662,11 @@ gry1_ext_li_1
 gry1_ext_li_2
 gry1_f_deputy
 gry1_f_escape
+gry1_fail_b_horse
+gry1_fail_d_horse
 gry1_fail_dep_wagon
 gry1_fail_moon_wagon
+gry1_fail_ranover
 gry1_fail_ride
 gry1_go2_01
 gry1_go2_02
@@ -63552,6 +63675,7 @@ gry1_go_02
 gry1_h_hstamina
 gry1_hat_1
 gry1_hat_2
+gry1_help_cam
 gry1_hogtie
 gry1_hurry_01
 gry1_hurry_02
@@ -64012,6 +64136,7 @@ gry2_ig11_6
 gry2_ig11_7
 gry2_ig11_8
 gry2_ig11_9
+gry2_ilo
 gry2_int_1
 gry2_int_2
 gry2_int_3
@@ -64091,6 +64216,7 @@ gry2_jav_fail
 gry2_john_fail
 gry2_johrs_fail
 gry2_led_h
+gry2_left_horse
 gry2_loit_fail
 gry2_lse_f
 gry2_lse_w
@@ -64839,9 +64965,11 @@ gua2_threat3_1
 gua2_wrn_cmp
 gua3
 gua3_alarm_1
+gua3_cannon_0
 gua3_chall_1
 gua3_chall_2
 gua3_desc
+gua3_expl
 gua3_ext_1
 gua3_ext_2
 gua3_ext_3
@@ -65147,6 +65275,9 @@ gun1_obj_gun1
 gun1_obj_gun2
 gun1_obj_gun3
 gun1_obj_provoke
+gun1_pho_bad
+gun1_pho_far
+gun1_pho_head
 gun1_ply_shit_01
 gun1_ply_shit_02
 gun1_ply_shit_03
@@ -65360,6 +65491,9 @@ gun2_obj_def
 gun2_obj_door
 gun2_obj_duel
 gun2_obj_hols
+gun2_pho_bad
+gun2_pho_far
+gun2_pho_head
 gun2_retur1
 gun2_retur2
 gun2_s1_ig1_1
@@ -65447,6 +65581,9 @@ gun3_obj_search2
 gun3_obj_wait
 gun3_obj_wait2
 gun3_obj_wait3
+gun3_pho_bad
+gun3_pho_far
+gun3_pho_head
 gun3_retur1
 gun3_s1_ig1_1
 gun3_s1_ig3_1
@@ -66246,6 +66383,7 @@ hideout_ship_rock_guard_bridge
 hierarchy_subh
 high_camp
 hint_curu_focus
+hint_curu_rust
 hit_generic
 hit_hog_ped
 hlocateblip
@@ -66439,6 +66577,7 @@ hm_obj_bino_scout
 hm_obj_follow_javier
 hm_obj_goto_javier
 hm_obj_search_stash
+hm_obj_sit_dinner
 hm_rs_blip_bottle
 hm_rs_blip_charlotte
 hm_rs_blip_prey
@@ -66724,6 +66863,7 @@ hnt1_ins_ft
 hnt1_ins_ft2
 hnt1_ins_ft3
 hnt1_keep_1
+hnt1_temp
 hnt1_uc_len
 hnt1_uc_sean
 hntn1_bash
@@ -66750,6 +66890,7 @@ hntn1_obj_8
 hntn1_obj_8b
 hntn2_blip1b
 hntn2_blip1c
+hntn2_blip2
 hntn2_f_0
 hntn2_f_1
 hntn2_f_2
@@ -66763,6 +66904,7 @@ hntn2_obj8
 hntn3_blip
 hntn3_count
 hntn3_obj
+hntn4_ob
 hntn5_blip
 hntn5_blip_b
 hntn5_f_1
@@ -66833,6 +66975,7 @@ home_atakr_01
 home_atakr_02
 home_atakr_03
 home_blip_fm
+home_blip_wag
 home_bye_2a_1
 home_bye_2a_2
 home_bye_2b_1
@@ -69946,6 +70089,12 @@ ice_box
 id1_13_id1_emissive_id1_13b_slod_children
 iganm
 ignite_prompt
+ilo_farmhand
+ilo_father
+ilo_gardener
+ilo_handyman
+ilo_lilly
+ilo_son
 imgprod
 imgv
 imvapro
@@ -70019,6 +70168,7 @@ increment_wins
 ind1
 ind1_apchcch_1
 ind1_band_1
+ind1_blip_cch
 ind1_blip_dsk
 ind1_blip_esrt
 ind1_blip_mnst
@@ -70120,11 +70270,16 @@ ind1_extb_30
 ind1_extb_31
 ind1_f_attck
 ind1_f_attdt
+ind1_f_cch
+ind1_f_chab
+ind1_f_chent
 ind1_f_dch
 ind1_f_drunk
 ind1_f_esab
 ind1_f_gala
 ind1_f_glgr
+ind1_f_guard
+ind1_f_guest
 ind1_f_law
 ind1_f_lost
 ind1_f_spot
@@ -70530,6 +70685,7 @@ ind1_ig_tweed_1
 ind1_ig_tweed_2
 ind1_ig_tweed_3
 ind1_ig_tweed_4
+ind1_ilo_band
 ind1_ilo_bill_1
 ind1_ilo_bill_2
 ind1_ilo_bill_3
@@ -70544,6 +70700,9 @@ ind1_ilo_hos_1
 ind1_ilo_hos_2
 ind1_ilo_hos_3
 ind1_ilo_hos_4
+ind1_ilo_hosea
+ind1_ilo_lady
+ind1_ilo_tkts
 ind1_int_1
 ind1_int_2
 ind1_int_3
@@ -70990,10 +71149,12 @@ ind1_use_accept
 ind1_use_champ
 ind1_use_cmphdpc
 ind1_use_decline
+ind1_use_enter
 ind1_use_helpchk
 ind1_use_incog
 ind1_use_inspect
 ind1_use_ledger
+ind1_w_coach
 ind1_w_escort
 ind1_w_gala
 ind1_waitcoach_01
@@ -71438,7 +71599,9 @@ ind3_obj_swim
 ind3_obj_tailor
 ind3_paperboy_1
 ind3_paststraus_1
+ind3_pb_catch_up
 ind3_pb_fail
+ind3_pb_return
 ind3_pitboss
 ind3_pityell_1
 ind3_playpoker_01
@@ -71641,7 +71804,6 @@ input_move_lr
 input_move_right_only
 input_move_ud
 input_move_up_only
-input_multiplayer_dead_switch_respawn
 input_multiplayer_info
 input_no_function_displayonly
 input_open_wheel_menu
@@ -71838,6 +72000,7 @@ inv_hso1_5
 inv_hso1_6
 inv_hso1_7
 invest_help
+invite_player_count
 invite_players
 invite_players_link
 invite_players_public_not_allowed_footer
@@ -71926,6 +72089,7 @@ item_req_return
 item_req_title
 item_saved
 item_sell
+item_sold
 item_stored
 item_tasted
 item_tasted_pump_mult
@@ -71994,6 +72158,7 @@ javier_follow
 javier_return
 jaw_chin_header
 jb1_uc_give
+jb1_uc_talk
 jbo1_bant_1
 jbo1_bant_2
 jbo1_bant_3
@@ -72359,7 +72524,6 @@ jipp_join_nt
 jipp_join_ot
 jipp_join_yt
 jips_join
-jk_k3
 jmre_bw_01
 jmre_bw_02
 jmre_bw_03
@@ -72493,6 +72657,7 @@ joe_withobj_01
 joe_withobj_02
 joe_withobj_03
 john_abandon
+john_cannot_buy
 john_catch_up
 john_follow
 john_return
@@ -74085,6 +74250,7 @@ kit_wardrobe
 kit_wardrobe_desc
 klr1_abancell
 klr1_clue
+klr1_combo
 klr1_ctxopen
 klr1_ctxthrow
 klr1_distract
@@ -74095,6 +74261,7 @@ klr1_lblbasedoor
 klr1_lblcellar
 klr1_lbledmund
 klr1_lblreward
+klr1_lblsheriff
 klr1_lblstrange
 klr1_lookknife
 klr1_office
@@ -74635,6 +74802,7 @@ larvloc
 larvobj
 larvped
 larvveh
+lascan
 launch_params
 law_fail
 law_interrogation_interact
@@ -76566,6 +76734,7 @@ ldelcust
 ldelobj
 ldelped
 ldelveh
+ldenvart
 ldescust
 ldgr_cont_carried
 ldgr_cont_cash
@@ -76617,6 +76786,7 @@ ldtc_thanks_1
 ldtc_wrongspot_01
 ldtc_wrongspot_02
 ldtc_wrongspot_03
+ldtecart
 leaaipro
 leaani
 leaanipro
@@ -76624,6 +76794,7 @@ leaart
 leaart1
 leabuieng
 leacampro
+leacap
 leaconart
 leacutani
 leadanm
@@ -76638,6 +76809,7 @@ leafxart
 leagrades
 leagrapro
 leainfsyspro
+leaingani
 lean
 leanetpro
 leaonlpro
@@ -76650,6 +76822,7 @@ leasoudes
 leasoudes1
 leasyspro
 leatecart
+leatesana
 leather_upgrade
 leather_upgrade_d
 leather_upgrade_i
@@ -76745,7 +76918,6 @@ leon_catch_up
 leon_return
 letter
 levdes
-levels/rdr3/terrain/rstu_07_10/u_07_
 lfocus
 lg_sure
 lgnwtd
@@ -76769,6 +76941,7 @@ lightning3_obj2
 lightning3_obj6
 lightning3_obj7
 lightning3_obj8
+lightning4_blip_m
 lightning4_cntxt_n
 lightning4_cntxt_y
 lightning4_conv
@@ -76779,6 +76952,7 @@ lightning4_obj1
 lightning4_pay_n1
 lightning4_pay_y1
 lightning4_pay_y2
+lightning4_tlk
 lightning5_obj
 lightning6_obj
 lightning6_obj2
@@ -76987,6 +77161,7 @@ log_ln01bt_2
 log_ln01ct_1
 log_ln01ct_2
 log_ln01ct_3
+log_locked
 log_mission_title
 log_obj01
 log_obj02
@@ -76995,6 +77170,7 @@ log_obj03
 log_obj04
 log_sell1_1
 log_sell1_2
+log_tip
 log_wrk_conv_1
 log_wrk_conv_2
 log_wrk_conv_3
@@ -79491,10 +79667,13 @@ manage_mounts_buy_slot_prompt
 manage_mounts_make_active_prompt
 manage_stable_equip_saddle_prompt
 manage_stable_make_primary_prompt
+manage_stable_modify_prompt
 manage_stable_retrieve_horse_prompt
 manage_stable_retrieve_saddle_prompt
 manage_stable_sell_horse_prompt
 manage_stable_stable_horse_prompt
+manage_stable_store_saddle_prompt
+manage_stable_take_saddle_prompt
 mangy_animal_desc_mp
 map
 map_card_amd_depot
@@ -79934,6 +80113,7 @@ mar1_getoff2_1
 mar1_getoff_1
 mar1_goto_ranch
 mar1_hlp_stp_wagon
+mar1_home
 mar1_horse_01
 mar1_horse_02
 mar1_ig1_1
@@ -79946,6 +80126,7 @@ mar1_ig13_park_2
 mar1_ig13_park_3
 mar1_ilo_cntxt_far
 mar1_ilo_context
+mar1_ilo_yell
 mar1_int_1
 mar1_int_2
 mar1_int_3
@@ -80107,6 +80288,7 @@ mar1_mcs4_49
 mar1_mcs4_lo_la_1
 mar1_mcs4_lo_la_2
 mar1_meet_abigail
+mar1_mount
 mar1_no_wagon_01
 mar1_no_wagon_02
 mar1_no_wagon_03
@@ -80508,6 +80690,7 @@ mar2_speed_u_03
 mar2_speed_u_04
 mar2_speed_u_05
 mar2_speed_u_06
+mar2_sta_cle
 mar2_stid_01
 mar2_stid_02
 mar2_tebr_1
@@ -80520,6 +80703,7 @@ mar2_too_fast_2
 mar2_too_slow_1
 mar2_too_slow_2
 mar2_turn_slow_1
+mar2_warn
 mar2_y_mar4_1
 mar2_y_mar4_2
 mar2_y_mar4_3
@@ -80548,6 +80732,7 @@ mar4_apprch_2
 mar4_attst3_1
 mar4_attst3_2
 mar4_b_abe
+mar4_b_dist
 mar4_b_tom
 mar4_barn_01
 mar4_barn_02
@@ -80630,6 +80815,7 @@ mar4_f_ranch
 mar4_f_tom
 mar4_f_tomh
 mar4_g_rancher
+mar4_geddes
 mar4_getcat2_01
 mar4_getcat2_02
 mar4_giddyup_1
@@ -80805,11 +80991,13 @@ mar4_nomount_03
 mar4_o_barn
 mar4_o_duel
 mar4_o_hang
+mar4_o_herd
 mar4_o_inve
 mar4_o_kill
 mar4_o_moun
 mar4_o_prot
 mar4_o_retu
+mar4_o_ride
 mar4_o_talk
 mar4_over1_1
 mar4_over1_2
@@ -80838,6 +81026,7 @@ mar4_toolate_1
 mar4_tree_1
 mar4_tree_2
 mar4_tree_3
+mar4_w_ranch
 mar4_wrwy_01
 mar4_wrwy_02
 mar4_wrwy_03
@@ -80914,6 +81103,7 @@ mar5_desc
 mar5_desc_pm
 mar5_dickens
 mar5_dmount_1
+mar5_driver
 mar5_drope_1
 mar5_dseebull_01
 mar5_dseebull_02
@@ -80935,6 +81125,7 @@ mar5_f_hbull
 mar5_f_jera
 mar5_f_mrsg
 mar5_f_prong
+mar5_family
 mar5_fm0_1
 mar5_fm1_01
 mar5_fm1_02
@@ -81527,8 +81718,10 @@ mar5_obj_rtab
 mar5_obj_rtna
 mar5_obj_wlcm
 mar5_okthen_1
+mar5_prong
 mar5_r_aber
 mar5_r_dunr
+mar5_r_hand
 mar5_r_jerr
 mar5_r_mrsg
 mar5_racefall_1
@@ -81714,7 +81907,9 @@ mar6_f_bdg
 mar6_f_dsft
 mar6_f_ffc
 mar6_f_killh
+mar6_f_kped
 mar6_f_wgnd
+mar6_fight
 mar6_gunbant1_1
 mar6_gunbant1_2
 mar6_gunbant1_3
@@ -81757,11 +81952,15 @@ mar6_obj_gtftr
 mar6_obj_gwgn
 mar6_obj_kilm
 mar6_obj_metu
+mar6_obj_mnt
 mar6_obj_rchl
 mar6_obj_rideu
 mar6_obj_rucl
 mar6_obj_rwag
 mar6_obj_schcl
+mar6_obj_spkb
+mar6_obj_trplf
+mar6_obj_trst
 mar6_obj_wfgt
 mar6_obj_wuncl
 mar6_offtrack_01
@@ -82154,6 +82353,7 @@ mar7_thatcry1_2
 mar7_thatcry2_01
 mar7_thatcry2_02
 mar7_thatcry2_03
+mar7_to_charles
 mar7_to_nils_1
 mar7_tobeechers_1
 mar7_tools
@@ -82370,6 +82570,7 @@ mar8_ext_lip2_2
 mar8_f_chard
 mar8_f_spot
 mar8_f_uncd
+mar8_f_wagn
 mar8_fail_stealth
 mar8_found_1
 mar8_gettingout_1
@@ -82377,6 +82578,8 @@ mar8_gogo_01
 mar8_gogo_02
 mar8_got_this_01
 mar8_got_this_02
+mar8_h_blood
+mar8_h_roof
 mar8_h_stealth
 mar8_hidemounts_1
 mar8_horses_1
@@ -82563,6 +82766,7 @@ mar8_mcs2_lob_2
 mar8_more_1
 mar8_more_2
 mar8_o_away
+mar8_o_back
 mar8_o_binoc
 mar8_o_carry
 mar8_o_cliff
@@ -82575,8 +82779,10 @@ mar8_o_hideh
 mar8_o_horse
 mar8_o_kwagon
 mar8_o_save
+mar8_o_savedead
 mar8_o_scouts
 mar8_o_skin
+mar8_o_tracks
 mar8_overhere2_01
 mar8_overhere2_02
 mar8_overhere2_03
@@ -82655,6 +82861,7 @@ mar24_ptl_1
 mar24_ptl_2
 mar24_ptl_3
 mar_transition
+markadler
 mary31_obj
 marybeth_abandon
 marybeth_catch_up
@@ -82733,7 +82940,9 @@ mason4_f_warn2
 mason4_h_boat
 mason4_h_search
 mason4_h_turn
+mason_abnd
 mason_b_bag
+mason_b_herd
 mason_b_mason
 mason_d_horse
 mason_dwarn
@@ -82889,6 +83098,7 @@ mayr1_follow
 mayr1_gallfail
 mayr1_gallwarn
 mayr1_hrsfail
+mayr1_ilo
 mayr1_intimidate
 mayr1_obj
 mayr1_returnass
@@ -83453,6 +83663,7 @@ mg_gameswon
 mg_h_crack1
 mg_h_crack2
 mg_h_crack3
+mg_h_crk
 mg_h_milk
 mg_h_select1
 mg_h_select2
@@ -84192,6 +84403,7 @@ mgblk_name_john
 mgblk_name_opponent
 mgblk_obj_your_bet
 mgblk_obj_your_ins
+mgblk_obj_your_turn
 mgblk_ui_cash
 mgblk_you
 mgbon_accept_01
@@ -84688,6 +84900,7 @@ mgdom_buy_in
 mgdom_cash
 mgdom_cnttiles
 mgdom_ctx_doms
+mgdom_ctx_draw
 mgdom_ctx_freelook
 mgdom_ctx_nxtrnd
 mgdom_ctx_place
@@ -84763,6 +84976,8 @@ mgdom_mode_1
 mgdom_mode_2
 mgdom_mode_3
 mgdom_msgdrawtile
+mgdom_msggameloss
+mgdom_msggamewin
 mgdom_msgnotileleft
 mgdom_msgpass
 mgdom_msgscore
@@ -84855,6 +85070,9 @@ mgfff_tie_time
 mgfff_ui_att_0
 mgfff_ui_att_1
 mgfff_ui_att_x
+mgfff_ui_lives_0
+mgfff_ui_lives_1
+mgfff_ui_lives_x
 mgfff_ui_money
 mgfff_ui_pot
 mgfff_ui_rec_laps
@@ -84988,6 +85206,7 @@ mgfla_wb_hgn_a_5
 mgfla_wb_hgn_a_6
 mgfla_wb_hgn_b_1
 mgfnc_b_post
+mgfnc_uc_heft
 mgfnc_uc_place
 mgfnc_uc_position
 mgfnc_uc_post
@@ -86137,6 +86356,7 @@ mgpkr_msg__you_won_and_split_sevpots
 mgpkr_msg__you_won_onepot
 mgpkr_msg__you_won_sevpots
 mgpkr_msg_awarding_pot
+mgpkr_msg_countdown
 mgpkr_msg_instruct_strauss
 mgpkr_msg_join_midgame_chips
 mgpkr_msg_join_midgame_no_chips
@@ -86175,6 +86395,7 @@ mgpkr_msg_you_have
 mgpkr_msg_you_split
 mgpkr_msg_you_won
 mgpkr_msg_you_won_split
+mgpkr_msg_your_turn
 mgpkr_name_amb_0
 mgpkr_name_amb_1
 mgpkr_name_amb_2
@@ -86201,6 +86422,7 @@ mgpkr_name_amb_22
 mgpkr_name_arthur
 mgpkr_name_dealer_ind3
 mgpkr_name_desmond_ind3
+mgpkr_name_john
 mgpkr_name_opponent
 mgpkr_name_opponenta_ind3
 mgpkr_name_opponenta_rev1
@@ -86253,6 +86475,7 @@ mgpkr_refund_them
 mgpkr_refund_them_mp
 mgpkr_refund_you
 mgpkr_skip
+mgpkr_sleeve
 mgpkr_suit_club
 mgpkr_suit_dmond
 mgpkr_suit_heart
@@ -86294,6 +86517,7 @@ mgpkr_ui_call
 mgpkr_ui_call2
 mgpkr_ui_call_max_bet
 mgpkr_ui_cash
+mgpkr_ui_cheat
 mgpkr_ui_check
 mgpkr_ui_check2
 mgpkr_ui_fold
@@ -87954,6 +88178,7 @@ mnint_moon_int_85
 mo_accessibility
 mo_acs_horse_mode
 mo_acs_mode
+mo_adv
 mo_audio_latency
 mo_auto_pin_switch
 mo_autosav
@@ -87993,6 +88218,7 @@ mo_colorblind_online
 mo_colorblind_prot
 mo_colorblind_story
 mo_colorblind_trit
+mo_controls
 mo_credits
 mo_crew
 mo_cs_cust
@@ -88106,6 +88332,7 @@ mo_low
 mo_map_blip_size
 mo_market_new
 mo_measurement
+mo_med
 mo_mic_sen
 mo_mic_vol
 mo_minimal
@@ -88150,7 +88377,10 @@ mo_radar_big
 mo_radar_compass
 mo_radar_small
 mo_rdf
+mo_rdf_general
+mo_rdf_group
 mo_rdf_single
+mo_red
 mo_reduced
 mo_repeat_press
 mo_repeat_press_2x
@@ -88242,6 +88472,7 @@ mo_tvoutp_startup
 mo_vchat_mode
 mo_vchat_mode_ptt
 mo_vchat_mode_talk
+mo_veh
 mo_vib
 mo_vid_vshalf
 mo_voice_alert
@@ -88252,9 +88483,12 @@ mo_vout
 mo_weight
 mo_yes
 mo_zoom_far
+mo_zoom_foot
 mo_zoom_med
 mo_zoom_near
+mo_zoom_vehicle
 mob1
+mob1_aggr
 mob1_aggro_dr_01
 mob1_aggro_dr_02
 mob1_aggro_dr_03
@@ -88638,6 +88872,7 @@ mob1_warn_area
 mob1_warn_bar
 mob1_warn_kid
 mob1_warn_urch
+mob1_wave
 mob1_yellkids_01
 mob1_yellkids_02
 mob1_yellkids_03
@@ -88647,6 +88882,7 @@ mob1_yellkids_06
 mob2
 mob2_1left_01
 mob2_1left_02
+mob2_ahorse_warn
 mob2_alst_1
 mob2_artfight_1
 mob2_artlead_01
@@ -88698,6 +88934,7 @@ mob2_coverj_01
 mob2_coverj_02
 mob2_coverj_03
 mob2_dead_1
+mob2_debug
 mob2_denter_1
 mob2_desc
 mob2_desc_pm
@@ -89048,12 +89285,14 @@ mob2_look_06
 mob2_look_07
 mob2_look_08
 mob2_look_09
+mob2_look_at
 mob2_loot_1
 mob2_loot_2
 mob2_loot_3
 mob2_loot_4
 mob2_man
 mob2_man_fail
+mob2_man_warn
 mob2_manshry1_01
 mob2_manshry1_02
 mob2_manshry1_03
@@ -89131,6 +89370,7 @@ mob2_thfwrn1_1
 mob2_thfwrn2_1
 mob2_thfwrn12_1
 mob2_thfwrn22_1
+mob2_uc_dog
 mob2_uc_good
 mob2_uc_nice
 mob2_uc_pickup
@@ -89511,6 +89751,8 @@ mob4_dhelptrap_02
 mob4_dhelptrap_03
 mob4_dhorse
 mob4_drown_jules
+mob4_dutch_warn
+mob4_eaten_jules
 mob4_enter_s_1
 mob4_enter_s_2
 mob4_enter_s_3
@@ -89561,6 +89803,7 @@ mob4_ext_post_1
 mob4_fail_trap_1
 mob4_fail_trap_2
 mob4_first_trap_1
+mob4_gator
 mob4_gflee_1
 mob4_gflee_2
 mob4_gotyou_1
@@ -89974,8 +90217,13 @@ mob4_uc_beckon
 mob4_uc_call
 mob4_uc_exitskiff
 mob4_uc_help
+mob4_uc_jules
 mob4_uc_loot
+mob4_uc_press
 mob4_uc_pressure
+mob4_uc_steady
+mob4_uc_thomas
+mob4_uc_twist
 mob4_uc_wrap
 mob4_wait2_1
 mob4_wait_1
@@ -90112,9 +90360,11 @@ mob5_fine_01
 mob5_fine_02
 mob5_found_1
 mob5_garden
+mob5_getgun
 mob5_go_01
 mob5_go_02
 mob5_go_03
+mob5_godutch
 mob5_gojohn_01
 mob5_gojohn_02
 mob5_goon1_01
@@ -90254,6 +90504,7 @@ mob5_lock2_02
 mob5_lock2_03
 mob5_lock2_04
 mob5_lock_1
+mob5_locks
 mob5_meet
 mob5_more_01
 mob5_more_02
@@ -91078,7 +91329,6 @@ moonshine_coop_cooldown_done
 moonshine_coop_mission_flow_complete
 moonshine_discard
 moonshine_drink
-moonshine_drunk_walk_blackwater_clear
 moonshine_eat
 moonshine_empty_group_label
 moonshine_enter_posse
@@ -100091,6 +100341,7 @@ mr52
 mr52_b_barn
 mr52_b_bull
 mr52_b_corral
+mr52_b_tom
 mr52_bcalm_00_1
 mr52_bcalm_00_2
 mr52_bcalm_00_3
@@ -100163,6 +100414,7 @@ mr53_h_hd02
 mr53_h_hmg01
 mr53_h_tj01
 mr53_h_tj02
+mr53_i_jack
 mr53_jack
 mr53_jer
 mr53_mrsgeddes
@@ -100254,6 +100506,8 @@ mry1_ajridetalk_44
 mry1_ajridetalk_45
 mry1_ajridetalk_46
 mry1_arrivest_1
+mry1_attack
+mry1_attack2
 mry1_bflee_01
 mry1_bflee_02
 mry1_bflee_03
@@ -100298,11 +100552,15 @@ mry1_ext_li_2
 mry1_ext_li_3
 mry1_fail_abd
 mry1_fail_camp
+mry1_fail_esc
 mry1_fail_farc
 mry1_fail_jamie
 mry1_fail_mary
 mry1_fail_marya
+mry1_getback
+mry1_h_hon
 mry1_h_int
+mry1_h_rep
 mry1_i_option1a
 mry1_i_option1b
 mry1_i_option2a
@@ -100573,6 +100831,7 @@ mry1_int_175
 mry1_int_176
 mry1_int_177
 mry1_int_178
+mry1_inter
 mry1_jarunoff_1
 mry1_mcs1_1
 mry1_mcs1_2
@@ -100732,6 +100991,8 @@ mry3_convo_5
 mry3_convo_6
 mry3_convo_7
 mry3_cxt_acc
+mry3_cxt_boo
+mry3_cxt_cheer
 mry3_cxt_dhelp
 mry3_cxt_help
 mry3_cxt_hit
@@ -100854,6 +101115,7 @@ mry3_follow_obj
 mry3_ft_shoot_01
 mry3_ft_shoot_02
 mry3_ft_shoot_03
+mry3_hon_assault
 mry3_hon_murder
 mry3_idle_1_01
 mry3_idle_1_02
@@ -101123,6 +101385,7 @@ mry3_obj_return
 mry3_obj_stable
 mry3_obj_stop
 mry3_obj_wagon
+mry3_obj_wait
 mry3_overweight_1
 mry3_overweight_2
 mry3_panic_v2_01
@@ -101139,6 +101402,7 @@ mry3_quick_02
 mry3_quick_03
 mry3_return
 mry3_secl_fail
+mry3_sight_fail
 mry3_spotted_01
 mry3_spotted_02
 mry3_spotted_03
@@ -101301,6 +101565,7 @@ mry41_lett_alt3_18
 mry_ig6_loop_1
 mry_ig6_ltor_1
 mry_ig6_rtol_1
+ms1_uc_talk
 ms_bartender_exit
 ms_bartender_group
 ms_but1
@@ -101403,6 +101668,7 @@ mud1_ext_20
 mud1_ext_21
 mud1_ext_22
 mud1_ext_23
+mud1_fail_aggro
 mud1_fail_cara
 mud1_fail_draft
 mud1_fail_horse
@@ -101415,10 +101681,12 @@ mud1_goodspot_4
 mud1_gto_obj1
 mud1_gto_obj2
 mud1_help_donation
+mud1_help_gps
 mud1_help_radar
 mud1_help_restore
 mud1_help_rev
 mud1_help_stop
+mud1_help_strauss
 mud1_help_tent
 mud1_herb_hlp
 mud1_herb_hlp_2
@@ -101714,6 +101982,7 @@ mud1_uc_fix_3
 mud1_uc_fix_4
 mud1_uc_fix_6b
 mud1_wagon_dis
+mud1_warn_cara
 mud1_warn_wagon
 mud1_wgbill_1
 mud1_wgbill_2
@@ -101862,6 +102131,7 @@ mud2_hlp_grp
 mud2_hlp_int1
 mud2_hlp_int2
 mud2_hlp_int3
+mud2_hlp_law
 mud2_hlp_pun
 mud2_int_1
 mud2_int_2
@@ -101964,15 +102234,19 @@ mud3_c_agro
 mud3_c_ask
 mud3_c_door
 mud3_c_driver
+mud3_c_gang
 mud3_c_greet
 mud3_c_help
 mud3_c_kill
 mud3_c_neg
+mud3_c_owner
 mud3_c_pos
 mud3_c_quest
+mud3_c_shout
 mud3_c_t_neg
 mud3_c_t_ok
 mud3_c_t_pos
+mud3_c_uncle
 mud3_c_wake
 mud3_callhelp_01
 mud3_callhelp_02
@@ -102845,6 +103119,7 @@ mud3b_obj_holdup
 mud3b_obj_intercept
 mud3b_obj_lawmen
 mud3b_obj_park
+mud3b_obj_regroup
 mud3b_obj_rob_cargo
 mud3b_obj_robbery
 mud3b_obj_sean
@@ -102963,6 +103238,7 @@ mud4_binocular_1
 mud4_binocular_2
 mud4_binocular_3
 mud4_binocular_4
+mud4_blip_auct
 mud4_blip_cart
 mud4_blip_gs
 mud4_blip_ranch
@@ -103003,9 +103279,11 @@ mud4_fail_duel
 mud4_fail_farm
 mud4_fail_gang
 mud4_fail_herd
+mud4_fail_kill
 mud4_fail_law
 mud4_fail_left_vantage
 mud4_fail_lost
+mud4_fail_sheep
 mud4_fail_shop1
 mud4_fail_shop2
 mud4_fail_shop3
@@ -103432,6 +103710,7 @@ mud4_trample_02
 mud4_trample_03
 mud4_trample_04
 mud4_uc_pick
+mud4_uc_swap
 mud4_wag_3_1
 mud4_wag_3_2
 mud4_wagcover_1
@@ -104126,6 +104405,7 @@ mud5_shoot_02
 mud5_shotf
 mud5_signalgo_1
 mud5_statemar_1
+mud5_tell
 mud5_teller
 mud5_tooslow_1
 mud5_tooslow_2
@@ -106027,6 +106307,7 @@ nbd1_dcov5_01
 nbd1_dcov5_02
 nbd1_dcov7_01
 nbd1_dcov7_02
+nbd1_debug
 nbd1_desc
 nbd1_desc_pm
 nbd1_didea_1
@@ -106560,6 +106841,8 @@ nbd1_uc_dyna
 nbd1_uc_jump
 nbd1_uc_loot
 nbd1_uc_window
+nbd1_vantage
+nbd1_vantage_fail
 nbd1_vault_1
 nbd1_wagons_1
 nbd1_walkout_01
@@ -107955,6 +108238,7 @@ noresults_title
 nose_header
 not_connected
 note
+notif_header
 notif_link
 notif_subh
 notifications_empty
@@ -108345,6 +108629,7 @@ nts1_fight2_1
 nts1_follow
 nts1_gocanoe
 nts1_goshore
+nts1_greet
 nts1_heard_01
 nts1_heard_02
 nts1_heard_03
@@ -108519,6 +108804,7 @@ nts1_ride_dis_8
 nts1_ride_dis_9
 nts1_smoke_01
 nts1_smoke_02
+nts1_swanson
 nts1_swim_1
 nts1_swim_2
 nts1_swim_3
@@ -108627,7 +108913,9 @@ nts2_09_beckon_03
 nts2_abandoned_dutch
 nts2_abandoned_eagle
 nts2_abandoned_gang
+nts2_ahorse
 nts2_alerted_early
+nts2_ambush_return
 nts2_arrested
 nts2_bodieschat_1
 nts2_bodieschat_2
@@ -108647,6 +108935,7 @@ nts2_death
 nts2_desc
 nts2_desc_pm
 nts2_detonator
+nts2_dhorse
 nts2_done_odr5_1
 nts2_done_odr5_2
 nts2_done_odr5_3
@@ -108655,6 +108944,8 @@ nts2_done_trn2_1
 nts2_done_trn2_2
 nts2_done_trn2_3
 nts2_done_trn2_4
+nts2_drowned
+nts2_dutch
 nts2_dynamite
 nts2_eagle
 nts2_ext_1
@@ -108693,6 +108984,7 @@ nts2_ext_33
 nts2_gang_return
 nts2_getthis_1
 nts2_help_slap
+nts2_help_sur
 nts2_ig0_p1_1
 nts2_ig0_p1_2
 nts2_ig0_p1_3
@@ -108871,10 +109163,12 @@ nts3_bow_hlp2
 nts3_bridge_1
 nts3_c_akill
 nts3_c_ckill
+nts3_c_comp
 nts3_c_guard
 nts3_c_keys
 nts3_c_pickup
 nts3_c_rotate
+nts3_c_tent
 nts3_calmer_01
 nts3_calmer_02
 nts3_calmer_03
@@ -108895,6 +109189,7 @@ nts3_canoego_02
 nts3_canoego_03
 nts3_canoeride_01
 nts3_canoeride_02
+nts3_canret
 nts3_charkill_01
 nts3_charkill_02
 nts3_charkill_03
@@ -109044,6 +109339,7 @@ nts3_gts_obj2
 nts3_gtw_char
 nts3_gtw_obj1
 nts3_gtw_obj4
+nts3_gtw_rem
 nts3_hint1_01
 nts3_hint1_02
 nts3_hint2_01
@@ -109246,6 +109542,7 @@ nts3_shrtretryspoken_6
 nts3_shrtretryspoken_8
 nts3_shrtretryspoken_10
 nts3_spare_keys_1
+nts3_ste_hlp
 nts3_stef03f_01
 nts3_stef03f_02
 nts3_steg01_01
@@ -109438,6 +109735,7 @@ ntv1_ashri_01_2
 ntv1_ashri_01_3
 ntv1_attack_monroe
 ntv1_attack_rf
+ntv1_attack_rfhorse
 ntv1_bandana_1
 ntv1_bandana_3
 ntv1_bandanashouted_2
@@ -109466,6 +109764,7 @@ ntv1_clue_far_04
 ntv1_ctx4
 ntv1_ctx5
 ntv1_dead_monroe
+ntv1_dead_rf
 ntv1_dead_rfhorse
 ntv1_desc
 ntv1_desc_pm
@@ -109538,6 +109837,7 @@ ntv1_file
 ntv1_foll_mon_01
 ntv1_foll_mon_02
 ntv1_foll_mon_03
+ntv1_gtarm
 ntv1_herb_1a_1
 ntv1_herb_2a_1
 ntv1_hlp
@@ -109735,6 +110035,8 @@ ntv1_monnews_9
 ntv1_monnews_10
 ntv1_monnews_11
 ntv1_monnews_12
+ntv1_mroe
+ntv1_mroeh
 ntv1_near1_1
 ntv1_near2shouted_1
 ntv1_near2spoken_1
@@ -109774,14 +110076,18 @@ ntv1_ques
 ntv1_rcontinue_1
 ntv1_rf
 ntv1_rf_tent
+ntv1_rfh
 ntv1_saddlebag_1
 ntv1_setoff_1
 ntv1_setoff_2
 ntv1_setoff_3
 ntv1_setoff_4
+ntv1_si_abandon
 ntv1_si_destroy
+ntv1_si_return
 ntv1_si_unreachable
 ntv1_smoke_1
+ntv1_stl
 ntv1_terro
 ntv1_top1_ha_2
 ntv1_top1_ha_4
@@ -110061,6 +110367,7 @@ ntv1_tshri_03shouted_2
 ntv1_tshri_03spoken_2
 ntv1_tshri_a_1
 ntv1_tshri_a_2
+ntv1_uc_c
 ntv1_uc_i
 ntv1_uc_ib
 ntv1_uc_ib2
@@ -110285,6 +110592,7 @@ ntv2_grapple_01
 ntv2_grapple_02
 ntv2_grapple_03
 ntv2_grapple_04
+ntv2_grt
 ntv2_gtm_obj1
 ntv2_holdfire1_1
 ntv2_holdfire2_1
@@ -110330,6 +110638,7 @@ ntv2_ig3_5
 ntv2_ig3_6
 ntv2_ig4_1
 ntv2_ig4_2
+ntv2_ilo
 ntv2_int_1
 ntv2_int_2
 ntv2_int_3
@@ -110900,6 +111209,7 @@ ntv3_more_ef_01
 ntv3_more_ef_02
 ntv3_more_ef_03
 ntv3_nativesave_1
+ntv3_o_escape
 ntv3_o_gobwapiti
 ntv3_o_godutch
 ntv3_o_gowapiti
@@ -111319,10 +111629,12 @@ nw_pw_c_current_member
 nw_pw_c_no_sc_remote
 nyexecpro
 nyexecpros
+obj_breach
 obj_cat_follow
 obj_chase_hsc
 obj_collect_hsc
 obj_complete_ab
+obj_complete_don
 obj_complete_not
 obj_complete_rec
 obj_confront_hun
@@ -111412,6 +111724,7 @@ obt3_help
 obt3_o_mount
 obt3_o_push
 obt3_o_ride
+obt3_o_wait
 oc_drop
 oc_pickup
 odd_device_fail
@@ -112073,6 +112386,7 @@ odr5_fail_det
 odr5_fail_esc
 odr5_fail_hors
 odr5_fail_pol
+odr5_fail_snpr
 odr5_fail_splc
 odr5_femciv_01
 odr5_femciv_02
@@ -112529,7 +112843,6 @@ offhand_snake_shop
 ofw
 ofw_desc
 on_foot_km_screen
-on_horse_speed_restriction_ignore_mount_class
 on_mount_km_screen
 onconsysdes
 onecoxp
@@ -112545,7 +112858,6 @@ oob_b_pa_blip
 oob_pa_blip
 oob_pas_blip
 oob_rtn_pa
-oor_addr
 open
 open_ammo_box
 open_ammo_case
@@ -113656,6 +113968,7 @@ otr1_taste_stew
 out_journ_add
 out_journ_done
 out_swap
+outfit_bh
 outfit_cold_weather
 outfit_deleted_literal
 outfit_hot_weather
@@ -113663,6 +113976,7 @@ outfit_immune_weather
 outfit_no_extreme_weather
 outfit_none
 outfit_removed_literal
+outfit_savage
 outfit_saved_literal
 outfit_stored_literal
 outlaw_camp_robbery_description
@@ -114469,6 +114783,12 @@ parley_ticker_info
 parley_toast_opt_in
 parley_toast_opt_in_body
 pasture_sheep
+pay_bounty_list_all
+pay_bounty_list_ambarino
+pay_bounty_list_elizabeth
+pay_bounty_list_guarma
+pay_bounty_list_hanover
+pay_bounty_list_lemoyne
 pay_bounty_menu
 pay_cash
 pay_player_bounty
@@ -114600,6 +114920,13 @@ pearson_upgrade_d0
 pearson_upgrade_d1
 pearson_upgrade_d2
 pearson_upgrade_d3
+pearson_upgrade_h0
+pearson_upgrade_h1
+pearson_upgrade_h2
+pearson_upgrade_h3
+pearson_upgrade_i1
+pearson_upgrade_i2
+pearson_upgrade_i3
 pearson_wagon
 pearsons_arthur_tent_craft_menu
 pearsons_arthur_tent_craft_menu_desc
@@ -116085,6 +116412,7 @@ pm_tooltip_save
 pm_tooltip_unable_to_manually_save
 pm_tooltip_unable_to_start_new_game
 pm_weapon_stats
+pmhelp_activity_hdr
 pmhelp_bj_bet
 pmhelp_bj_bet_hdr
 pmhelp_bj_blkjk
@@ -116097,6 +116425,8 @@ pmhelp_bj_hit
 pmhelp_bj_hit_hdr
 pmhelp_bj_ins
 pmhelp_bj_ins_hdr
+pmhelp_bj_overview
+pmhelp_bj_overview_hdr
 pmhelp_bj_rule
 pmhelp_bj_rule21
 pmhelp_bj_rule_hdr
@@ -116171,6 +116501,7 @@ pmhelp_combat_gsmith_hdr
 pmhelp_combat_gsmith_net
 pmhelp_combat_gsmithcatalogue_net
 pmhelp_combat_gsmithcust
+pmhelp_combat_hdr
 pmhelp_combat_hogtie
 pmhelp_combat_holster
 pmhelp_combat_holster_hdr
@@ -116178,6 +116509,8 @@ pmhelp_combat_horse
 pmhelp_combat_lasso
 pmhelp_combat_lasso_hdr
 pmhelp_combat_looting_net
+pmhelp_combat_maint
+pmhelp_combat_maint_hdr
 pmhelp_combat_melee_hdr_net
 pmhelp_combat_pals
 pmhelp_combat_pals_hdr
@@ -116286,6 +116619,9 @@ pmhelp_dom_drawrack
 pmhelp_dom_drawtiles
 pmhelp_dom_drawwin
 pmhelp_dom_hdr
+pmhelp_dom_overview
+pmhelp_dom_overview_hdr
+pmhelp_dom_score
 pmhelp_dom_spin
 pmhelp_dom_spin_hdr
 pmhelp_dom_tip
@@ -116301,9 +116637,13 @@ pmhelp_fff_gts_hdr
 pmhelp_fff_hdr
 pmhelp_fff_how
 pmhelp_fff_look
+pmhelp_fff_overview
+pmhelp_fff_overview_hdr
 pmhelp_fff_play
 pmhelp_fff_prc
 pmhelp_fff_prc_hdr
+pmhelp_fff_tip
+pmhelp_fff_tip_hdr
 pmhelp_fff_win
 pmhelp_fish_bait
 pmhelp_fish_bait_hdr
@@ -116336,6 +116676,7 @@ pmhelp_gen_challenge
 pmhelp_gen_challenge_2
 pmhelp_gen_challenge_hdr
 pmhelp_gen_craft
+pmhelp_gen_craft_2
 pmhelp_gen_craft_hdr
 pmhelp_gen_craft_net
 pmhelp_gen_crafting
@@ -116345,6 +116686,7 @@ pmhelp_gen_getaround_hdr
 pmhelp_gen_getaround_km
 pmhelp_gen_getaround_net
 pmhelp_gen_getaround_net_km
+pmhelp_gen_hdr
 pmhelp_gen_health
 pmhelp_gen_health_2
 pmhelp_gen_health_3
@@ -116356,6 +116698,7 @@ pmhelp_gen_mission_hdr
 pmhelp_gen_mission_reply
 pmhelp_gen_outfit
 pmhelp_gen_outfit_2
+pmhelp_gen_outfit_3
 pmhelp_gen_outfit_hdr
 pmhelp_gen_outfit_net
 pmhelp_gen_photo_mode_1
@@ -116368,6 +116711,7 @@ pmhelp_gen_satch
 pmhelp_gen_satch_2
 pmhelp_gen_satch_hdr
 pmhelp_gen_save
+pmhelp_gen_save_2
 pmhelp_gen_save_hdr
 pmhelp_gen_seeworld
 pmhelp_gen_seeworld_hdr
@@ -116409,6 +116753,7 @@ pmhelp_horse_insurance3_net
 pmhelp_horse_insurance_hdr_net
 pmhelp_horse_insurance_net
 pmhelp_horse_medic
+pmhelp_horse_medic_hdr
 pmhelp_horse_menu_net
 pmhelp_horse_multiple_hdr_net
 pmhelp_horse_multiple_net
@@ -120865,8 +121210,10 @@ prs1_bc_skin_2
 prs1_bc_tracks_2
 prs1_bc_tracks_2_km
 prs1_bc_tracks_3
+prs1_c_deer
 prs1_c_greet
 prs1_c_pearson
+prs1_c_tracks
 prs1_h_bow_4
 prs1_h_calldr
 prs1_h_calmhrse
@@ -120894,6 +121241,7 @@ prs1_o_hunt
 prs1_o_kill02
 prs1_o_mount
 prs1_o_mount2
+prs1_o_pearson
 prs1_o_pick01
 prs1_o_pick02
 prs1_o_put02
@@ -121601,6 +121949,7 @@ r_07__hd_0_3_1
 rabi1
 rabi1_abancamp
 rabi1_abanfish
+rabi1_abanwarn
 rabi1_abidead
 rabi1_cblip
 rabi1_chall_1
@@ -121609,6 +121958,7 @@ rabi1_desc
 rabi1_desc_pm
 rabi1_failwarn
 rabi1_fblip
+rabi1_findjk
 rabi1_fishclose
 rabi1_gofish
 rabi1_gojack
@@ -121616,9 +121966,13 @@ rabi1_gomount
 rabi1_goriver
 rabi1_greet
 rabi1_hrsdead
+rabi1_ilo
 rabi1_jackaban
 rabi1_jackharm
+rabi1_jackwet
+rabi1_jblip
 rabi1_jkannoy
+rabi1_meetjk
 rabi1_noguns
 rabi1_retcamp
 rabi1_retfish
@@ -124211,17 +124565,20 @@ rbwcg1_lawfound
 rbwcg1_postcount
 rbwcg1_poster
 rbwcg2
+rbwcg2_askbh
 rbwcg2_capture
 rbwcg2_desc
 rbwcg2_fail
 rbwcg2_failwnt
 rbwcg2_postcutobj
+rbwcg2_takeposter
 rbwcg3
 rbwcg3_desc
 rbwcg3_desc_pm
 rbwcg3_giveitems
 rbwcg3_poster
 rbwcg4
+rbwcg4_craft
 rbwcg4_desc
 rbwcg4_desc_pm
 rbwcg4_giveitems
@@ -124570,6 +124927,7 @@ rbwcg_rc5_lp4_7
 rbwcg_rc5_lp4_8
 rbwcg_rc5_lp4_9
 rbwcg_retrieve
+rbwcg_rtnoprisoner
 rbwcg_rtnprisoner
 rbwcg_srf_ave2a_1
 rbwcg_srf_ave2j_1
@@ -125661,6 +126019,7 @@ rcexo_rsc2_57
 rcexo_rsc2_58
 rcexo_rsc2_59
 rcexo_rsc2_lia_1
+rcexo_rsc2_lij_1
 rcexo_rsc3_1
 rcexo_rsc3_2
 rcexo_rsc3_3
@@ -126382,6 +126741,7 @@ rchrb1_phdead
 rchrb1_ret2
 rchrb1_tatt
 rchrb1_tdead
+rchrb1_wait
 rchrb1_wtcl
 rchrb_7_1
 rchrb_ambushgo_1
@@ -128114,6 +128474,7 @@ rdch31_o_gta
 rdch31_o_gtbc
 rdch31_o_kill
 rdch31_o_open
+rdch31_o_retc
 rdch31_o_retwom
 rdch31_o_speakc
 rdch31_o_throw
@@ -128175,6 +128536,7 @@ rdst2_desc
 rdst2_desc_pm
 rdst2_f_hlb
 rdst2_first
+rdst2_h_loadout
 rdst2_h_shotgun_2
 rdst2_h_shotgun_3
 rdst2_o_chimney
@@ -128395,6 +128757,7 @@ rdtc1f_facamp
 rdtc1f_famaggr
 rdtc1f_famdead
 rdtc1f_hrs
+rdtc1f_hrsdead
 rdtc1f_hstgattk
 rdtc1f_hstgdead
 rdtc1f_law
@@ -131130,6 +131493,7 @@ rh1_arrivelake_1
 rh1_arth_mount_1
 rh1_averge_hrse_1
 rh1_averge_hrse_2
+rh1_bait_check
 rh1_bait_dawdle_01
 rh1_bait_dawdle_02
 rh1_bait_dawdle_03
@@ -131207,6 +131571,7 @@ rh1_choice_trail
 rh1_cook_eat_1
 rh1_cook_eat_2
 rh1_cook_eat_3
+rh1_cook_rabbit
 rh1_cook_tut1
 rh1_cook_tut2
 rh1_cook_tut3
@@ -131216,12 +131581,14 @@ rh1_cook_tut6
 rh1_cook_tut7
 rh1_cook_tut8
 rh1_cook_tut9
+rh1_craft_bait
 rh1_deadrab_dwd_01
 rh1_deadrab_dwd_02
 rh1_deadrab_dwd_03
 rh1_decent_hrse_1
 rh1_decent_hrse_2
 rh1_dismount
+rh1_eat_meat
 rh1_ext_1
 rh1_ext_2
 rh1_ext_3
@@ -131268,6 +131635,8 @@ rh1_fl_rbh
 rh1_fl_sddl
 rh1_fl_stble
 rh1_fl_wait
+rh1_flw_camp
+rh1_flw_cliff
 rh1_goh_sddl
 rh1_goodbye_1
 rh1_goodbye_2
@@ -131288,6 +131657,7 @@ rh1_hshop_dawd_03
 rh1_hshop_mount_01
 rh1_hshop_mount_02
 rh1_hshop_mount_03
+rh1_id_bear
 rh1_ilo_lenny_a_1
 rh1_ilo_lenny_a_2
 rh1_ilo_lenny_a_3
@@ -131366,6 +131736,7 @@ rh1_isitgone_01
 rh1_isitgone_02
 rh1_isitgone_03
 rh1_isitgone_04
+rh1_lake_hose
 rh1_landmark_1
 rh1_leavecamp_1
 rh1_letsgo_a_1
@@ -131455,6 +131826,7 @@ rh1_mount_dawd_01
 rh1_mount_dawd_02
 rh1_mount_dawd_03
 rh1_mount_up
+rh1_mount_up2
 rh1_new_hrse
 rh1_nrmv_sddl
 rh1_ntran_sddl
@@ -131480,6 +131852,7 @@ rh1_rabb_goto
 rh1_rabb_kill
 rh1_rabb_pick
 rh1_rabb_retn
+rh1_rabb_skin
 rh1_rabb_stow
 rh1_readsign_1
 rh1_rescue
@@ -131526,6 +131899,7 @@ rh1_track_chat_16
 rh1_track_chat_17
 rh1_track_chat_18
 rh1_trail_end_1
+rh1_trans_sddl
 rh1_trk_cl1_1
 rh1_trk_fclue_01
 rh1_trk_fclue_02
@@ -131915,6 +132289,7 @@ rhlp2_waghurry_09
 rhmr0
 rhmr0_blip_barn
 rhmr0_blip_emerald_ranch
+rhmr0_blip_fence
 rhmr0_blip_homestead
 rhmr0_blip_stash
 rhmr0_blip_wagon
@@ -132153,6 +132528,7 @@ rhmr0_ngt_rob_1_2
 rhmr0_ngt_rob_2_1
 rhmr0_ngt_rob_3_1
 rhmr0_o_bino
+rhmr0_o_crawford
 rhmr0_o_day
 rhmr0_o_follow_wgn
 rhmr0_o_get_barn
@@ -135587,6 +135963,7 @@ rmnr1_gun1_2
 rmnr1_gun2_1
 rmnr1_gun2_2
 rmnr1_ilo_1
+rmnr1_ilo_grt
 rmnr1_m_mnr_1
 rmnr1_m_mnr_2
 rmnr1_m_mnr_r_01
@@ -135636,6 +136013,7 @@ rmnr1_o_rtnwap
 rmnr1_o_rtnwgn
 rmnr1_o_rtvmed
 rmnr1_o_srccnv
+rmnr1_o_stpcnv
 rmnr1_o_wait
 rmnr1_rsc1_1
 rmnr1_rsc1_2
@@ -135729,6 +136107,7 @@ rmnr1_trn3_1
 rmnr1_trn3_2
 rmnr1_trn3_3
 rmnr1_trn3_4
+rmnr1_uc_jump
 rmnr1_uc_srcw
 rmnr1_warn_01_01
 rmnr1_warn_01_02
@@ -135739,9 +136118,11 @@ rmnr1_warnb_1_02
 rmnr1_warnb_2_01
 rmnr1_warnb_2_02
 rmob01
+rmob01_ask
 rmob01_desc
 rmob01_desc_pm
 rmob01_obj1
+rmob01_prompt
 rmob1_ask1_1
 rmob1_ask1_2
 rmob1_ask1_3
@@ -135756,9 +136137,11 @@ rmob1_thanks_01
 rmob1_thanks_02
 rmob1_thanks_03
 rmob02
+rmob02_ask
 rmob02_desc
 rmob02_desc_pm
 rmob02_obj1
+rmob02_prompt
 rmob2_ask1_1
 rmob2_ask1_2
 rmob2_ask1_3
@@ -135798,6 +136181,7 @@ rmry0_rsc1_lo_5
 rmry0_rsc1_lo_6
 rmryb
 rmryb_desc
+rmryb_ilo
 rmryb_launch
 rmsn_4_bant1_1
 rmsn_4_bant1_2
@@ -136209,6 +136593,7 @@ robt_f_barrel
 robt_f_horse
 robt_f_kill
 robt_f_left
+robt_f_punch
 robt_flinch_01
 robt_flinch_02
 robt_flinch_03
@@ -136558,6 +136943,7 @@ roddf_fail3
 roddf_fail4
 roddf_fail5
 roddf_fail6
+roddf_help_hrse
 roddf_obj_1
 roddf_obj_2
 roddf_obj_3
@@ -138565,7 +138951,11 @@ rtl2_rc1_li_3
 rtl2_rc1_li_co_1
 rtl2_rc1_li_grt_1
 rtl2_rc1_li_grt_2
+rtl6_alive
+rtl6_crimes
 rtl6_fail_want
+rtl6_loc
+rtl6_names
 rtl6_o_blip
 rtl6_o_capt
 rtl6_o_drop
@@ -138573,7 +138963,10 @@ rtl6_o_ecsp
 rtl6_o_hrse
 rtl6_o_loca
 rtl6_o_pick
+rtl6_o_pkup
 rtl6_o_retu
+rtl6_return
+rtl6_reward
 rtl_1_post1_1
 rtl_1_post1_2
 rtl_2_driver_1
@@ -139010,6 +139403,7 @@ rxcf1
 rxcf1_bl_crt
 rxcf1_bl_cvr
 rxcf1_bl_dyn
+rxcf1_bl_rdr
 rxcf1_bl_tree
 rxcf1_bl_wgn
 rxcf1_chall_3
@@ -139099,14 +139493,18 @@ sad1_bliphlp1
 sad1_bliphlp2
 sad1_bliphlp3
 sad1_blpcamp
+sad1_blpinj
+sad1_blppoff
 sad1_blpstore
 sad1_blpwagon
+sad1_collect
 sad1_dealwith
 sad1_f_agg_post
 sad1_f_agg_shop
 sad1_failaband
 sad1_failaggro
 sad1_failcamp
+sad1_faildiscard
 sad1_failgocamp
 sad1_failpearson
 sad1_failpost
@@ -139122,11 +139520,15 @@ sad1_gocamp
 sad1_gopostoff
 sad1_gosadie
 sad1_gostore
+sad1_ilo_pearson
+sad1_ilo_sadie
 sad1_interrupt
 sad1_posthelp1
 sad1_posthelp2
 sad1_posthelp3
 sad1_revhelp
+sad1_waghelp1
+sad1_waghelp2
 sad1_waitsad
 sad2
 sad2_balcony1_1
@@ -139419,6 +139821,11 @@ sad2_postfollow_01
 sad2_postfollow_02
 sad2_postfollow_03
 sad2_postfollow_04
+sad2_q_mayor
+sad2_q_post
+sad2_q_store
+sad2_q_stranger
+sad2_q_worker
 sad2_quest_dawd_01
 sad2_quest_dawd_02
 sad2_quest_fail
@@ -139502,6 +139909,7 @@ sad2_thret_dawd_01
 sad2_thret_dawd_02
 sad2_town_fail
 sad2_town_warn
+sad2_uc_question
 sad2_wanted_fail
 sad2_welc_aidle_01
 sad2_welc_aidle_02
@@ -139651,6 +140059,7 @@ sad3_corrage_2
 sad3_corrage_3
 sad3_corrage_4
 sad3_corrage_5
+sad3_cxt_attack
 sad3_cxt_lumber
 sad3_desc
 sad3_desc_pm
@@ -139723,9 +140132,13 @@ sad3_ext_leadin_1
 sad3_fail_aband
 sad3_fail_alert
 sad3_fail_bounty_dead
+sad3_fail_horse_a
+sad3_fail_horse_s
+sad3_fail_horse_u
 sad3_fail_kidnapper
 sad3_fail_killed
 sad3_fail_law
+sad3_fail_lumb_dead
 sad3_fail_lumb_scare
 sad3_fail_sheriff
 sad3_fucortez_1
@@ -139749,6 +140162,7 @@ sad3_ig1_house_11
 sad3_ig2_enter_1
 sad3_ig3_1
 sad3_ilo_bount
+sad3_ilo_lumber
 sad3_int_1
 sad3_int_2
 sad3_int_3
@@ -140092,6 +140506,7 @@ sad4_aband_03
 sad4_attack_01
 sad4_attack_02
 sad4_attack_03
+sad4_b_bear
 sad4_bdy_1
 sad4_bdy_2
 sad4_bdy_3
@@ -140390,6 +140805,7 @@ sad4_track2_02
 sad4_track2_03
 sad4_trackshouted_1
 sad4_trackspoken_1
+sad4_uc_i
 sad4_up_1
 sad4_wds_1
 sad5
@@ -141457,11 +141873,13 @@ sal1_where_lenn_02
 sal1_where_lenn_03
 sal1_where_lenn_04
 satchel_empty
+satchel_empty_description
 satchel_horse_items
 satchel_legendary_title
 satchel_prompt_breakdown
 satchel_prompt_cook
 satchel_prompt_discard_all
+satchel_prompt_donate
 satchel_prompt_drink
 satchel_prompt_eat
 satchel_prompt_equip
@@ -142362,6 +142780,7 @@ sen1_int_31
 sen1_int_32
 sen1_int_li_1
 sen1_int_li_2
+sen1_interaction_0
 sen1_javlchar1_1
 sen1_javlchar1_2
 sen1_javlchar2_1
@@ -142589,6 +143008,7 @@ setting_desc_audio_output_device
 setting_desc_auto_gps
 setting_desc_auto_pin_switch
 setting_desc_auto_save
+setting_desc_blips
 setting_desc_camp_bonus
 setting_desc_cash
 setting_desc_chat_level
@@ -142600,6 +143020,7 @@ setting_desc_ctrl_config_tp
 setting_desc_dialogue
 setting_desc_dist
 setting_desc_dmg_indicators_fx_mp
+setting_desc_dof
 setting_desc_dynamic_range
 setting_desc_fishing_hold_to_reel
 setting_desc_fp_auto_level
@@ -142667,6 +143088,7 @@ setting_desc_targeting_foot
 setting_desc_targeting_horse
 setting_desc_targeting_restricted
 setting_desc_temp
+setting_desc_threat
 setting_desc_toggle_aim_mode
 setting_desc_tp_fov
 setting_desc_transactions
@@ -142679,11 +143101,13 @@ setting_muse_smoothing
 setting_tip_ammo
 setting_tip_auto_gps
 setting_tip_auto_save
+setting_tip_blips
 setting_tip_cash
 setting_tip_clock
 setting_tip_colorblind
 setting_tip_crew_tag
 setting_tip_dist
+setting_tip_dof
 setting_tip_dynamic_range
 setting_tip_fp_auto_level
 setting_tip_fp_bob
@@ -142720,8 +143144,10 @@ setting_tip_safe_zone
 setting_tip_score_timer
 setting_tip_status_icons
 setting_tip_story_nots
+setting_tip_sub_speaker
 setting_tip_subtitles
 setting_tip_temp
+setting_tip_threat
 setting_tip_transactions
 setting_tip_wanted
 setting_tip_weight
@@ -143553,6 +143979,7 @@ shop_all_page
 shop_ammo_buy_bundle
 shop_ammo_buy_max
 shop_ammo_buy_pack
+shop_amt
 shop_appearance
 shop_back
 shop_bait
@@ -143562,13 +143989,18 @@ shop_barber
 shop_bartender
 shop_blacksmith
 shop_boat_ticket_buy
+shop_bounty_no_bounty
+shop_bounty_no_cash
+shop_bounty_pay_single
 shop_browse
 shop_browse_catalogue
 shop_butcher
 shop_butcher_dropoff
 shop_butcher_dropoff_rotten
 shop_buy
+shop_buy_clothing
 shop_buy_horse
+shop_buy_horse_satchel
 shop_buy_horse_slot
 shop_buy_max
 shop_buy_max_carried
@@ -143593,7 +144025,10 @@ shop_can_receive
 shop_can_send
 shop_cannot_preview
 shop_cannot_receive
+shop_cannot_sell_coach
+shop_cannot_sell_horse
 shop_cannot_send
+shop_cant_train_horse
 shop_carrying_object
 shop_cart
 shop_cat_info
@@ -143616,17 +144051,21 @@ shop_catalogue_purchase_weapon
 shop_catalogue_purchase_weapon_adv_camera
 shop_catalogue_purchase_weapon_binocular
 shop_catalogue_purchase_weapon_fishingrod
+shop_catalogue_purchase_web
 shop_claim
 shop_close
 shop_clothing
 shop_coach
+shop_coach_sold
 shop_collect
 shop_collect_all
 shop_color_page
 shop_colour
 shop_compare
+shop_cost
 shop_craft
 shop_customize
+shop_delivery_fee
 shop_discard
 shop_doctor
 shop_dynamic
@@ -143635,10 +144074,17 @@ shop_equip
 shop_equip_to_melee
 shop_equip_to_posse
 shop_equipment
+shop_equipment_challenges
+shop_equipment_ingredients
 shop_exit
 shop_exit_time
 shop_exotic
 shop_fence
+shop_fence_ingredients
+shop_firearms_power
+shop_firearms_range
+shop_firearms_rate
+shop_firearms_reload
 shop_fishbag_dropoff
 shop_focus
 shop_free
@@ -143685,15 +144131,35 @@ shop_honor_mp_buy_bad_honor
 shop_honor_mp_buy_good_honor
 shop_honor_mp_redeem_bad_honor
 shop_honor_mp_redeem_good_honor
+shop_horse_acceleration
+shop_horse_active_slot
+shop_horse_at_highest_level
+shop_horse_buy_horse_prompt
+shop_horse_empty_active_slot
+shop_horse_empty_slot
+shop_horse_equipment_purchased
 shop_horse_fence_buy
 shop_horse_fence_mp
 shop_horse_fence_sell
 shop_horse_fence_sell_named
+shop_horse_health
 shop_horse_help_no_open_stable_slots
 shop_horse_help_no_open_stabled_slots
+shop_horse_is_lost
+shop_horse_no_open_slot
+shop_horse_no_stable_slot
+shop_horse_purchased
 shop_horse_saddle
+shop_horse_saddle_carried
+shop_horse_saddle_in_shop
+shop_horse_saddle_slot
 shop_horse_select_vehicle
+shop_horse_sell_horse_prompt
 shop_horse_shop
+shop_horse_sold
+shop_horse_speed
+shop_horse_stable_slot
+shop_horse_stamina
 shop_horse_stat_acceleration
 shop_horse_stat_breed
 shop_horse_stat_coat
@@ -143721,9 +144187,11 @@ shop_item_ui
 shop_item_value
 shop_launch_mission
 shop_list_item_quantity
+shop_locked
 shop_mailbox_cant_carry
 shop_manage_weapons
 shop_mash_required
+shop_max
 shop_mission_telegram_desc
 shop_moonshine_shop
 shop_moonshine_still
@@ -143751,6 +144219,9 @@ shop_ms_still_dflt_buyer_desc
 shop_ms_still_prfrd_buyer_desc
 shop_ms_still_tooltip_craft_all_ingredients_prs
 shop_ms_still_tooltip_craft_no_ingredients_prs
+shop_must_sell_horse
+shop_na
+shop_need_pickup
 shop_net_barber
 shop_newspaper
 shop_next_item
@@ -143758,6 +144229,7 @@ shop_next_page
 shop_next_sect
 shop_no
 shop_no_money
+shop_no_train_horse
 shop_not_currently_allowed
 shop_not_currently_allowed_bt
 shop_not_currently_allowed_lb
@@ -143766,6 +144238,7 @@ shop_offer_price
 shop_offers_original_dollars
 shop_offers_original_gold
 shop_orchids
+shop_outfits_received
 shop_owned
 shop_page_turn
 shop_pages
@@ -143809,6 +144282,7 @@ shop_prompt_group_pearson
 shop_purchase
 shop_purchased
 shop_put_back
+shop_quantity
 shop_quartermaster
 shop_quick_buy
 shop_quit
@@ -143825,10 +144299,14 @@ shop_reward_price
 shop_rmv_to_log
 shop_sell
 shop_sell_horse_satchel
+shop_sell_stolen_horse
 shop_send
 shop_shady
 shop_shelf_buy_with_gold
 shop_show
+shop_sold_out
+shop_sold_stolen_horse
+shop_sold_stolen_veh
 shop_speak_ilo
 shop_speak_ilo_bank
 shop_speak_ilo_barber
@@ -143849,17 +144327,122 @@ shop_speak_ilo_wilderness_supplies
 shop_stable
 shop_stable_vehicle
 shop_stats
+shop_stolen_horse_sold
 shop_stolen_horse_with_paper
+shop_stolen_veh_sold
 shop_store_saddle
 shop_swap
 shop_swatches
+shop_t_pay_bounty
+shop_tab_both
+shop_tab_bracelet_talisman
 shop_tab_buy
+shop_tab_buy_abilities_title
+shop_tab_buy_accessories
+shop_tab_buy_accessory
+shop_tab_buy_active_abilities_title
+shop_tab_buy_bedroll
+shop_tab_buy_blanket
+shop_tab_buy_boots
+shop_tab_buy_buckle
+shop_tab_buy_care
+shop_tab_buy_chaps
+shop_tab_buy_coach
+shop_tab_buy_coach_buggy
+shop_tab_buy_coach_cart
+shop_tab_buy_coach_chuckwagon
+shop_tab_buy_coach_industrial
+shop_tab_buy_coach_mod
+shop_tab_buy_coach_stagecoach
+shop_tab_buy_coach_weaponized
+shop_tab_buy_coat
+shop_tab_buy_collectables_title
+shop_tab_buy_consumable
+shop_tab_buy_facial_hair
+shop_tab_buy_gloves
+shop_tab_buy_gun_holster
+shop_tab_buy_gunbelts
+shop_tab_buy_hair
+shop_tab_buy_hat
+shop_tab_buy_horse
+shop_tab_buy_horse_equipment
+shop_tab_buy_horse_gender
+shop_tab_buy_horse_items
+shop_tab_buy_horse_mp
+shop_tab_buy_large_masks
+shop_tab_buy_loadout
+shop_tab_buy_mane
+shop_tab_buy_masks
+shop_tab_buy_melee
+shop_tab_buy_mp
+shop_tab_buy_neckwear
+shop_tab_buy_outfits
+shop_tab_buy_overalls
+shop_tab_buy_pants
+shop_tab_buy_passive_abilities_title
+shop_tab_buy_pistol
+shop_tab_buy_repeater
+shop_tab_buy_revolver
+shop_tab_buy_rifle
+shop_tab_buy_rings
+shop_tab_buy_saddle
+shop_tab_buy_saddle_cantle
+shop_tab_buy_saddle_fender
+shop_tab_buy_saddle_horn
+shop_tab_buy_saddle_seat
+shop_tab_buy_saddle_skirt
+shop_tab_buy_saddle_stirrup
+shop_tab_buy_saddle_type
+shop_tab_buy_saddlebag
+shop_tab_buy_satchel
+shop_tab_buy_shirt
+shop_tab_buy_shotgun
+shop_tab_buy_small_masks
+shop_tab_buy_sniper
+shop_tab_buy_spats
+shop_tab_buy_spurs
+shop_tab_buy_stolen_horse_papers
+shop_tab_buy_suspenders
+shop_tab_buy_tail
+shop_tab_buy_talismans
+shop_tab_buy_taunts
+shop_tab_buy_teeth
+shop_tab_buy_thrown
+shop_tab_buy_tie
+shop_tab_buy_undergarment
+shop_tab_buy_upgrade
+shop_tab_buy_vest
+shop_tab_customize
+shop_tab_holster_talisman
+shop_tab_inspect
+shop_tab_manage_coaches
+shop_tab_manage_stable
+shop_tab_pay_bounty
+shop_tab_pay_bounty_states
+shop_tab_pay_player_bounty
+shop_tab_receive
+shop_tab_retrieve_horse
+shop_tab_satchel_talisman
 shop_tab_selection
 shop_tab_sell
+shop_tab_sell_coach
+shop_tab_sell_horse
+shop_tab_sell_stolen_horse
+shop_tab_sell_vehicle
 shop_tab_send
+shop_tab_upgrade_collectables_title
 shop_tailor
 shop_take_saddle
 shop_telegraph
+shop_telegraph_no_bounties
+shop_telegraph_not_enough
+shop_telegraph_paid_all_bounties
+shop_telegraph_pay_all_bounties
+shop_telegraph_pay_full_ambarino
+shop_telegraph_pay_full_elizabeth
+shop_telegraph_pay_full_guarma
+shop_telegraph_pay_full_hanover
+shop_telegraph_pay_full_lemoyne
 shop_theater_mp_buy_ticket
 shop_title_animal_trapper
 shop_title_bait
@@ -143871,6 +144454,7 @@ shop_title_butcher
 shop_title_camp_shaving
 shop_title_coach
 shop_title_doctor
+shop_title_exotic
 shop_title_facial_hair
 shop_title_fence
 shop_title_general
@@ -143889,10 +144473,13 @@ shop_title_newspaper_boy
 shop_title_pearson
 shop_title_post
 shop_title_quarter
+shop_title_sheriff_office
 shop_title_tailor
+shop_title_telegraph
 shop_title_train_station
 shop_title_trainer
 shop_title_travelling_salesman
+shop_title_wagon_fence_mp
 shop_title_wardrobe
 shop_title_wilderness_supplies
 shop_tod_skip_available
@@ -143940,10 +144527,17 @@ shop_tooltip_variant_revert
 shop_tooltip_variant_unequip
 shop_tooltip_variant_warning
 shop_total_price
+shop_tradein
+shop_train_horse
+shop_train_horse_desc
 shop_trainstation
 shop_translate
 shop_trapper
+shop_trapper_challenges
+shop_trapper_ingredients
+shop_trapper_item_crafted
 shop_unavailable_activity
+shop_unavailable_can_take
 shop_unavailable_carrying_human
 shop_unavailable_carrying_something
 shop_unavailable_damage_recently
@@ -143986,6 +144580,7 @@ shop_vehicle_stat_maxspeed
 shop_vehicle_stat_steering
 shop_view
 shop_view_emote
+shop_wealth
 shop_weapon_stat_accuracy
 shop_weapon_stat_damage
 shop_weapon_stat_firerate
@@ -144717,6 +145312,7 @@ sit_by_fire
 sit_tent
 six
 sixaxis_load
+sixpt_ilo
 sk1_pot_arthur_1
 sk1_pot_john_1
 sk2_cft_arthur_1
@@ -144801,9 +145397,14 @@ sksg3_act_20
 slave1_cxt
 slave1_ilo
 slave1_obj
+slave2_book
 slave2_comp_r
 slave2_cxtexit
+slave2_exit
 slave2_fnd
+slave2_gun
+slave2_hon_l
+slave2_hon_m
 slave2_i_led
 slave2_i_wat
 slave2_insp1a
@@ -144832,6 +145433,8 @@ slave2_obj_10
 slave2_obj_11
 slave2_obj_deal
 slave2_rtn1
+slave2_rug
+slave2_watch
 slave3_cxt
 slave3_ilo
 slave_blip_3
@@ -144868,6 +145471,7 @@ smg2_b_fortroof
 smg2_b_fusboat
 smg2_b_fussold
 smg2_b_gensmug
+smg2_b_rowboat
 smg2_chall_1
 smg2_chall_2
 smg2_desc
@@ -145166,6 +145770,7 @@ smg3_ig3_p2_2
 smg3_ig3_push_1
 smg3_ig3_push_2
 smoke
+smoke_ctx
 snake_med
 snake_oil_help_0
 snake_oil_obj_0
@@ -145192,6 +145797,15 @@ soudes1
 soudesign
 soueng
 sourcecode
+sourcecode1
+sourcecode2
+sourcecode3
+sourcecode4
+sourcecode5
+sourcecode6
+sourcecode7
+sourcecode8
+sourcecode9
 sousup
 sp_player_menu_header
 sp_player_menu_notifications
@@ -145689,6 +146303,16 @@ spcr_father_06
 spcr_father_07
 spcr_father_08
 spcr_father_09
+spcw_neg_1
+spcw_neg_2
+spcw_neg_3
+spcw_neg_4
+spcw_neg_5
+spcw_pos_1
+spcw_pos_2
+spcw_pos_3
+spcw_pos_4
+spcw_pos_5
 spcwc_ig1_intro_1
 spcwc_ig1_neg_1
 spcwc_ig1_neg_2
@@ -145938,8 +146562,12 @@ spcwv_ig8_yes_31
 spcwv_ig_intial_1
 spcwv_sorrymr_1
 spd_uc_ant
+spd_uc_def
+spd_uc_dlr
 spd_uc_grt
+spd_uc_no
 spd_uc_talk
+spd_uc_yes
 spdw_ig1p1a_1
 spdw_ig1p1a_2
 spdw_ig1p1b_1
@@ -147596,6 +148224,9 @@ spgat_cnv4_jhn_11
 spgat_cnv4_jhn_12
 spgat_cnv4_jhn_13
 spgat_cnv4_jhn_14
+spgat_friendly
+spgat_rude
+spgat_talk
 spgj_br20_e2_1
 spgj_br20_e_1
 spgj_br20_ef_1
@@ -147722,6 +148353,7 @@ spgj_tbp8_4
 spgj_tbp8_5
 spgj_tbp8_6
 spgj_tbp8_7
+spgj_tbp19a_1
 spgj_tbp19b_1
 spgj_tbp19b_2
 spgj_tbp19c_1
@@ -149205,6 +149837,8 @@ spswo_ig3a_1
 spswo_ig3a_2
 spswo_ig3j_1
 spswo_ig3j_2
+spswo_uc_neg
+spswo_uc_pos
 sptd_1_p1_a_1
 sptd_1_p1_a_2
 sptd_1_p1_b_1
@@ -149247,6 +149881,7 @@ sptd_ndmud2_1
 sptd_ndmud2_st_01
 sptd_ndmud2_st_02
 sptd_ndmud2_st_03
+sptd_uc_talk
 sptim_ig1_p2a_1
 sptim_ig1_p2a_2
 sptim_ig1_p2a_3
@@ -149652,6 +150287,7 @@ sr_day_28
 sr_day_29
 sr_day_30
 sr_day_31
+sr_m_poi
 sr_ng_o_gothirdfloor
 sr_ng_o_robtable
 sr_price_club_reward
@@ -150547,6 +151183,7 @@ str3_rsc_1_li3_3
 str11_launch
 str21_launch
 str31_launch
+str33_honor_help
 str33_launch
 str_ask_rpl_01
 str_ask_rpl_02
@@ -152717,6 +153354,7 @@ timer_minute
 timer_msec
 timer_sec
 tin
+tinyxml
 tithe_ambarino
 tithe_guarma
 tithe_lemoyne
@@ -152735,6 +153373,8 @@ title_social_club
 tlj
 tlj_desc
 tm1_uc_buy
+tm1_uc_dont
+tm1_uc_talk
 tmr
 tn_teamone
 tn_teamtwo
@@ -152769,6 +153409,7 @@ toggle_yes
 too
 toobui
 toodir
+toopro
 toprog
 town_discovered
 tp_card_set_act_01_reward_desc
@@ -153899,7 +154540,11 @@ travelling_salesman_post_collectorbag_tut_2
 travelling_salesman_tut_collectorbag
 travelling_salesman_tut_itemwheel
 travelling_salesman_tut_post_intro_cutscene
+trb_blp_eng
+trb_blp_guard
+trb_blp_pass
 trb_stop_driver
+trb_train_name
 tre1
 tre1_all_dead_1
 tre1_apprchch_1
@@ -153996,6 +154641,8 @@ tre1_gnd_clue_1
 tre1_go_mill_1
 tre1_hlp_clues
 tre1_hlp_field
+tre1_hlp_lock
+tre1_hlp_question
 tre1_hlp_track
 tre1_hlp_track_km
 tre1_ig1_a_1
@@ -154080,8 +154727,11 @@ tre1_kp_look_02
 tre1_kp_look_03
 tre1_letgo_1
 tre1_letscorn_1
+tre1_lkon_bed
 tre1_lkon_clue
+tre1_lkon_food
 tre1_lkon_ins
+tre1_lkon_rag
 tre1_look_ar_1
 tre1_mcs0_1
 tre1_mcs0_2
@@ -154132,6 +154782,7 @@ tre1_mcs2_14
 tre1_obj_beat
 tre1_obj_cabin
 tre1_obj_charles
+tre1_obj_choice
 tre1_obj_cnchrls
 tre1_obj_dutch
 tre1_obj_enter
@@ -154296,6 +154947,7 @@ tre1_tracktalk4_3
 tre1_uc_beat
 tre1_uc_conv
 tre1_uc_grap
+tre1_uc_greet
 tre1_uc_kill
 tre1_uc_question
 tre1_uc_rel
@@ -154479,6 +155131,7 @@ trink_tithe
 trip_skip_help
 triple_buffer
 triple_buffer_desc
+trl1_temp
 trn1
 trn1_chall_1
 trn1_chall_3
@@ -154786,12 +155439,14 @@ trn2_ext_30
 trn2_ext_31
 trn2_ext_32
 trn2_ext_leadin_1
+trn2_fail_abandon
 trn2_fail_alert
 trn2_fail_billdead
 trn2_fail_law
 trn2_fail_pink
 trn2_fail_sc
 trn2_fail_spot
+trn2_fail_window
 trn2_flee_1
 trn2_get_down_01
 trn2_get_down_02
@@ -154953,8 +155608,12 @@ trn3_b_crate
 trn3_b_det
 trn3_b_dyn
 trn3_b_pill
+trn3_b_train
 trn3_bb_obj2
+trn3_c_cgo
 trn3_c_det
+trn3_c_help
+trn3_c_ilo
 trn3_c_tbund
 trn3_chall_2
 trn3_chall_3
@@ -155040,6 +155699,7 @@ trn3_ext_loi_1
 trn3_fail_brg
 trn3_fl_det
 trn3_fl_dyn
+trn3_fl_hand
 trn3_fl_john
 trn3_fl_johnd
 trn3_fl_wag
@@ -155083,6 +155743,7 @@ trn3_gtb_obj2
 trn3_gtb_obj2a
 trn3_gtb_obj3
 trn3_gtb_obj4
+trn3_h_blow
 trn3_h_grab
 trn3_h_start
 trn3_help3
@@ -155283,8 +155944,10 @@ trn4_chall_4
 trn4_chase_0_1
 trn4_chase_1_1
 trn4_cleet
+trn4_climb
 trn4_desc
 trn4_desc_pm
+trn4_detach
 trn4_djmp_01
 trn4_djmp_02
 trn4_djmp_03
@@ -155304,6 +155967,7 @@ trn4_dyn_mount_03
 trn4_dynamite0
 trn4_dynamite1
 trn4_dynamite2
+trn4_expl
 trn4_ext_0_1
 trn4_ext_1
 trn4_ext_2
@@ -155449,6 +156113,7 @@ trn4_int_40
 trn4_int_41
 trn4_int_42
 trn4_int_43
+trn4_int_44
 trn4_int_45
 trn4_int_46
 trn4_int_47
@@ -155668,6 +156333,8 @@ trn4_wagon_2_4
 trn4_wagon_2_5
 trn4_wagon_2_6
 trn4_wagon_3_1
+trn4_warn
+trn4_warn_0
 trn_gb_stop_1
 trnsl
 ts_van_dpcell
@@ -158645,6 +159312,7 @@ utp1_fallbehind_05
 utp1_fallbehind_06
 utp1_grab_1
 utp1_hlp_key
+utp1_hskd
 utp1_ig3_1
 utp1_ig5_1
 utp1_ig5_2
@@ -158965,10 +159633,12 @@ utp2_ext_16
 utp2_ext_17
 utp2_fail_cliff
 utp2_fail_coach
+utp2_fail_horse
 utp2_fleea_1
 utp2_hijack_01
 utp2_hijack_02
 utp2_hijack_03
+utp2_horse
 utp2_ig2_rifle1_1
 utp2_ig2_rifle1_2
 utp2_ig2_rifle2_1
@@ -159064,6 +159734,7 @@ utp2_obj01_01
 utp2_obj01_02
 utp2_obj01b
 utp2_obj02
+utp2_obj02_hlp1
 utp2_obj03
 utp2_obj03a_01
 utp2_obj03a_02
@@ -161243,6 +161914,7 @@ warv3_o_choice
 warv3_o_closer
 warv3_o_fight
 warv3_o_follow
+warv3_o_ilo
 warv3_o_mount
 warv3_o_tracks
 warv3_o_veter
@@ -162146,6 +162818,8 @@ wnt1_bc_gpick
 wnt1_bc_hpick
 wnt1_bc_htch
 wnt1_bc_inter
+wnt1_bc_itemuse
+wnt1_bc_iwheel
 wnt1_bc_mspeed
 wnt1_bc_mspeed1
 wnt1_bc_mve_form
@@ -162165,8 +162839,11 @@ wnt1_bc_sprint
 wnt1_bc_sprint1
 wnt1_bc_sprint2
 wnt1_bc_usatchel
+wnt1_bc_wwheel
 wnt1_blip_gun
 wnt1_blip_horse
+wnt1_blip_micah
+wnt1_blip_who
 wnt1_br_cower1_01
 wnt1_br_cower1_02
 wnt1_br_cower1_03
@@ -162182,6 +162859,7 @@ wnt1_come_02
 wnt1_come_03
 wnt1_cover_01
 wnt1_cover_02
+wnt1_debug
 wnt1_desc
 wnt1_dismount_01
 wnt1_dismount_02
@@ -162228,6 +162906,7 @@ wnt1_fail_bhrse
 wnt1_fail_brwlr
 wnt1_fail_cabin
 wnt1_fail_d_fire
+wnt1_fail_drunk
 wnt1_fail_gunfire
 wnt1_fail_mount
 wnt1_fail_ranch
@@ -162267,9 +162946,12 @@ wnt1_h_lookover
 wnt1_h_meduse
 wnt1_h_obj
 wnt1_h_pun
+wnt1_h_question
 wnt1_h_reload
+wnt1_h_run
 wnt1_h_search
 wnt1_h_shoot
+wnt1_h_slw
 wnt1_h_threat
 wnt1_h_unholster1
 wnt1_h_unholster2
@@ -162633,6 +163315,7 @@ wnt1_obj_hrs_feed
 wnt1_obj_hrs_inter
 wnt1_obj_hrs_lead
 wnt1_obj_hrs_pat
+wnt1_obj_htch
 wnt1_obj_htchcbn
 wnt1_obj_inv_barn
 wnt1_obj_man_aim
@@ -162664,6 +163347,11 @@ wnt1_rem_bhorse
 wnt1_rem_bhrse
 wnt1_rem_brwlr
 wnt1_rem_cabin
+wnt1_rem_dhorse
+wnt1_rem_dut
+wnt1_rem_mhorse
+wnt1_rem_mic
+wnt1_rem_phorse
 wnt1_rem_ranch
 wnt1_rem_shed
 wnt1_response_01
@@ -162733,6 +163421,8 @@ wnt1_uc_door
 wnt1_uc_dutch
 wnt1_uc_further
 wnt1_uc_good
+wnt1_uc_grapple
+wnt1_uc_hitch
 wnt1_uc_hurry
 wnt1_uc_inspect
 wnt1_uc_interrogate
@@ -162740,7 +163430,9 @@ wnt1_uc_kill
 wnt1_uc_micah
 wnt1_uc_move
 wnt1_uc_mspeed
+wnt1_uc_pickup
 wnt1_uc_punch
+wnt1_uc_push
 wnt1_uc_question
 wnt1_uc_ralong
 wnt1_uc_release
@@ -162856,6 +163548,9 @@ wnt2_ext_li_4
 wnt2_ext_li_5
 wnt2_ext_li_6
 wnt2_ext_li_7
+wnt2_f_abandon
+wnt2_f_lost
+wnt2_f_return
 wnt2_follow2_1
 wnt2_follow_1
 wnt2_getaway_01
@@ -162883,6 +163578,7 @@ wnt2_h_stamina_2
 wnt2_h_stamina_2a
 wnt2_h_stamina_2b
 wnt2_h_stamina_3
+wnt2_h_weapon
 wnt2_helpjavier_01
 wnt2_helpjavier_02
 wnt2_helpjavier_03
@@ -163614,6 +164310,7 @@ wnt4_stop2_1
 wnt4_stop2_2
 wnt4_stop_1
 wnt4_stop_2
+wnt4_strip
 wnt4_thrown
 wnt4_timelapse_1
 wnt4_timelapse_2
