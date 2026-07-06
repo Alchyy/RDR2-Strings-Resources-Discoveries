@@ -1,8 +1,8 @@
 x, y, z, debugModel / entityId (filename.yas), useSceneOrigin
 
 useSceneOrigin
-Green Marker = True
-Red Marker = False
+Green Marker = True = 4cc922
+Red Marker = False = c92222
 Blue Marker = n/a
 
 -5190.004109, -2158.622430, 11.612321, p_cs_saddle02x / p_cs_saddle02x (script@ambient@generic@saddle_pickup_put_down_stand@pickup@action.yas) (PS4), 4cc922

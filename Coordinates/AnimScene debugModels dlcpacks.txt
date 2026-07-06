@@ -1,8 +1,8 @@
 x, y, z, debugModel / entityId (filename.yas) (dlcpack), useSceneOrigin
 
 useSceneOrigin
-Green Marker = True
-Red Marker = False
+Green Marker = True = 4cc922
+Red Marker = False = c92222
 Blue Marker = n/a
 
 40.454780, 12.047620, 102.492246, cs_herbalist / herbalist (script@beat@wilderness@herbalistcamp@directional_exchange_new.yas) (dlc_content_extra), 4cc922

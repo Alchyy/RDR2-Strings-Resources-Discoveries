@@ -1,8 +1,8 @@
 x, y, z, debugModel / entityId (filename.yas), useSceneOrigin
 
 useSceneOrigin
-Green Marker = True
-Red Marker = False
+Green Marker = True = 4cc922
+Red Marker = False = c92222
 Blue Marker = n/a
 
 -6314.926240, -3466.983708, -10.575040, a_m_m_unicorpse_01 / missionary (script@beat@wilderness@discoverables@jesuit_missionary@pose.yas), 4cc922

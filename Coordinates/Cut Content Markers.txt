@@ -3172,7 +3172,7 @@ Light Blue = Miscellanous
 1271.8964, -6327.9165, 42.3743, hash_amb_vig_wild_shark (ambientvignettes.ymt)
 1288, 1436, 164, cmf_volshiprock (popzone_volume.ymt)
 1289.635, -6969.231, 61.546253, Leftover Collision (agu_03__5.ybn)
-1292.7557, 1773.7778, -7.436868, Old J_12 Collision (jklm_7_10_area_lod_combine_collision_15.ybn)
+1292.7557, 1773.7778, -7.436868, Old J_12 Collision & Navmesh (jklm_7_10_area_lod_combine_collision_15.ybn)
 1305.3625, -6669.8447, 40.11, hash_amb_vig_wild_shark (ambientvignettes.ymt)
 1334.7463, -6130.115, 40.11, hash_amb_vig_wild_shark (ambientvignettes.ymt)
 1365, 2310, 67, fish_gen_northern_roa (popzone_volume.ymt)
