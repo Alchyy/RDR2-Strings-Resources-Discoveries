@@ -18375,6 +18375,8 @@ PISTOL_HOLSTER
 PM_DISPLAY_3
 PM_DISPLAY_4
 PNF_Bridge
+PNF_CannotGoLeft
+PNF_CannotGoRight
 PNF_GpsOnly
 PNF_InTunnel
 PNF_NoGps
