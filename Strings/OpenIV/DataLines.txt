@@ -18381,12 +18381,15 @@ PNF_NoGps
 PNF_NoHorses
 PNF_NoThroughGps
 PNF_NoWagonsOriginal
+PNF_QualifiesAsJunction
 PNF_River
 PNF_RiverCrossing
 PNF_SlipJunction
+PNF_SwitchedOffOriginal
 PNF_TrainTrack
 PNF_TriangleJunction
 PNF_WaterNode
+PNF_WithinCoarseGraph
 PNF_WithinTriangleJunction
 PNLF_BlockIfNoLanes
 PNLF_DontUseForNavigation
@@ -18706,6 +18709,8 @@ VEH_REVERSINGLIGHT_L
 VEH_REVERSINGLIGHT_R
 VEH_TAILLIGHT_L
 VEH_TAILLIGHT_R
+VERYHIGH
+VERYLOW
 VEUI_LENGTH
 VFXGROUP_ASH
 VFXGROUP_BONE
@@ -314519,10 +314524,14 @@ kMask10
 kMask11
 kMetapedControl
 kProcedural
+kSpd5mph
 kSpd10mph
 kSpd15mph
 kSpd25mph
 kSpd35mph
+kSpd200mph
+kSpdRun
+kSpdWalk
 kTextType_ALPHABET
 kTextType_DEFAULT
 kTextType_EMAIL
@@ -355685,6 +355694,7 @@ michi_fence_slod_children
 mickey
 mickey_pvg
 microphone
+microphones
 mid
 mid_a
 mid_action_loop_book
@@ -366140,6 +366150,7 @@ move_l_2_c
 move_l_2_c_desk
 move_l_2_r
 move_l_2_r_desk
+move_legs
 move_loop
 move_m@hurry_butch@a
 move_m@hurry_butch@b
