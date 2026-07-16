@@ -17291,8 +17291,10 @@ AdjustMissionSp
 AlignWithTrajectory
 AllowEarlyExitFromFireAnimAfterBulletFired
 Alpha
+AmbientEventMappings
 Amount
 AnimDict2Name
+AnimPostFXManager
 AnimReload
 AnimSceneCascadeShadowsOptions
 AnimalBonding
@@ -17424,7 +17426,10 @@ CAnimSceneControlWaterEventData
 CAnimSceneDeepSurfaceHeightEventData
 CAnimSceneHdUpgradeEventData
 CAnimSceneHideWeaponStrapEventData
+CAnimalTuningManager
 CArmSolver__Tunables
+CBodyBlendTemplateStore
+CBodyDampingTemplateStore
 CClothingInfo
 CCoachInfo
 CCollectableCigaretteCard
@@ -17433,16 +17438,20 @@ CCollectableInfinateFindAndTurnInItemSP
 CCollectableTreasure
 CCollectableUniqueFindAndTurnInItem
 CCollectableUniqueFindAndTurnInItemSP
+CCollectables
 CCombatFlow__Tunables
 CConsumableInfo
 CContourSolver__Tunables
 CCoverBlockingArea__Tunables
 CCover__Tunables
 CCrimeObserver
+CDataFileMgr__ContentsOfDataFileXml
 CDecalOverrideInfo
+CDecalOverrideInfoMgr
 CDispatchHelperSearchOnMount__Tunables
 CDispatchService__Tunables
 CDocumentInfo
+CDoorTuningFile
 CEventAcquaintancePedWanted__Tunables
 CEventGunShotBulletImpact__Tunables
 CEventGunShotWhizzedBy__Tunables
@@ -17450,6 +17459,7 @@ CEventInteractionAction__Tunables
 CEventInteraction__Tunables
 CEventNetworkScriptEvent::CEventNetworkScriptEvent
 CEventVehicleDamageWeapon__Tunables
+CExplosionInfoManager
 CExtensionDefFakeDoorGroup
 CExtensionDefParticleEffectOverride
 CExtensionDefRootConstraint
@@ -17468,6 +17478,8 @@ CF_TwoHanded
 CF_Unarmed
 CF_WEAPON_TEST
 CFiringPatternInfo
+CFiringPatternInfoManager
+CFlockTuningManager
 CGatorDispatch__Tunables
 CGestureInfo
 CGoldBarInfo
@@ -17501,9 +17513,12 @@ CMGMNamedFloatStatParam
 CMGMParamSet
 CMGMRangeIntAction
 CMGMRangeIntStat
+CMGMResponseManager
 CMGMSpeechResponse
 CMGMTrigger
 CMGMTrigger__Response
+CMarkerTypeInfoParser
+CMiniGameMomentsDef
 CMinigameInfo
 CMoneyInfo
 CNetworkVoice__SetOverrideChatRestrictions
@@ -17557,9 +17572,11 @@ CPedGroupMembership__Tunables
 CPedGroups__Tunables
 CPedStealth__Tunables
 CPerscharAIConditionPlayerInVolume
+CProjDecalData
 CProjDecalInfo
 CProps
 CProvisionInfo
+CPtFxAssetInfoMgr
 CQuiverInfo
 CRC_HEIGHT
 CRC_SIDE
@@ -17572,6 +17589,8 @@ CRumbleInfo
 CScenarioManager__Tunables
 CScenarioPointRegionDef
 CSectionedReloadInfo
+CSpeciesManager
+CSpeciesRelationManager
 CStirrupSolver__Tunables
 CStuntHelper__Tunables
 CT_Draft
@@ -17676,6 +17695,8 @@ CTaskVehicleTransition__Tunables
 CTaskWhistle__Tunables
 CTaskWitnessPoint__Tunables
 CTimeOfDayScheduleInfo
+CTreeSettings
+CTunableObjectManager
 CUBIC
 CURVE_1D
 CURVE_3D
@@ -17703,30 +17724,43 @@ CVA_REARWINDOW
 CVA_WHEEL_FRONT_LEFT
 CVA_WHEEL_FRONT_RIGHT
 CVA_WHEEL_REAR_RIGHT
+CVehicleLightMgr
 CVehicleWeaponInfo
 CVfxAnimInfo
+CVfxAnimInfoMgr
 CVfxBloodDecalSettings
 CVfxBloodInfo
+CVfxBloodInfoMgr
 CVfxBloodOnWeaponSettings
 CVfxBloodPoolInfo
 CVfxBloodPtFxSettings
 CVfxBloodSettingsGroup
 CVfxCollisionInfo
+CVfxCollisionInfoMgr
 CVfxCollisionSettingsGroup
 CVfxCutsceneInfo
+CVfxCutsceneInfoMgr
 CVfxExplosionInfoGroup
+CVfxExplosionInfoMgr
 CVfxFireFoliageShaderSettings
 CVfxFireInfo
+CVfxFireInfoMgr
 CVfxFireShaderEdgeInfo
 CVfxFireShaderInternalInfo
 CVfxGroupInfo
+CVfxGroupInfoMgr
 CVfxInteriorInfo
+CVfxInteriorInfoMgr
 CVfxInteriorSetup
 CVfxLiquidInfo
+CVfxLiquidInfoMgr
 CVfxPedInfo
+CVfxPedInfoMgr
 CVfxRegionInfo
+CVfxRegionInfoMgr
 CVfxRoomSetup
 CVfxScriptInfo
+CVfxScriptInfoMgr
 CVfxWeaponAirDebrisInfo
 CVfxWeaponBarrelSmokeInfo
 CVfxWeaponGroundDisturbInfo
@@ -17740,6 +17774,7 @@ CVfxWeaponShellInfo
 CVfxWeaponTracerInfo
 CVfxWheelDecalSettings
 CVfxWheelInfo
+CVfxWheelInfoMgr
 CVfxWheelLightSettings
 CVfxWheelPtFxSettings
 CVfxWheelSettings
@@ -17752,12 +17787,14 @@ CWeaponInfo
 CWeaponItemInfo
 CWeaponVertData
 CWindDisturbanceInfo
+CWindInfoMgr
 CanBeDestroyedByDamage
 CanBePlaced
 CanFreeAim
 CanLockonInVehicle
 CanLockonOnFoot
 CarriedInHand
+CheckpointsInfoParser
 ClusterLeader
 ColorOverride
 ConversePoint
@@ -17778,6 +17815,7 @@ CoverMotionHelpers__ClipsetCoverVaultConditionNode
 CoverMotionHelpers__LocoSetPlaybackBlend
 Coyote1
 CreateVisibleOrdnance
+CreditGroupBinding
 Crouched
 Crouching
 Cull
@@ -18165,6 +18203,7 @@ ItemAssembly
 ItemDatabaseBundle
 ItemDatabaseIntrinsicItems
 ItemDatabaseMenuLayout
+ItemDatabaseParser
 KID
 LADDER_METADATA_FILE
 LASSO_DATA_FILE
@@ -18201,8 +18240,10 @@ LayoutPadding
 LayoutSize
 LessThan
 Lipschitz
+LocalisedStylesData
 Loco__Archetype
 Loco__Controller
+Loco__DataBlock
 Loco__MotionIdle
 Loco__MotionIdleTransition
 Loco__MotionIdleTurn
@@ -18251,6 +18292,8 @@ MTR_Instinct
 MTR_Strength
 MULTI_CODE
 Magazine
+MapCameraControllerData
+MapControllerData
 MaskBarrel
 MaskFrame
 MaskGrip
@@ -18583,6 +18626,7 @@ Silenced
 SilentOnHit
 SilentWhenFired
 SkipLockedInteraction
+SlideshowData
 SlidingEffectType_Agitation
 SlidingEffectType_Stamina
 Small
@@ -18855,6 +18899,7 @@ VOLUMETRIC_PARTICLE
 VcamCinematicCamManCamera
 VeryHigh
 VeryLow
+VfxLightningSettings
 VfxPedBoneWadeInfo
 VfxPedBoneWaterInfo
 VfxPedCorpseInfo
@@ -18932,6 +18977,7 @@ WEAPON_VFX_EJECT
 WEAPON_VFX_EJECT_2
 WEAPON_VFX_HAMMER
 WEAPON_WRAP1
+WaypointControllerData
 WeaponEquipped
 Weapon_Binoculars
 Weapon_Bolas
@@ -23944,6 +23990,7 @@ a_c_buffalo_01_uppr_002
 a_c_buffalo_01_uppr_002_ab
 a_c_buffalo_01_uppr_002_m
 a_c_buffalo_01_uppr_002_nm
+a_c_buffalo_01a
 a_c_bull_01
 a_c_bull_01_carcass_000
 a_c_bull_01_carcass_001
@@ -24321,6 +24368,7 @@ a_c_cougar_01_uppr_001_c0_000_ab+hi
 a_c_cougar_01_upprrough_000
 a_c_cougar_01_upprrough_000_c0_000_ab
 a_c_cougar_01_upprrough_000_c0_000_ab+hi
+a_c_cougarpainted_01
 a_c_cougarpainted_01_head_000
 a_c_cougarpainted_01_head_000_c0_000_ab
 a_c_cougarpainted_01_head_000_c0_000_ab+hi
@@ -26286,6 +26334,7 @@ a_c_fishsnook_01_head_000_c0_000_nm
 a_c_fishsnook_01_head_000_c0_000_nm+hi
 a_c_fishsnook_01_head_000_m
 a_c_fishsnook_01_head_000_nm
+a_c_fishsnook_01_ms
 a_c_fishspeckledtrout_01_head_000
 a_c_fishspeckledtrout_01_head_000_ab
 a_c_fishspeckledtrout_01_head_000_c0_000_ab
@@ -26568,6 +26617,7 @@ a_c_goosecanada_01_headfd_000_c0_002_ab
 a_c_goosecanada_01_headfd_000_c0_002_ab+hi
 a_c_goosecanada_01_headfd_000_m
 a_c_goosecanada_01_headfd_000_nm
+a_c_goosecanada_01a
 a_c_hawk_01
 a_c_hawk_01_head
 a_c_hawk_01_head_000
@@ -26589,6 +26639,7 @@ a_c_hawk_01_head_fd_000_nm
 a_c_hawk_01_head_fd_001
 a_c_hawk_01_head_fd_002
 a_c_hawk_01_head_fd_003
+a_c_hawk_01a
 a_c_heron_01
 a_c_heron_01_fd_000
 a_c_heron_01_fd_000_c0_000_ab
@@ -28180,6 +28231,7 @@ a_c_rooster_01_headfd_000_c0_002_ab
 a_c_rooster_01_headfd_000_c0_002_ab+hi
 a_c_rooster_01_headfd_000_m
 a_c_rooster_01_headfd_000_nm
+a_c_rooster_01a
 a_c_roseatespoonbill_01
 a_c_roseatespoonbill_01_fd_000
 a_c_roseatespoonbill_01_fd_000_ab
@@ -28440,6 +28492,7 @@ a_c_skunk_01_teef_000_c0_000_nm
 a_c_skunk_01_teef_000_c0_000_nm+hi
 a_c_skunk_01_teef_000_m
 a_c_skunk_01_teef_000_nm
+a_c_skunk_01a
 a_c_snake_01
 a_c_snake_01_carcass_000
 a_c_snake_01_carcass_000_ab
@@ -29309,6 +29362,7 @@ a_f_m_rhdtownfolk_02
 a_f_m_rhdtownfolk_02_r2pvg
 a_f_m_rhdupperclass_01
 a_f_m_rhdupperclass_01_r2pvg
+a_f_m_rimhighsociety_01
 a_f_m_rkrfancytravellers_01
 a_f_m_roughtravellers_01
 a_f_m_sclfancytravellers_01
@@ -59328,6 +59382,7 @@ animal_legendary_white_buffalo
 animal_legendary_white_buffalo_cross
 animal_legendary_wolf
 animal_legendary_wolf_cross
+animal_list
 animal_loon
 animal_loon_common
 animal_loon_pacific
@@ -99060,6 +99115,7 @@ camMarketingOrbitCameraMetadata
 camMarketingStickyCameraMetadata
 camMeleeModifierFirstPersonMetadata
 camMeleeModifierMetadata
+camMetadataStore
 camMissionCreatorDirectorMetadata
 camMissionCreatorFreeCameraMetadata
 camMissionCreatorOrbitCameraMetadata
@@ -99315,6 +99371,7 @@ camerabox_aim_camera
 camerac
 cameradata
 cameraindex
+cameralocation
 camerapos
 camerarot
 camerarotation
@@ -142657,6 +142714,7 @@ clothing_outfit_mp_f_sony_000_cataloguedesc1
 clothing_outfit_mp_f_sony_000_cataloguedesc2
 clothing_outfit_mp_f_sony_000_cataloguedesc3
 clothing_outfit_mp_f_sony_000_cataloguedesc4
+clothing_outfit_mp_f_spcledition_000
 clothing_outfit_mp_m_blackrose_000
 clothing_outfit_mp_m_blackrose_000_cataloguedesc1
 clothing_outfit_mp_m_blackrose_000_cataloguedesc2
@@ -142685,6 +142743,7 @@ clothing_outfit_mp_m_sony_000_cataloguedesc1
 clothing_outfit_mp_m_sony_000_cataloguedesc2
 clothing_outfit_mp_m_sony_000_cataloguedesc3
 clothing_outfit_mp_m_sony_000_cataloguedesc4
+clothing_outfit_mp_m_spcledition_000
 clothing_outfit_mp_ned_kelly_team_01
 clothing_outfit_mp_ned_kelly_team_02
 clothing_outfit_mp_ned_kelly_team_03
@@ -142911,6 +142970,7 @@ clothing_sp_holster_008_1
 clothing_sp_holster_013
 clothing_sp_holster_island_cup
 clothing_sp_mar_outfit_beechers_working
+clothing_sp_mar_outfit_blank_slot_000
 clothing_sp_mar_outfit_cold_weather
 clothing_sp_mar_outfit_dressing_v01
 clothing_sp_mar_outfit_dressing_v02
@@ -158289,6 +158349,7 @@ confident_win_02
 config
 config_data
 config_variant_picker
+configs
 configurebalance
 configurebullets
 configurebulletsextra
@@ -158564,6 +158625,7 @@ consumable_haycube
 consumable_haycube_cataloguedesc
 consumable_haycube_desc
 consumable_health_serum
+consumable_health_vitamins
 consumable_herb_alaskan_ginseng
 consumable_herb_american_ginseng
 consumable_herb_bay_bolete
@@ -158666,6 +158728,7 @@ consumable_kidbeans_desc
 consumable_kidneybeans_can
 consumable_kidneybeans_can_cataloguedesc
 consumable_lbreakr_desc
+consumable_lettuce
 consumable_lock_breaker
 consumable_londry_gin
 consumable_londry_gin_desc
@@ -158820,11 +158883,13 @@ consumable_poison_tonic
 consumable_pot_horse_med_desc
 consumable_potent_antidote
 consumable_potent_antidote_desc
+consumable_potent_chewing_tobacco
 consumable_potent_herbivore_bait
 consumable_potent_herbivore_bait_desc
 consumable_potent_horse_medicine
 consumable_potent_horse_medicine_cataloguedesc
 consumable_potent_horse_medicine_page
+consumable_potent_horse_reviver
 consumable_potent_horse_stimulant
 consumable_potent_horse_stimulant_cataloguedesc
 consumable_potent_horse_stimulant_desc
@@ -159015,6 +159080,7 @@ consumable_suculnt_fsh_thym_cook_desc
 consumable_sugarcube
 consumable_sugarcube_cataloguedesc
 consumable_sugarcube_desc
+consumable_super_shot
 consumable_sweet_corn_can
 consumable_sweet_corn_can_cataloguedesc
 consumable_sweet_corn_can_desc
@@ -220898,6 +220964,7 @@ death_victim
 death_w_shotgun_pumpaction01
 deathfailclarity
 deathfailmp01
+deathmatch
 deathmatch_1
 deathmatch_2
 deathmatch_impromptu
@@ -226291,6 +226358,7 @@ dlr_playerleavebad
 dlr_playerleavegood
 dlr_playerleaveneutral
 dlr_playerslow
+dm
 dm_alligator
 dm_ammo_elephant
 dm_ammo_express
@@ -258523,6 +258591,7 @@ fwClipItem
 fwClipItemWithProps
 fwClipSet
 fwClipSetItemGroup
+fwClipSetManager
 fwClipSetWithGetup
 fwClipVariationSet
 fwDirectedClipItemWithProps
@@ -258530,7 +258599,9 @@ fwLinkedCameraClipItem
 fwLinkedDirectedClipItemWithProps
 fwLinkedMoodClipItemWithProps
 fwMotionSet
+fwMotionSetManager
 fwNumberedClipItemWithProps
+fwProfanityFilter
 fwalkstopheading
 fwd
 fwd_-45
@@ -262157,6 +262228,7 @@ g_m_m_uniinbred_01^3
 g_m_m_uniinbred_01^4
 g_m_m_uniinbred_01_r2pvg
 g_m_m_uniinbred_02
+g_m_m_uniinbred_03
 g_m_m_unimicahgoons_01
 g_m_m_unimicahgoons_01^1
 g_m_m_unimicahgoons_01_fin2_mcs1_p1_t04_shot_1
@@ -262878,6 +262950,7 @@ gate_push
 gatecam
 gatenight
 gateway
+gatewayid
 gateways
 gatgun
 gatling_aim_camera
@@ -262993,6 +263066,7 @@ gc_odris_bgv07_scavenger
 gc_odris_hrt02
 gc_odris_hrt02_scavenger
 gc_odris_hrt05_scavenger
+gc_skinnertorture_males_01
 gcexc_nav_scm_001
 gcexc_nav_scm_001_coverregion[339][273]
 gcexc_nav_scm_001_navmesh[339][273]
@@ -319106,6 +319180,7 @@ kit_oats_bag_desc
 kit_pardon_letter
 kit_placed_explosives
 kit_placed_explosives_desc
+kit_player_compass
 kit_player_pocketwatch
 kit_player_pocketwatch_cataloguedesc
 kit_plrpw_desc
@@ -319822,6 +319897,7 @@ kit_upgrade_camp
 kit_upgrade_camp_wagon
 kit_wardrobe
 kit_wardrobe_desc
+kit_whetstone
 kitchen
 kitty_hint_cam
 kmult4legs
@@ -324993,6 +325069,7 @@ layer_enter_at_gate_bill
 layer_enter_at_gate_charles
 layer_enter_at_gate_javier
 layer_enter_at_gate_lenny
+layer_info
 layer_priority
 layer_type
 laying_down_loop_arthur
@@ -325284,6 +325361,7 @@ leader_skinners
 leader_stand_finding_thoughts
 leader_unicrim1
 leader_unicrim2
+leaderboard_list
 leadin
 leadin01_hit_mrsadler
 leadin01_hit_nathankirk
@@ -329659,6 +329737,8 @@ listenguitarnight
 listenguitarnightsit
 listenmusic
 litBaseLight
+litDataManagerMetadata
+litDataStorageMetadata
 litsize
 little creek
 little creek (crates)
@@ -330296,6 +330376,7 @@ location
 location_data
 location_flag
 location_flags
+location_hashes
 location_hint
 location_reminder
 location_sheriff
@@ -354209,6 +354290,7 @@ meta_outfit_winter1_05
 meta_outfit_winter1_06
 meta_outfit_working
 meta_tag
+meta_tag_table
 meta_type
 meta_wearable
 meta_wearable_ammo_pistol_000
@@ -362965,6 +363047,7 @@ modelname
 modelname0
 modelname1
 modelname2
+models
 models_alligator
 models_alligator_large
 models_ambient
@@ -387307,6 +387390,7 @@ mp_post_relay_vanhorn_01
 mp_post_relay_water_01
 mp_post_relay_whiskeytree_01
 mp_predator
+mp_predator_001
 mp_predator_001a
 mp_predator_001b
 mp_predator_001c
@@ -387531,6 +387615,7 @@ mp_predator_01_ms1_tomahawk_000_c0_000_m
 mp_predator_01_ms1_tomahawk_000_c0_000_m+hi
 mp_predator_01_ms1_tomahawk_000_c0_000_nm
 mp_predator_01_ms1_tomahawk_000_c0_000_nm+hi
+mp_predator_002
 mp_predator_002a
 mp_predator_002b
 mp_predator_002c
@@ -398020,6 +398105,16 @@ mpc_outfit_f_body_07
 mpc_outfit_f_body_08
 mpc_outfit_f_body_09
 mpc_outfit_f_body_10
+mpc_outfit_f_intro_01
+mpc_outfit_f_intro_02
+mpc_outfit_f_intro_03
+mpc_outfit_f_intro_04
+mpc_outfit_f_intro_05
+mpc_outfit_f_intro_06
+mpc_outfit_f_intro_07
+mpc_outfit_f_intro_08
+mpc_outfit_f_intro_09
+mpc_outfit_f_intro_10
 mpc_outfit_group_mp_f_intro
 mpc_outfit_group_mp_m_intro
 mpc_outfit_m_body_01
@@ -398032,6 +398127,16 @@ mpc_outfit_m_body_07
 mpc_outfit_m_body_08
 mpc_outfit_m_body_09
 mpc_outfit_m_body_10
+mpc_outfit_m_intro_01
+mpc_outfit_m_intro_02
+mpc_outfit_m_intro_03
+mpc_outfit_m_intro_04
+mpc_outfit_m_intro_05
+mpc_outfit_m_intro_06
+mpc_outfit_m_intro_07
+mpc_outfit_m_intro_08
+mpc_outfit_m_intro_09
+mpc_outfit_m_intro_10
 mpc_overlay_creator_f_head_001_v_001
 mpc_overlay_creator_f_head_002_v_001
 mpc_overlay_creator_f_head_003_v_001
@@ -398080,10 +398185,12 @@ mpc_overlay_layer_root
 mpc_overlay_layer_scar
 mpc_overlay_layer_skin_mottling
 mpc_overlay_layer_spots
+mpc_player_core_items
 mpc_player_type_mp_female
 mpc_player_type_mp_male
 mpc_player_type_sp_arthur
 mpc_player_type_sp_marston
+mpc_player_zero_persistent_items
 mpc_req_any_boots_spurs
 mpc_req_any_but_shirt_no_gloves
 mpc_req_any_but_shirt_with_gloves
@@ -398310,6 +398417,7 @@ mpc_system_tag_info_all_body
 mpc_system_tag_info_all_body_and_base_gunbelt
 mpc_system_tag_info_all_body_and_satchel
 mpc_system_tag_info_all_body_and_shackles
+mpc_system_tag_info_all_but_satchel
 mpc_system_tag_info_apparel
 mpc_system_tag_info_barber_shop
 mpc_system_tag_info_base_gunbelt
@@ -409474,6 +409582,7 @@ navmesh_swap
 navmesh_swap_on_map
 navmesh_swap_with_bandspace
 navmesh_swaps
+navmeshname
 nazar_book
 nazar_chair
 nazar_cigarette
@@ -422132,6 +422241,7 @@ northpassenger01x_rbnp2_s1_mcs2_p1_t09_shot_2
 northpassenger01x_seats
 northpassenger1
 northpassenger02x
+northpassenger02x_seats
 northpassenger2
 northpassenger03x
 northpassenger03x^1
@@ -428161,6 +428271,7 @@ object_2
 object_3
 object_4
 object_fragment_health_threshold
+object_list
 object_pamphlet
 objectbehindvictim
 objectcollision
@@ -431856,6 +431967,7 @@ outfit_mr1_006_c3_999_nm
 outfit_mr1_006_c3_999_nm+hi
 outfit_mr1_006_m
 outfit_mr1_006_nm
+outfit_sets
 outfit_tints
 outfit_tr1_000
 outfit_tr1_000_ab
@@ -432845,6 +432957,7 @@ overidepointgun
 overlay
 overlay_a
 overlay_presets
+overlay_sets
 overlays
 overlook_cabin
 overpower_infinite_health
@@ -472454,6 +472567,7 @@ ped_killed_reaction
 ped_knocked_out
 ped_knocked_out_reaction
 ped_leader
+ped_list
 ped_lod_reduce_10pct
 ped_lod_reduce_20pct
 ped_lookout
@@ -474925,6 +475039,7 @@ pickup_ammo_single_arrow_poison
 pickup_ammo_single_arrow_small_game
 pickup_ammo_single_arrow_trail
 pickup_ammo_single_arrow_wound
+pickup_armour_standard
 pickup_back_enter_arthur
 pickup_back_enter_fusespool
 pickup_bag
@@ -474970,6 +475085,7 @@ pickup_coins_only_rocks
 pickup_coonhound
 pickup_cougar
 pickup_coyote
+pickup_custom_script
 pickup_deer
 pickup_dog_australian_shepard
 pickup_dog_catahoula
@@ -475000,6 +475116,8 @@ pickup_gun
 pickup_handheld
 pickup_handheld_cam
 pickup_handheld_duck
+pickup_health_snack
+pickup_health_standard
 pickup_horse_1
 pickup_icon_shows_num_objectives
 pickup_index
@@ -475010,6 +475128,7 @@ pickup_largemouth_bass
 pickup_left
 pickup_left_enter_arthur
 pickup_left_enter_fusespool
+pickup_list
 pickup_longnose_gar
 pickup_low
 pickup_male_a
@@ -495826,6 +495945,7 @@ prop_jugs
 prop_kelp_01
 prop_kelp_02
 prop_ld_seats
+prop_list
 prop_loop
 prop_loop_p_caveentryblock01x_frag
 prop_mk_arrow_3d
@@ -495963,6 +496083,7 @@ prop_set_configs
 prop_set_data
 prop_set_dynamic_loot_chest
 prop_set_hash
+prop_set_list
 prop_set_offset
 prop_set_use_vegmod
 prop_sets
@@ -496027,6 +496148,7 @@ property_default
 property_grizzlies
 property_heartlands
 property_hennigans
+property_ipl_volumes
 property_moonshine_1
 property_tag
 property_tall_trees
@@ -509858,6 +509980,7 @@ raccoon_scm_volnorth
 raccoon_scm_volwholeregion
 raccoon_tal_volwholeregion
 raccoongetup
+race
 race series
 race series stadia
 race_1
@@ -509961,6 +510084,8 @@ radleys-spawn-restrict
 radleys pasture
 radleys pasture wagon circle
 radoffset
+raft01x
+raft04x
 rag
 rag01
 rag1
@@ -510035,9 +510160,16 @@ rage__MediaEncoderBuffers__IsVideoFrameAvailable
 rage__crExpreionOpComponentGetSet
 rage__crTag
 rage__decalRenderSettingsGroup
+rage__decalSettingsManager
 rage__fwDataFsmConditionSet
 rage__fwDataFsmEditor
 rage__fwuiAnimationMultiTargetSolver
+rage__fwuiAnimationSolverDictionary
+rage__fwuiDiscoverableObjectCollection
+rage__fwuiFogData
+rage__fwuiMapData
+rage__fwuiMapInteriorStore
+rage__ptxShaderInfoManager
 rage__rlLeaderboard2CommonReadTask__IsCroPlatformQuery
 raid_1
 raid_2
@@ -534528,6 +534660,7 @@ s_m_m_cghworker
 s_m_m_cghworker_01
 s_m_m_cghworker_01_dual_brt2_mcs1_p1a1_t04_shot_1
 s_m_m_cghworker_01_r2pvg
+s_m_m_cghworker_02
 s_m_m_cktguard_01
 s_m_m_cktworker_01
 s_m_m_cktworker_01_r2pvg
@@ -534574,9 +534707,11 @@ s_m_m_cornwallguard_01_dual_trn1_mcs1_p2_t04_shot_2
 s_m_m_cornwallguard_01_r2pvg
 s_m_m_dispatchlawrural_01
 s_m_m_dispatchlawrural_r2pvg
+s_m_m_dispatchleaderpolice_01
 s_m_m_dispatchleaderpolice_r2pvg
 s_m_m_dispatchleaderrural_01
 s_m_m_dispatchleaderrural_r2pvg
+s_m_m_dispatchpolice_01
 s_m_m_dispatchpolice_r2pvg
 s_m_m_fussarhenchman_01
 s_m_m_fussarhenchman_01^1
@@ -534739,6 +534874,7 @@ s_m_m_gulfussars_01
 s_m_m_gulfussars_01^1
 s_m_m_gulfussars_01^2
 s_m_m_gulfussars_01^3
+s_m_m_hofguard_01
 s_m_m_ispworker_01
 s_m_m_ispworker_02
 s_m_m_liveryworker_01
@@ -534955,6 +535091,7 @@ s_m_m_pinlaw_01_dual_sen1_int_p1_t03_m2_shot_1
 s_m_m_pinlaw_01_dual_sen1_int_p1_t03_m2_shot_2
 s_m_m_pinlaw_01_dual_sen1_int_p2_t07_m2_shot_1
 s_m_m_pinlaw_01_r2pvg
+s_m_m_pinlaw_02
 s_m_m_racrailguards_01
 s_m_m_racrailguards_01_r2pvg
 s_m_m_racrailworker_01
@@ -538404,6 +538541,7 @@ satchel_bag_mr1_000_nm
 satchel_close
 satchel_elements
 satchel_in
+satchel_item_list
 satchel_mr1_001
 satchel_mr1_001_ab
 satchel_mr1_001_alt
@@ -569873,6 +570011,7 @@ td_rottweiler_front
 td_shotgun_front_jaw
 td_shotgun_rear
 td_shotgun_rear_kill
+tdm
 teacup
 teacup_action_a
 teacup_action_b
@@ -572881,6 +573020,7 @@ train_junction_name
 train_junctions
 train_kidnapped_buyer_stationary
 train_land
+train_list
 train_move
 train_orbit_request
 train_poor_mixed
@@ -580068,8 +580208,10 @@ u_f_m_nbxresident_01_dual_dst5_mcs3_p2_t03_shot_1
 u_f_m_rkshomesteadtenant_01
 u_f_m_tumgeneralstoreowner_01
 u_f_m_tumgeneralstoreowner_01_r2pvg
+u_f_m_valprostitute_01
 u_f_m_valprostitute_01_dual_mud2_int_p1_t06_shot_1
 u_f_m_valprostitute_01_dual_mud2_int_p1_t06_shot_2
+u_f_m_valprostitute_02
 u_f_m_valprostitute_02_dual_mud2_int_p1_t06_shot_1
 u_f_m_valprostitute_02_dual_mud2_int_p1_t06_shot_2
 u_f_m_valtownfolk_01
@@ -580155,6 +580297,7 @@ u_f_o_hermit_woman_01_fs1_skirt_000_c0_000_nm
 u_f_o_hermit_woman_01_fs1_skirt_000_c0_000_nm+hi
 u_f_o_hermit_woman_01_fs1_skirt_000_m
 u_f_o_hermit_woman_01_fs1_skirt_000_nm
+u_f_o_wtctownfolk_01
 u_f_y_braithwaitessecret_01
 u_gonna_watch_me_die_vic
 u_m_m_apfdeadman_01
@@ -580228,8 +580371,11 @@ u_m_m_cktmanager_01
 u_m_m_crdhomesteadtenant_01
 u_m_m_crdhomesteadtenant_02
 u_m_m_creolecaptain_01
+u_m_m_dorhomesteadhusband_01
 u_m_m_dorhomesteadhusband_01_r2pvg
 u_m_m_emrfarmhand_01
+u_m_m_emrfarmhand_02
+u_m_m_emrfarmhand_03
 u_m_m_emrfather_01
 u_m_m_emrfather_01_r2pvg
 u_m_m_fatduster_01
@@ -580251,6 +580397,7 @@ u_m_m_grisurvivalist_01
 u_m_m_hhrrancher_01_r2pvg
 u_m_m_htlforeman_01
 u_m_m_htlhusband_01_pvg
+u_m_m_htlrancherbounty_01
 u_m_m_lnsworker_01
 u_m_m_lnsworker_02
 u_m_m_lnsworker_03
@@ -580279,6 +580426,7 @@ u_m_m_nbxbartender_02_dual_rfma_rc1_p1_t08_shot_3
 u_m_m_nbxbartender_02_dual_rfma_rc1_p1_t08_shot_4
 u_m_m_nbxbartender_02_dual_rfma_rc1_p1a1_t08_shot_1
 u_m_m_nbxbartender_02_r2pvg
+u_m_m_nbxboatticketseller_01
 u_m_m_nbxboatticketseller_01_r2pvg
 u_m_m_nbxbronteasc_01
 u_m_m_nbxbronteasc_01_dual_rhlp2_rsc2_p1p2l3_t03_shot_1
@@ -580309,6 +580457,7 @@ u_m_m_nbxbrontegoon_01_dual_rhlp2_rsc2_p1p2l3_t03_shot_2
 u_m_m_nbxbrontegoon_01_dual_rhlp2_rsc3_p1a1l1_t04_shot_1
 u_m_m_nbxbrontegoon_01_dual_rhlp2_rsc3_p1l1_t04_shot_1
 u_m_m_nbxbrontegoon_01_dual_rhlp2_rsc3_p1l1_t04_shot_2
+u_m_m_nbxbrontesecform_01
 u_m_m_nbxdoctor_01
 u_m_m_nbxdoctor_01_r2pvg
 u_m_m_nbxgeneralstoreowner_01
@@ -580316,6 +580465,7 @@ u_m_m_nbxgeneralstoreowner_01_r2pvg
 u_m_m_nbxgraverobber_01
 u_m_m_nbxgunsmith_01
 u_m_m_nbxgunsmith_01_r2pvg
+u_m_m_nbxmusician_01
 u_m_m_nbxpriest_01
 u_m_m_nbxresident_01
 u_m_m_nbxresident_01^1
@@ -580325,6 +580475,8 @@ u_m_m_nbxresident_01^2_dual_dst5_mcs3_p2_t03_shot_1
 u_m_m_nbxresident_01^3
 u_m_m_nbxresident_01^3_dual_dst5_mcs3_p2_t03_shot_1
 u_m_m_nbxresident_01_dual_dst5_mcs3_p2_t03_shot_1
+u_m_m_nbxresident_02
+u_m_m_nbxresident_03
 u_m_m_nbxresident_04
 u_m_m_nbxriverboatpitboss_01
 u_m_m_nbxriverboatpitboss_01_dual_ind3_mcs3_p1_t05_shot_1
@@ -580340,6 +580492,7 @@ u_m_m_racforeman_01_dual_rcmp_int_p1_t07_shot_1
 u_m_m_racforeman_01_dual_rcmp_int_p1_t07_shot_2
 u_m_m_racforeman_01_dual_rcmp_int_p1_t09_shot_1
 u_m_m_racforeman_01_r2pvg
+u_m_m_racquartermaster_01
 u_m_m_rhdbartender_01
 u_m_m_rhdbartender_01_r2pvg
 u_m_m_rhddoctor_01
@@ -580418,6 +580571,7 @@ u_m_m_strgenstoreowner_01
 u_m_m_strgenstoreowner_01_dual_mar1_mcs2_p1_t07_shot_1
 u_m_m_strgenstoreowner_01_dual_mar1_mcs2_p1_t07_shot_2
 u_m_m_strgenstoreowner_01_r2pvg
+u_m_m_strsherriff_01
 u_m_m_strsherriff_01_r2pvg
 u_m_m_strwelcomecenter_01_r2pvg
 u_m_m_treasurehunter_01
@@ -580447,6 +580601,7 @@ u_m_m_unibountyhunter_02^3
 u_m_m_unibountyhunter_02_dual_tre1_mcs0_p1_t07_shot_1
 u_m_m_unibountyhunter_02_dual_tre1_mcs0_p1_t07_shot_2
 u_m_m_unicorpse_01
+u_m_m_unidusterleader_01
 u_m_m_uniexconfedsbounty_01
 u_m_m_unipeepingtom_01
 u_m_m_valauctionforman_01
@@ -580536,6 +580691,7 @@ u_m_o_blwpolicechief_01_dual_sad5_ext_p1a1_t03_shot_2
 u_m_o_blwpolicechief_01_r2pvg
 u_m_o_cajhomestead_01
 u_m_o_cmrcivilwarcommando_01
+u_m_o_mapwiseoldman_01
 u_m_o_mapwiseoldman_01_r2pvg
 u_m_o_pshrancher_01
 u_m_o_pshrancher_01_r2pvg
@@ -580557,6 +580713,7 @@ u_m_y_armenlisted_01^2
 u_m_y_armenlisted_02
 u_m_y_armenlisted_03
 u_m_y_armenlisted_04
+u_m_y_btchillbilly_01
 u_m_y_btckid_01
 u_m_y_btckid_01^1
 u_m_y_cajhomestead_01
@@ -584751,6 +584908,7 @@ upgrade_fsh_bait_leg_lure_lake_desc
 upgrade_fsh_bait_leg_lure_river
 upgrade_fsh_bait_leg_lure_river_cataloguedesc
 upgrade_fsh_bait_leg_lure_river_desc
+upgrade_fsh_bait_leg_lure_saltwater
 upgrade_fsh_bait_leg_lure_swamp
 upgrade_fsh_bait_leg_lure_swamp_cataloguedesc
 upgrade_fsh_bait_leg_lure_swamp_desc
@@ -584761,6 +584919,7 @@ upgrade_fsh_bait_lure_none
 upgrade_fsh_bait_lure_river
 upgrade_fsh_bait_lure_river_cataloguedesc
 upgrade_fsh_bait_lure_river_desc
+upgrade_fsh_bait_lure_saltwater
 upgrade_fsh_bait_lure_swamp
 upgrade_fsh_bait_lure_swamp_cataloguedesc
 upgrade_fsh_bait_lure_swamp_desc
@@ -584770,6 +584929,7 @@ upgrade_fsh_bait_spinner_freshwater
 upgrade_fsh_bait_spinner_freshwater_leg
 upgrade_fsh_bait_spinner_freshwater_leg_cataloguedesc
 upgrade_fsh_bait_spinner_freshwater_leg_desc
+upgrade_fsh_bait_spinner_saltwater
 upgrade_fsh_bait_worm
 upgrade_fsh_bait_worm_can
 upgrade_fsh_bait_worm_can_cataloguedesc
@@ -597828,6 +597988,7 @@ vehicle_driverless
 vehicle_extra
 vehicle_extras
 vehicle_id
+vehicle_list
 vehicle_management
 vehicle_model
 vehicle_multiple
@@ -609243,6 +609404,7 @@ weapon_lasso_reinforced_cataloguedesc
 weapon_lasso_reinforced_desc
 weapon_leather_rough
 weapon_leather_wrap
+weapon_list
 weapon_machinery
 weapon_management
 weapon_melee_ancient_hatchet
@@ -610058,6 +610220,7 @@ weappistolfemale
 wearable_masks
 wearable_state
 wearable_state_group
+wearable_state_type
 weary_loop_arthur
 weather
 weather_group_atmospheric
