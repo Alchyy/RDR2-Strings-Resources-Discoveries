@@ -613653,6 +613653,7 @@ x:/rdr3/art/textures/lighting/amv/amv_volumes/amv_din_barn_int/
 x:/rdr3/art/textures/lighting/amv/amv_volumes/amv_din_house_int/
 x:/rdr3/art/textures/lighting/amv/amv_volumes/amv_dis_1rmchurch_int/
 x:/rdr3/art/textures/lighting/amv/amv_volumes/amv_dis_abandoned_furniture/
+x:/rdr3/art/textures/lighting/amv/amv_volumes/amv_dis_airspcrsh/
 x:/rdr3/art/textures/lighting/amv/amv_volumes/amv_dis_bgv_bridgel05/
 x:/rdr3/art/textures/lighting/amv/amv_volumes/amv_dis_bgv_gorilla/
 x:/rdr3/art/textures/lighting/amv/amv_volumes/amv_dis_bridge/
@@ -614014,6 +614015,13 @@ x:/rdr3/art/textures/lighting/amv/amv_volumes/amv_std_com_06/
 x:/rdr3/art/textures/lighting/amv/amv_volumes/amv_std_com_07/
 x:/rdr3/art/textures/lighting/amv/amv_volumes/amv_std_com_church/
 x:/rdr3/art/textures/lighting/amv/amv_volumes/amv_std_doctor_int/
+x:/rdr3/art/textures/lighting/amv/amv_volumes/amv_std_frenchquater1/
+x:/rdr3/art/textures/lighting/amv/amv_volumes/amv_std_frenchquater2/
+x:/rdr3/art/textures/lighting/amv/amv_volumes/amv_std_frenchquater3/
+x:/rdr3/art/textures/lighting/amv/amv_volumes/amv_std_frenchquater4/
+x:/rdr3/art/textures/lighting/amv/amv_volumes/amv_std_frenchquater5/
+x:/rdr3/art/textures/lighting/amv/amv_volumes/amv_std_frenchquater6/
+x:/rdr3/art/textures/lighting/amv/amv_volumes/amv_std_frenchquater7/
 x:/rdr3/art/textures/lighting/amv/amv_volumes/amv_std_galamansion_int/
 x:/rdr3/art/textures/lighting/amv/amv_volumes/amv_std_gambling_int/
 x:/rdr3/art/textures/lighting/amv/amv_volumes/amv_std_gar_bron/
