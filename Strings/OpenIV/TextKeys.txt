@@ -34429,6 +34429,7 @@ cmpndm_top_gang_odriscoll
 cmpndm_top_gang_skinnerbro
 cmpndm_top_gangs
 cmpndm_top_gunslingers
+cmpndm_top_horsecards
 cmpndm_top_horses
 cmpndm_top_inventions
 cmpndm_top_melanistic_animals_desc_net
@@ -34439,6 +34440,7 @@ cmpndm_top_painters
 cmpndm_top_patterned_animals_desc_net
 cmpndm_top_patterned_animals_net
 cmpndm_top_plants
+cmpndm_top_promamericans
 cmpndm_top_rivers_forest_animals_desc_net
 cmpndm_top_rivers_forest_animals_net
 cmpndm_top_stage

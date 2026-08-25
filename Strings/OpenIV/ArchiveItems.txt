@@ -188146,6 +188146,8 @@ mp009_s_mp_pickup_jewelrybag01x
 mp009_s_mp_pickup_jewelrybag01x+hidr
 mp009_wraps
 mp/animal_sighting/intros
+mp/debtcollector2
+mp/establisher_cornwall
 mp/freemode_cams/cloudupdate_establisher_cams
 mp/freemode_cams/cloudupdate_intro_cams
 mp/freemode_cams/cloudupdate_outro_cams
@@ -188155,6 +188157,7 @@ mp/freemode_cams/intromissionride_blackwater
 mp/freemode_cams/intromissionride_rhodes
 mp/freemode_cams/intromissionride_tumbleweed
 mp/freemode_cams/intromissionride_valentine
+mp/gunvout1
 mp/moonshine_bar/bayou
 mp/oth_hint_cam
 mp/shop_fallback/ambarino

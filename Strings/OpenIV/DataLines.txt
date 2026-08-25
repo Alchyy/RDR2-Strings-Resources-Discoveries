@@ -201,6 +201,7 @@
 1_bridge_1_cam
 1_bridgecrossing_1
 1_bridgecrossing_1_cam
+1_canyon_1
 1_cumberlandforest_1
 1_cumberlandforest_1_cam
 1_debtcollector_1
@@ -232,6 +233,7 @@
 1_leavingpronghorn_1_shot
 1_leavingshadybell
 1_leavingvalentine1
+1_leavingvalentine1_cam
 1_leavingvalentine_1_cam
 1_newaustin_1
 1_newaustin_1_cam
@@ -741,6 +743,7 @@
 3_braithewaites_2
 3_braithewaites_2_cam
 3_bridgecrossing
+3_bridgecrossing_cam
 3_bridgereveal_1
 3_debtcollector_3
 3_fingerspass_1_cam
@@ -876,6 +879,7 @@
 4_bridge_2
 4_bridge_2_cam
 4_bridgepass2
+4_bridgepass2_cam
 4_chair_poker_set
 4_clemenscove_1
 4_clemenscove_1_cam
@@ -1015,6 +1019,7 @@
 5_scarlettmeadows_1
 5_scarlettmeadows_1_cam
 5_signpass
+5_signpass_cam
 5_threesisters_3
 5_threesisters_3_cam
 5_to_0
@@ -1239,6 +1244,7 @@
 8_clemens_1
 8_clemens_1_cam
 8_closeup
+8_closeup_cam
 8_rivercrossing_1
 8_scarlett_2
 8_strawberry_1
@@ -1270,6 +1276,7 @@
 9_chimneyview5
 9_chimneyview5_cam
 9_end
+9_end_cam
 9_rivercrossing_1
 9_scarlettmeadows_1
 9_scarlettmeadows_1_cam
@@ -1280,6 +1287,7 @@
 10_chimneyview6
 10_chimneyview6_cam
 10_chimneyview6a
+10_chimneyview6a_cam
 10_convo_female
 10_convo_male
 10_greatplains_1
@@ -18455,7 +18463,6 @@ PELT_SIZE_LARGE
 PELT_SIZE_MEDIUM
 PELT_SIZE_MEDIUMSMALL
 PERSISTENCE_CONSTANTS_FILE
-PFGROUP_environmentGroupManager
 PFPAGELINK_camThirdPersonAimCameraMetricsinitializer
 PH_SATCHEL
 PISTOL_HOLSTER
@@ -18527,7 +18534,6 @@ PhaseSync
 Positional
 PrimaryEntity
 ProcessImpacts
-QEAAXAEBUsDataRequest
 QUADRATIC
 QUARTIC
 QUINTIC
@@ -38033,8 +38039,11 @@ adler_ranch
 adler_ranch1
 adler_tcmod_nrtc
 adler_view
+adler_view_cam
 adleranimals
 adlerranch
+adlerranch_cam
+adlerranch_static
 adult
 advance_towards_sniper
 advance_up_train
@@ -51031,7 +51040,6 @@ amb_rest_drunk@world_human_lean@railing@drinking@male_b@react_look@loop@generic
 amb_rest_drunk@world_human_lean@railing@drinking@male_b@stand_enter_withprop
 amb_rest_drunk@world_human_lean@railing@drinking@male_b@stand_exit_withprop
 amb_rest_drunk@world_human_lean@railing@drinking@male_b@walk_exit_withprop
-amb_rest_drunk@world_human_lean@railing@left@drinking@male_a
 amb_rest_drunk@world_human_lean@railing@left@drinking@male_a@base
 amb_rest_drunk@world_human_lean@railing@left@drinking@male_a@idle_a
 amb_rest_drunk@world_human_lean@railing@left@drinking@male_a@idle_a_nondrinking
@@ -59572,6 +59580,7 @@ animal_params_woodpecker
 animal_parrot
 animal_parrot_scarlet
 animal_peccary
+animal_ped
 animal_pelican
 animal_pelican_brown
 animal_pelican_white
@@ -59964,6 +59973,7 @@ animpostfxs
 animprop_barrel_rabbit
 animprop_barrel_salt
 animprop_money_bag
+anims_single
 animscene
 ankle_bindings
 anklebalance
@@ -61572,16 +61582,22 @@ annesburg_flow_target_2_name_00_rd
 annesburg_flow_target_2_shard_00_rd
 annesburg_in_vehicle
 annesburg_lumber_schedule
+annesburg_mine
+annesburg_mine_cam
 annesburg_mine_schedule
 annesburg_mine_schedule_mp
+annesburg_mine_static
 annesburg_residents
 annesburg_schedule
 annesburg_schedule_mp
 annesburg_sheriff
 annesburg_sheriff_bounty_board
 annesburg_sheriff_cam
+annesburg_static
+annesburg_static_cam
 annesburg_station
 annesburg_station2
+annesburg_station2_cam
 annesburg_turnin_horses_nearby
 annesburgbounty-avoid
 annesburgbounty-focus
@@ -63117,6 +63133,8 @@ armadillo_rio_volwholeregion
 armadillo_sheriff
 armadillo_sheriff_bounty_board
 armadillo_sheriff_cam
+armadillo_static
+armadillo_static_cam
 armadillo_station
 armadillo_station_cam
 armadillo_station_cam2
@@ -64767,6 +64785,12 @@ aurora basin
 aurora basin (crates)
 aurora basin camp
 aurora_basin
+aurorabasin
+aurorabasin_cam
+aurorabasin_static
+aurorabasinpred
+aurorabasinpred_cam
+aurorabasinpred_static
 auta_fen1
 authenticator
 author_type
@@ -74105,6 +74129,7 @@ b_interior
 b_intro
 b_intro_loop
 b_ishighhonor
+b_leadin
 b_leave
 b_loop
 b_loop_base
@@ -74459,6 +74484,8 @@ bacchus far
 bacchus station
 bacchus station - steal wagon
 bacchus station far
+bacchus_cam
+bacchus_static
 bacchus_station
 back
 back_01_ped01
@@ -74925,6 +74952,7 @@ ballgown_sleeves
 ballgown_torsos
 balloon_1
 balloon_2
+balloon_2_cam
 balloon_ride_approach_prison
 balloon_ride_ascend
 balloon_ride_maintain_altitude
@@ -75160,6 +75188,7 @@ banj4_action_b
 banj4au
 banjo
 banjo_cam
+banjo_camera
 banjo_female
 banjo_male
 banjocampfire
@@ -75553,6 +75582,9 @@ barrowhay_idle_a
 barrowhay_idle_b
 barrowhay_idle_c
 barrowhay_idle_f
+barrowlagoon
+barrowlagoon_cam
+barrowlagoon_static
 bars_callover_01
 bars_callover_01_captive
 bars_callover_02
@@ -76169,7 +76201,6 @@ base_crim02
 base_criminal
 base_crominalchair
 base_cross
-base_cs_archiedowntween_ms1_merge_2
 base_cs_baglevin01x
 base_cs_book04x
 base_cs_nailbarrel01x
@@ -77910,6 +77941,9 @@ bayou_nwa_alligator
 bayou_still_room
 bayou_unghosting
 bayou_upstairs
+bayounorth
+bayounorth_cam
+bayounorth_static
 bayounwa
 bayounwa/bayou_panther_perschar_1
 bb_accept
@@ -78365,16 +78399,19 @@ bea_wagonwrecked01
 beach
 beach1
 beach1_shot1
+beach1_shot1_cam
 beach1_shot2
 beach2
 beach2_shot1
 beach2_shot2
 beach2_shot3
+beach2_shot3_cam
 beach3
 beach3_shot1
 beach3_shot2
 beach4_shot1
 beach4_shot2
+beach4_shot2_cam
 beach5_shot1
 beach5_shot2
 beach_shootout
@@ -78469,6 +78506,9 @@ bearblack_bgv_volwest
 bearblack_roa_volcentral
 bearblack_roa_volnorth
 bearblack_tal_volwholeregion
+bearclaw
+bearclaw_cam
+bearclaw_static
 beard_ab
 beard_accessories
 beard_chin
@@ -79160,9 +79200,22 @@ beaverhollow/bvh_trn4_tilly
 beaverhollow/bvh_trn4_uncle
 beaverhut
 beaverriver
+beaverriver_cam
 beavers_killed
+beavershollow
 beavershollow1
 beavershollow2
+beavershollow_cam
+beavershollow_e
+beavershollow_e_cam
+beavershollow_e_static
+beavershollow_s
+beavershollow_s_cam
+beavershollow_s_static
+beavershollow_static
+beavershollow_w
+beavershollow_w_cam
+beavershollow_w_static
 beckon
 beckon_1_chair04
 beckon_1_crate15
@@ -79864,8 +79917,10 @@ beerbottle_base
 before
 before_adl_rugs
 before_crossing
+before_crossing_cam
 before_micah
 beforecliff
+beforecliff_cam
 beg
 beg_a
 beg_a_arthur
@@ -80778,10 +80833,15 @@ benedict_target_01
 benedict_target_02
 benedict_target_03
 benedict_train_clerk
+benedictpass
+benedictpass_cam
+benedictpass_static
 benedictpoint
 benedictpoint/ben_trainstationworker
 benedictpoint/shops/ben_trainstationworkerpost
 benedictpoint/shops/ben_trainstationworkertrain
+benedictpoint_cam
+benedictpoint_static
 benedictpoint_station
 benedictpointbounty-avoid
 benedictpointbounty-focus
@@ -81574,6 +81634,9 @@ bigvalley_vista9
 bigvalley_vista10
 bigvalley_vista11
 bigvalley_vista12
+bigvalleycreek
+bigvalleycreek_cam
+bigvalleycreek_static
 bigvalleyomj
 bigvalleytrapper
 bigvalleytravelsales
@@ -83556,6 +83619,9 @@ blackboard_variable
 blackboard_variables
 blackbone forest
 blackbone_forest
+blackboneforest
+blackboneforest_cam
+blackboneforest_static
 blackcurrant_p
 blackhotel_door_l
 blackhotel_door_r
@@ -83722,6 +83788,8 @@ blackwater_shacks
 blackwater_sheriff
 blackwater_sheriff_bounty_board
 blackwater_spawn_ranges
+blackwater_static
+blackwater_static_cam
 blackwater_target_01a
 blackwater_target_01b
 blackwater_target_02
@@ -84416,7 +84484,9 @@ blu_volwholeregion
 blue
 blue water marsh
 blue_oak
+bluegill
 bluegill_cam
+bluegill_static
 bluejay
 bluejay_bgv_volwholeregion
 bluejay_cho_volarmadillo
@@ -86834,7 +86904,6 @@ bottlebeer
 bottlebeer0
 bottlebeer0_action
 bottlebeer0_base
-bottlebeer01x^1_wnt1_mcs2_p2_t03_shot_2
 bottlebeer1
 bottlebeer1_action
 bottlebeer1_action_a
@@ -88784,9 +88853,14 @@ braith_guard1
 braith_guard2
 braith_mansion_props
 braithewaite_manor
+braithewaitegarden
+braithewaitegarden_cam
+braithewaitegarden_static
 braithewaitemanor
 braithewaitemanor1
 braithewaitemanor2
+braithewaitemanor_cam
+braithewaitemanor_static
 braithwaite
 braithwaite field
 braithwaite manor
@@ -88928,6 +89002,8 @@ brandywine
 brandywine drop
 brandywine drop (crates)
 brandywinedrop
+brandywinedrop_cam
+brandywinedrop_static
 brave
 brave_01
 brave_02
@@ -89863,6 +89939,7 @@ breakout_uninewbordeaux^2
 breakout_uninewbordeaux^3
 breakout_upright
 breakout_upright_w_chainprisoner_02
+breakout_v2
 breakout_vic01
 breakout_vic02
 breakout_vic03
@@ -92102,6 +92179,7 @@ bundle_weapon_shotgun_pump
 bundle_weapon_shotgun_pump_desc
 bundle_weapon_shotgun_pump_trader
 bundle_weapon_shotgun_pump_trader_desc
+bunny_cam
 bupperbotharms
 bur01_combo_21_lod
 bur01_combo_22_lod
@@ -92754,8 +92832,10 @@ butchercreek1
 butchercreek2
 butchercreek3
 butchercreek4
+butchercreek_cam
 butchercreek_default
 butchercreek_residents
+butchercreek_static
 butchercreekprops
 butchering
 butchers
@@ -98058,6 +98138,9 @@ calen_fff1_p1_t09_shot_2
 calhoon_singing
 caliban's seat
 calibans seat
+calibansseat
+calibansseat_cam
+calibansseat_static
 california_condor
 california_condor_cho_volarmadillo
 california_condor_cho_volwholeregion
@@ -98099,6 +98182,11 @@ caligahall/cgh_ox_1
 caligahall/cgh_ox_2
 caligahall/cgh_tavish_gray
 caligahall/cgh_worker
+caligahall_cam
+caligahall_static
+caligahallpred
+caligahallpred_cam
+caligahallpred_static
 caligatoparlorhouse
 call
 call_back
@@ -99425,6 +99513,7 @@ camera_shot
 camera_shot_data
 camera_shot_sequence
 camera_shot_sequence_data
+camera_static
 camera_table_games_blackjack_cut_request
 camera_table_games_blackjack_request
 camera_table_games_cut_request
@@ -101558,6 +101647,8 @@ catfishjackson/cfj_father
 catfishjackson/cfj_son
 catfishjackson/cfj_son_older
 catfishjacksons
+catfishjacksons_cam
+catfishjacksons_static
 catherine
 catherine_pvg
 catherinebraithwaite
@@ -101570,6 +101661,9 @@ catskull_mask_male
 cattail
 cattail pond
 cattail_pond
+cattailpond
+cattailpond_cam
+cattailpond_static
 cattle_pen
 cattlecar01x
 cattleman
@@ -103803,7 +103897,6 @@ chair_setup_cam
 chair_setup_chair
 chair_setup_short
 chair_setup_short_chair
-chair_sit
 chair_trans_from
 chair_wait_a
 chair_wait_exit_to_base
@@ -105354,6 +105447,8 @@ chezporter/che_father
 chezporter/che_son_01
 chezporter/che_son_02
 chezporter/che_son_03
+chezporter_cam
+chezporter_static
 chick_matthews
 chicken
 chicken_1
@@ -109699,6 +109794,9 @@ civilian_injured_loop_a_civilian
 civilian_taunt_town_med
 civilized_ped
 civilwar
+civilwarbattlefield
+civilwarbattlefield_cam
+civilwarbattlefield_static
 civilwarbride
 civmale
 civs_lose_axe
@@ -110690,6 +110788,8 @@ clemenspoint/clm_presadie1_abigail
 clemenspoint/clm_presadie1_sadie
 clemenspoint/clm_rhodes_trelawny
 clemenspoint/clm_scout_cooldown
+clemenspoint_cam
+clemenspoint_static
 clementine
 clen4_act
 clen4au
@@ -110795,6 +110895,7 @@ cliffscout
 clifftree
 cliffwalk
 cliffwalk2
+cliffwalk2_cam
 climb
 climb_cliffs
 climb_down
@@ -150029,6 +150130,9 @@ coalshovel
 coalwagon_wheel_lf
 coastal heartlands
 coastal roanoke
+coastalrun
+coastalrun_cam
+coastalrun_static
 coat
 coat_000_open_bandolier
 coat_084_ab
@@ -153443,7 +153547,12 @@ colter/col_winter2_sadie
 colter/col_winter2_strauss
 colter/col_winter2_swanson
 colter/col_winter2_uncle
+colter_cam
 colter_camp_optimize
+colter_static
+colterhills
+colterhills_cam
+colterhills_static
 com01_combo_03_lod
 com01_combo_04_lod
 com01_combo_dslod
@@ -158342,6 +158451,8 @@ compsons_stead
 compsons_stead_turnin_horses_nearby
 compsons_stead_turnin_players_mounted
 compsonsstead
+compsonsstead_cam
+compsonsstead_static
 compstd
 comvelrdsthresh
 concern_exit_beau
@@ -159728,6 +159839,7 @@ coo_01_walldebris_01
 coo_01_walldebris_02
 coo_coo
 cook
+cook_eat_camera
 cook_grate
 cook_idle_1
 cook_idle_2
@@ -160010,6 +160122,8 @@ coot's chapel
 coots chapel (crates)
 coots_chapel
 cootschapel
+cootschapel_cam
+cootschapel_static
 cop
 cop01pr_combo_14_lod
 cop01pr_combo_dslod
@@ -160033,6 +160147,9 @@ cop_on_horse_cop
 copperforth
 copperforth_action
 copperforth_lantern
+copperheadlanding
+copperheadlanding_cam
+copperheadlanding_static
 coppursue
 coppursuit
 cops_chase_billwilliamson
@@ -160854,6 +160971,8 @@ cornwall_driver
 cornwall_guard1
 cornwall_guard2
 cornwall_kerosene_tar
+cornwall_static
+cornwall_static_cam
 cornwallaniporps
 cornwallday
 cornwalljunction
@@ -160891,6 +161010,9 @@ cornwallnight
 cornwallprops
 cornwalltrainconductor
 corona
+coronado
+coronado_cam
+coronado_static
 corpse
 corpse01
 corpse01^1
@@ -166960,6 +167082,9 @@ crate_wait_loop_01
 crate_whisper_loop_01
 crategroup_01
 cratemove
+crater
+crater_cam
+crater_static
 crates
 crateseat
 crateweaponsbreak01x
@@ -170548,7 +170673,9 @@ creole_leadin_creole
 creolecaptain
 creoledoctor
 creolegang_camp_01x
+crevasse_exit_cam
 crevassepass
+crevassepass_cam
 crf
 cri_01
 cri_01_
@@ -189735,7 +189862,6 @@ cs_jackmarston_ms1_pants_000_c0_000_m
 cs_jackmarston_ms1_pants_000_c0_000_m+hi
 cs_jackmarston_ms1_pants_000_c0_000_nm
 cs_jackmarston_ms1_pants_000_c0_000_nm+hi
-cs_jackmarston_ms1_pants_000_c0_m
 cs_jackmarston_ms1_pants_000_m
 cs_jackmarston_ms1_pants_000_nm
 cs_jackmarston_ms1_pants_001
@@ -215035,6 +215161,9 @@ cumberland_vista4
 cumberland_vista5
 cumberland_vista6
 cumberland_vista7
+cumberlandforest
+cumberlandforest_cam
+cumberlandforest_static
 cun1aud
 cunc3_act
 cunc3au
@@ -220283,7 +220412,9 @@ dakota_river_bards_crossing_turnin_mounted
 dakota_river_bend
 dakota_river_valentine_turnin_mounted
 dakota_river_window_rock_turnin_mounted
+dakotariver
 dakotariver_cam
+dakotariver_static
 dakotarivertrapper
 dale_maroney_pvg
 dalemaroney
@@ -220396,6 +220527,7 @@ daytime
 daytime_1
 daytime_2
 daytonight
+db_test
 dbawwroqxumcfyzrwm_8ya
 dblcard_bad
 dblcard_good
@@ -220410,6 +220542,7 @@ dbt3_mcs1_p1_t00_shot_1
 dbt3_mcs2
 dbt3_mcs2_p1_t00_shot_1
 dbueumdf3uoyrxk1sxxmka
+dc_test
 dce_area01_supp
 dce_area01_supp_strm
 dce_area02_supp
@@ -220495,6 +220628,7 @@ dd_rio_bravo_d_w
 dd_strawberry_a_h
 dd_strawberry_d_h
 dd_strawberry_d_w
+dd_test
 dd_turn_in_h_s
 dd_veteran_home_a_h
 dd_veteran_home_d_h
@@ -221547,6 +221681,7 @@ default_female
 default_first_person_recoil_shake
 default_fish_cast_a_05
 default_fishing_cam
+default_fishing_camera
 default_focus_modifier
 default_follow_ped_camera
 default_follow_vehicle_camera
@@ -222793,6 +222928,7 @@ dew_plane001
 dewberry creek
 dewberrycreek
 dewberrycreek_cam
+dewberrycreek_static
 dewclm_ammo_arrows
 dewclm_ammo_upgrade01
 dewclm_ammo_upgrade02
@@ -223236,6 +223372,9 @@ dia_main_fem
 dia_main_pencil
 diablo ridge
 diablo_ridge
+diabloridge
+diabloridge_cam
+diabloridge_static
 diag_idle_killsomethinelse_catherine
 diag_idle_killsomethinelse_dutch
 diag_idle_killsomethinelse_hosea
@@ -229312,6 +229451,8 @@ dov_tower_vegi_01
 dover hill
 dover_hill
 doverhill
+doverhill_cam
+doverhill_static
 dow
 dow_01_
 dow_01__interior_dow_barn_int_milo_
@@ -229414,6 +229555,9 @@ downes_flinch_right_thomas
 downes_ranch
 downes_ranch1
 downes_scared_stand_front_idle_thomas
+downesranch
+downesranch_cam
+downesranch_static
 downhill
 downhill_cam
 downlimit
@@ -230415,6 +230559,7 @@ drunkstumbletowalk
 drunktrees
 dry_goods_page
 drying_meat
+ds_test
 dsbsc_agad
 dsbsc_base_a
 dsbsc_base_b
@@ -230469,6 +230614,7 @@ dst3_shot1
 dst3_shot2
 dst3_shot2_cam
 dst3_shot3
+dst3_shot3_cam
 dst3_shot4
 dst3_shot4_cam
 dst3_shot5
@@ -230683,6 +230829,7 @@ dual_revolver_schofield
 dual_shortarms
 dual_shotgun_sawedoff
 dualchimney
+dualchimney_cam
 duck
 duck_bird_animal_damage
 duck_corpse
@@ -233084,8 +233231,10 @@ emeraldranch/shops/emr_trainstationworkerpost
 emeraldranch/shops/emr_trainstationworkertrain
 emeraldranch_cam
 emeraldranch_residents
+emeraldranch_static
 emeraldranch_station
 emeraldranch_station2
+emeraldranch_station2_cam
 emeraldranchbounty-avoid
 emeraldranchbounty-focus
 emeraldranchbounty-inner
@@ -235162,7 +235311,6 @@ enter_d_l_thug_b
 enter_d_r_plyr
 enter_d_r_thug_a
 enter_d_r_thug_b
-enter_dad1
 enter_damaged
 enter_dead_mom
 enter_deadeye
@@ -237305,6 +237453,9 @@ evol
 evols
 evreything_off_these_bastards_dutch
 ewing basin
+ewingbasin
+ewingbasin_cam
+ewingbasin_static
 exagduration
 exagmag
 exagtwistmag
@@ -246126,7 +246277,6 @@ face_right_switch_idle_arthur
 face_right_switch_idle_s_switchpuzzle01x
 face_right_switch_idle_s_switchpuzzle01x_lever_2
 face_right_switch_idle_s_switchpuzzle01x_lever_3
-face_rnatv_s2_ext_p1_t06_shot_2
 face_splatter
 face_squirrel_base
 face_wipe
@@ -253507,6 +253657,7 @@ fick1_ig3
 fick1au
 fiddle
 fiddle_cam
+fiddle_camera
 fiddle_loop
 fiddle_loop_backdoor
 fiddle_loop_vaultdoor
@@ -254063,6 +254214,7 @@ finale_int_sunposalt
 finale_mcs7_sunpos
 finallook
 finalride_shot0
+finalride_shot0_cam
 finalride_shot0b
 finalride_shot0c
 finalride_shot1
@@ -254074,6 +254226,7 @@ finalride_shot1b_cam2
 finalride_shot2
 finalride_shot2_cam
 finalride_shot2b
+finalride_shot2b_cam
 finalride_shot2c
 finalride_shot2c_cam
 finalride_shot3
@@ -254130,7 +254283,6 @@ find_survivors
 find_the_owner
 find_the_switch
 find_valuables
-findevolutionparameterindexbyid
 findproperty
 findrufus
 findrufus_jack
@@ -254180,6 +254332,7 @@ fire_petrol_trail
 fire_petroltank_car
 fire_recoil
 fire_right
+fire_roof_01
 fire_sit_breakout_bk_lt_skinner02
 fire_sit_breakout_bk_rt_skinner02
 fire_sit_breakout_lt_skinner02
@@ -254256,6 +254409,9 @@ firesew
 firesit
 firestand
 firevariation
+firewatchtower
+firewatchtower_cam
+firewatchtower_static
 fireweapon
 fireweaponrelaxamount
 fireweaponrelaxtime
@@ -254345,6 +254501,9 @@ firstglobalvolume2
 firstidlepreference
 firstperson
 firwood rise
+firwoodrise
+firwoodrise_cam
+firwoodrise_static
 fish
 fish01_jh_lod
 fish1
@@ -254705,6 +254864,8 @@ flatneck-removeprotection
 flatneck-spawn-restrict
 flatneck station
 flatneck station far
+flatneck_cam
+flatneck_static
 flatneck_station
 flatneck_to_valentine
 flatneckstation/swa_caretaker
@@ -257218,10 +257379,14 @@ fort_wallace
 fortm_mp
 fortmercer
 fortmercer_barricade_01
+fortmercer_cam
+fortmercer_static
 fortress
 fortriggs
+fortriggs_cam
 fortriggs_chair
 fortriggs_door
+fortriggs_static
 fortune_arthur_speech_a_soothsayer
 fortune_arthur_speech_b_soothsayer
 fortune_arthur_speech_c_soothsayer
@@ -257237,6 +257402,9 @@ fortune_marston_speech_c_soothsayer
 fortune_marston_speech_d_soothsayer
 fortune_marston_speech_e_soothsayer
 fortune_teller
+fortwallace
+fortwallace_cam
+fortwallace_static
 forutne_arthur_speech_d_soothsayer
 forward
 forward_01_ped00
@@ -257815,7 +257983,6 @@ frontrocks
 frontsweep
 fronttent
 frontyard
-froot_wheel_lf
 frozen_dead_ped
 frozen_explorer_turnin_players_mounted
 frozen_settler
@@ -258332,7 +258499,6 @@ fun1aud
 fun2aud
 fun3aud
 fun4aud
-fundings
 furnace
 furnace_action_a
 furnace_action_b
@@ -262965,10 +263131,15 @@ gaptooth ridge wagon circle
 gaptooth s murder
 gaptooth shore
 gaptooth_breach
+gaptooth_cam
 gaptooth_ridge
 gaptooth_ridge_0
 gaptooth_ridge_camp
+gaptooth_static
 gaptoothbreach
+gaptoothcave
+gaptoothcave_cam
+gaptoothcave_static
 gaptoothridge
 gaptoothridge/gap_cougar_1
 gaptoothridge/gap_goat_1
@@ -265230,8 +265401,11 @@ gives_money_player
 gives_money_trainworker
 giveupheight
 gl
+glacier
 glacier_blockoff
 glacier_blockoff_lod
+glacier_cam
+glacier_static
 glance_annoyed
 glance_annoyed_leostrauss
 glance_annoyed_tumbler
@@ -266637,6 +266811,7 @@ gorerspecial_fr1_000_m
 gorerspecial_fr1_000_nm
 gorge
 gorge_cam
+gorge_static
 gossip_female_01
 gossip_female_02
 got_em
@@ -267073,6 +267248,7 @@ greatplains
 greatplains/great_plains_buffalo_herd_perschar_1
 greatplains/grt_blw_outskirts_1
 greatplains_cam
+greatplains_static
 green
 greenbank mill (crates)
 greenbreak_mill
@@ -268163,8 +268339,13 @@ grizzliese_vista4
 grizzliese_vista5
 grizzliese_vista6
 grizzlieseast
+grizzliespass
+grizzliespass_cam
+grizzliespass_static
 grizzliestravelsales
 grizzlieswest
+grizzlieswest_cam
+grizzlieswest_static
 grn_01
 grn_01_debris
 grn_01_debris02
@@ -270016,6 +270197,7 @@ guitar_action_b
 guitar_base
 guitar_breakout
 guitar_cam
+guitar_camera
 guitar_clue
 guitarbeach
 guitarcampfire
@@ -270031,6 +270213,7 @@ gulfussars^1
 gulfussars^2
 gull
 gully_2
+gully_2_cam
 gully_exit
 gulp
 gum
@@ -274925,7 +275108,12 @@ hanging_rock_turnin_players_mounted
 hanging_rope_dangle_p_cs_noose01x
 hangingdogranch
 hangingdogranch1
+hangingdogranch_cam
+hangingdogranch_static
 hanginglanternnbx
+hangingrock
+hangingrock_cam
+hangingrock_static
 hangloop
 hangman
 hangout
@@ -278094,7 +278282,6 @@ hea_tunnel_02_terrain
 hea_tunnel_terrain
 hea_twigs
 hea_weed_ivy_ba
-hea_weed_ivy_ba_p
 head
 head1
 head2
@@ -280166,8 +280353,20 @@ heartland_0
 heartland_camp
 heartland_oilfields
 heartland_player_foam
+heartlandcoast
+heartlandcoast_cam
+heartlandcoast_static
+heartlandeast
+heartlandeast_cam
+heartlandeast_static
 heartlandfields
+heartlandfields_cam
+heartlandhill
+heartlandhill_cam
+heartlandhill_static
+heartlandoverflow
 heartlandoverflow_cam
+heartlandoverflow_static
 heartlands
 heartlands 2
 heartlands / cumberland forest
@@ -280184,10 +280383,12 @@ heartlands/hrt_cro_ranch_hand_2
 heartlands/hrt_cro_ranch_hand_3
 heartlands_00
 heartlands_animals
+heartlands_cam
 heartlands_ghosting
 heartlands_hilltop_00
 heartlands_maggie_intro_trigger
 heartlands_maggie_intro_trigger_exclusion
+heartlands_static
 heartlands_still_room
 heartlands_unghosting
 heartlands_upstairs
@@ -280707,7 +280908,12 @@ hennigans_stead_cougar
 hennigans_still_room
 hennigans_unghosting
 hennigans_upstairs
+hennigansfield
+hennigansfield_cam
+hennigansfield_static
 hennigansstead
+hennigansstead_cam
+hennigansstead_static
 hennigantravelsales
 henrilemiux
 her01_combo_13_lod
@@ -281203,6 +281409,8 @@ hillbillyunionsuit_mr1_001_m
 hillbillyunionsuit_mr1_001_nm
 hillhaven_rancher
 hillhavenranch
+hillhavenranch_cam
+hillhavenranch_static
 hilltop
 hint_crossroads_guitar
 hint_name
@@ -286157,6 +286365,9 @@ hotelroom
 hotelsad
 hotelsit
 hotelsmoke
+hotsprings
+hotsprings_cam
+hotsprings_static
 hotwire
 hound01
 hound02
@@ -287598,6 +287809,7 @@ i15-3
 i15-2
 i15-1
 i15_bridge
+i15_bridge_cam
 i15_gorge
 i'mhereaboutjim_bartender
 i'mhereaboutjim_bartendersglass
@@ -292773,6 +292985,7 @@ idle_eat_spit_male
 idle_eat_spit_p_chair05x
 idle_eat_spit_p_door13x
 idle_end
+idle_end_cam
 idle_enter_bill_bill
 idle_enter_charlessmith
 idle_enter_john_john
@@ -292860,7 +293073,6 @@ idle_facing_additive
 idle_far_chair0
 idle_far_chair1
 idle_far_obediah
-idle_farmhse1
 idle_favours
 idle_feed_meat
 idle_feed_player
@@ -293297,7 +293509,6 @@ idle_lean_joywobble_gater^1
 idle_lean_joywobble_maclean
 idle_leanback_csbookkelonian
 idle_leanback_kelonian
-idle_leave2
 idle_left
 idle_left_arthur
 idle_left_close
@@ -293386,6 +293597,7 @@ idle_look_backleft_1_john
 idle_look_backleft_2_john
 idle_look_backright_1_john
 idle_look_backright_2_john
+idle_look_cam
 idle_look_distance_sadie
 idle_look_f_chair06x_0
 idle_look_f_chair06x_1
@@ -296096,7 +296308,6 @@ ig2_break_loop_forwards_female_d
 ig2_break_loop_forwards_female_e
 ig2_break_loop_forwards_female_f
 ig2_break_loop_forwards_penelope
-ig2_c2
 ig2_call_over01_ig_andershelgerson
 ig2_call_over01_p_cs_baganders01x
 ig2_call_over02_ig_andershelgerson
@@ -304409,6 +304620,7 @@ increment_difficulty
 increment_mission
 ind1
 ind1_balcony
+ind1_cam
 ind1_champagne_lady_a
 ind1_champagne_lady_b
 ind1_champagne_lady_c
@@ -304640,6 +304852,8 @@ ind1_theater_man1
 ind1_theater_man2
 ind1_vote_man2
 ind1aud
+ind2
+ind2_cam
 ind2_cart
 ind2_fail
 ind2_fight
@@ -307773,6 +307987,7 @@ j11-3
 j11-2
 j11-1
 j11_bridge
+j11_bridge_cam
 j12-6
 j12-5
 j12-4
@@ -307783,6 +307998,7 @@ j13-2
 j13-1
 j13_bend
 j13_gorge
+j13_gorge_cam
 j14-6
 j14-5
 j14-4
@@ -314177,6 +314393,7 @@ jog3
 jog4
 jog_base
 jog_down
+jog_stop
 jog_up
 jogdown
 jogforwards
@@ -314386,6 +314603,9 @@ jorge's gap
 jorge_dead_pose
 jorge_montez
 jorgehead
+jorgesgap
+jorgesgap_cam
+jorgesgap_static
 josiah
 josiah trelawny
 josiah_action
@@ -314599,6 +314819,7 @@ k08-3
 k08-2
 k08-1
 k08_bridge
+k08_bridge_cam
 k09-6
 k09-5
 k09-4
@@ -314740,7 +314961,6 @@ k_03__hd_0_1_-4
 k_03__hd_0_1_-3
 k_03__hd_0_1_-2
 k_03__hd_0_1_-1
-k_03__hd_0_1_-1_lod
 k_03__hd_0_1_0
 k_03__hd_0_1_1
 k_03__hd_0_1_2
@@ -317984,6 +318204,9 @@ kamassa river (turkey)
 kamassa_river
 kamassa_river_elysian_pool_turnin_mounted
 kamassa_river_mossy_flats_turnin_mounted
+kamassariver
+kamassariver_cam
+kamassariver_static
 karen
 karen_accept_dance
 karen_action
@@ -323941,7 +324164,6 @@ l_action_boards
 l_action_crate
 l_action_player
 l_action_relic
-l_arm_lod
 l_away
 l_away_rollover
 l_barge_end
@@ -324417,7 +324639,10 @@ lagras/rain/lag_mother1
 lagras/rain/lag_mother2
 lagras/rain/lag_mother3
 lagras/shops/lag_mother1
+lagras_cam
 lagras_default
+lagras_static
+lagras_static_cam
 lagras_turnin_horses_nearby
 lagras_turnin_horses_nearby_north
 lagrasmain
@@ -324656,6 +324881,8 @@ lakay/lak_scout_cooldown
 lakay/lak_tear_dutch
 lakay/lak_tear_john
 lakay/lak_tear_sadie
+lakay_cam
+lakay_static
 lakaybunkhouse_int_lod
 lake don julio east
 lake fishing
@@ -324664,6 +324891,12 @@ lake fishing - o'creagh's run
 lake isabella
 lake isabella shack
 lake_isabella
+lakedonjulio
+lakedonjulio_cam
+lakedonjulio_static
+lakeisabella
+lakeisabella_cam
+lakeisabella_static
 lakeside
 lambert
 lambert_revolver
@@ -328334,6 +328567,7 @@ left_exit_ped00
 left_exit_ped01
 left_exit_relieved
 left_first
+left_flinch
 left_front_arthur
 left_front_camera
 left_front_eagle
@@ -329315,6 +329549,7 @@ lift_loop_static_player
 lift_loop_tree
 lift_loop_victim
 lift_one
+lift_static
 lift_success
 lift_success_foreman
 lift_success_ped01
@@ -329476,7 +329711,10 @@ limit
 limital
 limitangle
 limo black
+limpany
 limpany_burned_village_turnin_players_mounted
+limpany_cam
+limpany_static
 linconstant
 lindsey
 line
@@ -329820,6 +330058,12 @@ little creek (crates)
 little creek wagon circle
 little_creek
 little_player_foam
+littlecreek
+littlecreek2
+littlecreek2_cam
+littlecreek2_static
+littlecreek_cam
+littlecreek_static
 littlegirls_v1
 live
 live_horse
@@ -330483,6 +330727,7 @@ lock_2
 lock_a_performance
 lock_awards
 lock_break
+lock_test
 lockbreak
 lockbreak_box
 lockbreak_pick
@@ -330997,7 +331242,10 @@ lone mule stead (stash)
 lone_guard_01
 lone_mule_stead
 lone_prisoner
+lonemule
+lonemule_cam
 lonemule_candleon
+lonemule_static
 long_base_gun
 long_base_plyr
 long_dialogue_dale
@@ -333837,6 +334085,7 @@ m07-3
 m07-2
 m07-1
 m07_bend
+m07_bend_cam
 m07_bridge
 m08-6
 m08-5
@@ -337517,6 +337766,7 @@ macfarlanescourtyard
 macfarlaneshouse
 macfarlanesranch
 macfarlanesranch_cam
+macfarlanesranch_static
 machine_activated_cutscene_exterior
 maclean's house
 maclean_0
@@ -337532,6 +337782,8 @@ macleanshouse/mlh_guard_dog
 macleanshouse/mlh_pigs
 macleanshouse/mlh_ranchhand_01
 macleanshouse/mlh_ranchhand_02
+macleanshouse_cam
+macleanshouse_static
 maco01pr_combo03_02_lod
 maco01pr_combo03_slod
 maco01pr_combo03_slod_children
@@ -337590,6 +337842,8 @@ macomb's end
 macomb's end (boat)
 macombs end (vehicles)
 macombsend
+macombsend_cam
+macombsend_static
 macro_shack01_lightbox
 mad_scientist
 madam_nazar
@@ -338703,7 +338957,10 @@ mansionpaths
 mansionrakeback
 mansionrakeside
 mansionstable
+manteca
 manteca falls
+manteca_cam
+manteca_static
 mantle_mr1_000
 mantle_mr1_000_ab
 mantle_mr1_000_c0_000_ab
@@ -338757,8 +339014,10 @@ manzanitapost/rain/map_blacksmith_wife
 manzanitapost/rain/map_dog_1
 manzanitapost/rain/map_worker
 manzanitapost/rain/map_worker_wife
+manzanitapost_cam
 manzanitapost_default
 manzanitapost_residents
+manzanitapost_static
 manzanitaprops
 map
 map_02_no_snap
@@ -346848,7 +347107,6 @@ mech_loco_m@generic@emotion@unarmed@angry@idle
 mech_loco_m@generic@emotion@unarmed@angry@idle_focussed
 mech_loco_m@generic@emotion@unarmed@angry@reaction@idle
 mech_loco_m@generic@emotion@unarmed@angry@reaction@walk
-mech_loco_m@generic@emotion@unarmed@angry@reaction@walk/stop_fwd_lf
 mech_loco_m@generic@emotion@unarmed@angry@reaction@walk@back_left
 mech_loco_m@generic@emotion@unarmed@angry@reaction@walk@back_right
 mech_loco_m@generic@emotion@unarmed@angry@reaction@walk@fwd
@@ -356068,6 +356326,8 @@ millesani
 millesani claim
 millesani claim - recovery
 millesani claim (hideout)
+millesani_cam
+millesani_static
 millesaniclaim
 milton
 milton_pvg
@@ -364878,6 +365138,9 @@ montage_skin
 montez
 montez_photo
 monto's rest camp
+montosrest
+montosrest_cam
+montosrest_static
 mood
 mood_abigail
 mood_action
@@ -366014,8 +366277,11 @@ moonshiner_workbench_still_average
 moonshiner_workbench_still_strong
 moonshiner_workbench_still_weak
 moonshiners_alerted
+moonstone
 moonstone kidnapping
 moonstone pond
+moonstone_cam
+moonstone_static
 moonsupplies
 moose
 moose1
@@ -366112,6 +366378,8 @@ mossy flats
 mossy flats (hideout)
 mossy_flats
 mossyflats
+mossyflats_cam
+mossyflats_static
 mother
 motherboy_exit_a_f_m_waptownfolk_01
 motherboy_exit_ig_wapitiboy
@@ -366244,9 +366512,15 @@ mounted_escort_1
 mounted_escort_2
 mounted_escort_3
 mountedkeyframe
+mounthagen
+mounthagen_cam
+mounthagen_static
 mounting_cam
 mounting_horse
 mounting_john
+mountshann
+mountshann_cam
+mountshann_static
 mourn
 mourn_bool
 mourn_exit
@@ -370298,6 +370572,8 @@ mp009_s_lev_des
 mp009_s_mp_medicinebox01x
 mp009_s_mp_pickup_jewelrybag01x
 mp/animal_sighting/intros
+mp/debtcollector2
+mp/establisher_cornwall
 mp/freemode_cams/cloudupdate_establisher_cams
 mp/freemode_cams/cloudupdate_intro_cams
 mp/freemode_cams/cloudupdate_outro_cams
@@ -370307,6 +370583,7 @@ mp/freemode_cams/intromissionride_blackwater
 mp/freemode_cams/intromissionride_rhodes
 mp/freemode_cams/intromissionride_tumbleweed
 mp/freemode_cams/intromissionride_valentine
+mp/gunvout1
 mp/moonshine_bar/bayou
 mp/oth_hint_cam
 mp/shop_fallback/ambarino
@@ -370316,6 +370593,7 @@ mp/shop_fallback/new_hanover
 mp/shop_fallback/west_elizabeth
 mp@animal_sighting@intros
 mp@debtcollector2
+mp@establisher_cornwall
 mp@freemode_cams@cloudupdate_establisher_cams
 mp@freemode_cams@cloudupdate_intro_cams
 mp@freemode_cams@cloudupdate_outro_cams
@@ -370325,6 +370603,7 @@ mp@freemode_cams@intromissionride_blackwater
 mp@freemode_cams@intromissionride_rhodes
 mp@freemode_cams@intromissionride_tumbleweed
 mp@freemode_cams@intromissionride_valentine
+mp@gunvout1
 mp@moonshine_bar@bayou
 mp@oth_hint_cam
 mp@shop_fallback@ambarino
@@ -381938,7 +382217,6 @@ mp_intro_prisoner_01
 mp_intro_prisoner_02
 mp_intro_prisoner_03
 mp_intro_reward_deadeye
-mp_intro_reward_deadeye2
 mp_intro_rho_ambush_to_horses
 mp_intro_rho_camp_to_wardrobe
 mp_intro_rho_gang_boss_escape_left
@@ -401484,6 +401762,7 @@ muz_smoking_barrel_shotgun
 mweapon__bow_draw_time
 mweapon__bow_stamina_drain
 mweapon__degradation_modifier
+my_horse_01
 my_leg_tournique
 my_leg_trap
 my_leg_victim
@@ -401524,6 +401803,7 @@ n07-3
 n07-2
 n07-1
 n07_bend
+n07_bend_cam
 n07_sky
 n08-6
 n08-5
@@ -401545,6 +401825,7 @@ n10-2
 n10-1
 n10_bend
 n10_bridge
+n10_bridge_cam
 n10_cas_dock
 n11-6
 n11-5
@@ -411426,6 +411707,9 @@ negativevfxassetpadding
 negativevfxassetsize
 neighbours
 neighboursporch
+nekotirock
+nekotirock_cam
+nekotirock_static
 nelson
 nelsonnemesis
 nervous
@@ -420037,6 +420321,8 @@ newaubr_combo_01_lod
 newaubr_combo_slod
 newaubr_combo_slod_children
 newaustin
+newaustin_cam
+newaustin_static
 newaustin_vista1
 newaustin_vista2
 newaustin_vista3
@@ -422412,11 +422698,13 @@ notice_c_joe
 notice_d_joe
 notice_e_joe
 notice_f_joe
+notice_fl
 notice_fl_rifle
 notice_fr_rifle
 notice_g_joe
 notice_h_joe
 notice_i_joe
+notice_l
 notice_l_rifle
 notice_r_rifle
 notifyonloadcomplete
@@ -423334,6 +423622,7 @@ o12-3
 o12-2
 o12-1
 o12_bridge
+o12_bridge_cam
 o13-6
 o13-5
 o13-4
@@ -428734,6 +429023,9 @@ obt3_stop
 obtaud
 ocreagh_turnin_horses_nearby
 ocreaghs_run
+ocreaghsrun
+ocreaghsrun_cam
+ocreaghsrun_static
 od1_campfire_off
 od1_campfire_on
 od6enemy_stabbed
@@ -430332,7 +430624,6 @@ order_drink
 oregano_p
 oregrau
 orepaud
-orerw_chs_dead_1
 orewmau
 ori
 oridamp
@@ -433065,7 +433356,9 @@ overrun_roanokeridge_1
 overspur
 owanjila
 owanjila lake
+owanjila_cam
 owanjila_dam
+owanjila_static
 owd
 owl
 owl_action_a
@@ -440611,7 +440904,6 @@ p_bra_cal_sgn_tress4
 p_bra_cal_sgn_tress4a
 p_bra_cal_sgn_tress4b
 p_bra_cornmil_window01x
-p_bra_fen
 p_bra_fence01x
 p_bra_fence02x
 p_bra_fence03x
@@ -459515,7 +459807,6 @@ p_propemfence02x_rabi2_rsc1b_p1_t01_shot_5
 p_propemfence02x_rabi2_rsc1b_p1_t01_shot_6
 p_propemfence02x_rabi2_rsc1b_p1_t01_shot_7
 p_propemfence02x_rabi2_rsc1b_p1_t01_shot_8
-p_prospectorsgear_m
 p_prybar01x
 p_prybar01x^1
 p_prybar01x^1_rbch2_rsc1_p1_t07_shot_1
@@ -464114,6 +464405,8 @@ paintedsky/pai_cows
 paintedsky/pai_dog
 paintedsky/pai_ranchhand_01
 paintedsky/pai_ranchhand_02
+paintedsky_cam
+paintedsky_static
 palette
 palette_hash
 palxcp
@@ -466766,6 +467059,7 @@ passenge
 passenger
 passenger01
 passenger01^1
+passenger_10
 passenger_arm_attach_scheme_botharms
 passenger_bounty_escort_revolver
 passenger_bounty_escort_target
@@ -470781,6 +471075,7 @@ pbl_stay_quiet_danbury
 pbl_stay_quiet_danbury_alt
 pbl_steal
 pbl_steal01_n
+pbl_steal_01
 pbl_steal_02_n
 pbl_steal_02_r
 pbl_steal_coach
@@ -470902,6 +471197,7 @@ pbl_tell_the_law_back_left
 pbl_tell_the_law_back_right
 pbl_tell_the_law_front
 pbl_tell_the_law_right
+pbl_test
 pbl_thank_you
 pbl_thanks
 pbl_that_idiot
@@ -471150,6 +471446,7 @@ pbl_win_med
 pbl_win_sml
 pbl_win_to_standing
 pbl_wina
+pbl_window_01
 pbl_window_idle
 pbl_wipe_face
 pbl_wiring_exit_90_r_to_spoolidle
@@ -471699,6 +471996,7 @@ pd_small_gator_carcass_lit_hot
 pd_small_gator_carcass_med
 pd_small_gator_carcass_med_cold
 pd_small_gator_carcass_med_hot
+pd_test
 pd_throat_slash
 pd_victim_dead_arrow_wounds1
 pd_victim_dead_arrow_wounds2
@@ -475043,6 +475341,7 @@ piano_band_exit
 piano_bassist_breakout
 piano_bassist_breakout_verse
 piano_cam
+piano_camera
 piano_code_breakout
 piano_drummer_breakout
 piano_drummer_breakout_verse
@@ -475499,6 +475798,9 @@ pikes basin
 pikes basin (ro camp)
 pikes_ambush
 pikes_basin
+pikesbasin
+pikesbasin_cam
+pikesbasin_static
 pillow
 pillow_action_a
 pillow_action_b
@@ -475527,7 +475829,6 @@ pinkerton_perception
 pinkertons_attack_cabin
 pinkertons_attack_trench_crawl
 pinned
-pinned_2
 pinned_fwd_intro
 pinned_fwd_loop
 pinned_fwd_outro
@@ -476553,6 +476854,7 @@ pl_exit_back_docks
 pl_exit_back_land
 pl_exit_bl_performance
 pl_exit_br_performance
+pl_exit_cave
 pl_exit_cnv_a
 pl_exit_cnv_b
 pl_exit_cnv_to_wait_loop
@@ -476639,6 +476941,7 @@ pl_flee
 pl_flee_during_attack
 pl_flee_l
 pl_flinch
+pl_flinch_01
 pl_flinch_b
 pl_flinch_down_01
 pl_flinch_down_02
@@ -478086,6 +478389,7 @@ pl_leadin_back
 pl_leadin_back_left
 pl_leadin_back_right
 pl_leadin_basedialogue
+pl_leadin_camera
 pl_leadin_chairleft
 pl_leadin_chairright
 pl_leadin_dialogue
@@ -479254,6 +479558,9 @@ placing_dynamite_front_to_idle_dynamite
 placing_dynamite_left_to_idle_dutch
 placing_dynamite_left_to_idle_dynamite
 plague town
+plaguevillage
+plaguevillage_cam
+plaguevillage_static
 plainview
 plainview_turnin_players_mounted
 plan
@@ -494196,6 +494503,9 @@ primary_turn_in
 primarymineoffice
 primate
 princessisabeau_fs1_boot_000
+prinzloop
+prinzloop_cam
+prinzloop_static
 priority
 priority_list
 priority_lists
@@ -504703,6 +505013,8 @@ quakers cove far
 quakers_cove
 quakers_cove_turnin_players_mounted
 quakerscove
+quakerscove_cam
+quakerscove_static
 question
 question_01_ped02
 question_02_ped02
@@ -510984,6 +511296,8 @@ rathskellerfork/rkf_dog_4
 rathskellerfork/rkf_goats
 rathskellerfork/rkf_ranch_hand
 rathskellerfork/rkf_rancher
+rathskellerfork_cam
+rathskellerfork_static
 rathskellerforktotumbleweed
 rats
 rattle_snake
@@ -516930,11 +517244,15 @@ repeaters_page
 repeats
 repentance
 repentance (hideout)
+repentance_cam
+repentance_static
 replay
 replay_data
 replay_director
+replay_free_camera
 replay_group_mapping
 replay_name
+replay_recorded_camera
 replay_target_groups
 replays
 replenish
@@ -520900,6 +521218,7 @@ rhodes_dead
 rhodes_default
 rhodes_deputy
 rhodes_doctor
+rhodes_doctor_cam
 rhodes_feud1
 rhodes_flow_target_0
 rhodes_flow_target_0_crime_00
@@ -520938,8 +521257,11 @@ rhodes_sheriff
 rhodes_sheriff_bounty_board
 rhodes_sheriff_cam
 rhodes_stable_turnin_horses_nearby
+rhodes_static
+rhodes_static_cam
 rhodes_station
 rhodes_station2
+rhodes_station2_cam
 rhodes_store
 rhodes_target_01
 rhodes_target_02
@@ -521197,8 +521519,11 @@ ridgesky
 ridgewood
 ridgewood farm
 ridgewood farm standard
+ridgewood_cam
 ridgewood_farm
 ridgewood_farm_turnin_horses_nearby
+ridgewood_static
+ridgewood_static_cam
 ridgewoodfarm
 ridgewoodfarm/rid_horses_1
 ridgewoodfarm/rid_horses_2
@@ -521454,6 +521779,8 @@ riggsstation
 riggsstation/rgs_postmaster
 riggsstation/shops/rgs_postmasterpost
 riggsstation/shops/rgs_postmastertrain
+riggsstation_cam
+riggsstation_static
 riggstoblackwater1
 riggstoblackwater2
 riggstostr
@@ -521563,6 +521890,7 @@ right_exit_ped00
 right_exit_ped01
 right_exit_relieved
 right_first
+right_flinch
 right_gesture
 right_gesture_to_setup_charlessmith
 right_hand_fanning_01
@@ -522769,9 +523097,17 @@ roanoke_vista1
 roanoke_vista2
 roanoke_vista3
 roanoke_vista4
+roanokenorth
+roanokenorth_cam
+roanokenorth_static
 roanokeomj
 roanoketrapper
 roanokevalley
+roanokevalley_cam
+roanokevalley_static
+roanokevalleypred
+roanokevalleypred_cam
+roanokevalleypred_static
 roar_1
 roar_2
 roar_3
@@ -523379,6 +523715,7 @@ rocks1
 rocks1_cam
 rocks2
 rocks2_cam
+rockslidescree
 rocky seven
 rocky seven (hideout)
 rocky_bighorn
@@ -525894,6 +526231,12 @@ rufus_orbit_request
 ruin_looters_camp_01x
 ruin_trespass
 ruin_upper
+ruinedchapel
+ruinedchapel_cam
+ruinedchapel_static
+ruinedcottage
+ruinedcottage_cam
+ruinedcottage_static
 ruins
 ruins_door
 ruins_sneak
@@ -531539,6 +531882,7 @@ s_brandy01x
 s_brandy_used01x
 s_breachcannonshell
 s_breakout
+s_breakout_01
 s_breakout_centerstage
 s_breakout_downstage
 s_breakout_knife_b
@@ -531956,8 +532300,10 @@ s_controlradioboat01x_rckpt_s1_int_p1_t07_shot_3
 s_controlradioboat01x_rckpt_s1_int_p1a1_t07_shot_1
 s_controlradioboat01x_rckpt_s1_int_p2_t06_shot_1
 s_conversation
+s_conversation_01
 s_convictionlist01x
 s_convo
+s_convo_01
 s_convo_main
 s_cook
 s_cookfire01x
@@ -532275,6 +532621,7 @@ s_desertsage01x
 s_desertsagepicked01x
 s_desk01x
 s_dialogue
+s_dialogue_01
 s_dialogue_1
 s_dialogue_2
 s_dialogue_3
@@ -532409,6 +532756,7 @@ s_enter
 s_enter01
 s_enter02
 s_enter_01
+s_enter_cave
 s_enter_dutch
 s_enter_fight
 s_enter_front
@@ -532434,6 +532782,7 @@ s_exit_01
 s_exit_02
 s_exit_alreadycheckedin
 s_exit_barn
+s_exit_cave
 s_exit_dontseewhy
 s_exit_from_a_pose
 s_exit_idle
@@ -534365,6 +534714,7 @@ s_lead_in
 s_leadin
 s_leadin02
 s_leadin_2
+s_leadin_camera
 s_leadin_crowd
 s_leadin_crowdl1
 s_leadin_f
@@ -535915,6 +536265,7 @@ s_pos_01
 s_pos_02
 s_pos_03
 s_pose
+s_pose_01
 s_pose_a_idle
 s_pose_b_idle
 s_pose_c_idle
@@ -538338,12 +538689,56 @@ saintdenis/shops/sdn_tailor
 saintdenis/shops/sdn_train_station_workerpost
 saintdenis/shops/sdn_train_station_workertrain
 saintdenis_cam
+saintdenis_cemetary
+saintdenis_cemetary_cam
+saintdenis_cemetary_static
+saintdenis_cityhall
+saintdenis_cityhall_cam
+saintdenis_cityhall_static
+saintdenis_crossroads
+saintdenis_crossroads_cam
+saintdenis_crossroads_static
 saintdenis_default
+saintdenis_docks
+saintdenis_docks_cam
+saintdenis_docks_static
+saintdenis_e
+saintdenis_e_cam
+saintdenis_e_static
+saintdenis_farm
+saintdenis_farm_cam
+saintdenis_farm_static
+saintdenis_freightstation
+saintdenis_freightstation_cam
+saintdenis_freightstation_static
+saintdenis_lanikelectrical
+saintdenis_lanikelectrical_cam
+saintdenis_lanikelectrical_static
+saintdenis_mansions
+saintdenis_mansions_cam
+saintdenis_mansions_static
+saintdenis_orchard
+saintdenis_orchard_cam
+saintdenis_orchard_static
+saintdenis_plantation
+saintdenis_plantation_cam
+saintdenis_plantation_static
 saintdenis_preendlesssummer
 saintdenis_residents
+saintdenis_s
+saintdenis_s_cam
+saintdenis_s_static
 saintdenis_shot
+saintdenis_static
 saintdenis_station
+saintdenis_station_cam
+saintdenis_station_static
+saintdenis_streetcircuit
+saintdenis_streetcircuit_cam
 saintdenis_trainstationvehicles
+saintdenis_w
+saintdenis_w_cam
+saintdenis_w_static
 saintdenisbounty-avoid
 saintdenisbounty-focus
 saintdenisbounty-inner
@@ -538583,6 +538978,9 @@ sanding
 sandoutside
 sandstorm
 sanluis_player_foam
+sanluisriver
+sanluisriver_cam
+sanluisriver_static
 sanson
 saplings
 sash_mr1_000
@@ -538600,6 +538998,9 @@ sash_mr1_000_c0_999_ab
 sash_mr1_000_c0_999_ab+hi
 sash_mr1_000_m
 sash_mr1_000_nm
+sasika
+sasika_cam
+sasika_static
 sat_bullet_time
 sat_car_slowdown
 sat_deadeye
@@ -541461,7 +541862,6 @@ script@rcm@sad2@leadin@rsc6@leadin_door_right
 script@rcm@warv@leadin@s4@mcs1@base
 script@specialped@dalemaroney@leadin@1@dalemaroney1bed
 script@specialped@dalemaroney@leadin@1@dalemaroney1end_base
-script@story@MAR1@leadin@ext@base
 script@story@beechers1_2@returntoblackwater
 script@story@bou1@riverchase
 script@story@brt1@leadin@int@base
@@ -548339,7 +548739,6 @@ secure_gear_rt
 secure_gear_rt_cam_left
 secure_gear_rt_cam_right
 secure_gear_rt_cam_top
-security_cookie
 sedated_counts_for_required_kill
 seductive
 seductive_01
@@ -549999,7 +550398,10 @@ shady belle (hideout)
 shady belle assault
 shady_bell_turnin_horses_nearby
 shady_belle_turnin_horses_nearby
+shadybell
 shadybell1
+shadybell_cam
+shadybell_static
 shadybelle
 shadybelle/shb_animal_pearson
 shadybelle/shb_daya_abigail
@@ -551463,6 +551865,7 @@ shootshacklesslave1_slaves_slum01
 shootshacklesslave2_slaves_shackle01^1
 shootshacklesslave2_slaves_slum01^1
 shop
+shop01_01
 shop1
 shop2
 shop_amd_bartender
@@ -552268,9 +552671,11 @@ shot_03_m04
 shot_03_m05
 shot_03_victim
 shot_03_wag
+shot_03a
 shot_03a_bounty
 shot_03a_cam
 shot_03a_victim
+shot_03b
 shot_03b_bounty
 shot_03b_cam
 shot_03b_victim
@@ -552300,6 +552705,7 @@ shot_06_bounty
 shot_06_cam
 shot_07_bounty
 shot_07_cam
+shot_aiming
 shot_band
 shot_bottom
 shot_dialogue_01_bottle08x
@@ -553213,6 +553619,7 @@ sigkneeamount
 sigkneesonset
 sign
 sign_shot
+sign_shot_cam
 signal_fire
 signeckamount
 sigperiod
@@ -554158,6 +554565,11 @@ six_vfx_01_001
 six_vfx_01_002
 six_women
 sixpointcabin
+sixpointcabin_cam
+sixpointcabin_static
+sixpointcabinpred
+sixpointcabinpred_cam
+sixpointcabinpred_static
 size
 sizesolver
 sizzle
@@ -557035,6 +557447,9 @@ southern_shores_volzone1
 southern_shores_volzone2
 southern_shores_volzone3
 southernswamp
+southfieldflats
+southfieldflats_cam
+southfieldflats_static
 southpatrol
 southpen
 southside
@@ -558032,6 +558447,9 @@ spiderdream05x
 spiderdream06x
 spiderdream07x
 spiderdream08x
+spidergorge
+spidergorge_cam
+spidergorge_static
 spike
 spike_lvl01_spike01
 spike_lvl02_spike01
@@ -560897,7 +561315,10 @@ stillwater (vehicles)
 stillwater bridge
 stillwater creek
 stillwater creek camp
+stillwater_cam
 stillwater_creek
+stillwater_static
+stillwater_static_cam
 stillwater_tracks_turnin_horses_nearby
 stimulants_page
 stir
@@ -562619,6 +563040,8 @@ strawberry_sheriff
 strawberry_sheriff_bounty_board
 strawberry_sheriff_cam
 strawberry_sign
+strawberry_static
+strawberry_static_cam
 strawberry_target_01
 strawberry_target_01b
 strawberry_target_02
@@ -569370,6 +569793,8 @@ talltrees/tal_bear_1
 talltrees/tal_cougar_1
 talltrees/tal_trapper_1
 talltrees/tal_wolves_1
+talltrees_cam
+talltrees_static
 talltrees_vista1
 talltreestrapper
 tan
@@ -571152,6 +571577,8 @@ theboyval-ransackblocking
 theboyval-removeprotection
 theboyval-spawn-restrict
 theloft
+theloft_cam
+theloft_static
 theme
 themed
 themes
@@ -571208,6 +571635,8 @@ thieves_landing_turnin_horses_nearby
 thieveslanding
 thieveslanding1
 thieveslanding2
+thieveslanding_cam
+thieveslanding_static
 thigh_left
 thigh_right
 think_you_can_rob_p_doorsgl02x
@@ -572753,6 +573182,7 @@ tp_tx_order_beaver_01
 tp_tx_order_bluejay_01
 tp_tx_order_cardinal_01
 tp_tx_order_crow_01
+tpr
 tr4_boxcar04x_8
 tr4_boxcar04x_14
 tr4_boxcar04x_16
@@ -573141,6 +573571,7 @@ train_supply_train_stationary
 train_supply_train_stationary_no_blip
 train_ticket
 train_ticket_menu
+train_tracking_camera
 train_trigger
 train_type
 train_vip_rescue_starts_driving
@@ -574003,6 +574434,8 @@ treasurelocation
 treasurelocations
 treasuremap
 treasuremap_horse
+treatment
+treatment_test
 treaure_decal003
 tree
 tree_add_money
@@ -575165,6 +575598,8 @@ tumbleweed_sheriff_bounty_board
 tumbleweed_sheriff_cam
 tumbleweed_stakeout_corpse_01
 tumbleweed_stakeout_corpse_02
+tumbleweed_static
+tumbleweed_static_cam
 tumbleweed_target_01a
 tumbleweed_target_01b
 tumbleweed_target_02
@@ -575177,6 +575612,9 @@ tumbleweedbounty-nospawn
 tumbleweedbounty-outer
 tumbleweedbounty-protection
 tumbleweedbounty-removeprotection
+tumbleweedpred
+tumbleweedpred_cam
+tumbleweedpred_static
 tumbleweedprops
 tumbleweedsheriff-area-restrict
 tumbleweedsheriff-dialogue_volume
@@ -575601,6 +576039,8 @@ twinrock/twr_ranch_guard_2
 twinrock/twr_ranch_guard_3
 twinrock/twr_ranch_guard_4
 twinrocks
+twinrocks_cam
+twinrocks_static
 twins_dead_twin01
 twins_dead_twin02
 twist
@@ -584184,7 +584624,6 @@ undertakervolume
 undertwo_trans_over_a
 underwater
 underwaterrelax
-undiscovered3_16_24
 unfreeze
 unfreeze_and_place_above_ground
 unfreeze_and_warp
@@ -584660,6 +585099,8 @@ untie_rt_rope
 untie_stranger
 untie_vtm
 unused
+unused1_cam
+unused2_cam
 up
 up_right
 up_slope_light_land_to_run
@@ -585399,6 +585840,7 @@ uplimit
 upon_arrival_arthur
 upon_arrival_canoe
 upon_arrival_charlessmith
+upper1_static
 upper montana
 upper montana river (ro camp)
 upper_all
@@ -585424,6 +585866,12 @@ upperbodyreaction
 upperbodyweaponmotionclipset
 uppergore_mangled_mr1_000
 uppergore_mangled_mr1_001
+uppergrizzlies
+uppergrizzlies_cam
+uppergrizzlies_static
+uppermontanariver
+uppermontanariver_cam
+uppermontanariver_static
 upperonly_filter
 uppertorso_ff1_001
 uppertorso_fr1_000
@@ -593284,8 +593732,11 @@ valentine_sheriff
 valentine_sheriff_bounty_board
 valentine_sheriff_cam
 valentine_slumssaloonamb
+valentine_static
+valentine_static_cam
 valentine_station
 valentine_station2
+valentine_station2_cam
 valentine_station_turnin_horses_nearby
 valentine_target_01
 valentine_target_02
@@ -593299,6 +593750,9 @@ valentinebounty-protection
 valentinebounty-removeprotection
 valentineoutside
 valentineprops
+valentinestables
+valentinestables_cam
+valentinestables_static
 valentinestore
 valid_location
 vallaw1
@@ -594103,12 +594557,18 @@ vanhorn0204_gtxd
 vanhorn_cam
 vanhorn_default
 vanhorn_male
+vanhorn_mansion
+vanhorn_mansion_cam
+vanhorn_mansion_static
 vanhorn_oddfellows
 vanhorn_post_office_turnin_horses_nearby
 vanhorn_rain
 vanhorn_stables_turnin_horses_nearby
+vanhorn_static
 vanhorn_station
 vanhorn_station2
+vanhorn_station2_cam
+vanhorn_station_cam
 vanhorn_target_01
 vanhorn_target_02
 vanhorn_target_03
@@ -597318,7 +597778,6 @@ veh_horseback@seat_saddle@male@emotion@nervous@direct@offering
 veh_horseback@seat_saddle@male@emotion@panic@direct@canter
 veh_horseback@seat_saddle@male@emotion@panic@direct@gallop
 veh_horseback@seat_saddle@male@emotion@panic@direct@idle
-veh_horseback@seat_saddle@male@emotion@panic@direct@idle/outro_right_135
 veh_horseback@seat_saddle@male@emotion@scared@direct@idle
 veh_horseback@seat_saddle@male@emotion@scared@direct@trot
 veh_horseback@seat_saddle@male@emotion@scared@direct@walk
@@ -608067,6 +608526,7 @@ wallace_flow_target_2_name_00_rd
 wallace_flow_target_2_shard_00_rd
 wallace_station
 wallace_station2
+wallace_station2_cam
 wallace_station_bounty_board
 wallace_station_cam
 wallace_station_cam2
@@ -608308,11 +608768,14 @@ wapiti/wap_medicineman
 wapiti/wap_shopkeeper
 wapiti/wap_shopkeeper_mp
 wapiti/wap_siouxchef
+wapiti_cam
 wapiti_default
 wapiti_female_poor
 wapiti_female_timid_poor
 wapiti_ped_timid
 wapiti_residents
+wapiti_static
+wapiti_static_cam
 wapiti_turnin_horses_nearby
 wapitiboy
 wapitiprops
@@ -608657,6 +609120,7 @@ washboard_action_a_int_right
 washboard_action_b
 washboard_base
 washboard_cam
+washboard_camera
 washboard_wait_base
 washboard_wait_exit
 washboard_wait_idle_e
@@ -610309,6 +610773,7 @@ weapons_odr1
 weapons_odr2
 weaponspinup
 weappistolfemale
+wearable_blanket
 wearable_masks
 wearable_state
 wearable_state_group
@@ -611520,6 +611985,9 @@ wintersteamer_wnt4_mcs_3_p1_l1_t01_shot_5
 wintersteamer_wnt4_mcs_3_p1_l1_t01_shot_6
 wintersteamer_wnt4_mcs_6_p1_t04_shot_1
 wintersteamer_wnt4_mcs_6_p1_t04_shot_2
+winterwilderness
+winterwilderness_cam
+winterwilderness_static
 winton
 wintonholmes
 wip_base
@@ -611631,6 +612099,7 @@ wli_treashunt_log_lod
 wli_treashunt_log_snow
 wli_wil_01_cratedebristxd
 wli_wil_turtleshell_decal
+wll_01
 wll_02_racoonskulldecal
 wll_chest01_detail
 wll_chest03_decal
@@ -613641,6 +614110,7 @@ x:/rdr3/art/textures/lighting/amv/amv_volumes/amv_cor_workers01/
 x:/rdr3/art/textures/lighting/amv/amv_volumes/amv_crawdad_cabin/
 x:/rdr3/art/textures/lighting/amv/amv_volumes/amv_cro_01/
 x:/rdr3/art/textures/lighting/amv/amv_volumes/amv_crop_house/
+x:/rdr3/art/textures/lighting/amv/amv_volumes/amv_cultlovesshack8/
 x:/rdr3/art/textures/lighting/amv/amv_volumes/amv_cumb_rckhero/
 x:/rdr3/art/textures/lighting/amv/amv_volumes/amv_cvb_01/
 x:/rdr3/art/textures/lighting/amv/amv_volumes/amv_cvb_02/
