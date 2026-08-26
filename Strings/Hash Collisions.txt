@@ -1089,3 +1089,33 @@ Key: 0x55742E4E
 [0] s_bckinboat_l
 [1] UNKNOWN (teen_jack.yldb)
 ======================
+
+=== HASH COLLISION ===
+Key: 0xCC1BD225
+[0] -2357.347900,659.201965,121.360840
+[1] UNKNOWN (script/cinematics/trains/riobravo.ymt)
+======================
+
+=== HASH COLLISION ===
+Key: 0x672C7C93
+[0] cliff_edges[133][166]
+[1] UNKNOWN (script/story/mud4/sheep_herding.ymt)
+======================
+
+=== HASH COLLISION ===
+Key: 0x672C7C93
+[0] cliff_edges[133][166]
+[1] UNKNOWN (script/story/mud4/sheep_herding.ymt)
+======================
+
+=== HASH COLLISION ===
+Key: 0x05694534
+[0] player_zero_coat_016_open_c0_000_ma
+[1] UNKNOWN (script/story/rbch11/ride_to_blackwater.ymt)
+======================
+
+=== HASH COLLISION ===
+Key: 0xB3A621AF
+[0] player_zero_coat_016_open_c0_000_mb
+[1] UNKNOWN (script/story/rbch11/ride_to_blackwater.ymt)
+======================
