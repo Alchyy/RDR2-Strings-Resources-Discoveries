@@ -188149,6 +188149,18 @@ mp/animal_sighting/bear
 mp/animal_sighting/intros
 mp/debtcollector2
 mp/establisher_cornwall
+mp/establishers/bayounwa_bluegill
+mp/establishers/bigvalley
+mp/establishers/chollasprings_riobravo
+mp/establishers/cumberland_grizzlieseast
+mp/establishers/gaptoothridge
+mp/establishers/greatplains_talltrees
+mp/establishers/grizzlieswest
+mp/establishers/heartlands
+mp/establishers/hennigansstead
+mp/establishers/roanokeridge
+mp/establishers/saintdenis
+mp/establishers/scarlettmeadows
 mp/freemode_cams/cloudupdate_establisher_cams
 mp/freemode_cams/cloudupdate_intro_cams
 mp/freemode_cams/cloudupdate_outro_cams
@@ -290416,6 +290428,9 @@ script/cinematics/bridges/bluewater
 script/cinematics/bridges/heartlands_cumberland
 script/cinematics/bridges/thieveslanding
 script/cinematics/eventareas/applessed
+script/cinematics/fasttravel/cameratreatments_camps
+script/cinematics/fasttravel/cameratreatments_settlements
+script/cinematics/fasttravel/cameratreatments_towns
 script/cinematics/fasttravel/stagecoach_intros
 script/cinematics/horseshoecamp
 script/cinematics/stables/blackwater
@@ -290496,6 +290511,7 @@ script/story/ind1/mission_jump_cameras
 script/story/ind3/pullout
 script/story/ind3/wagon_ride
 script/story/mar2/wagondrivetostrawberry
+script/story/mar6/train_to_saint_denis
 script/story/mar53/racefinish
 script/story/mary3/return_to_saintdenis
 script/story/mud1/ride_to_horseshoe
