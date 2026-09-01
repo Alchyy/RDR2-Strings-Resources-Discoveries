@@ -327441,7 +327441,6 @@ val_sal_int_decal01+hidr
 val_sal_int_decal02
 val_sal_int_decal02+hidr
 val_sal_int_decal08
-val_sal_int_decal08+hi
 val_sal_int_rm03_curtain
 val_sal_int_rm03_curtain+hidr
 val_sal_main_lower_fl_amv

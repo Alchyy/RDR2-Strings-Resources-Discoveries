@@ -26830,7 +26830,6 @@ a_c_doglab_01_head_000_c0_001_ab
 a_c_doglab_01_head_000_c0_001_ab+hi
 a_c_doglab_01_head_000_c0_002_ab
 a_c_doglab_01_head_000_c0_002_ab+hi
-a_c_doglab_01_head_000_c0_002_nm+hi
 a_c_doglab_01_head_000_m
 a_c_doglab_01_head_000_nm
 a_c_doglab_01_task_000
@@ -28346,10 +28345,6 @@ a_c_horse_charles
 a_c_horse_criollo_baybrindle
 a_c_horse_criollo_bayframeovero
 a_c_horse_criollo_blueroanovero
-a_c_horse_criollo_blueroanovero_2
-a_c_horse_criollo_blueroanovero_3
-a_c_horse_criollo_blueroanovero_4
-a_c_horse_criollo_blueroanovero_5
 a_c_horse_criollo_dun
 a_c_horse_criollo_marblesabino
 a_c_horse_criollo_sorrelovero
@@ -66217,8 +66212,6 @@ auctionped
 auctionyard
 auctionyardinspect
 auctotrain
-audRadioStation__audRadioStationSyncData__TrackId15
-audVehicleReflectionsEntity__UpdateLoadedInteriors
 audio
 audio1
 audio_accept
@@ -215943,7 +215936,6 @@ cs_watson_02_ms1_suspenders_000_c0_000_ab
 cs_watson_02_ms1_suspenders_000_c0_000_ab+hi
 cs_watson_02_ms1_suspenders_000_c0_000_m
 cs_watson_02_ms1_suspenders_000_c0_000_m+hi
-cs_watson_02_ms1_suspenders_000_c0_000_mb
 cs_watson_02_ms1_suspenders_000_c0_000_nm
 cs_watson_02_ms1_suspenders_000_c0_000_nm+hi
 cs_watson_02_ms1_suspenders_000_m
@@ -228640,13 +228632,6 @@ dlc_mp007_animal_sightings_cage_sceneset
 dlc_mp007_onaasfx_hound_group
 dlc_mp007_onaasfx_sceneset
 dlc_mp007_poacher_hideout_animal_cage_sceneset
-dlc_mp_bh_m_feet_2_1
-dlc_mp_bh_m_feet_2_1_ab
-dlc_mp_bh_m_feet_2_1_m
-dlc_mp_bh_m_feet_2_3
-dlc_mp_bh_m_feet_2_3_ab
-dlc_mp_bh_m_feet_2_3_m
-dlc_mp_bh_m_feet_2_3_nm
 dlg_01_a_c_wolf
 dlg_01_callover_dutch
 dlg_01_frenchartist
@@ -280390,6 +280375,7 @@ hat_mr1_126_c3_999_ab+hi
 hat_mr1_126_m
 hat_mr1_126_nm
 hat_mr1_127
+hat_mr1_127_ab
 hat_mr1_127_c0_000_ab
 hat_mr1_127_c0_000_ab+hi
 hat_mr1_127_c0_000_m
@@ -280404,13 +280390,18 @@ hat_mr1_127_c3_000_nm
 hat_mr1_127_c3_000_nm+hi
 hat_mr1_127_c3_999_ab
 hat_mr1_127_c3_999_ab+hi
+hat_mr1_127_m
+hat_mr1_127_nm
 hat_mr1_129
+hat_mr1_129_ab
 hat_mr1_129_c3_000_m
 hat_mr1_129_c3_000_m+hi
 hat_mr1_129_c3_000_nm
 hat_mr1_129_c3_000_nm+hi
 hat_mr1_129_c3_999_ab
 hat_mr1_129_c3_999_ab+hi
+hat_mr1_129_m
+hat_mr1_129_nm
 hat_mr1_130
 hat_mr1_130_ab
 hat_mr1_130_c1_000_m
@@ -306580,10 +306571,6 @@ igangmemberwaitdeeddatams
 igangmemberwaitforaudioms
 igangmemberwaitforhorsecreatems
 igangmemberwaitforrespawnms
-igig3_hosea_preps_stagecoach1
-igig3_hosea_preps_stagecoach2
-igig3_hosea_preps_stagecoach3
-igig3_hosea_preps_stagecoach4
 ignore_active_ambusher_spawn_restriction
 ignore_avoidance_volumes
 ignore_clue_found_distance_checks
@@ -443740,7 +443727,6 @@ p_bottlebeer01x_crn1_mcs2_p2_t03_shot_1
 p_bottlebeer01x_dst5_int_p1_t09_shot_1
 p_bottlebeer01x_dst5_int_p1_t09_shot_2
 p_bottlebeer01x_fin2_ext_p10_t01_shot_1
-p_bottlebeer01x_fus1_mcs2_p2_t06_shot_2
 p_bottlebeer01x_fus1_mcs2_p3m1_t06_shot_1
 p_bottlebeer01x_fus1_mcs2_p3m1_t06_shot_2
 p_bottlebeer01x_fus1_mcs2_p3m1_t06_shot_3
@@ -462937,9 +462923,6 @@ p_potceramicnbx01x
 p_potclay01
 p_potclay01x
 p_potclay02x
-p_potclay02x_01
-p_potclay02x_02
-p_potclay02x_03
 p_potclay03x
 p_potclay04x
 p_potclay05
@@ -488036,8 +488019,6 @@ player_zero_coat_016_open_c0_000_ab+hi
 player_zero_coat_016_open_c0_000_anm
 player_zero_coat_016_open_c0_000_m
 player_zero_coat_016_open_c0_000_m+hi
-player_zero_coat_016_open_c0_000_ma
-player_zero_coat_016_open_c0_000_mb
 player_zero_coat_016_open_c0_000_nm
 player_zero_coat_016_open_c0_000_nm+hi
 player_zero_coat_016_open_c0_000_wrinklemask
@@ -557846,7 +557827,6 @@ sisikaprops
 sister
 sistercalderon
 sit
-sit73
 sit_2_stand
 sit_base_bounty
 sit_base_chair

@@ -463,6 +463,7 @@ BurstThresholdIntensity
 CAnimalTuningManager
 CBodyBlendTemplateStore
 CBodyDampingTemplateStore
+CCliffEdgeSector
 CCoarseRoadGraph
 CCollectables
 CCoverPointRegion
@@ -1151,7 +1152,6 @@ Extensions
 Extents
 ExternalPointScoreMultiplier
 Extra1
-Extra10
 Extra2
 Extra3
 Extra4
@@ -1160,6 +1160,7 @@ Extra6
 Extra7
 Extra8
 Extra9
+Extra10
 ExtraCameraRelativeVerticalOffset
 ExtraCollisionFallBackOffsetOrbitFrontDotCoverLeft
 ExtraData
@@ -2909,6 +2910,7 @@ ProbeCapsuleRadius
 ProbeCount
 ProbeLength
 ProbeRadius
+ProgressCurveRef
 ProjDecalInfo
 ProjDecalName
 ProjectileFlags
@@ -4391,6 +4393,7 @@ anisotropy
 anmMappings
 anms
 aoOverride
+arCliffEdges
 archetype
 assetBundles
 assetLights
@@ -5393,9 +5396,9 @@ lightOverridesFloat
 lightOverridesFloat3Array
 lightOverridesFloat4Array
 lightOverridesS16
-lightOverridesU32
 lightOverridesU8
 lightOverridesU8Array
+lightOverridesU32
 lightOverridesVec3
 lightParametersOverrides
 lightPresetId

@@ -3803,6 +3803,7 @@ Hashes from .yas, .ymap, .ymt, and .ytyp files (might contain some hex color cod
 0x05670C54
 0x05679DEF
 0x05684794
+0x05694534
 0x0569508E
 0x05699DBA
 0x0569C823
@@ -123164,6 +123165,7 @@ Hashes from .yas, .ymap, .ymt, and .ytyp files (might contain some hex color cod
 0xB012C067
 0xB01322F7
 0xB013B41A
+0xB013B6B8
 0xB013D411
 0xB0146C25
 0xB014B233
@@ -125602,6 +125604,7 @@ Hashes from .yas, .ymap, .ymt, and .ytyp files (might contain some hex color cod
 0xB3A5548B
 0xB3A5AD2A
 0xB3A5F937
+0xB3A621AF
 0xB3A64A06
 0xB3A650EA
 0xB3A6CA33
