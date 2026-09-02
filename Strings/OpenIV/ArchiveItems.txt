@@ -94384,6 +94384,7 @@ common/data/ui/fontmap.xml
 common/data/ui/fwuiareablipstyle.xml
 common/data/ui/gps.xml
 common/data/ui/pausemenueffects.meta
+common/data/ui/prompts/promptorder.meta
 common/data/ui/screens/hud/fullscreen_messages.xml
 common/data/ui/screens/hud/gun_barrel.xml
 common/data/ui/screens/hud/hud_persistent.xml
@@ -94698,6 +94699,7 @@ common/shaders/db/billboard_nobump.sps
 common/shaders/db/cable.sps
 common/shaders/db/campfire_decal.sps
 common/shaders/db/campfire_default.sps
+common/shaders/db/campfire_emissive_additive_alpha_flipbook.sps
 common/shaders/db/campfire_standard.sps
 common/shaders/db/campfire_standard_2lyr.sps
 common/shaders/db/campfire_standard_alpha.sps
@@ -94724,6 +94726,7 @@ common/shaders/db/cutout_tnt.sps
 common/shaders/db/cutout_tnt_inst.sps
 common/shaders/db/cutout_um.sps
 common/shaders/db/cutout_um_fade.sps
+common/shaders/db/cutout_um_fade_inst.sps
 common/shaders/db/cutout_um_inst.sps
 common/shaders/db/decal.sps
 common/shaders/db/decal_amb_only.sps
@@ -94882,9 +94885,11 @@ common/shaders/db/mirror_decal.sps
 common/shaders/db/mirror_default.sps
 common/shaders/db/normal.sps
 common/shaders/db/normal_alpha.sps
+common/shaders/db/normal_alpha_inst.sps
 common/shaders/db/normal_cubemap_reflect.sps
 common/shaders/db/normal_cubemap_reflect_inst.sps
 common/shaders/db/normal_cutout.sps
+common/shaders/db/normal_cutout_inst.sps
 common/shaders/db/normal_cutout_tnt.sps
 common/shaders/db/normal_cutout_tnt_inst.sps
 common/shaders/db/normal_cutout_um.sps
@@ -94905,13 +94910,17 @@ common/shaders/db/normal_reflect_alpha_inst.sps
 common/shaders/db/normal_reflect_decal.sps
 common/shaders/db/normal_reflect_inst.sps
 common/shaders/db/normal_reflect_screendooralpha.sps
+common/shaders/db/normal_reflect_screendooralpha_inst.sps
 common/shaders/db/normal_screendooralpha.sps
 common/shaders/db/normal_spec.sps
 common/shaders/db/normal_spec_alpha.sps
+common/shaders/db/normal_spec_alpha_inst.sps
 common/shaders/db/normal_spec_cubemap_reflect.sps
 common/shaders/db/normal_spec_cubemap_reflect_inst.sps
 common/shaders/db/normal_spec_cutout.sps
+common/shaders/db/normal_spec_cutout_inst.sps
 common/shaders/db/normal_spec_cutout_tnt.sps
+common/shaders/db/normal_spec_cutout_tnt_inst.sps
 common/shaders/db/normal_spec_decal.sps
 common/shaders/db/normal_spec_decal_detail.sps
 common/shaders/db/normal_spec_decal_nopuddle.sps
@@ -94932,8 +94941,10 @@ common/shaders/db/normal_spec_glosspack.sps
 common/shaders/db/normal_spec_pxm.sps
 common/shaders/db/normal_spec_reflect.sps
 common/shaders/db/normal_spec_reflect_alpha.sps
+common/shaders/db/normal_spec_reflect_alpha_inst.sps
 common/shaders/db/normal_spec_reflect_decal.sps
 common/shaders/db/normal_spec_reflect_emissive.sps
+common/shaders/db/normal_spec_reflect_emissive_alpha.sps
 common/shaders/db/normal_spec_reflect_emissivenight.sps
 common/shaders/db/normal_spec_reflect_emissivenight_alpha.sps
 common/shaders/db/normal_spec_reflect_inst.sps
@@ -94968,10 +94979,13 @@ common/shaders/db/ped_fur.sps
 common/shaders/db/ped_hair.sps
 common/shaders/db/ped_hair_cutout_alpha.sps
 common/shaders/db/ped_hair_cutout_alpha_cloth.sps
+common/shaders/db/ped_hair_dithered_alpha_expensive.sps
+common/shaders/db/ped_hair_sorted_alpha_expensive.sps
 common/shaders/db/ped_hair_spiked.sps
 common/shaders/db/ped_hair_spiked_noalpha.sps
 common/shaders/db/ped_skin.sps
 common/shaders/db/ped_skin_blendshape.sps
+common/shaders/db/ped_skin_blendshape_2normals.sps
 common/shaders/db/ped_skin_blendshape_wrinkle.sps
 common/shaders/db/ped_slod_tint.sps
 common/shaders/db/ped_standard.sps
@@ -95062,6 +95076,7 @@ common/shaders/db/rage_billboard_nobump.sps
 common/shaders/db/rage_default.sps
 common/shaders/db/reflect.sps
 common/shaders/db/reflect_alpha.sps
+common/shaders/db/reflect_alpha_inst.sps
 common/shaders/db/reflect_decal.sps
 common/shaders/db/reflect_inst.sps
 common/shaders/db/silhouettelayer.sps
@@ -95103,6 +95118,7 @@ common/shaders/db/standard_cloth.sps
 common/shaders/db/standard_cloth_alpha.sps
 common/shaders/db/standard_cloth_cutout.sps
 common/shaders/db/standard_cutout.sps
+common/shaders/db/standard_cutout_ground.sps
 common/shaders/db/standard_cutout_hbb.sps
 common/shaders/db/standard_cutout_inst.sps
 common/shaders/db/standard_cutout_tnt.sps
@@ -95122,9 +95138,11 @@ common/shaders/db/standard_dirt.sps
 common/shaders/db/standard_dirt_alpha.sps
 common/shaders/db/standard_dirt_alpha_no_spec.sps
 common/shaders/db/standard_dirt_cutout.sps
+common/shaders/db/standard_dirt_cutout_ground.sps
 common/shaders/db/standard_dirt_ground.sps
 common/shaders/db/standard_dirt_pxm.sps
 common/shaders/db/standard_dirt_pxm_cutout.sps
+common/shaders/db/standard_dirt_pxm_cutout_ground.sps
 common/shaders/db/standard_dirt_pxm_ground.sps
 common/shaders/db/standard_dpm.sps
 common/shaders/db/standard_dynamictint.sps
@@ -115127,6 +115145,8 @@ data/anim/motion_sets/motion_sets
 data/anim/move_networks/move_networks.xml
 data/anim/pose_databases/nm_blend_out_sets.meta
 data/audio/speechevents.meta
+data/barbrawl/definitions.meta
+data/barbrawl/sceneinfos.meta
 data/boathullblacklist.xml
 data/branchbend_maxshadersetting.xml
 data/camera.meta
@@ -115208,6 +115228,7 @@ data/control/layout/third_person/right_handed/standard.meta
 data/control/layout/third_person/right_handed/triggerswap.meta
 data/control/options/duck_brake/alternate.meta
 data/control/options/duck_brake/standard.meta
+data/control/options/special_ability/alternate.meta
 data/control/options/special_ability/standard.meta
 data/control/prompts.meta
 data/control/settings.meta
@@ -115534,6 +115555,8 @@ data/levels/rdr3/mistmap/texturegridinfo.meta
 data/levels/rdr3/mp_bounty_posters.xml
 data/levels/rdr3/navmesh.meta
 data/levels/rdr3/pathzones.xml
+data/levels/rdr3/pingpongcurve2.dat
+data/levels/rdr3/pingpongcurve.dat
 data/levels/rdr3/popcycle.dat
 data/levels/rdr3/props.meta
 data/levels/rdr3/propsettuning.meta
@@ -115562,6 +115585,7 @@ data/levels/rdr3/timeweather.xml
 data/levels/rdr3/trains1.dat
 data/levels/rdr3/trains2.dat
 data/levels/rdr3/trains3.dat
+data/levels/rdr3/trains_ind2.dat
 data/levels/rdr3/trains_intersection1_3.dat
 data/levels/rdr3/trains_intersection1_ann.dat
 data/levels/rdr3/trains_intersection1_app.dat
@@ -115679,6 +115703,7 @@ data/materials/materials.meta
 data/materials/procedural.meta
 data/materials/rumbleprofiles.meta
 data/mediadecodersettings.meta
+data/mediadecodersettingsreplay.meta
 data/metadata/ai/animals/animaltuning
 data/metadata/ai/animals/flocktuning
 data/metadata/ai/animals/species
@@ -115976,6 +116001,7 @@ data/ui/map_discoverables
 data/ui/map_interiors
 data/ui/openingcredits
 data/ui/pausemenueffects.meta
+data/ui/prompts/promptorder.meta
 data/ui/safeframe_configurations
 data/ui/screens
 data/ui/screens/hud/fullscreen_messages.xml
@@ -115983,6 +116009,19 @@ data/ui/screens/hud/gun_barrel.xml
 data/ui/screens/hud/hud_persistent.xml
 data/ui/screens/hud/loading_screen.xml
 data/ui/screens/hud/prompts.xml
+data/ui/screens/hud/reticles/accuracy_color.xml
+data/ui/screens/hud/reticles/bow.xml
+data/ui/screens/hud/reticles/circle.xml
+data/ui/screens/hud/reticles/dot.xml
+data/ui/screens/hud/reticles/dot_color.xml
+data/ui/screens/hud/reticles/duel.xml
+data/ui/screens/hud/reticles/pistol.xml
+data/ui/screens/hud/reticles/rifle.xml
+data/ui/screens/hud/reticles/shotgun.xml
+data/ui/screens/hud/reticles/sniper.xml
+data/ui/screens/hud/reticles/thrown.xml
+data/ui/screens/hud/reticles/thrown_ropes.xml
+data/ui/screens/hud/reticles/thrown_weapons.xml
 data/ui/screens/hud/sticky_feeds/status_alert/status_alert_feed.xml
 data/ui/screens/hud/sticky_feeds/warning/warning_feed.xml
 data/ui/screens/hud/sticky_feeds/warning_side_menu/warning_side_menu_feed.xml
@@ -257345,6 +257384,7 @@ packs/base/data/ai/transportanimations/default_rowboat/types/entry_exit/rear_sea
 packs/base/data/ai/transportanimations/default_rowboat/types/entry_exit/rear_seat/water/normal.meta
 packs/base/data/ai/transportanimations/default_rowboat/types/entry_exit/rear_seat/water/type_selection.meta
 packs/base/data/ai/transportanimations/default_steamboat/types/entry_exit/driver_seat/land/normal.meta
+packs/base/data/ai/transportanimations/default_steamboat/types/entry_exit/driver_seat/land/type_selection.meta
 packs/base/data/ai/transportanimations/default_steamboat/types/entry_exit/driver_seat/onboard_driver/normal.meta
 packs/base/data/ai/transportanimations/default_steamboat/types/entry_exit/driver_seat/onboard_driver/type_selection.meta
 packs/base/data/ai/transportanimations/default_steamboat/types/entry_exit/driver_seat/water/normal.meta
@@ -257529,6 +257569,7 @@ packs/base/data/ai/transportanimations/default_wagon_utility/types/entry_exit/on
 packs/base/data/ai/transportanimations/default_wagon_utility/types/entry_exit/onboard_right/type_selection.meta
 packs/base/data/ai/transportanimations/default_wagon_utility/types/entry_exit/rear_detached/normal.meta
 packs/base/data/ai/transportanimations/default_wagon_utility/types/entry_exit/rear_detached/type_selection.meta
+packs/base/data/ai/transportanimations/default_wagon_utility/types/entry_exit/rear_detached_transition/type_selection.meta
 packs/base/data/ai/vehicleamvs.meta
 packs/base/data/ai/vehiclefogvolumes.meta
 packs/base/data/ai/vehiclelayouts.meta

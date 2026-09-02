@@ -3247,6 +3247,7 @@ Light Blue = Miscellanous
 2059.223, -7070.2573, 45.173733, 01_river_01_shot (script/story/smuggler1/mission_jump_cameras.ymt)
 2088.9592, 3417.844, 280, Dakota River Source (Railway Map)
 2097.0764, -4607.864, 74.16708, El Nido / Miyzon (Position in relation to Guama)
+2290.75, -1460.45, 51.3892, Start Point (data/levels/rdr3/trains_ind2.dat)
 2303.756104, -1473.094971, 41.15916, Criard Slaughterhouse (Center Point) (mapdatacullboxes_new.meta)
 2343.8591, -1495.0234, 46.52639, new_pie_tunnel_dest (ind2) (new_pie_tunnel_int.ytyp)
 2391.0994, -790.3151, 41.04547, Boat Slod (no_13_14_area_slod3_children.ydd)
@@ -3257,6 +3258,7 @@ Light Blue = Miscellanous
 2408.6, -1112.2, 50.2, nplh_saint_denis_gala_mansion - cameralocation (scriptpardata.ymt)
 2416.2, -1080, 50.5, nplh_saint_denis_gala_mansion - property_volumes (scriptpardata.ymt)
 2453.566, 2930.868, 289.728, doverhill (Center Point) (mapdatacullboxes_new.meta)
+2459.04, -1474.48, 45.1397, End Point (data/levels/rdr3/trains_ind2.dat)
 2460.67, -832.546, 43.8784, Unknown Shack (cliff_edges[169][103].ymt)
 2706.81, 709.79, 77.048, nplh_butcher_creek_shack - p_hitchingpost01x (scriptpardata.ymt)
 2714.2148, 3423.673, 233.99313, Old Kamassa River Bed
@@ -3267,6 +3269,7 @@ Light Blue = Miscellanous
 2717.5, 710.1, 79.9, region_roa_butchercreek - Butcher Creek Shack (scriptpardata.ymt)
 2722, 705.1, 80.5, nplh_butcher_creek_shack - cameralocation (scriptpardata.ymt)
 2866.71, 1034.41, 45.929, Unknown Shack (cliff_edges[177][140].ymt)
+2957.557617, 1350.247070, 47.126999, BarBrawl_ANNS (barbrawl.meta)
 2979.186, 3003.53, 247.11667, Rocky Seven (Center Point) (mapdatacullboxes_new.meta)
 2981.0574, 2997.6907, 247.255, center (rocky_seven.ymt)
 3266.4194, -3705.5432, 40.721912, beach1_shot1_cam_position (script/story/gua2/explore.ymt)

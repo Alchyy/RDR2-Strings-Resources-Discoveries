@@ -34,7 +34,7 @@
 | `0xB16C7B3A` | `AI_TARGET_WALKING_MODIFIER` | `cstag_mood_trelawny_last` | — | — |
 | `0xAF71EC59` | `AIMEMLOC_BAY_SaintDenis` | `IdlesGenericFemale` | — | — |
 | `0xC8EBD680` | `amb_rest_drunk@world_human_drinking@moonshine@male_d@idle_c` | `UNKNOWN` | — | news.yldb |
-| `0xD4CE0E08` | `amb_rest_drunk@world_human_drinking_drunk@male_b@stand_exit_withprop` | `bea_cannibal_cage005` | — | — |
+| `0xD4CE0E08` | `amb_rest_drunk@world_human_drinking_drunk@male_b@stand_exit_withprop` | `bea_cannibal_cage005` | clip_sets.ymt | cutscene@rdtc3_rsc3_srl.ymt |
 | `0x7602F60D` | `amb_work@world_human_2h_tool@working@male_a@base` | `horse_kentuckysaddler_special` | — | — |
 | `0xF09467C5` | `animal_dog_bluetickcoonhound` | `UNKNOWN` | — | brt1aud.yldb |
 | `0xCF797693` | `ann_depot_cs_graphics02_abann_depot_cs_graphics02_al` | `mega_amb_camp@fire_coffee_kettle_male_a_full@rl` | — | — |
@@ -53,7 +53,7 @@
 | `0x765D0EF1` | `blouse_fr1_000_c_merge` | `cliff_edges[127][154]` | — | filename.ymt |
 | `0xBF6A3F44` | `blw_cowboys` | `hi@a_14__static_instance_1` | — | filename.ybn |
 | `0x00D81A5A` | `brt2_guntalk_4_2` | `outg_c_01_03_slod` | brt2aud.yldb | filename.ydr |
-| `0xC1B39685` | `CDispatchHelperVolumes__Tunables__LocationForNearestCarNodeOverrides` | `rage__SimpleScaleform` | — | — |
+| `0xC1B39685` | `CDispatchHelperVolumes__Tunables__LocationForNearestCarNodeOverrides` | `rage__SimpleScaleform` | dispatchtuning.ymt | — |
 | `0x3DB8684C` | `cdt32_accept_1` | `p_win_njmpm_clean02x` | — | — |
 | `0xAE0CBF33` | `cen_stage2_veg_c` | `comboshirt_mr1_035_c3_000_nm+hi` | — | — |
 | `0xCC74A20D` | `cho_062` | `mech_weapons_special@loco@arthur@crouch@bow@w@sprint` | — | — |
