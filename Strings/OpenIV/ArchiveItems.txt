@@ -159699,12 +159699,17 @@ lennyhead_mr1_000
 lennyhead_mr1_000_c0_000_merge
 lennyhead_mr1_000_c0_000_merge+hi
 leon.awc
+letters/envelope_sadie1
+letters/formaldocument
 letters/letter
+letters/letter1
+letters/letter_abigail2_1_cabin
 letters/letter_bap2
 letters/letter_billdischarge
 letters/letter_boots_with_note
 letters/letter_catfishloansharking
 letters/letter_charleschaternay
+letters/letter_disco_deadsoldier
 letters/letter_disco_slave
 letters/letter_electricchair
 letters/letter_frankenstein
@@ -159722,6 +159727,7 @@ letters/letter_gang_odriscollboys
 letters/letter_gang_ranchraid
 letters/letter_gang_recruitment
 letters/letter_gavin_friend
+letters/letter_hangman
 letters/letter_lovetriangleshack
 letters/letter_marston7_bank
 letters/letter_mayorpermission
@@ -168749,8 +168755,11 @@ maps/camp_map_greatplains
 maps/camp_map_grizzlies
 maps/camp_map_guama
 maps/camp_map_heartlands
+maps/camp_map_roanokeridge
 maps/camp_map_scarlettmeadows
 maps/camp_map_talltrees
+maps/disco_map_half_1
+maps/disco_map_half_2
 maps/district_map_bayou
 maps/district_map_bigvalley
 maps/district_map_bluewater
@@ -257762,8 +257771,10 @@ pamphlets/pamphlet_item_cover_scent
 pamphlets/pamphlet_item_dynamite_arrow
 pamphlets/pamphlet_item_fire_arrow
 pamphlets/pamphlet_item_fire_bottle
+pamphlets/pamphlet_item_homing_tomahawk
 pamphlets/pamphlet_item_improved_arrow
 pamphlets/pamphlet_item_improved_throwing_knife
+pamphlets/pamphlet_item_improved_tomahawk
 pamphlets/pamphlet_item_incendiary_buckshot
 pamphlets/pamphlet_item_poison_arrow
 pamphlets/pamphlet_item_poison_throwing_knife
@@ -289932,7 +289943,9 @@ scenario@mech@pickup_coins_only@enter_b
 scenario@mech@pickup_coins_only@enter_f
 scenario@mech@pickup_coins_only@looted
 scenario@mech@player_cash_register@grabgunooxo
+scenario@mech@player_cash_register@grabgunoxox
 scenario@mech@player_cash_register@grabgunoxxo
+scenario@mech@player_cash_register@graboxox
 scenario@mech@player_cash_register@graboxxo
 scenario@mech@player_cash_register@opengrab
 scenario@mech@player_cash_register@opengungrab
@@ -290028,6 +290041,8 @@ scenario@mech@player_pickup_gunrack_dbshotgun@enterlong
 scenario@mech@player_pickup_gunrack_dbshotgun@entershort
 scenario@mech@player_pickup_gunrack_dbshotgun_counter@counterloop
 scenario@mech@player_pickup_gunrack_dbshotgun_counter@grab
+scenario@mech@player_put_down_firewood@base
+scenario@mech@player_put_down_firewood@enter
 scenario@mech@player_respawn@bear_threat@bear_threat
 scenario@mech@player_respawn@knife_threat@knife_threat
 scenario@mech@player_respawn@leaning@leaning
@@ -290186,6 +290201,8 @@ scenario@randomevent@bear_trap@crouch_l_open
 scenario@randomevent@bear_trap@crouch_n_open
 scenario@randomevent@bear_trap@crouch_r_open
 scenario@randomevent@bear_trap@player_fail
+scenario@randomevent@bear_trap@player_loot_base
+scenario@randomevent@bear_trap@player_loot_enter
 scenario@randomevent@bear_trap@player_success
 scenario@randomevent@bear_trap@victim_fail
 scenario@randomevent@bear_trap@victim_success
@@ -290210,6 +290227,7 @@ scenario@randomevent@grave_robbers@playerloot_base
 scenario@randomevent@grave_robbers@playerloot_enter
 scenario@randomevent@harassment_attack@harass_attack_back
 scenario@randomevent@harassment_attack@harass_attack_front
+scenario@randomevent@loot@money_grapple
 scenario@randomevent@lost_dog@feed_meat@base
 scenario@randomevent@lost_dog@feed_meat@enter
 scenario@randomevent@lost_dog@feed_meat@exit
@@ -290230,6 +290248,9 @@ scenario@randomevent@murder_camp@chest_note@enter_r
 scenario@randomevent@murder_camp@chest_note@exit
 scenario@randomevent@murder_camp@chest_note@exit_long
 scenario@randomevent@murder_camp@head_note@head_note
+scenario@randomevent@murder_camp@head_note@take_note_base
+scenario@randomevent@murder_camp@head_note@take_note_enter
+scenario@randomevent@murder_camp@head_note@take_note_exit
 scenario@randomevent@murder_camp@knife_note@knife_note
 scenario@randomevent@murder_camp@mouth_note@base
 scenario@randomevent@murder_camp@mouth_note@enter
@@ -290928,6 +290949,7 @@ script@beat@wilderness@burningbodies@burnbodies_a
 script@beat@wilderness@campfireambush@tentone
 script@beat@wilderness@campfireambush@tentone_player
 script@beat@wilderness@campfireambush@tenttwo
+script@beat@wilderness@campfireambush@tenttwo_player
 script@beat@wilderness@campfiremassacre@femalefight
 script@beat@wilderness@campfiremassacre@hugscene
 script@beat@wilderness@campfiremassacre@malefight
@@ -291090,6 +291112,7 @@ script@beat@wilderness@savageaftermath@dead_male03
 script@beat@wilderness@savageaftermath@lastwords
 script@beat@wilderness@savageaftermath@weepingdog
 script@beat@wilderness@shack_happy_family@dead_family
+script@beat@wilderness@shack_happy_family@reacts_to_smoke
 script@beat@wilderness@sharkattack@friends
 script@beat@wilderness@sharpshooter@cleaning
 script@beat@wilderness@sharpshooter@testbed
@@ -291395,6 +291418,7 @@ script@common@cnv_camp@cajhn@hunt@hunt_ig1
 script@common@cnv_camp@cajhn@hunt@hunt_ig2
 script@common@cnv_camp@cakie@fish02@ig3_fish_reaction@action
 script@common@cnv_camp@cakie@ig1_arrival@arrival
+script@common@cnv_camp@cakie@ig2_fishing@base
 script@common@cnv_camp@cakie@ig2_fishing@ig2_fishing
 script@common@cnv_camp@cakie@leadin@int@int
 script@common@cnv_camp@calen@fff1@base
@@ -291623,6 +291647,7 @@ script@establisher@valentine
 script@establisher@van_horn
 script@establisher@wapiti
 script@establisher@wapiti_2
+script@fast_travel@camp@gang_camp_exit
 script@fast_travel@camp@journal_exit
 script@fast_travel@establisher@camp@beavers_hollow_1
 script@fast_travel@establisher@camp@beavers_hollow_2
@@ -292752,7 +292777,10 @@ script@proc@ambushes@savage_tree_line_b
 script@proc@ambushes@savage_tree_line_c
 script@proc@ambushes@savage_tree_line_d
 script@proc@bankrobberies@valteller
+script@proc@bankrobberies@valtellerholdup
 script@proc@bankrobberies@vaults@medium
+script@proc@bankrobberies@vaults@mediumbase
+script@proc@bankrobberies@vaults@mediumenter
 script@proc@bankrobberies@vaults@small
 script@proc@bankrobberies@vaults@smallbase
 script@proc@bankrobberies@vaults@smallenter
@@ -292787,6 +292815,10 @@ script@proc@bountyhunting@odriscollssleeping@sleeping_male_d
 script@proc@bountyhunting@put_in_cell
 script@proc@bountyhunting@rhodes@jail_drop_off
 script@proc@bountyhunting@rhodes@jail_sheriff
+script@proc@bountyhunting@rhodes@jail_sheriff_coinsack
+script@proc@bountyhunting@rhodes@jail_sheriff_sitting
+script@proc@bountyhunting@rhodes@jail_sheriff_standing
+script@proc@bountyhunting@rhodes@jail_sheriff_writing
 script@proc@bountyhunting@rhodes@ranch_exit
 script@proc@bountyhunting@rhodes@ranch_intro
 script@proc@bountyhunting@rhodes@ranch_say_goodbye
@@ -292877,6 +292909,7 @@ script@proc@gangencounters@dellobo@party@main
 script@proc@handovers@ped_handovers@give_brooch
 script@proc@handovers@ped_handovers@give_money
 script@proc@handovers@player_handovers@exchange_item_for_money
+script@proc@handovers@player_handovers@exchange_money
 script@proc@handovers@player_handovers@give_money
 script@proc@homerobberies@aberdeen@bedroomflirtnew
 script@proc@homerobberies@aberdeen@cook
@@ -293004,6 +293037,7 @@ script@proc@loansharking@catfish@leadinalgie
 script@proc@loansharking@catfish@soncower
 script@proc@loansharking@catfish@soneating
 script@proc@loansharking@emerald@argue
+script@proc@loansharking@emerald@leadin@mcs1@base
 script@proc@loansharking@emerald@leadin@mcs1@intro
 script@proc@loansharking@emerald@leadin@mcs1@leadin
 script@proc@loansharking@emerald@leadout@mcs1@leadout
@@ -294643,6 +294677,7 @@ script@story@be22@ig@ig2_foundations@ig2_foundations
 script@story@be22@ig@ig3_finish_floor@ig3_1_1_finish_floor
 script@story@be22@ig@ig3_finish_floor@ig3_1_2_finish_floor
 script@story@be22@ig@ig3_finish_floor@ig3_1_3_finish_floor
+script@story@be22@ig@ig3_finish_floor@ig3_finish_floor
 script@story@be22@ig@ig4_wall_frames@ig4_wall_frames
 script@story@be22@ig@ig5_finish_wall_frames_at_fire@ig5_finish_wall_frames_at_fire
 script@story@be22@ig@ig6_finish_wall_panels_at_fire@ig6_finish_wall_panels_at_fire
@@ -306045,7 +306080,11 @@ shocked_amazement_08_os.awc
 shocked_amazement_09_os.awc
 shoe_factory.awc
 shop
+shop_barber_main_flow
 shop_browsing_main_flow
+shop_cat_main_flow
+shop_collectibles_main_flow
+shop_equipment_main_flow
 shop_inv_bait_sell
 shop_inv_bait_sell_mp
 shop_inv_barber_sell
@@ -306082,8 +306121,13 @@ shop_inv_wilderness_supplies_sell_mp
 shop_inventories
 shop_inventories_mp
 shop_menu_feedback
+shop_mp_stables_main_flow
+shop_post_office_main_flow
 shop_provision_rarity
 shop_scenarios_mp
+shop_simple_main_flow
+shop_sp_stables_main_flow
+shop_wilderness_supplies_flow
 shops/generic_browsing_detailed
 shops/generic_browsing_host
 shops/generic_shop_ui_flow
@@ -306503,15 +306547,18 @@ sidemenu/trader/trader_item
 sidemenu/weapon_locker/dynamic_text_and_end_image
 sidemenu/weapon_locker/weapon_stats
 sidemenus/crafting/sidemenu_crafting
+sidemenus/grid_dividers
 sidemenus/host
 sidemenus/host_crafting
 sidemenus/host_lobby
+sidemenus/left_hand_main
 sidemenus/player_menu/log_common/log_checklist
 sidemenus/player_menu/log_common/log_mission_details
 sidemenus/player_menu/log_common/log_notification_game_invite
 sidemenus/player_menu/log_common/log_notification_weapon_details
 sidemenus/player_menu/mp/animal_sighting_missions
 sidemenus/player_menu/mp/attributes_stats
+sidemenus/player_menu/mp/bounty
 sidemenus/player_menu/mp/camp
 sidemenus/player_menu/mp/camp_and_properties
 sidemenus/player_menu/mp/camp_location
@@ -306598,6 +306645,7 @@ sidemenus/player_menu/mp/player_report
 sidemenus/player_menu/mp/player_report_cheating
 sidemenus/player_menu/mp/player_report_offensive
 sidemenus/player_menu/mp/players
+sidemenus/player_menu/mp/players_invite
 sidemenus/player_menu/mp/posse_create
 sidemenus/player_menu/mp/posse_join_list
 sidemenus/player_menu/mp/posse_join_list_empty
@@ -306639,6 +306687,7 @@ sidemenus/player_menu/wardrobe/player_wardrobe_item_variation_menu
 sidemenus/player_menu/wardrobe/player_wardrobe_main
 sidemenus/player_menu/wardrobe/player_wardrobe_menu_wrapper
 sidemenus/player_menu/wardrobe/player_wardrobe_outfit_customization_menu
+sidemenus/player_menu/wardrobe/player_wardrobe_outfit_save
 sidemenus/player_menu/weapon/player_weapon_inspect
 sidemenus/shops/cat/catalog_main
 sidemenus/shops/cat/pseudo_index

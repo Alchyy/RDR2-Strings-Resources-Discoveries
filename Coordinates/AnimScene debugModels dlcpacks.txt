@@ -2490,7 +2490,7 @@ Blue Marker = n/a
 1389.117723, -2083.637069, 52.547655, mp_male / mp_player_m_1 (cutscene@gfh_bel_int.yas) (mp004), 4cc922
 1387.986792, -2081.265146, 52.582483, mp_female / mp_player_f_4 (cutscene@gfh_bel_int.yas) (mp004), 4cc922
 1388.432368, -2082.488914, 52.558291, mp_male / mp_player_m_2 (cutscene@gfh_bel_int.yas) (mp004), 4cc922
-1385.836329, -2086.630330, 53.417065,  / p_hookwall01x (cutscene@gfh_bel_int.yas) (mp004), 4cc922
+1385.836329, -2086.630330, 53.417065, UNDEFINED MODEL / p_hookwall01x (cutscene@gfh_bel_int.yas) (mp004), 4cc922
 1391.630762, -2086.226370, 52.173051, cs_famousgunslinger_05 / black_belle (cutscene@gfh_bel_int.yas) (mp004), 4cc922
 1390.870751, -2085.960150, 52.364386, w_melee_knife02 / w_melee_knife02 (cutscene@gfh_bel_int.yas) (mp004), 4cc922
 1388.185244, -2082.588700, 52.547640, mp_female / mp_player_f_2 (cutscene@gfh_bel_int.yas) (mp004), 4cc922
@@ -3093,7 +3093,7 @@ Blue Marker = n/a
 -791.823596, -1262.108960, 43.245932, cs_mp_jeremiah_shaw / jeremiah_shaw (cutscene@mprev2_mcs1.yas) (mp004), 4cc922
 -800.292769, -1318.271600, 43.578081, cs_mp_horley / horley (cutscene@mprev2_mcs1.yas) (mp004), 4cc922
 -798.993355, -1291.974801, 43.516849, cs_mp_amos_lansing / amos_lancing (cutscene@mprev2_mcs1.yas) (mp004), 4cc922
--804.990550, -1308.258900, 43.886945, p_cigarette01x / 0x7E4DBCAA (cutscene@mprev2_mcs1.yas) (mp004), 4cc922
+-804.990550, -1308.258900, 43.886945, p_cigarette01x / bg_male_1_cigarette (cutscene@mprev2_mcs1.yas) (mp004), 4cc922
 -797.655445, -1291.669693, 43.701958, w_repeater_carbine01 / guard1_rifle (cutscene@mprev2_mcs1.yas) (mp004), 4cc922
 -795.132878, -1296.344590, 43.444344, mp_g_m_m_uniranchers_01 / guard_5 (cutscene@mprev2_mcs1.yas) (mp004), 4cc922
 -799.785038, -1317.395100, 43.598396, cs_mp_jessica / jessica (cutscene@mprev2_mcs1.yas) (mp004), 4cc922
@@ -3218,7 +3218,7 @@ Blue Marker = n/a
 -798.866682, -1306.328490, 43.480344, mp_g_m_m_uniranchers_01 / guard_1 (cutscene@mprev2_mcs1.yas) (mp004), 4cc922
 -802.407749, -1307.578710, 43.686995, w_repeater_carbine01 / guard2_rifle (cutscene@mprev2_mcs1.yas) (mp004), 4cc922
 -805.974656, -1308.750480, 49.589912, None / exportcamera (cutscene@mprev2_mcs1.yas) (mp004), null
--805.228982, -1286.120393, 44.190160, p_cigarette01x / 0x7E4DBCAA (cutscene@mprev2_mcs1.yas) (mp004), 4cc922
+-805.228982, -1286.120393, 44.190160, p_cigarette01x / bg_male_1_cigarette (cutscene@mprev2_mcs1.yas) (mp004), 4cc922
 -800.358976, -1314.224740, 43.572923, mp_female / mp_player_f_2 (cutscene@mprev2_mcs1.yas) (mp004), 4cc922
 -801.725703, -1308.228900, 43.502659, mp_g_m_m_uniranchers_01 / guard_2 (cutscene@mprev2_mcs1.yas) (mp004), 4cc922
 -805.650599, -1286.172907, 43.646207, a_m_m_blwupperclass_01 / bg_male_1 (cutscene@mprev2_mcs1.yas) (mp004), 4cc922
@@ -3230,7 +3230,7 @@ Blue Marker = n/a
 -791.792200, -1262.269400, 43.517904, cs_mp_jeremiah_shaw / jeremiah_shaw (cutscene@mprev2_mcs1.yas) (mp004), 4cc922
 -800.814622, -1312.484630, 43.562088, cs_mp_horley / horley (cutscene@mprev2_mcs1.yas) (mp004), 4cc922
 -799.538361, -1304.194360, 43.503973, cs_mp_amos_lansing / amos_lancing (cutscene@mprev2_mcs1.yas) (mp004), 4cc922
--803.508980, -1308.040550, 42.480933, p_cigarette01x / 0x7E4DBCAA (cutscene@mprev2_mcs1.yas) (mp004), 4cc922
+-803.508980, -1308.040550, 42.480933, p_cigarette01x / bg_male_1_cigarette (cutscene@mprev2_mcs1.yas) (mp004), 4cc922
 -798.578279, -1302.557920, 43.665951, w_repeater_carbine01 / guard1_rifle (cutscene@mprev2_mcs1.yas) (mp004), 4cc922
 -797.983108, -1300.705010, 43.440057, mp_g_m_m_uniranchers_01 / guard_5 (cutscene@mprev2_mcs1.yas) (mp004), 4cc922
 -799.895405, -1311.966270, 43.574017, cs_mp_jessica / jessica (cutscene@mprev2_mcs1.yas) (mp004), 4cc922
@@ -3309,7 +3309,7 @@ Blue Marker = n/a
 -791.816552, -1261.945710, 42.634758, p_chairwicker01x / jeremiah_chair (cutscene@mprev2_mcs1.yas) (mp004), 4cc922
 -788.998550, -1264.732070, 43.755390, a_m_m_blwupperclass_01 / bg_male_3 (cutscene@mprev2_mcs1.yas) (mp004), 4cc922
 -797.652533, -1268.967870, 43.499544, cs_mp_amos_lansing / amos_lancing (cutscene@mprev2_mcs1.yas) (mp004), 4cc922
--805.841196, -1286.372194, 43.943114, p_cigarette01x / 0x7E4DBCAA (cutscene@mprev2_mcs1.yas) (mp004), 4cc922
+-805.841196, -1286.372194, 43.943114, p_cigarette01x / bg_male_1_cigarette (cutscene@mprev2_mcs1.yas) (mp004), 4cc922
 -796.373516, -1267.240110, 43.506687, w_repeater_carbine01 / guard1_rifle (cutscene@mprev2_mcs1.yas) (mp004), 4cc922
 -792.497695, -1275.650420, 43.613190, mp_u_f_m_revenge2_passerby_01 / bg_female_1 (cutscene@mprev2_mcs1.yas) (mp004), 4cc922
 -793.035210, -1276.463778, 43.571492, mp_u_m_m_revenge2_passerby_01 / bg_male_4 (cutscene@mprev2_mcs1.yas) (mp004), 4cc922
@@ -3333,7 +3333,7 @@ Blue Marker = n/a
 -791.816594, -1261.945710, 42.634758, p_chairwicker01x / jeremiah_chair (cutscene@mprev2_mcs1.yas) (mp004), 4cc922
 -788.998550, -1264.732080, 43.755390, a_m_m_blwupperclass_01 / bg_male_3 (cutscene@mprev2_mcs1.yas) (mp004), 4cc922
 -791.428475, -1264.568430, 43.619364, cs_mp_amos_lansing / amos_lancing (cutscene@mprev2_mcs1.yas) (mp004), 4cc922
--805.906163, -1286.391037, 44.228503, p_cigarette01x / 0x7E4DBCAA (cutscene@mprev2_mcs1.yas) (mp004), 4cc922
+-805.906163, -1286.391037, 44.228503, p_cigarette01x / bg_male_1_cigarette (cutscene@mprev2_mcs1.yas) (mp004), 4cc922
 -793.814524, -1263.846610, 43.735640, w_repeater_carbine01 / guard1_rifle (cutscene@mprev2_mcs1.yas) (mp004), 4cc922
 -791.073829, -1281.115923, 43.653708, mp_u_f_m_revenge2_passerby_01 / bg_female_1 (cutscene@mprev2_mcs1.yas) (mp004), 4cc922
 -791.720100, -1281.003119, 43.610538, mp_u_m_m_revenge2_passerby_01 / bg_male_4 (cutscene@mprev2_mcs1.yas) (mp004), 4cc922
@@ -3358,7 +3358,7 @@ Blue Marker = n/a
 -800.572180, -1310.707750, 42.014463, w_revolver_cattleman01 / horley_revolver (cutscene@mprev2_mcs1.yas) (mp004), 4cc922
 -801.033063, -1311.755360, 43.547805, cs_mp_horley / horley (cutscene@mprev2_mcs1.yas) (mp004), 4cc922
 -800.690351, -1308.583950, 43.516511, cs_mp_amos_lansing / amos_lancing (cutscene@mprev2_mcs1.yas) (mp004), 4cc922
--805.205059, -1285.892726, 42.633030, p_cigarette01x / 0x7E4DBCAA (cutscene@mprev2_mcs1.yas) (mp004), 4cc922
+-805.205059, -1285.892726, 42.633030, p_cigarette01x / bg_male_1_cigarette (cutscene@mprev2_mcs1.yas) (mp004), 4cc922
 -799.085870, -1306.426130, 43.672211, w_repeater_carbine01 / guard1_rifle (cutscene@mprev2_mcs1.yas) (mp004), 4cc922
 -797.594650, -1306.615330, 43.450924, mp_g_m_m_uniranchers_01 / guard_5 (cutscene@mprev2_mcs1.yas) (mp004), 4cc922
 -800.131788, -1310.952310, 43.576122, cs_mp_jessica / jessica (cutscene@mprev2_mcs1.yas) (mp004), 4cc922
@@ -3394,7 +3394,7 @@ Blue Marker = n/a
 -801.593384, -1314.360420, 43.620659, mp_female / mp_player_f_3 (cutscene@mprev2_mcs1.yas) (mp004), 4cc922
 -800.625065, -1312.383600, 43.560112, cs_mp_horley / horley (cutscene@mprev2_mcs1.yas) (mp004), 4cc922
 -800.481881, -1308.073980, 43.514699, cs_mp_amos_lansing / amos_lancing (cutscene@mprev2_mcs1.yas) (mp004), 4cc922
--805.223551, -1285.801029, 42.627573, p_cigarette01x / 0x7E4DBCAA (cutscene@mprev2_mcs1.yas) (mp004), 4cc922
+-805.223551, -1285.801029, 42.627573, p_cigarette01x / bg_male_1_cigarette (cutscene@mprev2_mcs1.yas) (mp004), 4cc922
 -799.067523, -1306.104910, 43.675177, w_repeater_carbine01 / guard1_rifle (cutscene@mprev2_mcs1.yas) (mp004), 4cc922
 -797.588372, -1305.787750, 43.457086, mp_g_m_m_uniranchers_01 / guard_5 (cutscene@mprev2_mcs1.yas) (mp004), 4cc922
 -800.204362, -1310.780650, 43.579790, cs_mp_jessica / jessica (cutscene@mprev2_mcs1.yas) (mp004), 4cc922
@@ -3421,7 +3421,7 @@ Blue Marker = n/a
 -791.819358, -1262.045750, 43.233025, cs_mp_jeremiah_shaw / jeremiah_shaw (cutscene@mprev2_mcs1.yas) (mp004), 4cc922
 -801.050198, -1311.787540, 43.559638, cs_mp_horley / horley (cutscene@mprev2_mcs1.yas) (mp004), 4cc922
 -800.613975, -1308.523200, 43.529608, cs_mp_amos_lansing / amos_lancing (cutscene@mprev2_mcs1.yas) (mp004), 4cc922
--804.338761, -1288.306526, 42.615768, p_cigarette01x / 0x7E4DBCAA (cutscene@mprev2_mcs1.yas) (mp004), 4cc922
+-804.338761, -1288.306526, 42.615768, p_cigarette01x / bg_male_1_cigarette (cutscene@mprev2_mcs1.yas) (mp004), 4cc922
 -799.087427, -1306.456010, 43.669324, w_repeater_carbine01 / guard1_rifle (cutscene@mprev2_mcs1.yas) (mp004), 4cc922
 -797.661091, -1306.606850, 43.450209, mp_g_m_m_uniranchers_01 / guard_5 (cutscene@mprev2_mcs1.yas) (mp004), 4cc922
 -800.182709, -1310.785210, 43.569924, cs_mp_jessica / jessica (cutscene@mprev2_mcs1.yas) (mp004), 4cc922
@@ -3448,7 +3448,7 @@ Blue Marker = n/a
 -791.826600, -1262.049030, 43.226439, cs_mp_jeremiah_shaw / jeremiah_shaw (cutscene@mprev2_mcs1.yas) (mp004), 4cc922
 -801.048830, -1311.770080, 43.551599, cs_mp_horley / horley (cutscene@mprev2_mcs1.yas) (mp004), 4cc922
 -800.608326, -1308.501750, 43.522144, cs_mp_amos_lansing / amos_lancing (cutscene@mprev2_mcs1.yas) (mp004), 4cc922
--802.604304, -1290.223634, 42.304013, p_cigarette01x / 0x7E4DBCAA (cutscene@mprev2_mcs1.yas) (mp004), 4cc922
+-802.604304, -1290.223634, 42.304013, p_cigarette01x / bg_male_1_cigarette (cutscene@mprev2_mcs1.yas) (mp004), 4cc922
 -799.090108, -1306.452240, 43.666830, w_repeater_carbine01 / guard1_rifle (cutscene@mprev2_mcs1.yas) (mp004), 4cc922
 -797.657058, -1306.607880, 43.451299, mp_g_m_m_uniranchers_01 / guard_5 (cutscene@mprev2_mcs1.yas) (mp004), 4cc922
 -800.219645, -1310.825490, 43.582902, cs_mp_jessica / jessica (cutscene@mprev2_mcs1.yas) (mp004), 4cc922
@@ -3900,7 +3900,7 @@ Blue Marker = n/a
 -1615.783611, -912.042869, 92.212281, p_cs_melee_lasso01 / lasso_melee (0x2C9B7F16.yas) (mp005), 4cc922
 -1619.321707, -898.762215, 91.567251, mp_u_m_m_legendarybounty_002 / yukon (0x2C9B7F16.yas) (mp005), 4cc922
 -1617.320946, -899.962886, 91.836959, None / camera1 (0x2C9B7F16.yas) (mp005), null
--3039.501310, -2470.458380, 28.672727, mp_female / 0x184B3FC5 (script@mpstory@mpgvo3@ig@ig2_choice@mpgvo3_ig2_choice_player4.yas) (mp005), 4cc922
+-3039.501310, -2470.458380, 28.672727, mp_female / mp_f_male (script@mpstory@mpgvo3@ig@ig2_choice@mpgvo3_ig2_choice_player4.yas) (mp005), 4cc922
 -3042.443000, -2473.545990, 28.078885, None / camera (script@mpstory@mpgvo3@ig@ig2_choice@mpgvo3_ig2_choice_player4.yas) (mp005), null
 -3039.501310, -2470.458380, 28.665201, mp_male / mp_m_male (script@mpstory@mpgvo3@ig@ig2_choice@mpgvo3_ig2_choice_player4.yas) (mp005), 4cc922
 -965.029921, 2212.810341, 339.994059, a_c_wolf / wolf4 (0x02EF5207.yas) (mp005), 4cc922
@@ -3986,7 +3986,7 @@ Blue Marker = n/a
 2708.091414, -1207.773880, 52.487866, mp_female / mp_player_f_4 (script@mpstory@mppout4@ig@ig4_lawambush@ig4_lawambush.yas) (mp005), 4cc922
 2709.006830, -1206.369960, 53.190656, mp_male / mp_player_m_2 (script@mpstory@mppout4@ig@ig4_lawambush@ig4_lawambush.yas) (mp005), 4cc922
 2713.387360, -1150.718400, 50.295577, w_repeater_carbine01 / w_repeater_carbine01^2 (script@mpstory@mppout4@ig@ig4_lawambush@ig4_lawambush.yas) (mp005), 4cc922
-2709.622730, -1146.372610, 50.300167, policewagon01x / 0x0F21EE3D (script@mpstory@mppout4@ig@ig4_lawambush@ig4_lawambush.yas) (mp005), 4cc922
+2709.622730, -1146.372610, 50.300167, policewagon01x / policewagon01x_wagon2 (script@mpstory@mppout4@ig@ig4_lawambush@ig4_lawambush.yas) (mp005), 4cc922
 2706.472557, -1149.499820, 50.436450, s_m_m_ambientblwpolice_01 / 0x12C91512 (script@mpstory@mppout4@ig@ig4_lawambush@ig4_lawambush.yas) (mp005), 4cc922
 2706.486555, -1150.542820, 50.533453, w_repeater_carbine01 / w_repeater_carbine01^5 (script@mpstory@mppout4@ig@ig4_lawambush@ig4_lawambush.yas) (mp005), 4cc922
 2713.516910, -1150.537160, 50.418348, s_m_m_ambientblwpolice_01 / 0x237FB67F (script@mpstory@mppout4@ig@ig4_lawambush@ig4_lawambush.yas) (mp005), 4cc922
@@ -4012,10 +4012,10 @@ Blue Marker = n/a
 -111.941215, 489.636572, 112.181353, mp_male / mp_player_m_1 (0x3E5678D5.yas) (mp005), 4cc922
 -111.397859, 486.200395, 112.157495, mp_female / mp_player_f_4 (0x3E5678D5.yas) (mp005), 4cc922
 -109.349219, 488.178225, 112.154650, mp_male / mp_player_m_2 (0x3E5678D5.yas) (mp005), 4cc922
--918.197913, -635.600759, 72.492450, mp_female / 0x184B3FC5 (script@mpstory@mpgvo2@ig@ig1_crawfish_pleads@ig1_crawfish_pleads_player4.yas) (mp005), 4cc922
+-918.197913, -635.600759, 72.492450, mp_female / mp_f_male (script@mpstory@mpgvo2@ig@ig1_crawfish_pleads@ig1_crawfish_pleads_player4.yas) (mp005), 4cc922
 -934.897710, -641.360494, 76.556945, None / camera (script@mpstory@mpgvo2@ig@ig1_crawfish_pleads@ig1_crawfish_pleads_player4.yas) (mp005), null
 -918.197913, -635.600759, 72.492450, mp_male / mp_m_male (script@mpstory@mpgvo2@ig@ig1_crawfish_pleads@ig1_crawfish_pleads_player4.yas) (mp005), 4cc922
--917.888162, -635.754986, 72.483783, mp_female / 0x184B3FC5 (script@mpstory@mpgvo2@ig@ig1_crawfish_pleads@ig1_crawfish_pleads_player4.yas) (mp005), 4cc922
+-917.888162, -635.754986, 72.483783, mp_female / mp_f_male (script@mpstory@mpgvo2@ig@ig1_crawfish_pleads@ig1_crawfish_pleads_player4.yas) (mp005), 4cc922
 -917.888162, -635.754986, 72.483783, mp_male / mp_m_male (script@mpstory@mpgvo2@ig@ig1_crawfish_pleads@ig1_crawfish_pleads_player4.yas) (mp005), 4cc922
 -5017.836038, -3323.511611, 6.211517, mp_female / mp_player_f_2 (0x402E8990.yas) (mp005), 4cc922
 -5017.900000, -3322.000000, 5.200000, p_campfirefresh01x / object (0x402E8990.yas) (mp005), 4cc922
@@ -4147,7 +4147,7 @@ Blue Marker = n/a
 -4360.413017, -3068.230978, -10.129236, mp_male / mp_player_m_1 (0x53146075.yas) (mp005), 4cc922
 -4361.421271, -3068.612633, -10.130631, mp_female / mp_player_f_4 (0x53146075.yas) (mp005), 4cc922
 -4359.629429, -3069.898893, -10.102823, mp_male / mp_player_m_2 (0x53146075.yas) (mp005), 4cc922
--3040.817960, -2469.747640, 28.632617, mp_female / 0x184B3FC5 (script@mpstory@mpgvo3@ig@ig2_choice@mpgvo3_ig2_choice_player2.yas) (mp005), 4cc922
+-3040.817960, -2469.747640, 28.632617, mp_female / mp_f_male (script@mpstory@mpgvo3@ig@ig2_choice@mpgvo3_ig2_choice_player2.yas) (mp005), 4cc922
 -3042.443000, -2473.545990, 28.078885, None / camera (script@mpstory@mpgvo3@ig@ig2_choice@mpgvo3_ig2_choice_player2.yas) (mp005), null
 -3040.819840, -2469.748320, 28.653035, mp_male / mp_m_male (script@mpstory@mpgvo3@ig@ig2_choice@mpgvo3_ig2_choice_player2.yas) (mp005), 4cc922
 -3040.799170, -2469.732250, 28.695546, mp_male / mp_m_male (script@mpstory@mpgvo3@ig@ig2_choice@mpgvo3_ig2_choice_player2.yas) (mp005), 4cc922
@@ -4276,12 +4276,12 @@ Blue Marker = n/a
 -3349.148173, -2796.328165, -6.853279, mp_female / mp_player_f_4 (0x625B8F7F.yas) (mp005), 4cc922
 -3358.919768, -2784.724858, -6.660423, None / 0xE4AB565A (0x625B8F7F.yas) (mp005), null
 -3351.700632, -2798.111955, -6.953279, mp_male / mp_player_m_2 (0x625B8F7F.yas) (mp005), 4cc922
--919.042822, -636.043681, 72.490311, mp_female / 0x184B3FC5 (script@mpstory@mpgvo2@ig@ig1_crawfish_pleads@ig1_crawfish_pleads_player2.yas) (mp005), 4cc922
+-919.042822, -636.043681, 72.490311, mp_female / mp_f_male (script@mpstory@mpgvo2@ig@ig1_crawfish_pleads@ig1_crawfish_pleads_player2.yas) (mp005), 4cc922
 -934.897710, -641.360494, 76.556945, None / camera (script@mpstory@mpgvo2@ig@ig1_crawfish_pleads@ig1_crawfish_pleads_player2.yas) (mp005), null
 -919.042822, -636.043681, 72.490311, mp_male / mp_m_male (script@mpstory@mpgvo2@ig@ig1_crawfish_pleads@ig1_crawfish_pleads_player2.yas) (mp005), 4cc922
--918.879556, -636.151462, 72.490311, mp_female / 0x184B3FC5 (script@mpstory@mpgvo2@ig@ig1_crawfish_pleads@ig1_crawfish_pleads_player2.yas) (mp005), 4cc922
+-918.879556, -636.151462, 72.490311, mp_female / mp_f_male (script@mpstory@mpgvo2@ig@ig1_crawfish_pleads@ig1_crawfish_pleads_player2.yas) (mp005), 4cc922
 -918.879556, -636.151462, 72.490311, mp_male / mp_m_male (script@mpstory@mpgvo2@ig@ig1_crawfish_pleads@ig1_crawfish_pleads_player2.yas) (mp005), 4cc922
--919.007356, -635.949540, 72.490311, mp_female / 0x184B3FC5 (script@mpstory@mpgvo2@ig@ig1_crawfish_pleads@ig1_crawfish_pleads_player2.yas) (mp005), 4cc922
+-919.007356, -635.949540, 72.490311, mp_female / mp_f_male (script@mpstory@mpgvo2@ig@ig1_crawfish_pleads@ig1_crawfish_pleads_player2.yas) (mp005), 4cc922
 -919.007356, -635.949540, 72.490311, mp_male / mp_m_male (script@mpstory@mpgvo2@ig@ig1_crawfish_pleads@ig1_crawfish_pleads_player2.yas) (mp005), 4cc922
 2948.272702, 1308.749852, 44.465517, mp_female / mp_player_f_2 (0x62A94B2B.yas) (mp005), 4cc922
 2949.500242, 1309.689931, 44.464124, mp_female / mp_player_f_3 (0x62A94B2B.yas) (mp005), 4cc922
@@ -4398,10 +4398,10 @@ Blue Marker = n/a
 -833.199113, -732.842428, 57.766721, mp_male / mp_player_m_1 (0x70100B8C.yas) (mp005), 4cc922
 -831.012458, -732.828528, 57.766721, mp_female / mp_player_f_4 (0x70100B8C.yas) (mp005), 4cc922
 -832.105741, -731.628282, 57.666721, mp_male / mp_player_m_2 (0x70100B8C.yas) (mp005), 4cc922
--920.706247, -635.996586, 72.516379, mp_female / 0x184B3FC5 (script@mpstory@mpgvo2@ig@ig1_crawfish_pleads@ig1_crawfish_pleads_player3.yas) (mp005), 4cc922
+-920.706247, -635.996586, 72.516379, mp_female / mp_f_male (script@mpstory@mpgvo2@ig@ig1_crawfish_pleads@ig1_crawfish_pleads_player3.yas) (mp005), 4cc922
 -934.897710, -641.360494, 76.556945, None / camera (script@mpstory@mpgvo2@ig@ig1_crawfish_pleads@ig1_crawfish_pleads_player3.yas) (mp005), null
 -920.706247, -635.996586, 72.516379, mp_male / mp_m_male (script@mpstory@mpgvo2@ig@ig1_crawfish_pleads@ig1_crawfish_pleads_player3.yas) (mp005), 4cc922
--920.696662, -636.255695, 72.504415, mp_female / 0x184B3FC5 (script@mpstory@mpgvo2@ig@ig1_crawfish_pleads@ig1_crawfish_pleads_player3.yas) (mp005), 4cc922
+-920.696662, -636.255695, 72.504415, mp_female / mp_f_male (script@mpstory@mpgvo2@ig@ig1_crawfish_pleads@ig1_crawfish_pleads_player3.yas) (mp005), 4cc922
 -920.696662, -636.255695, 72.504415, mp_male / mp_m_male (script@mpstory@mpgvo2@ig@ig1_crawfish_pleads@ig1_crawfish_pleads_player3.yas) (mp005), 4cc922
 -347.010081, -358.083430, 88.036721, mp_female / mp_player_f_2 (0x719FFFE8.yas) (mp005), 4cc922
 -399.802890, -372.293993, 91.429609, None / 0x16156225 (0x719FFFE8.yas) (mp005), null
@@ -4430,7 +4430,7 @@ Blue Marker = n/a
 -5561.392937, -2975.708923, -0.249236, mp_male / mp_player_m_1 (0x76BA1ECD.yas) (mp005), 4cc922
 -5560.653444, -2976.823216, -0.250631, mp_female / mp_player_f_4 (0x76BA1ECD.yas) (mp005), 4cc922
 -5561.244339, -2974.364191, -0.222823, mp_male / mp_player_m_2 (0x76BA1ECD.yas) (mp005), 4cc922
--3040.716550, -2470.574180, 28.616715, mp_female / 0x184B3FC5 (script@mpstory@mpgvo3@ig@ig2_choice@mpgvo3_ig2_choice_player3.yas) (mp005), 4cc922
+-3040.716550, -2470.574180, 28.616715, mp_female / mp_f_male (script@mpstory@mpgvo3@ig@ig2_choice@mpgvo3_ig2_choice_player3.yas) (mp005), 4cc922
 -3042.443000, -2473.545990, 28.078885, None / camera (script@mpstory@mpgvo3@ig@ig2_choice@mpgvo3_ig2_choice_player3.yas) (mp005), null
 -3040.719960, -2470.575130, 28.609930, mp_male / mp_m_male (script@mpstory@mpgvo3@ig@ig2_choice@mpgvo3_ig2_choice_player3.yas) (mp005), 4cc922
 1324.067829, -2277.595577, 49.071710, p_torch01x / torch5 (0x79D42B4D.yas) (mp005), 4cc922
@@ -4558,27 +4558,27 @@ Blue Marker = n/a
 -1059.119800, -608.687170, 77.218313, None / camera (0x8814D03C.yas) (mp005), null
 -1056.149000, -612.047700, 77.530096, mp_g_m_m_redbengang_01 / m_1 (0x8814D03C.yas) (mp005), 4cc922
 -1046.925400, -621.179790, 76.347119, w_repeater_winchester01 / repeater_3 (0x8814D03C.yas) (mp005), 4cc922
--1056.007000, -612.083860, 77.936189,  / 0x315A3EE2 (0x8814D03C.yas) (mp005), 4cc922
+-1056.007000, -612.083860, 77.936189, UNDEFINED MODEL / m_1_bandana (0x8814D03C.yas) (mp005), 4cc922
 -988.801090, -632.206358, 72.865256, midlandboxcar05x / midlandboxcar05x (0x8814D03C.yas) (mp005), 4cc922
 -1035.234500, -625.864370, 75.475340, mp_g_m_m_redbengang_01 / m_4 (0x8814D03C.yas) (mp005), 4cc922
 -918.165253, -633.334033, 71.633458, privateboxcar04x / privateboxcar04x^4 (0x8814D03C.yas) (mp005), 4cc922
 -1042.054700, -612.996310, 76.024004, mp_g_m_m_redbengang_01 / m_5 (0x8814D03C.yas) (mp005), 4cc922
--1047.132500, -621.085880, 77.037652,  / 0x4EEFA54E (0x8814D03C.yas) (mp005), 4cc922
--1056.344600, -609.222650, 78.304640,  / 0x52ECB7B9 (0x8814D03C.yas) (mp005), 4cc922
+-1047.132500, -621.085880, 77.037652, UNDEFINED MODEL / m_3_bandana (0x8814D03C.yas) (mp005), 4cc922
+-1056.344600, -609.222650, 78.304640, UNDEFINED MODEL / ben_bandana (0x8814D03C.yas) (mp005), 4cc922
 -1056.037900, -612.190770, 77.357113, w_repeater_winchester01 / repeater_1 (0x8814D03C.yas) (mp005), 4cc922
--1035.099100, -626.159320, 75.979471,  / 0x55714006 (0x8814D03C.yas) (mp005), 4cc922
+-1035.099100, -626.159320, 75.979471, UNDEFINED MODEL / m_4_bandana (0x8814D03C.yas) (mp005), 4cc922
 -1056.343100, -609.298910, 77.623886, w_repeater_winchester01 / repeater (0x8814D03C.yas) (mp005), 4cc922
--1041.910600, -613.493600, 76.176883, w_repeater_winchester01 / 0x990A7BAA (0x8814D03C.yas) (mp005), 4cc922
+-1041.910600, -613.493600, 76.176883, w_repeater_winchester01 / riflebolt_1 (0x8814D03C.yas) (mp005), 4cc922
 -965.244880, -635.429221, 72.382146, privateboxcar04x / privateboxcar04x^2 (0x8814D03C.yas) (mp005), 4cc922
 -906.500512, -631.243049, 71.518710, midlandboxcar05x / midlandboxcar05x^1 (0x8814D03C.yas) (mp005), 4cc922
 -1057.128800, -610.000790, 77.681422, mp_g_m_m_redbengang_01 / m_2 (0x8814D03C.yas) (mp005), 4cc922
--1057.026900, -610.005680, 78.201256,  / 0xB54E6F11 (0x8814D03C.yas) (mp005), 4cc922
+-1057.026900, -610.005680, 78.201256, UNDEFINED MODEL / m_2_bandana (0x8814D03C.yas) (mp005), 4cc922
 -929.875060, -634.840402, 71.772434, privateboxcar04x / privateboxcar04x^3 (0x8814D03C.yas) (mp005), 4cc922
 -1047.196000, -621.197300, 76.477043, mp_g_m_m_redbengang_01 / m_3 (0x8814D03C.yas) (mp005), 4cc922
 -953.450690, -635.957970, 72.146252, privateboxcar01x / privateboxcar01x (0x8814D03C.yas) (mp005), 4cc922
 -1056.455500, -609.160250, 77.745754, mp_u_m_m_legendarybounty_006 / ben (0x8814D03C.yas) (mp005), 4cc922
 -1035.284200, -626.128570, 75.363229, w_repeater_winchester01 / riflebolt (0x8814D03C.yas) (mp005), 4cc922
--1042.019300, -613.237950, 76.597178,  / 0xE301EB01 (0x8814D03C.yas) (mp005), 4cc922
+-1042.019300, -613.237950, 76.597178, UNDEFINED MODEL / m_5_bandana (0x8814D03C.yas) (mp005), 4cc922
 -1010.962630, -627.166044, 73.440852, northsteamer01x / northsteamer01x (0x8814D03C.yas) (mp005), 4cc922
 176.901126, -2175.902146, 53.373419, cs_genstorymale / ped_sync (0x881C26F8.yas) (mp005), 4cc922
 174.185838, -2176.272876, 52.327151, p_cs_wagon02xbroken / obj_wagon (0x881C26F8.yas) (mp005), 4cc922
@@ -4702,12 +4702,12 @@ Blue Marker = n/a
 -159.439260, 1450.066564, 112.848853, mp_male / mp_player_m_1 (0x94C2899A.yas) (mp005), 4cc922
 -160.773685, 1447.740877, 112.821711, mp_female / mp_player_f_4 (0x94C2899A.yas) (mp005), 4cc922
 -158.142656, 1448.534450, 112.816721, mp_male / mp_player_m_2 (0x94C2899A.yas) (mp005), 4cc922
--919.870739, -636.116766, 72.506648, mp_female / 0x184B3FC5 (script@mpstory@mpgvo2@ig@ig1_crawfish_pleads@ig1_crawfish_pleads_player1.yas) (mp005), 4cc922
+-919.870739, -636.116766, 72.506648, mp_female / mp_f_male (script@mpstory@mpgvo2@ig@ig1_crawfish_pleads@ig1_crawfish_pleads_player1.yas) (mp005), 4cc922
 -934.897710, -641.360494, 76.556945, None / camera (script@mpstory@mpgvo2@ig@ig1_crawfish_pleads@ig1_crawfish_pleads_player1.yas) (mp005), null
 -919.870739, -636.116766, 72.506648, mp_male / mp_m_male (script@mpstory@mpgvo2@ig@ig1_crawfish_pleads@ig1_crawfish_pleads_player1.yas) (mp005), 4cc922
--919.870739, -636.429167, 72.506648, mp_female / 0x184B3FC5 (script@mpstory@mpgvo2@ig@ig1_crawfish_pleads@ig1_crawfish_pleads_player1.yas) (mp005), 4cc922
+-919.870739, -636.429167, 72.506648, mp_female / mp_f_male (script@mpstory@mpgvo2@ig@ig1_crawfish_pleads@ig1_crawfish_pleads_player1.yas) (mp005), 4cc922
 -919.870739, -636.429167, 72.506648, mp_male / mp_m_male (script@mpstory@mpgvo2@ig@ig1_crawfish_pleads@ig1_crawfish_pleads_player1.yas) (mp005), 4cc922
--919.875036, -635.801626, 72.506648, mp_female / 0x184B3FC5 (script@mpstory@mpgvo2@ig@ig1_crawfish_pleads@ig1_crawfish_pleads_player1.yas) (mp005), 4cc922
+-919.875036, -635.801626, 72.506648, mp_female / mp_f_male (script@mpstory@mpgvo2@ig@ig1_crawfish_pleads@ig1_crawfish_pleads_player1.yas) (mp005), 4cc922
 -919.875036, -635.801626, 72.506648, mp_male / mp_m_male (script@mpstory@mpgvo2@ig@ig1_crawfish_pleads@ig1_crawfish_pleads_player1.yas) (mp005), 4cc922
 0.000000, 0.000000, 0.000000, mp_male / mp_male^1 (script@mp@bounty@legendary@lbcar@ig@lbcar_ig1_players_wake_up@player2_wake_up.yas) (mp005), c92222
 0.000000, 0.000000, 0.000000, mp_female / mp_female^1 (script@mp@bounty@legendary@lbcar@ig@lbcar_ig1_players_wake_up@player2_wake_up.yas) (mp005), c92222
@@ -4835,7 +4835,7 @@ Blue Marker = n/a
 -2335.174343, -2741.477727, 69.265124, mp_female / mp_player_f_4 (0xA2FB0E82.yas) (mp005), 4cc922
 -2335.073437, -2740.502767, 69.246517, mp_male / mp_player_m_2 (0xA2FB0E82.yas) (mp005), 4cc922
 2710.088421, -1146.454656, 51.359088, w_repeater_carbine01 / w_repeater_carbine01_passenger (script@mpstory@mppout4@ig4_lawambush@ig4_lawambush.yas) (mp005), 4cc922
-2708.894370, -1147.498216, 51.816097, s_m_m_ambientsdpolice_01 / 0x8D980F93 (script@mpstory@mppout4@ig4_lawambush@ig4_lawambush.yas) (mp005), 4cc922
+2708.894370, -1147.498216, 51.816097, s_m_m_ambientsdpolice_01 / ambientsdpolice_01_driver (script@mpstory@mppout4@ig4_lawambush@ig4_lawambush.yas) (mp005), 4cc922
 2708.760083, -1147.325469, 51.837643, w_revolver_cattleman01 / w_revolver_cattleman01 (script@mpstory@mppout4@ig4_lawambush@ig4_lawambush.yas) (mp005), 4cc922
 2710.225570, -1146.707470, 51.191094, s_m_m_ambientsdpolice_01 / 0xDC19BB58 (script@mpstory@mppout4@ig4_lawambush@ig4_lawambush.yas) (mp005), 4cc922
 2698.306225, -1149.170259, 50.448234, s_m_m_ambientsdpolice_01 / 0x30A0D4AB (script@mpstory@mppout4@ig4_lawambush@ig4_lawambush.yas) (mp005), 4cc922
@@ -4845,9 +4845,9 @@ Blue Marker = n/a
 2698.528892, -1149.172276, 50.478361, w_repeater_carbine01 / 0x66DBBEFA (script@mpstory@mppout4@ig4_lawambush@ig4_lawambush.yas) (mp005), 4cc922
 2698.512225, -1147.809395, 50.500283, w_repeater_carbine01 / 0x75165B6F (script@mpstory@mppout4@ig4_lawambush@ig4_lawambush.yas) (mp005), 4cc922
 2718.050652, -1149.748017, 50.448234, s_m_m_ambientsdpolice_01 / 0x7FBD878C (script@mpstory@mppout4@ig4_lawambush@ig4_lawambush.yas) (mp005), 4cc922
-2717.280127, -1150.201968, 50.448234, s_m_m_ambientsdpolice_01 / 0x9170AAF2 (script@mpstory@mppout4@ig4_lawambush@ig4_lawambush.yas) (mp005), 4cc922
+2717.280127, -1150.201968, 50.448234, s_m_m_ambientsdpolice_01 / ambientsdpolice_01_right_b (script@mpstory@mppout4@ig4_lawambush@ig4_lawambush.yas) (mp005), 4cc922
 2717.780356, -1149.843379, 50.071599, w_repeater_carbine01 / 0xC0A03B33 (script@mpstory@mppout4@ig4_lawambush@ig4_lawambush.yas) (mp005), 4cc922
-2698.644602, -1147.623584, 50.448234, s_m_m_ambientsdpolice_01 / 0xD4EA1D3B (script@mpstory@mppout4@ig4_lawambush@ig4_lawambush.yas) (mp005), 4cc922
+2698.644602, -1147.623584, 50.448234, s_m_m_ambientsdpolice_01 / ambientsdpolice_01_left_b (script@mpstory@mppout4@ig4_lawambush@ig4_lawambush.yas) (mp005), 4cc922
 2718.196101, -1150.633684, 50.448234, s_m_m_ambientsdpolice_01 / 0xD83AB889 (script@mpstory@mppout4@ig4_lawambush@ig4_lawambush.yas) (mp005), 4cc922
 2698.986715, -1148.550313, 50.448234, s_m_m_ambientsdpolice_01 / 0xDEAF30C5 (script@mpstory@mppout4@ig4_lawambush@ig4_lawambush.yas) (mp005), 4cc922
 450.640124, 2276.453335, 252.692830, cs_mp_travellingsaleswoman / ped (0x0A5D9E12.yas) (mp005), 4cc922
@@ -5089,7 +5089,7 @@ Blue Marker = n/a
 2326.153932, -1479.129964, 45.972440, mp_g_f_m_laperlegang_01 / mp_g_f_m_laperlegang_01 (script@mp@bounty@legendary@lbper@ig@lbper_ig2_search1_p1@wagon.yas) (mp005), 4cc922
 2326.021383, -1478.554419, 46.000005, mp_g_f_m_laperlegang_01 / mp_g_f_m_laperlegang_01 (script@mp@bounty@legendary@lbper@ig@lbper_ig2_search1_p1@wagon.yas) (mp005), 4cc922
 2328.242928, -1481.056911, 45.972440, mp_g_f_m_laperlegang_01 / mp_g_f_m_laperlegang_01 (script@mp@bounty@legendary@lbper@ig@lbper_ig2_search1_p1@wagon.yas) (mp005), 4cc922
--3041.115000, -2468.976930, 28.644646, mp_female / 0x184B3FC5 (script@mpstory@mpgvo3@ig@ig2_choice@mpgvo3_ig2_choice_player1.yas) (mp005), 4cc922
+-3041.115000, -2468.976930, 28.644646, mp_female / mp_f_male (script@mpstory@mpgvo3@ig@ig2_choice@mpgvo3_ig2_choice_player1.yas) (mp005), 4cc922
 -3042.443000, -2473.545990, 28.078885, None / camera (script@mpstory@mpgvo3@ig@ig2_choice@mpgvo3_ig2_choice_player1.yas) (mp005), null
 -3041.116440, -2468.978690, 28.649673, mp_male / mp_m_male (script@mpstory@mpgvo3@ig@ig2_choice@mpgvo3_ig2_choice_player1.yas) (mp005), 4cc922
 2174.035482, -707.920372, 41.915389, None / camera (0xE86B1D61.yas) (mp005), null
@@ -5625,11 +5625,11 @@ Blue Marker = n/a
 -5395.428450, -3096.796485, -1.581081, mp_male / mp_player_m_2 (cutscene@lbowl_int.yas) (mp005), 4cc922
 -5398.929165, -3097.641825, -2.385382, p_c_horse_01 / 0xFC98CA7F (cutscene@lbowl_int.yas) (mp005), 4cc922
 2348.047293, -1389.264923, 44.187479, mp_female / mp_player_f_2 (cutscene@lbper_int.yas) (mp005), 4cc922
-2347.584633, -1395.153438, 45.173414, p_cigarette_cs02x / 0x05F6D17F (cutscene@lbper_int.yas) (mp005), 4cc922
+2347.584633, -1395.153438, 45.173414, p_cigarette_cs02x / lbper_guard_1_cigarette (cutscene@lbper_int.yas) (mp005), 4cc922
 2347.451840, -1389.428434, 45.498641, None / exportcamera (cutscene@lbper_int.yas) (mp005), null
 2346.752023, -1388.931030, 44.162411, mp_female / mp_player_f_3 (cutscene@lbper_int.yas) (mp005), 4cc922
 2349.830104, -1396.318537, 43.887508, p_door_warehougate_l / 0x91F1EA71 (cutscene@lbper_int.yas) (mp005), 4cc922
-2345.872663, -1395.007054, 44.658451, p_cigarette_cs02x / 0x9597431C (cutscene@lbper_int.yas) (mp005), 4cc922
+2345.872663, -1395.007054, 44.658451, p_cigarette_cs02x / lbper_guard_2_cigarette (cutscene@lbper_int.yas) (mp005), 4cc922
 2344.774199, -1396.318049, 43.887508, p_door_warehougate_r / 0xB827B6D4 (cutscene@lbper_int.yas) (mp005), 4cc922
 2345.775113, -1395.298791, 44.594654, mp_s_m_m_cornwallguard_01 / lbper_guard_2 (cutscene@lbper_int.yas) (mp005), 4cc922
 2347.281512, -1389.619880, 44.202391, mp_female / mp_player_f_1 (cutscene@lbper_int.yas) (mp005), 4cc922
@@ -5641,12 +5641,12 @@ Blue Marker = n/a
 2347.518354, -1395.297983, 44.587089, mp_s_m_m_cornwallguard_01 / lbper_guard_1 (cutscene@lbper_int.yas) (mp005), 4cc922
 2357.000824, -1376.765450, 46.305439, mp_female / mp_player_f_2 (cutscene@lbper_int.yas) (mp005), 4cc922
 2357.060189, -1376.708190, 45.617222, p_c_horse_01 / 0x0099A80B (cutscene@lbper_int.yas) (mp005), 4cc922
-2342.539903, -1433.951800, 46.456102, p_cigarette_cs02x / 0x05F6D17F (cutscene@lbper_int.yas) (mp005), 4cc922
+2342.539903, -1433.951800, 46.456102, p_cigarette_cs02x / lbper_guard_1_cigarette (cutscene@lbper_int.yas) (mp005), 4cc922
 2321.316070, -1400.792279, 56.633090, None / exportcamera (cutscene@lbper_int.yas) (mp005), null
 2360.949180, -1377.235860, 46.249246, mp_female / mp_player_f_3 (cutscene@lbper_int.yas) (mp005), 4cc922
 2361.025550, -1377.194070, 45.604145, p_c_horse_01 / 0x70DCB6B3 (cutscene@lbper_int.yas) (mp005), 4cc922
 2341.430582, -1434.963310, 45.256504, p_door_warehougate_l / 0x91F1EA71 (cutscene@lbper_int.yas) (mp005), 4cc922
-2344.356734, -1434.103490, 46.019615, p_cigarette_cs02x / 0x9597431C (cutscene@lbper_int.yas) (mp005), 4cc922
+2344.356734, -1434.103490, 46.019615, p_cigarette_cs02x / lbper_guard_2_cigarette (cutscene@lbper_int.yas) (mp005), 4cc922
 2346.520426, -1434.963310, 45.256504, p_door_warehougate_r / 0xB827B6D4 (cutscene@lbper_int.yas) (mp005), 4cc922
 2342.489362, -1434.220890, 46.003821, mp_s_m_m_cornwallguard_01 / lbper_guard_2 (cutscene@lbper_int.yas) (mp005), 4cc922
 2357.788480, -1378.684030, 45.995411, mp_female / mp_player_f_1 (cutscene@lbper_int.yas) (mp005), 4cc922
@@ -5659,9 +5659,9 @@ Blue Marker = n/a
 2344.671768, -1434.153750, 45.987725, mp_s_m_m_cornwallguard_01 / lbper_guard_1 (cutscene@lbper_int.yas) (mp005), 4cc922
 2357.806570, -1378.646560, 45.626011, p_c_horse_01 / 0xFC98CA7F (cutscene@lbper_int.yas) (mp005), 4cc922
 2348.047301, -1389.264937, 44.187464, mp_female / mp_player_f_2 (cutscene@lbper_int.yas) (mp005), 4cc922
-2347.584633, -1395.153438, 45.196588, p_cigarette_cs02x / 0x05F6D17F (cutscene@lbper_int.yas) (mp005), 4cc922
+2347.584633, -1395.153438, 45.196588, p_cigarette_cs02x / lbper_guard_1_cigarette (cutscene@lbper_int.yas) (mp005), 4cc922
 2346.752052, -1388.931015, 44.162451, mp_female / mp_player_f_3 (cutscene@lbper_int.yas) (mp005), 4cc922
-2345.872663, -1395.007045, 44.658451, p_cigarette_cs02x / 0x9597431C (cutscene@lbper_int.yas) (mp005), 4cc922
+2345.872663, -1395.007045, 44.658451, p_cigarette_cs02x / lbper_guard_2_cigarette (cutscene@lbper_int.yas) (mp005), 4cc922
 2345.775056, -1395.298791, 44.604965, mp_s_m_m_cornwallguard_01 / lbper_guard_2 (cutscene@lbper_int.yas) (mp005), 4cc922
 2347.281551, -1389.619857, 44.202391, mp_female / mp_player_f_1 (cutscene@lbper_int.yas) (mp005), 4cc922
 2348.571610, -1388.639808, 44.130280, mp_male / mp_player_m_4 (cutscene@lbper_int.yas) (mp005), 4cc922
@@ -5669,10 +5669,10 @@ Blue Marker = n/a
 2348.581533, -1388.643959, 44.155673, mp_female / mp_player_f_4 (cutscene@lbper_int.yas) (mp005), 4cc922
 2347.518333, -1395.297984, 44.611631, mp_s_m_m_cornwallguard_01 / lbper_guard_1 (cutscene@lbper_int.yas) (mp005), 4cc922
 2348.081884, -1393.233872, 44.469036, mp_female / mp_player_f_2 (cutscene@lbper_int.yas) (mp005), 4cc922
-2347.451134, -1395.075484, 43.626981, p_cigarette_cs02x / 0x05F6D17F (cutscene@lbper_int.yas) (mp005), 4cc922
+2347.451134, -1395.075484, 43.626981, p_cigarette_cs02x / lbper_guard_1_cigarette (cutscene@lbper_int.yas) (mp005), 4cc922
 2344.995913, -1395.003459, 45.087704, None / exportcamera (cutscene@lbper_int.yas) (mp005), null
 2346.908347, -1392.666124, 44.325940, mp_female / mp_player_f_3 (cutscene@lbper_int.yas) (mp005), 4cc922
-2344.823527, -1394.775238, 43.678647, p_cigarette_cs02x / 0x9597431C (cutscene@lbper_int.yas) (mp005), 4cc922
+2344.823527, -1394.775238, 43.678647, p_cigarette_cs02x / lbper_guard_2_cigarette (cutscene@lbper_int.yas) (mp005), 4cc922
 2346.609594, -1395.717727, 44.608174, mp_s_m_m_cornwallguard_01 / lbper_guard_2 (cutscene@lbper_int.yas) (mp005), 4cc922
 2347.281183, -1393.578897, 44.520080, mp_female / mp_player_f_1 (cutscene@lbper_int.yas) (mp005), 4cc922
 2348.725194, -1392.661416, 44.264142, mp_male / mp_player_m_4 (cutscene@lbper_int.yas) (mp005), 4cc922
@@ -6940,16 +6940,16 @@ Blue Marker = n/a
 -1582.228331, -926.105080, 84.432675, p_shotglass01x / p_shotglass01x^1 (script@mp@bounty@legendary@lbnik@ig@lbnik_ig1_intimidatehostage@intimidatehostage.yas) (mp005), 4cc922
 -1582.203455, -927.680790, 83.746058, p_chair02x / p_chair02x (script@mp@bounty@legendary@lbnik@ig@lbnik_ig1_intimidatehostage@intimidatehostage.yas) (mp005), 4cc922
 -1582.141097, -926.793290, 84.539986, p_shotglass01x / p_shotglass01x (script@mp@bounty@legendary@lbnik@ig@lbnik_ig1_intimidatehostage@intimidatehostage.yas) (mp005), 4cc922
--1582.198978, -927.651490, 84.378053, mp_u_m_m_lbt_hostagemarshal_01 / 0xD77A83ED (script@mp@bounty@legendary@lbnik@ig@lbnik_ig1_intimidatehostage@intimidatehostage.yas) (mp005), 4cc922
+-1582.198978, -927.651490, 84.378053, mp_u_m_m_lbt_hostagemarshal_01 / lbnik_marshall^1 (script@mp@bounty@legendary@lbnik@ig@lbnik_ig1_intimidatehostage@intimidatehostage.yas) (mp005), 4cc922
 -1583.360361, -922.592270, 83.735746, p_door02x / p_door02x (script@mp@bounty@legendary@lbnik@ig@lbnik_ig1_intimidatehostage@intimidatehostage.yas) (mp005), 4cc922
 -1582.974974, -926.163620, 84.359248, mp_u_m_m_legendarybounty_002 / mp_u_m_m_legendarybounty_002^1 (script@mp@bounty@legendary@lbnik@ig@lbnik_ig1_intimidatehostage@intimidatehostage.yas) (mp005), 4cc922
--1582.198966, -927.651350, 84.378007, mp_u_m_m_lbt_hostagemarshal_01 / 0xD77A83ED (script@mp@bounty@legendary@lbnik@ig@lbnik_ig1_intimidatehostage@intimidatehostage.yas) (mp005), 4cc922
+-1582.198966, -927.651350, 84.378007, mp_u_m_m_lbt_hostagemarshal_01 / lbnik_marshall^1 (script@mp@bounty@legendary@lbnik@ig@lbnik_ig1_intimidatehostage@intimidatehostage.yas) (mp005), 4cc922
 -1583.360352, -922.592280, 83.735733, p_door02x / p_door02x (script@mp@bounty@legendary@lbnik@ig@lbnik_ig1_intimidatehostage@intimidatehostage.yas) (mp005), 4cc922
 -1582.024138, -926.012000, 84.533880, p_bottlejd01x / p_bottlejd01x^1 (script@mp@bounty@legendary@lbnik@ig@lbnik_ig1_intimidatehostage@intimidatehostage.yas) (mp005), 4cc922
 -1582.974856, -926.163500, 84.359343, mp_u_m_m_legendarybounty_002 / mp_u_m_m_legendarybounty_002^1 (script@mp@bounty@legendary@lbnik@ig@lbnik_ig1_intimidatehostage@intimidatehostage.yas) (mp005), 4cc922
 -1582.336256, -926.484870, 84.536106, p_bottlejd01x / p_bottlejd01x (script@mp@bounty@legendary@lbnik@ig@lbnik_ig1_intimidatehostage@intimidatehostage.yas) (mp005), 4cc922
 -1582.228331, -926.105080, 84.533926, p_shotglass01x / p_shotglass01x^1 (script@mp@bounty@legendary@lbnik@ig@lbnik_ig1_intimidatehostage@intimidatehostage.yas) (mp005), 4cc922
--1582.198964, -927.651490, 84.377927, mp_u_m_m_lbt_hostagemarshal_01 / 0xD77A83ED (script@mp@bounty@legendary@lbnik@ig@lbnik_ig1_intimidatehostage@intimidatehostage.yas) (mp005), 4cc922
+-1582.198964, -927.651490, 84.377927, mp_u_m_m_lbt_hostagemarshal_01 / lbnik_marshall^1 (script@mp@bounty@legendary@lbnik@ig@lbnik_ig1_intimidatehostage@intimidatehostage.yas) (mp005), 4cc922
 -1582.336255, -926.484870, 84.636106, p_bottlejd01x / p_bottlejd01x^1 (script@mp@bounty@legendary@lbnik@ig@lbnik_ig2_humanshield@humanshield.yas) (mp005), 4cc922
 -1583.011965, -926.180450, 83.841275, p_chair02x / p_chair02x^1 (script@mp@bounty@legendary@lbnik@ig@lbnik_ig2_humanshield@humanshield.yas) (mp005), 4cc922
 -1583.365263, -928.630620, 84.857042, mp_u_m_m_lbt_hostagemarshal_01 / lbnik_marshall (script@mp@bounty@legendary@lbnik@ig@lbnik_ig2_humanshield@humanshield.yas) (mp005), 4cc922
@@ -7109,7 +7109,7 @@ Blue Marker = n/a
 -572.346505, -3648.603130, 82.880000, mp_male / win_09 (script@mp@endflow@endcelebration@16v16_tombstone.yas) (mp005), 4cc922
 -569.974054, -3647.374550, 82.880000, mp_female / win_04f (script@mp@endflow@endcelebration@16v16_tombstone.yas) (mp005), 4cc922
 -568.787387, -3646.857388, 82.880000, mp_male / win_06 (script@mp@endflow@endcelebration@16v16_tombstone.yas) (mp005), 4cc922
--569.539531, -3650.662754, 83.291228, None / 0x1B403C98 (script@mp@endflow@endcelebration@16v16_tombstone.yas) (mp005), null
+-569.539531, -3650.662754, 83.291228, None / camera_losers_v2 (script@mp@endflow@endcelebration@16v16_tombstone.yas) (mp005), null
 -568.267124, -3649.202257, 82.880000, mp_male / win_12 (script@mp@endflow@endcelebration@16v16_tombstone.yas) (mp005), 4cc922
 -568.787387, -3646.857388, 82.880000, mp_female / win_06f (script@mp@endflow@endcelebration@16v16_tombstone.yas) (mp005), 4cc922
 -571.627426, -3648.714800, 82.702420, w_repeater_carbine01 / rifle_03 (script@mp@endflow@endcelebration@16v16_tombstone.yas) (mp005), 4cc922
@@ -7124,7 +7124,7 @@ Blue Marker = n/a
 -571.280691, -3648.683917, 82.880000, mp_male / win_03 (script@mp@endflow@endcelebration@16v16_tombstone.yas) (mp005), 4cc922
 -570.952770, -3647.660375, 82.932821, mp_male / win_01 (script@mp@endflow@endcelebration@16v16_tombstone.yas) (mp005), 4cc922
 -566.797632, -3648.739274, 82.880000, mp_male / win_16 (script@mp@endflow@endcelebration@16v16_tombstone.yas) (mp005), 4cc922
--569.539531, -3650.662754, 83.291228, None / 0x6EE9E3EA (script@mp@endflow@endcelebration@16v16_tombstone.yas) (mp005), null
+-569.539531, -3650.662754, 83.291228, None / camera_losers_v1 (script@mp@endflow@endcelebration@16v16_tombstone.yas) (mp005), null
 -567.632402, -3648.152485, 82.880000, mp_female / win_15f (script@mp@endflow@endcelebration@16v16_tombstone.yas) (mp005), 4cc922
 -568.320669, -3650.035188, 82.880000, mp_female / win_14f (script@mp@endflow@endcelebration@16v16_tombstone.yas) (mp005), 4cc922
 -570.294596, -3649.517648, 83.323421, None / camera_v1 (script@mp@endflow@endcelebration@16v16_tombstone.yas) (mp005), null
@@ -7141,7 +7141,7 @@ Blue Marker = n/a
 -570.723739, -3647.266307, 82.880000, mp_female / win_02f (script@mp@endflow@endcelebration@16v16_tombstone.yas) (mp005), 4cc922
 -569.352127, -3648.681247, 83.334544, p_shovel02x / shovel_08 (script@mp@endflow@endcelebration@16v16_tombstone.yas) (mp005), 4cc922
 -568.795586, -3647.843263, 82.880000, mp_female / win_10f (script@mp@endflow@endcelebration@16v16_tombstone.yas) (mp005), 4cc922
--569.539531, -3650.662754, 83.291228, None / 0xC5E811E5 (script@mp@endflow@endcelebration@16v16_tombstone.yas) (mp005), null
+-569.539531, -3650.662754, 83.291228, None / camera_losers_v3 (script@mp@endflow@endcelebration@16v16_tombstone.yas) (mp005), null
 -569.611908, -3650.341884, 82.006516, mp_female / dead_01f (script@mp@endflow@endcelebration@16v16_tombstone.yas) (mp005), 4cc922
 -566.797632, -3648.739274, 82.880000, mp_female / win_16f (script@mp@endflow@endcelebration@16v16_tombstone.yas) (mp005), 4cc922
 -571.000348, -3649.961042, 82.880000, mp_female / win_05f (script@mp@endflow@endcelebration@16v16_tombstone.yas) (mp005), 4cc922
@@ -7565,7 +7565,7 @@ Blue Marker = n/a
 -577.713083, -3626.545461, 81.109214, mp_male / win_09 (script@mp@endflow@endcelebration@guns_in_the_air.yas) (mp005), 4cc922
 -579.074862, -3624.046753, 81.073249, mp_female / win_04f (script@mp@endflow@endcelebration@guns_in_the_air.yas) (mp005), 4cc922
 -578.441721, -3626.105502, 81.101291, mp_male / win_06 (script@mp@endflow@endcelebration@guns_in_the_air.yas) (mp005), 4cc922
--579.197268, -3627.528753, 81.988803, None / 0x1B403C98 (script@mp@endflow@endcelebration@guns_in_the_air.yas) (mp005), null
+-579.197268, -3627.528753, 81.988803, None / camera_losers_v2 (script@mp@endflow@endcelebration@guns_in_the_air.yas) (mp005), null
 -578.512026, -3626.222156, 81.114478, mp_female / win_06f (script@mp@endflow@endcelebration@guns_in_the_air.yas) (mp005), 4cc922
 -578.130274, -3627.768303, 80.638781, mp_female / dead_03f (script@mp@endflow@endcelebration@guns_in_the_air.yas) (mp005), 4cc922
 -576.862689, -3626.476444, 81.093733, mp_female / win_07f (script@mp@endflow@endcelebration@guns_in_the_air.yas) (mp005), 4cc922
@@ -7577,7 +7577,7 @@ Blue Marker = n/a
 -579.303301, -3626.005963, 81.531525, None / camera_v2 (script@mp@endflow@endcelebration@guns_in_the_air.yas) (mp005), null
 -576.230482, -3626.088750, 81.116083, mp_male / win_03 (script@mp@endflow@endcelebration@guns_in_the_air.yas) (mp005), 4cc922
 -577.554361, -3624.658265, 81.085960, mp_male / win_01 (script@mp@endflow@endcelebration@guns_in_the_air.yas) (mp005), 4cc922
--579.197268, -3627.528753, 81.988803, None / 0x6EE9E3EA (script@mp@endflow@endcelebration@guns_in_the_air.yas) (mp005), null
+-579.197268, -3627.528753, 81.988803, None / camera_losers_v1 (script@mp@endflow@endcelebration@guns_in_the_air.yas) (mp005), null
 -579.959421, -3624.156811, 80.118536, p_cratetnt03x / crate_02 (script@mp@endflow@endcelebration@guns_in_the_air.yas) (mp005), 4cc922
 -579.303301, -3626.005963, 81.531525, None / camera_v1 (script@mp@endflow@endcelebration@guns_in_the_air.yas) (mp005), null
 -577.538341, -3624.006747, 81.096549, mp_male / win_02 (script@mp@endflow@endcelebration@guns_in_the_air.yas) (mp005), 4cc922
@@ -7587,7 +7587,7 @@ Blue Marker = n/a
 -578.561518, -3627.134127, 80.418583, mp004_s_mp_coffindecor01x / coffin_01 (script@mp@endflow@endcelebration@guns_in_the_air.yas) (mp005), 4cc922
 -577.554361, -3624.658265, 81.085960, mp_female / win_01f (script@mp@endflow@endcelebration@guns_in_the_air.yas) (mp005), 4cc922
 -577.538341, -3624.006747, 81.096549, mp_female / win_02f (script@mp@endflow@endcelebration@guns_in_the_air.yas) (mp005), 4cc922
--579.197268, -3627.528753, 81.988803, None / 0xC5E811E5 (script@mp@endflow@endcelebration@guns_in_the_air.yas) (mp005), null
+-579.197268, -3627.528753, 81.988803, None / camera_losers_v3 (script@mp@endflow@endcelebration@guns_in_the_air.yas) (mp005), null
 -578.455266, -3627.074716, 80.669645, mp_female / dead_01f (script@mp@endflow@endcelebration@guns_in_the_air.yas) (mp005), 4cc922
 -578.240768, -3627.795557, 80.418583, mp004_s_mp_coffin01x / coffin_03 (script@mp@endflow@endcelebration@guns_in_the_air.yas) (mp005), 4cc922
 -580.430833, -3624.420232, 80.630695, mp_female / dead_04f (script@mp@endflow@endcelebration@guns_in_the_air.yas) (mp005), 4cc922
@@ -7600,7 +7600,7 @@ Blue Marker = n/a
 -578.636188, -3624.015419, 81.094910, mp_female / win_08f (script@mp@endflow@endcelebration@guns_in_the_air.yas) (mp005), 4cc922
 -577.105677, -3627.250958, 81.095363, mp_male / win_13 (script@mp@endflow@endcelebration@guns_in_the_air.yas) (mp005), 4cc922
 -578.625055, -3624.659727, 81.092593, mp_female / win_04f (script@mp@endflow@endcelebration@guns_in_the_air.yas) (mp005), 4cc922
--583.495439, -3629.211378, 81.525626, None / 0x1B403C98 (script@mp@endflow@endcelebration@guns_in_the_air.yas) (mp005), null
+-583.495439, -3629.211378, 81.525626, None / camera_losers_v2 (script@mp@endflow@endcelebration@guns_in_the_air.yas) (mp005), null
 -579.502682, -3623.963258, 81.093790, mp_male / win_12 (script@mp@endflow@endcelebration@guns_in_the_air.yas) (mp005), 4cc922
 -577.033594, -3626.022077, 81.099486, mp_female / win_07f (script@mp@endflow@endcelebration@guns_in_the_air.yas) (mp005), 4cc922
 -582.689215, -3628.519390, 81.525626, None / camera_v3 (script@mp@endflow@endcelebration@guns_in_the_air.yas) (mp005), null
@@ -7613,7 +7613,7 @@ Blue Marker = n/a
 -577.639560, -3625.761152, 81.092631, mp_male / win_03 (script@mp@endflow@endcelebration@guns_in_the_air.yas) (mp005), 4cc922
 -578.186441, -3625.341110, 81.138792, mp_male / win_01 (script@mp@endflow@endcelebration@guns_in_the_air.yas) (mp005), 4cc922
 -580.124076, -3622.907979, 81.094718, mp_male / win_16 (script@mp@endflow@endcelebration@guns_in_the_air.yas) (mp005), 4cc922
--584.789215, -3630.069390, 81.625626, None / 0x6EE9E3EA (script@mp@endflow@endcelebration@guns_in_the_air.yas) (mp005), null
+-584.789215, -3630.069390, 81.625626, None / camera_losers_v1 (script@mp@endflow@endcelebration@guns_in_the_air.yas) (mp005), null
 -576.541170, -3627.629189, 81.108984, mp_female / win_15f (script@mp@endflow@endcelebration@guns_in_the_air.yas) (mp005), 4cc922
 -579.607721, -3622.966829, 81.105212, mp_female / win_14f (script@mp@endflow@endcelebration@guns_in_the_air.yas) (mp005), 4cc922
 -584.789215, -3630.069390, 81.625626, None / camera_v1 (script@mp@endflow@endcelebration@guns_in_the_air.yas) (mp005), null
@@ -7624,7 +7624,7 @@ Blue Marker = n/a
 -578.186441, -3625.341110, 81.105863, mp_female / win_01f (script@mp@endflow@endcelebration@guns_in_the_air.yas) (mp005), 4cc922
 -578.050443, -3624.791343, 81.101380, mp_female / win_02f (script@mp@endflow@endcelebration@guns_in_the_air.yas) (mp005), 4cc922
 -578.949063, -3623.464729, 81.101767, mp_female / win_10f (script@mp@endflow@endcelebration@guns_in_the_air.yas) (mp005), 4cc922
--582.689215, -3628.519390, 81.525626, None / 0xC5E811E5 (script@mp@endflow@endcelebration@guns_in_the_air.yas) (mp005), null
+-582.689215, -3628.519390, 81.525626, None / camera_losers_v3 (script@mp@endflow@endcelebration@guns_in_the_air.yas) (mp005), null
 -580.124076, -3622.907979, 81.110374, mp_female / win_16f (script@mp@endflow@endcelebration@guns_in_the_air.yas) (mp005), 4cc922
 -579.061853, -3625.196358, 81.093518, mp_female / win_05f (script@mp@endflow@endcelebration@guns_in_the_air.yas) (mp005), 4cc922
 -576.671157, -3626.800530, 81.093821, mp_male / win_11 (script@mp@endflow@endcelebration@guns_in_the_air.yas) (mp005), 4cc922
@@ -7719,41 +7719,41 @@ Blue Marker = n/a
 -560.467490, -3691.330400, 82.879999, mp_female / dead_01f (script@mp@endflow@endcelebration@hunters_win_v1.yas) (mp005), 4cc922
 -560.583030, -3688.139480, 82.910187, mp_female / win_05f (script@mp@endflow@endcelebration@hunters_win_v1.yas) (mp005), 4cc922
 -558.386800, -3690.178180, 82.914826, mp_female / win_03f (script@mp@endflow@endcelebration@hunters_win_v1.yas) (mp005), 4cc922
--560.398108, -3687.815560, 83.973258, None / 0x1B403C98 (script@mp@endflow@endcelebration@predator_win_v1.yas) (mp005), null
+-560.398108, -3687.815560, 83.973258, None / camera_losers_v2 (script@mp@endflow@endcelebration@predator_win_v1.yas) (mp005), null
 -560.398108, -3687.815560, 83.973258, None / camera_v3 (script@mp@endflow@endcelebration@predator_win_v1.yas) (mp005), null
 -560.398108, -3687.815560, 83.973258, None / camera_v2 (script@mp@endflow@endcelebration@predator_win_v1.yas) (mp005), null
 -560.883815, -3688.430340, 82.874359, mp_male / win_01 (script@mp@endflow@endcelebration@predator_win_v1.yas) (mp005), 4cc922
--560.398108, -3687.815560, 83.973258, None / 0x6EE9E3EA (script@mp@endflow@endcelebration@predator_win_v1.yas) (mp005), null
+-560.398108, -3687.815560, 83.973258, None / camera_losers_v1 (script@mp@endflow@endcelebration@predator_win_v1.yas) (mp005), null
 -560.398108, -3687.815560, 83.973258, None / camera_v1 (script@mp@endflow@endcelebration@predator_win_v1.yas) (mp005), null
 -559.974416, -3688.447960, 82.880000, mp_male / win_02 (script@mp@endflow@endcelebration@predator_win_v1.yas) (mp005), 4cc922
 -560.355779, -3689.029940, 82.880000, mp_male / dead_01 (script@mp@endflow@endcelebration@predator_win_v1.yas) (mp005), 4cc922
 -560.881431, -3688.444190, 82.921258, mp_female / win_01f (script@mp@endflow@endcelebration@predator_win_v1.yas) (mp005), 4cc922
 -559.972986, -3688.461220, 82.910459, mp_female / win_02f (script@mp@endflow@endcelebration@predator_win_v1.yas) (mp005), 4cc922
--560.398108, -3687.815560, 83.973258, None / 0xC5E811E5 (script@mp@endflow@endcelebration@predator_win_v1.yas) (mp005), null
+-560.398108, -3687.815560, 83.973258, None / camera_losers_v3 (script@mp@endflow@endcelebration@predator_win_v1.yas) (mp005), null
 -560.355378, -3689.017380, 83.095222, mp_female / dead_01f (script@mp@endflow@endcelebration@predator_win_v1.yas) (mp005), 4cc922
--565.679814, -3687.528960, 83.503174, None / 0x1B403C98 (script@mp@endflow@endcelebration@predator_win_v2.yas) (mp005), null
+-565.679814, -3687.528960, 83.503174, None / camera_losers_v2 (script@mp@endflow@endcelebration@predator_win_v2.yas) (mp005), null
 -565.679814, -3687.528960, 83.503174, None / camera_v3 (script@mp@endflow@endcelebration@predator_win_v2.yas) (mp005), null
 -565.679814, -3687.528960, 83.503174, None / camera_v2 (script@mp@endflow@endcelebration@predator_win_v2.yas) (mp005), null
 -566.497537, -3687.202380, 82.907390, mp_male / win_01 (script@mp@endflow@endcelebration@predator_win_v2.yas) (mp005), 4cc922
--565.679814, -3687.528960, 83.503174, None / 0x6EE9E3EA (script@mp@endflow@endcelebration@predator_win_v2.yas) (mp005), null
+-565.679814, -3687.528960, 83.503174, None / camera_losers_v1 (script@mp@endflow@endcelebration@predator_win_v2.yas) (mp005), null
 -565.679814, -3687.528960, 83.503174, None / camera_v1 (script@mp@endflow@endcelebration@predator_win_v2.yas) (mp005), null
 -565.208930, -3687.659840, 82.907390, mp_male / win_02 (script@mp@endflow@endcelebration@predator_win_v2.yas) (mp005), 4cc922
 -565.745119, -3686.783020, 82.907390, mp_male / dead_01 (script@mp@endflow@endcelebration@predator_win_v2.yas) (mp005), 4cc922
 -566.497537, -3687.202380, 82.929162, mp_female / win_01f (script@mp@endflow@endcelebration@predator_win_v2.yas) (mp005), 4cc922
 -565.208930, -3687.659840, 82.935911, mp_female / win_02f (script@mp@endflow@endcelebration@predator_win_v2.yas) (mp005), 4cc922
--565.679814, -3687.528960, 83.503174, None / 0xC5E811E5 (script@mp@endflow@endcelebration@predator_win_v2.yas) (mp005), null
+-565.679814, -3687.528960, 83.503174, None / camera_losers_v3 (script@mp@endflow@endcelebration@predator_win_v2.yas) (mp005), null
 -565.672426, -3687.049350, 82.953613, mp_female / dead_01f (script@mp@endflow@endcelebration@predator_win_v2.yas) (mp005), 4cc922
--561.211942, -3691.231140, 82.631606, None / 0x1B403C98 (script@mp@endflow@endcelebration@predator_win_v3.yas) (mp005), null
+-561.211942, -3691.231140, 82.631606, None / camera_losers_v2 (script@mp@endflow@endcelebration@predator_win_v3.yas) (mp005), null
 -561.211942, -3691.231140, 82.631606, None / camera_v3 (script@mp@endflow@endcelebration@predator_win_v3.yas) (mp005), null
 -561.211942, -3691.231140, 82.631606, None / camera_v2 (script@mp@endflow@endcelebration@predator_win_v3.yas) (mp005), null
 -560.697373, -3688.019650, 82.925573, mp_male / win_01 (script@mp@endflow@endcelebration@predator_win_v3.yas) (mp005), 4cc922
--561.211942, -3691.231140, 82.631606, None / 0x6EE9E3EA (script@mp@endflow@endcelebration@predator_win_v3.yas) (mp005), null
+-561.211942, -3691.231140, 82.631606, None / camera_losers_v1 (script@mp@endflow@endcelebration@predator_win_v3.yas) (mp005), null
 -561.211942, -3691.231140, 82.631606, None / camera_v1 (script@mp@endflow@endcelebration@predator_win_v3.yas) (mp005), null
 -559.369720, -3687.910360, 82.923674, mp_male / win_02 (script@mp@endflow@endcelebration@predator_win_v3.yas) (mp005), 4cc922
 -560.419561, -3690.237740, 82.919327, mp_male / dead_01 (script@mp@endflow@endcelebration@predator_win_v3.yas) (mp005), 4cc922
 -560.697407, -3688.035030, 82.924409, mp_female / win_01f (script@mp@endflow@endcelebration@predator_win_v3.yas) (mp005), 4cc922
 -559.371870, -3687.923240, 82.927071, mp_female / win_02f (script@mp@endflow@endcelebration@predator_win_v3.yas) (mp005), 4cc922
--561.211942, -3691.231140, 82.631606, None / 0xC5E811E5 (script@mp@endflow@endcelebration@predator_win_v3.yas) (mp005), null
+-561.211942, -3691.231140, 82.631606, None / camera_losers_v3 (script@mp@endflow@endcelebration@predator_win_v3.yas) (mp005), null
 -560.440789, -3690.254500, 82.930499, mp_female / dead_01f (script@mp@endflow@endcelebration@predator_win_v3.yas) (mp005), 4cc922
 -556.808490, -3695.068940, 82.940000, mp_female / dead_02f (script@mp@endflow@endcelebration@protector_failalive_v1.yas) (mp005), 4cc922
 -556.800010, -3685.080450, 82.940000, mp_female / win_04f (script@mp@endflow@endcelebration@protector_failalive_v1.yas) (mp005), 4cc922
@@ -7803,7 +7803,7 @@ Blue Marker = n/a
 -562.728219, -3690.402370, 82.935758, mp_male / win_09 (script@mp@endflow@endcelebration@wagon.yas) (mp005), 4cc922
 -559.486950, -3690.254100, 82.935758, mp_female / win_04f (script@mp@endflow@endcelebration@wagon.yas) (mp005), 4cc922
 -559.057510, -3689.115330, 83.782416, mp_male / win_06 (script@mp@endflow@endcelebration@wagon.yas) (mp005), 4cc922
--560.601403, -3691.460430, 83.768731, None / 0x1B403C98 (script@mp@endflow@endcelebration@wagon.yas) (mp005), null
+-560.601403, -3691.460430, 83.768731, None / camera_losers_v2 (script@mp@endflow@endcelebration@wagon.yas) (mp005), null
 -558.818610, -3691.922260, 82.935758, mp_male / win_12 (script@mp@endflow@endcelebration@wagon.yas) (mp005), 4cc922
 -559.057510, -3689.115330, 83.782416, mp_female / win_06f (script@mp@endflow@endcelebration@wagon.yas) (mp005), 4cc922
 -562.454416, -3689.469750, 82.931923, mp_female / win_07f (script@mp@endflow@endcelebration@wagon.yas) (mp005), 4cc922
@@ -7817,7 +7817,7 @@ Blue Marker = n/a
 -561.971848, -3689.554660, 84.025005, mp_male / win_03 (script@mp@endflow@endcelebration@wagon.yas) (mp005), 4cc922
 -561.598816, -3691.344170, 82.960656, mp_male / win_01 (script@mp@endflow@endcelebration@wagon.yas) (mp005), 4cc922
 -557.874100, -3691.012610, 82.935758, mp_male / win_16 (script@mp@endflow@endcelebration@wagon.yas) (mp005), 4cc922
--560.601403, -3691.460430, 83.768731, None / 0x6EE9E3EA (script@mp@endflow@endcelebration@wagon.yas) (mp005), null
+-560.601403, -3691.460430, 83.768731, None / camera_losers_v1 (script@mp@endflow@endcelebration@wagon.yas) (mp005), null
 -563.731732, -3689.804210, 82.935758, mp_female / win_15f (script@mp@endflow@endcelebration@wagon.yas) (mp005), 4cc922
 -558.397730, -3690.831150, 82.935758, mp_female / win_14f (script@mp@endflow@endcelebration@wagon.yas) (mp005), 4cc922
 -561.387618, -3692.769880, 83.283982, None / camera_v1 (script@mp@endflow@endcelebration@wagon.yas) (mp005), null
@@ -7831,7 +7831,7 @@ Blue Marker = n/a
 -561.598816, -3691.344170, 82.960656, mp_female / win_01f (script@mp@endflow@endcelebration@wagon.yas) (mp005), 4cc922
 -559.964706, -3690.767210, 82.935758, mp_female / win_02f (script@mp@endflow@endcelebration@wagon.yas) (mp005), 4cc922
 -558.886100, -3690.623130, 82.898352, mp_female / win_10f (script@mp@endflow@endcelebration@wagon.yas) (mp005), 4cc922
--560.601403, -3691.460430, 83.768731, None / 0xC5E811E5 (script@mp@endflow@endcelebration@wagon.yas) (mp005), null
+-560.601403, -3691.460430, 83.768731, None / camera_losers_v3 (script@mp@endflow@endcelebration@wagon.yas) (mp005), null
 -560.609210, -3690.598270, 83.101047, mp_female / dead_01f (script@mp@endflow@endcelebration@wagon.yas) (mp005), 4cc922
 -560.444359, -3688.976070, 83.439325, p_coffin01x / coffin_03 (script@mp@endflow@endcelebration@wagon.yas) (mp005), 4cc922
 -557.874100, -3691.012610, 82.935758, mp_female / win_16f (script@mp@endflow@endcelebration@wagon.yas) (mp005), 4cc922
@@ -7842,7 +7842,7 @@ Blue Marker = n/a
 -558.886100, -3690.623130, 82.898352, mp_male / win_10 (script@mp@endflow@endcelebration@wagon.yas) (mp005), 4cc922
 -562.728219, -3690.402370, 82.905877, mp_male / win_09 (script@mp@endflow@endcelebration@wagon.yas) (mp005), 4cc922
 -559.486950, -3690.254100, 82.915332, mp_female / win_04f (script@mp@endflow@endcelebration@wagon.yas) (mp005), 4cc922
--560.889701, -3696.968160, 82.917577, None / 0x1B403C98 (script@mp@endflow@endcelebration@wagon.yas) (mp005), null
+-560.889701, -3696.968160, 82.917577, None / camera_losers_v2 (script@mp@endflow@endcelebration@wagon.yas) (mp005), null
 -560.889701, -3696.168160, 83.117577, None / camera_v3 (script@mp@endflow@endcelebration@wagon.yas) (mp005), null
 -562.454416, -3689.469750, 82.913450, mp_male / win_07 (script@mp@endflow@endcelebration@wagon.yas) (mp005), 4cc922
 -559.486950, -3690.254100, 82.915332, mp_male / win_04 (script@mp@endflow@endcelebration@wagon.yas) (mp005), 4cc922
@@ -7851,12 +7851,12 @@ Blue Marker = n/a
 -560.585972, -3686.056000, 84.693320, mp_male / win_05 (script@mp@endflow@endcelebration@wagon.yas) (mp005), 4cc922
 -561.559974, -3691.384430, 82.920509, mp_male / win_01 (script@mp@endflow@endcelebration@wagon.yas) (mp005), 4cc922
 -557.874100, -3691.012610, 82.909840, mp_male / win_16 (script@mp@endflow@endcelebration@wagon.yas) (mp005), 4cc922
--561.139701, -3699.668160, 83.117577, None / 0x6EE9E3EA (script@mp@endflow@endcelebration@wagon.yas) (mp005), null
+-561.139701, -3699.668160, 83.117577, None / camera_losers_v1 (script@mp@endflow@endcelebration@wagon.yas) (mp005), null
 -561.139701, -3699.668160, 83.117577, None / camera_v1 (script@mp@endflow@endcelebration@wagon.yas) (mp005), null
 -559.964706, -3690.767210, 82.912644, mp_male / win_02 (script@mp@endflow@endcelebration@wagon.yas) (mp005), 4cc922
 -562.708512, -3690.257310, 82.917406, mp_female / win_09f (script@mp@endflow@endcelebration@wagon.yas) (mp005), 4cc922
 -561.559974, -3691.384430, 82.941297, mp_female / win_01f (script@mp@endflow@endcelebration@wagon.yas) (mp005), 4cc922
--560.889701, -3696.168160, 83.117577, None / 0xC5E811E5 (script@mp@endflow@endcelebration@wagon.yas) (mp005), null
+-560.889701, -3696.168160, 83.117577, None / camera_losers_v3 (script@mp@endflow@endcelebration@wagon.yas) (mp005), null
 -560.585824, -3686.050810, 84.693320, mp_female / win_05f (script@mp@endflow@endcelebration@wagon.yas) (mp005), 4cc922
 -558.886100, -3690.623130, 82.911212, mp_male / win_10 (script@mp@endflow@endcelebration@wagon.yas) (mp005), 4cc922
 -3729.030410, -2620.040972, -11.880134, None / camera (script@mp@freemode_events@supply_train@armadillo.yas) (mp005), null
@@ -8003,7 +8003,7 @@ Blue Marker = n/a
 -3.164175, 16.015940, 1.003361, mp_male / ped_m_15 (script@mp@introflow@teamonfoot.yas) (mp005), 4cc922
 -1.710690, 14.763520, 0.869006, w_sp_bowarrow / bow_male_13 (script@mp@introflow@teamonfoot.yas) (mp005), 4cc922
 0.612798, 7.217326, 1.278805, None / camera8x8 (script@mp@introflow@teamonfoot.yas) (mp005), null
-0.390280, 7.835844, 1.251017, None / 0x49819A66 (script@mp@introflow@teamonfoot.yas) (mp005), null
+0.390280, 7.835844, 1.251017, None / camera16x16_v2 (script@mp@introflow@teamonfoot.yas) (mp005), null
 -1.648572, 15.000590, 0.820199, mp005_s_mp_lassoloop01x / lasso_noose_female13 (script@mp@introflow@teamonfoot.yas) (mp005), 4cc922
 -0.539690, 17.022710, 0.829905, p_cs_melee_lasso01 / lasso_bundle_male11 (script@mp@introflow@teamonfoot.yas) (mp005), 4cc922
 -2.500059, 13.163410, 1.005924, mp_male / ped_m_4 (script@mp@introflow@teamonfoot.yas) (mp005), 4cc922
@@ -8011,12 +8011,12 @@ Blue Marker = n/a
 0.531584, 16.591450, 0.824119, w_sp_bowarrow / bow_male_12 (script@mp@introflow@teamonfoot.yas) (mp005), 4cc922
 -0.028035, 15.049460, 0.842651, mp005_s_mp_lassoloop01x / lasso_noose_female8 (script@mp@introflow@teamonfoot.yas) (mp005), 4cc922
 -1.796913, 13.189550, 1.049325, mp_female / ped_f_2 (script@mp@introflow@teamonfoot.yas) (mp005), 4cc922
-0.650816, 5.701619, 0.948436, None / 0x591C399B (script@mp@introflow@teamonfoot.yas) (mp005), null
+0.650816, 5.701619, 0.948436, None / camera16x16_v3 (script@mp@introflow@teamonfoot.yas) (mp005), null
 -1.539529, 14.711090, 0.717373, w_sp_bowarrow_arrow / arrow_male_13 (script@mp@introflow@teamonfoot.yas) (mp005), 4cc922
 1.064356, 16.316630, 0.928987, p_cs_melee_lasso01 / lasso_bundle_male12 (script@mp@introflow@teamonfoot.yas) (mp005), 4cc922
 -1.380392, 14.884740, 0.744951, w_sp_bowarrow_arrow / arrow_female_13 (script@mp@introflow@teamonfoot.yas) (mp005), 4cc922
 2.297616, 15.129030, 0.842917, p_cs_melee_lasso01 / lasso_bundle_male7 (script@mp@introflow@teamonfoot.yas) (mp005), 4cc922
-1.384026, 6.546286, 1.206525, None / 0x5F3D0F7F (script@mp@introflow@teamonfoot.yas) (mp005), null
+1.384026, 6.546286, 1.206525, None / camera4x4_v3 (script@mp@introflow@teamonfoot.yas) (mp005), null
 -1.841484, 17.940670, 0.826491, mp005_s_mp_lassoloop01x / lasso_noose_female10 (script@mp@introflow@teamonfoot.yas) (mp005), 4cc922
 2.805409, 14.766240, 0.999884, mp_male / ped_m_5 (script@mp@introflow@teamonfoot.yas) (mp005), 4cc922
 1.561067, 15.985780, 1.005924, mp_male / ped_m_9 (script@mp@introflow@teamonfoot.yas) (mp005), 4cc922
@@ -8066,7 +8066,7 @@ Blue Marker = n/a
 -3.217332, 13.660010, 1.014284, mp_female / ped_f_4 (script@mp@introflow@teamonfoot.yas) (mp005), 4cc922
 2.353937, 16.465240, 0.797077, w_sp_bowarrow / bow_male_9 (script@mp@introflow@teamonfoot.yas) (mp005), 4cc922
 1.205513, 13.797970, 0.605182, mp005_s_mp_lassorope01x / lasso_rope_male1 (script@mp@introflow@teamonfoot.yas) (mp005), 4cc922
--0.023123, 9.087310, 1.379191, None / 0xA4071916 (script@mp@introflow@teamonfoot.yas) (mp005), null
+-0.023123, 9.087310, 1.379191, None / camera4x4_v2 (script@mp@introflow@teamonfoot.yas) (mp005), null
 0.447080, 16.574310, 0.879881, w_sp_bowarrow / bow_female_12 (script@mp@introflow@teamonfoot.yas) (mp005), 4cc922
 4.206306, 18.196330, 0.795536, p_cs_melee_lasso01 / lasso_bundle_female14 (script@mp@introflow@teamonfoot.yas) (mp005), 4cc922
 -2.703561, 15.170070, 0.833504, mp005_s_mp_lassoloop01x / lasso_noose_female6 (script@mp@introflow@teamonfoot.yas) (mp005), 4cc922
@@ -8097,12 +8097,12 @@ Blue Marker = n/a
 -1.755282, 12.984120, 0.867368, w_sp_bowarrow / bow_male_2 (script@mp@introflow@teamonfoot.yas) (mp005), 4cc922
 -1.650031, 14.997100, 0.801636, p_cs_melee_lasso01 / lasso_bundle_female13 (script@mp@introflow@teamonfoot.yas) (mp005), 4cc922
 -1.825703, 15.285140, 0.649504, w_sp_bowarrow_arrow / arrow_male_10 (script@mp@introflow@teamonfoot.yas) (mp005), 4cc922
-0.789715, 7.229479, 1.100914, None / 0xCEE96A40 (script@mp@introflow@teamonfoot.yas) (mp005), null
+0.789715, 7.229479, 1.100914, None / camera8x8_v2 (script@mp@introflow@teamonfoot.yas) (mp005), null
 -0.026401, 15.046050, 0.816009, p_cs_melee_lasso01 / lasso_bundle_female8 (script@mp@introflow@teamonfoot.yas) (mp005), 4cc922
 -3.276620, 13.083640, 0.788304, mp005_s_mp_lassoloop01x / lasso_noose_female4 (script@mp@introflow@teamonfoot.yas) (mp005), 4cc922
 0.833913, 11.830480, 0.884073, w_sp_bowarrow / bow_female_0 (script@mp@introflow@teamonfoot.yas) (mp005), 4cc922
 -3.342092, 16.042020, 0.952967, w_sp_bowarrow / bow_male_15 (script@mp@introflow@teamonfoot.yas) (mp005), 4cc922
-0.789714, 7.229478, 1.100914, None / 0xDD4386F4 (script@mp@introflow@teamonfoot.yas) (mp005), null
+0.789714, 7.229478, 1.100914, None / camera8x8_v3 (script@mp@introflow@teamonfoot.yas) (mp005), null
 1.284665, 14.487200, 0.929195, w_sp_bowarrow / bow_male_3 (script@mp@introflow@teamonfoot.yas) (mp005), 4cc922
 -3.634616, 15.458520, 1.017220, w_sp_bowarrow / bow_female_15 (script@mp@introflow@teamonfoot.yas) (mp005), 4cc922
 -2.443352, 13.291500, 0.838162, p_cs_melee_lasso01 / lasso_bundle_female2 (script@mp@introflow@teamonfoot.yas) (mp005), 4cc922
@@ -8121,14 +8121,14 @@ Blue Marker = n/a
 -3.310496, 15.792080, 1.040628, mp_female / ped_f_15 (script@mp@introflow@teamonfoot.yas) (mp005), 4cc922
 2.168464, 16.295630, 0.881194, w_sp_bowarrow / bow_female_9 (script@mp@introflow@teamonfoot.yas) (mp005), 4cc922
 0.612798, 7.217326, 1.278805, None / camera8x8 (script@mp@introflow@teamonfoot_predator.yas) (mp005), null
-0.390280, 7.835844, 1.251017, None / 0x49819A66 (script@mp@introflow@teamonfoot_predator.yas) (mp005), null
-0.650816, 5.701619, 0.948436, None / 0x591C399B (script@mp@introflow@teamonfoot_predator.yas) (mp005), null
-1.384026, 6.546286, 1.206525, None / 0x5F3D0F7F (script@mp@introflow@teamonfoot_predator.yas) (mp005), null
+0.390280, 7.835844, 1.251017, None / camera16x16_v2 (script@mp@introflow@teamonfoot_predator.yas) (mp005), null
+0.650816, 5.701619, 0.948436, None / camera16x16_v3 (script@mp@introflow@teamonfoot_predator.yas) (mp005), null
+1.384026, 6.546286, 1.206525, None / camera4x4_v3 (script@mp@introflow@teamonfoot_predator.yas) (mp005), null
 0.599427, 7.215692, 1.151107, None / camera4x4 (script@mp@introflow@teamonfoot_predator.yas) (mp005), null
 0.467913, 7.199702, 0.948436, None / camera16x16 (script@mp@introflow@teamonfoot_predator.yas) (mp005), null
--0.023123, 9.087310, 1.379191, None / 0xA4071916 (script@mp@introflow@teamonfoot_predator.yas) (mp005), null
-0.789715, 7.229479, 1.100914, None / 0xCEE96A40 (script@mp@introflow@teamonfoot_predator.yas) (mp005), null
-0.789714, 7.229478, 1.100914, None / 0xDD4386F4 (script@mp@introflow@teamonfoot_predator.yas) (mp005), null
+-0.023123, 9.087310, 1.379191, None / camera4x4_v2 (script@mp@introflow@teamonfoot_predator.yas) (mp005), null
+0.789715, 7.229479, 1.100914, None / camera8x8_v2 (script@mp@introflow@teamonfoot_predator.yas) (mp005), null
+0.789714, 7.229478, 1.100914, None / camera8x8_v3 (script@mp@introflow@teamonfoot_predator.yas) (mp005), null
 -0.301626, 18.140360, 1.881990, mp005_s_mp_lassoloop01x / 0x03CEF4C0 (script@mp@introflow@teamonhorse.yas) (mp005), 4cc922
 -3.195792, 11.341590, 0.977752, p_c_horse_01 / horse_5 (script@mp@introflow@teamonhorse.yas) (mp005), 4cc922
 -0.283577, 18.824290, 1.558340, w_sp_bowarrow / bow_female_14 (script@mp@introflow@teamonhorse.yas) (mp005), 4cc922
@@ -8146,11 +8146,11 @@ Blue Marker = n/a
 -2.890739, 10.027830, 1.354847, mp_male / ped_m_13 (script@mp@introflow@teamonhorse.yas) (mp005), 4cc922
 0.731657, 3.859823, 2.224785, None / camera (script@mp@introflow@teamonhorse.yas) (mp005), null
 -2.993336, 11.741600, 1.616178, w_sp_bowarrow / bow_female_5 (script@mp@introflow@teamonhorse.yas) (mp005), 4cc922
--0.199595, 6.932107, 1.960187, mp005_s_mp_lassoloop01x / 0x2A23F931 (script@mp@introflow@teamonhorse.yas) (mp005), 4cc922
+-0.199595, 6.932107, 1.960187, mp005_s_mp_lassoloop01x / lasso_loop_3 (script@mp@introflow@teamonhorse.yas) (mp005), 4cc922
 0.287862, 11.594940, 0.972442, p_c_horse_01 / horse_0 (script@mp@introflow@teamonhorse.yas) (mp005), 4cc922
 -2.910449, 10.028600, 0.980812, p_c_horse_01 / horse_13 (script@mp@introflow@teamonhorse.yas) (mp005), 4cc922
 -0.867904, 5.715425, 1.005415, p_c_horse_01 / horse_7 (script@mp@introflow@teamonhorse.yas) (mp005), 4cc922
--1.129561, 15.109510, 1.800727, mp005_s_mp_lassoloop01x / 0x30E406B5 (script@mp@introflow@teamonhorse.yas) (mp005), 4cc922
+-1.129561, 15.109510, 1.800727, mp005_s_mp_lassoloop01x / lasso_loop_2 (script@mp@introflow@teamonhorse.yas) (mp005), 4cc922
 -0.532309, 18.511390, 1.368830, mp_male / ped_m_14 (script@mp@introflow@teamonhorse.yas) (mp005), 4cc922
 1.244077, 19.384240, 1.632921, mp005_s_mp_lassoloop01x / 0x385A5D92 (script@mp@introflow@teamonhorse.yas) (mp005), 4cc922
 -0.179082, 19.012810, 1.255798, w_sp_bowarrow_arrow / arrow_14 (script@mp@introflow@teamonhorse.yas) (mp005), 4cc922
@@ -8172,7 +8172,7 @@ Blue Marker = n/a
 -0.860791, 16.083800, 1.296389, w_sp_bowarrow_arrow / arrow_12 (script@mp@introflow@teamonhorse.yas) (mp005), 4cc922
 -3.180684, 11.346120, 1.389394, mp_male / ped_m_5 (script@mp@introflow@teamonhorse.yas) (mp005), 4cc922
 -1.378758, 7.916497, 1.379812, mp_male / ped_m_9 (script@mp@introflow@teamonhorse.yas) (mp005), 4cc922
--3.317114, 8.744227, 1.714900, mp005_s_mp_lassoloop01x / 0x62126911 (script@mp@introflow@teamonhorse.yas) (mp005), 4cc922
+-3.317114, 8.744227, 1.714900, mp005_s_mp_lassoloop01x / lasso_loop_1 (script@mp@introflow@teamonhorse.yas) (mp005), 4cc922
 -1.236217, 16.602620, 0.964290, p_c_horse_01 / horse_12 (script@mp@introflow@teamonhorse.yas) (mp005), 4cc922
 -1.205229, 16.594060, 1.406920, mp_female / ped_f_12 (script@mp@introflow@teamonhorse.yas) (mp005), 4cc922
 1.228345, 20.896630, 1.740042, w_sp_bowarrow_arrow / arrow_6 (script@mp@introflow@teamonhorse.yas) (mp005), 4cc922
@@ -8219,7 +8219,7 @@ Blue Marker = n/a
 -1.129630, 15.109450, 1.800585, p_cs_melee_lasso01 / 0xB780E6AE (script@mp@introflow@teamonhorse.yas) (mp005), 4cc922
 1.248384, 19.399080, 1.627751, p_cs_melee_lasso01 / 0xB9D9FA17 (script@mp@introflow@teamonhorse.yas) (mp005), 4cc922
 -0.268500, 18.146700, 1.888119, mp005_s_mp_lassorope01x / lasso_rope_14 (script@mp@introflow@teamonhorse.yas) (mp005), 4cc922
--2.943782, 10.893140, 1.916823, mp005_s_mp_lassoloop01x / 0xBD98A01C (script@mp@introflow@teamonhorse.yas) (mp005), 4cc922
+-2.943782, 10.893140, 1.916823, mp005_s_mp_lassoloop01x / lasso_loop_5 (script@mp@introflow@teamonhorse.yas) (mp005), 4cc922
 -3.279953, 9.177847, 0.983003, p_c_horse_01 / horse_1 (script@mp@introflow@teamonhorse.yas) (mp005), 4cc922
 1.383407, 19.529060, 1.546633, w_sp_bowarrow / bow_female_10 (script@mp@introflow@teamonhorse.yas) (mp005), 4cc922
 -2.821424, 9.221139, 1.712155, w_sp_bowarrow / bow_male_1 (script@mp@introflow@teamonhorse.yas) (mp005), 4cc922
@@ -8249,7 +8249,7 @@ Blue Marker = n/a
 -2.818910, 10.269160, 1.699611, mp005_s_mp_lassoloop01x / 0xF196504F (script@mp@introflow@teamonhorse.yas) (mp005), 4cc922
 -2.497730, 10.057710, 1.727535, w_sp_bowarrow / bow_female_13 (script@mp@introflow@teamonhorse.yas) (mp005), 4cc922
 -1.378791, 7.916588, 1.379751, mp_female / ped_f_9 (script@mp@introflow@teamonhorse.yas) (mp005), 4cc922
--1.888391, 17.943020, 1.715315, mp005_s_mp_lassoloop01x / 0xF8B59655 (script@mp@introflow@teamonhorse.yas) (mp005), 4cc922
+-1.888391, 17.943020, 1.715315, mp005_s_mp_lassoloop01x / lasso_loop_4 (script@mp@introflow@teamonhorse.yas) (mp005), 4cc922
 0.500335, 12.530420, 1.398491, mp_male / ped_m_11 (script@mp@introflow@teamonhorse.yas) (mp005), 4cc922
 0.767739, 20.128730, 1.635199, p_cs_melee_lasso01 / 0xFB8D6EDA (script@mp@introflow@teamonhorse.yas) (mp005), 4cc922
 0.746688, 20.524260, 0.950733, p_c_horse_01 / horse_6 (script@mp@introflow@teamonhorse.yas) (mp005), 4cc922
@@ -8485,7 +8485,7 @@ Blue Marker = n/a
 -5540.908410, -2938.108311, 1.649987, p_cs_noose01x / p_cs_noose01x (script@mpstory@mpgun4@ig@ig_9_beforehangingloops@loops.yas) (mp005), 4cc922
 -5540.837590, -2937.390848, 1.158592, mp_g_m_m_unibanditos_01 / mp_g_m_m_unibanditos_01^1 (script@mpstory@mpgun4@ig@ig_9_beforehangingloops@loops.yas) (mp005), 4cc922
 -5540.931020, -2938.180424, 1.234900, s_ropehogtiehandsmedium01x / s_ropehogtiehandsmedium01x (script@mpstory@mpgun4@ig@ig_9_beforehangingloops@loops.yas) (mp005), 4cc922
--5540.341320, -2936.825108, 1.179138, cs_mp_sherifffreeman / 0xFA6AA21A (script@mpstory@mpgun4@ig@ig_9_beforehangingloops@loops.yas) (mp005), 4cc922
+-5540.341320, -2936.825108, 1.179138, cs_mp_sherifffreeman / ig_mp_sherifffreeman (script@mpstory@mpgun4@ig@ig_9_beforehangingloops@loops.yas) (mp005), 4cc922
 -5540.936020, -2938.989487, 1.116724, cs_mp_marshall_davies / 0x12A97BA3 (script@mpstory@mpgun4@ig@mpgun4_ig6_ig7_tomdavieshanging@mpgun4_ig6_ig7_tomdavieshanging.yas) (mp005), 4cc922
 -5540.991630, -2938.941563, 0.254653, s_ropehogtielegs01x / s_ropehogtielegs01x (script@mpstory@mpgun4@ig@mpgun4_ig6_ig7_tomdavieshanging@mpgun4_ig6_ig7_tomdavieshanging.yas) (mp005), 4cc922
 -5541.181450, -2938.841900, 1.218001, s_ropehogtiehands01x / s_ropehogtiehands01x (script@mpstory@mpgun4@ig@mpgun4_ig6_ig7_tomdavieshanging@mpgun4_ig6_ig7_tomdavieshanging.yas) (mp005), 4cc922
@@ -8633,7 +8633,7 @@ Blue Marker = n/a
 -559.414990, -3678.837380, 82.941829, mp_male / dead_11 (0x3C55AA4A.yas) (mp006), 4cc922
 -560.996673, -3683.587060, 82.975095, mp_female / win_04f (0x3C55AA4A.yas) (mp006), 4cc922
 -559.414990, -3678.837380, 82.941829, mp_female / dead_11f (0x3C55AA4A.yas) (mp006), 4cc922
--559.201340, -3687.601120, 83.561525, None / 0x1B403C98 (0x3C55AA4A.yas) (mp006), null
+-559.201340, -3687.601120, 83.561525, None / camera_losers_v2 (0x3C55AA4A.yas) (mp006), null
 -562.834080, -3686.280830, 82.961421, mp_male / dead_09 (0x3C55AA4A.yas) (mp006), 4cc922
 -556.533440, -3686.991530, 82.930685, mp_male / dead_06 (0x3C55AA4A.yas) (mp006), 4cc922
 -559.201340, -3687.601120, 83.561525, None / camera_v3 (0x3C55AA4A.yas) (mp006), null
@@ -8645,7 +8645,7 @@ Blue Marker = n/a
 -561.632082, -3682.429980, 82.973654, mp_male / dead_08 (0x3C55AA4A.yas) (mp006), 4cc922
 -557.559170, -3684.139520, 82.975095, mp_male / win_03 (0x3C55AA4A.yas) (mp006), 4cc922
 -559.110250, -3686.120560, 82.975095, mp_male / win_01 (0x3C55AA4A.yas) (mp006), 4cc922
--559.201340, -3687.601120, 83.561525, None / 0x6EE9E3EA (0x3C55AA4A.yas) (mp006), null
+-559.201340, -3687.601120, 83.561525, None / camera_losers_v1 (0x3C55AA4A.yas) (mp006), null
 -561.451619, -3690.693860, 82.977393, mp_female / dead_07f (0x3C55AA4A.yas) (mp006), 4cc922
 -561.451619, -3690.693860, 82.977393, mp_male / dead_07 (0x3C55AA4A.yas) (mp006), 4cc922
 -559.201340, -3687.601120, 83.561525, None / camera_v1 (0x3C55AA4A.yas) (mp006), null
@@ -8655,7 +8655,7 @@ Blue Marker = n/a
 -558.221910, -3691.706670, 82.991142, mp_female / dead_05f (0x3C55AA4A.yas) (mp006), 4cc922
 -559.110250, -3686.120560, 82.975095, mp_female / win_01f (0x3C55AA4A.yas) (mp006), 4cc922
 -559.830580, -3685.145020, 82.975095, mp_female / win_02f (0x3C55AA4A.yas) (mp006), 4cc922
--559.201340, -3687.601120, 83.561525, None / 0xC5E811E5 (0x3C55AA4A.yas) (mp006), null
+-559.201340, -3687.601120, 83.561525, None / camera_losers_v3 (0x3C55AA4A.yas) (mp006), null
 -558.152770, -3682.400950, 82.960093, mp_female / dead_10f (0x3C55AA4A.yas) (mp006), 4cc922
 -558.152770, -3682.400950, 82.960093, mp_male / dead_10 (0x3C55AA4A.yas) (mp006), 4cc922
 -558.219950, -3691.700420, 82.960093, mp_male / dead_05 (0x3C55AA4A.yas) (mp006), 4cc922
@@ -8701,7 +8701,7 @@ Blue Marker = n/a
 1244.905535, 38.948350, 92.086794, a_c_horse_kentuckysaddle_black / 0xFC98CA7F (0x46D874CB.yas) (mp006), 4cc922
 -559.389100, -3691.536300, 82.939999, mp_female / dead_02f (0x4C1849CF.yas) (mp006), 4cc922
 -559.806410, -3687.296360, 82.966216, mp_female / win_04f (0x4C1849CF.yas) (mp006), 4cc922
--558.828440, -3685.530780, 83.525411, None / 0x1B403C98 (0x4C1849CF.yas) (mp006), null
+-558.828440, -3685.530780, 83.525411, None / camera_losers_v2 (0x4C1849CF.yas) (mp006), null
 -556.593420, -3688.917620, 82.940000, mp_female / dead_03f (0x4C1849CF.yas) (mp006), 4cc922
 -557.575920, -3679.753760, 82.940001, mp_male / dead_06 (0x4C1849CF.yas) (mp006), 4cc922
 -559.389100, -3691.536300, 82.939999, mp_male / dead_02 (0x4C1849CF.yas) (mp006), 4cc922
@@ -8713,7 +8713,7 @@ Blue Marker = n/a
 -556.232050, -3691.484820, 82.939999, mp_male / dead_08 (0x4C1849CF.yas) (mp006), 4cc922
 -557.573430, -3688.677940, 82.950814, mp_male / win_03 (0x4C1849CF.yas) (mp006), 4cc922
 -558.400240, -3691.094660, 82.960193, mp_male / win_01 (0x4C1849CF.yas) (mp006), 4cc922
--558.828440, -3685.530780, 83.525411, None / 0x6EE9E3EA (0x4C1849CF.yas) (mp006), null
+-558.828440, -3685.530780, 83.525411, None / camera_losers_v1 (0x4C1849CF.yas) (mp006), null
 -563.412421, -3681.039290, 82.940001, mp_female / dead_07f (0x4C1849CF.yas) (mp006), 4cc922
 -563.412421, -3681.039290, 82.940001, mp_male / dead_07 (0x4C1849CF.yas) (mp006), 4cc922
 -558.828440, -3685.530780, 83.525411, None / camera_v1 (0x4C1849CF.yas) (mp006), null
@@ -8723,7 +8723,7 @@ Blue Marker = n/a
 -555.761350, -3684.612730, 82.940000, mp_female / dead_05f (0x4C1849CF.yas) (mp006), 4cc922
 -558.407120, -3691.108610, 82.917621, mp_female / win_01f (0x4C1849CF.yas) (mp006), 4cc922
 -559.270310, -3689.382600, 82.940000, mp_female / win_02f (0x4C1849CF.yas) (mp006), 4cc922
--558.828440, -3685.530780, 83.525411, None / 0xC5E811E5 (0x4C1849CF.yas) (mp006), null
+-558.828440, -3685.530780, 83.525411, None / camera_losers_v3 (0x4C1849CF.yas) (mp006), null
 -561.381980, -3687.280060, 82.940000, mp_female / dead_01f (0x4C1849CF.yas) (mp006), 4cc922
 -561.661330, -3683.623600, 82.940001, mp_female / dead_04f (0x4C1849CF.yas) (mp006), 4cc922
 -561.661329, -3683.623600, 82.940001, mp_male / dead_04 (0x4C1849CF.yas) (mp006), 4cc922
@@ -8741,7 +8741,7 @@ Blue Marker = n/a
 0.000000, 0.000000, 0.000000, mp_female / mp_female^2 (0x5CDE59F9.yas) (mp006), c92222
 0.000000, 0.000000, 0.000000, mp_male / mp_male^2 (0x5CDE59F9.yas) (mp006), c92222
 -560.886771, -3683.949340, 82.939999, mp_female / win_04f (0x6381BD8C.yas) (mp006), 4cc922
--558.844430, -3686.992180, 83.573966, None / 0x1B403C98 (0x6381BD8C.yas) (mp006), null
+-558.844430, -3686.992180, 83.573966, None / camera_losers_v2 (0x6381BD8C.yas) (mp006), null
 -554.555510, -3693.410650, 82.940000, mp_male / townfolk_02 (0x6381BD8C.yas) (mp006), 4cc922
 -558.844430, -3686.992180, 83.573966, None / camera_v3 (0x6381BD8C.yas) (mp006), null
 -560.855346, -3683.832920, 82.939999, mp_male / win_04 (0x6381BD8C.yas) (mp006), 4cc922
@@ -8750,7 +8750,7 @@ Blue Marker = n/a
 -559.631060, -3684.586460, 82.940000, mp_male / win_03 (0x6381BD8C.yas) (mp006), 4cc922
 -563.625294, -3684.473700, 82.969972, mp_male / townfolk_06 (0x6381BD8C.yas) (mp006), 4cc922
 -558.892150, -3685.666390, 82.940000, mp_male / win_01 (0x6381BD8C.yas) (mp006), 4cc922
--558.844430, -3686.992180, 83.573966, None / 0x6EE9E3EA (0x6381BD8C.yas) (mp006), null
+-558.844430, -3686.992180, 83.573966, None / camera_losers_v1 (0x6381BD8C.yas) (mp006), null
 -558.844430, -3686.992180, 83.573966, None / camera_v1 (0x6381BD8C.yas) (mp006), null
 -558.142320, -3684.763760, 82.940000, mp_male / win_02 (0x6381BD8C.yas) (mp006), 4cc922
 -561.346702, -3681.763040, 82.984657, mp_male / townfolk_05 (0x6381BD8C.yas) (mp006), 4cc922
@@ -8758,7 +8758,7 @@ Blue Marker = n/a
 -559.541840, -3689.023380, 82.940000, mp_female / townfolk_04 (0x6381BD8C.yas) (mp006), 4cc922
 -558.886380, -3685.835140, 82.940000, mp_female / win_01f (0x6381BD8C.yas) (mp006), 4cc922
 -558.185070, -3684.917600, 82.940000, mp_female / win_02f (0x6381BD8C.yas) (mp006), 4cc922
--558.844430, -3686.992180, 83.573966, None / 0xC5E811E5 (0x6381BD8C.yas) (mp006), null
+-558.844430, -3686.992180, 83.573966, None / camera_losers_v3 (0x6381BD8C.yas) (mp006), null
 -556.026960, -3686.103480, 82.940000, mp_male / townfolk_07 (0x6381BD8C.yas) (mp006), 4cc922
 -559.651580, -3684.741050, 82.940000, mp_female / win_03f (0x6381BD8C.yas) (mp006), 4cc922
 -558.979850, -3681.794880, 82.970515, mp_male / townfolk_08 (0x6381BD8C.yas) (mp006), 4cc922
@@ -8947,7 +8947,7 @@ Blue Marker = n/a
 -2776.910790, -3050.082331, -8.714649, mp_male / mp_player_m_2 (cutscene@moon1_ext.yas) (mp006), 4cc922
 -2778.979072, -3047.965804, -8.873040, mp006_p_cs_canegun01x / maggie_cane (cutscene@moon1_ext.yas) (mp006), 4cc922
 -2775.702581, -3047.115147, -8.692828, mp_female / mp_player_f_2 (cutscene@moon1_int.yas) (mp006), 4cc922
--2779.532303, -3047.599423, -9.624511, p_diningchairs01x / 0x0245C6B7 (cutscene@moon1_int.yas) (mp006), 4cc922
+-2779.532303, -3047.599423, -9.624511, p_diningchairs01x / maggie_office_chair (cutscene@moon1_int.yas) (mp006), 4cc922
 -2775.920338, -3043.457445, -9.692669, p_chair20x / 0x1AADD46C (cutscene@moon1_int.yas) (mp006), 4cc922
 -2778.352803, -3046.650573, -8.358689, None / exportcamera (cutscene@moon1_int.yas) (mp006), null
 -2772.660168, -3043.504015, -8.686716, mp_female / mp_player_f_3 (cutscene@moon1_int.yas) (mp006), 4cc922
@@ -9345,7 +9345,7 @@ Blue Marker = n/a
 -2775.006889, -3045.067230, -8.797850, mp006_p_cs_canegun01x / maggie_cane (cutscene@moon5_ext.yas) (mp006), 4cc922
 -2776.200988, -3043.111310, -8.899620, mp006_s_glass_moonshine01x / 0xFF024E2E (cutscene@moon5_ext.yas) (mp006), 4cc922
 -2776.044240, -3046.280938, -8.723968, mp_female / mp_player_f_2 (cutscene@moon5_int.yas) (mp006), 4cc922
--2779.551610, -3047.558081, -9.687426, p_diningchairs01x / 0x0245C6B7 (cutscene@moon5_int.yas) (mp006), 4cc922
+-2779.551610, -3047.558081, -9.687426, p_diningchairs01x / maggie_office_chair (cutscene@moon5_int.yas) (mp006), 4cc922
 -2777.312937, -3050.363720, -9.686386, p_doorsgl02x / shack_door_3 (cutscene@moon5_int.yas) (mp006), 4cc922
 -2771.089890, -3043.510750, -8.850197, p_barrel12x / barrel (cutscene@moon5_int.yas) (mp006), 4cc922
 -2770.797870, -3044.121937, -8.905794, mp006_s_mp_interact_jug / moonshine_jug_2 (cutscene@moon5_int.yas) (mp006), 4cc922
@@ -9389,7 +9389,7 @@ Blue Marker = n/a
 -2774.707314, -3044.229750, -8.708807, mp_male / mp_player_m_2 (cutscene@moon5_int.yas) (mp006), 4cc922
 -2773.929945, -3044.466333, -8.797781, mp006_p_cs_canegun01x / maggie_cane (cutscene@moon5_int.yas) (mp006), 4cc922
 -2774.764283, -3044.459628, -8.685707, mp_female / mp_player_f_2 (cutscene@moon5_int.yas) (mp006), 4cc922
--2779.579933, -3047.563577, -9.692565, p_diningchairs01x / 0x0245C6B7 (cutscene@moon5_int.yas) (mp006), 4cc922
+-2779.579933, -3047.563577, -9.692565, p_diningchairs01x / maggie_office_chair (cutscene@moon5_int.yas) (mp006), 4cc922
 -2774.017527, -3047.674755, -9.703614, p_doorsgl02x / shack_door_3 (cutscene@moon5_int.yas) (mp006), 4cc922
 -2771.306220, -3043.768602, -8.758297, p_barrel12x / barrel (cutscene@moon5_int.yas) (mp006), 4cc922
 -2770.699750, -3044.072496, -8.884876, mp006_s_mp_interact_jug / moonshine_jug_2 (cutscene@moon5_int.yas) (mp006), 4cc922
@@ -10481,7 +10481,7 @@ Blue Marker = n/a
 0.000000, 0.000000, 0.000000, mp_g_m_o_uniexconfeds_01 / mp_g_m_o_uniexconfeds_01 (script@mp@moonshiner@story_missions@moon5@ig5_enemy_onfire@enemy_onfire_03.yas) (mp006), 4cc922
 0.000000, 0.000000, 0.000000, mp_g_m_o_uniexconfeds_01 / mp_g_m_o_uniexconfeds_01 (script@mp@moonshiner@story_missions@moon5@ig5_enemy_onfire@enemy_onfire_04.yas) (mp006), 4cc922
 0.000000, 0.000000, 0.000000, mp_g_m_o_uniexconfeds_01 / mp_g_m_o_uniexconfeds_01 (script@mp@moonshiner@story_missions@moon5@ig5_enemy_onfire@enemy_onfire_05.yas) (mp006), 4cc922
-2017.252096, -1479.426144, 43.250000, cs_mp_dannylee / 0x204F968B (script@mp@moonshiner@story_missions@moon5@ig6_danny_injured@ig6_danny_injured.yas) (mp006), 4cc922
+2017.252096, -1479.426144, 43.250000, cs_mp_dannylee / ig_mp_dannylee (script@mp@moonshiner@story_missions@moon5@ig6_danny_injured@ig6_danny_injured.yas) (mp006), 4cc922
 -0.433141, 0.542763, 1.009939, mp_female / mp_player_f_2 (script@mp@moonshiner@story_missions@respawns.yas) (mp006), 4cc922
 -0.990960, 4.841666, 0.997613, None / camera (script@mp@moonshiner@story_missions@respawns.yas) (mp006), null
 -1.121190, 0.779969, 1.009939, mp_female / mp_player_f_3 (script@mp@moonshiner@story_missions@respawns.yas) (mp006), 4cc922
@@ -11302,7 +11302,7 @@ Blue Marker = n/a
 -0.382398, 0.476456, 1.061039, p_lantern05x / p_lantern05x (script@mp@test@distance@road_ambush.yas) (mp007), 4cc922
 0.239964, 0.047442, 0.922038, w_revolver_cattleman01 / w_revolver_cattleman01 (script@mp@test@distance@road_ambush.yas) (mp007), 4cc922
 0.030324, 0.010887, 1.010000, a_m_m_jamesonguard_01 / ig_genstorymale (script@mp@test@distance@road_ambush.yas) (mp007), 4cc922
-2017.252000, -1479.426000, 43.250000, cs_mp_dannylee / 0x204F968B (script@mp@test@heading@danny_injured@ig6_danny_injured.yas) (mp007), 4cc922
+2017.252000, -1479.426000, 43.250000, cs_mp_dannylee / ig_mp_dannylee (script@mp@test@heading@danny_injured@ig6_danny_injured.yas) (mp007), 4cc922
 -2031.409180, 973.090710, 153.375383, mp_female / mp_player_f_2 (0x10987CF1.yas) (mp008), 4cc922
 -2031.388793, 973.088630, 152.947343, a_c_horse_thoroughbred_bloodbay / 0x0099A80B (0x10987CF1.yas) (mp008), 4cc922
 -2022.713131, 991.849093, 159.021396, None / camera (0x10987CF1.yas) (mp008), null
@@ -12141,7 +12141,7 @@ Blue Marker = n/a
 625.527493, 366.670249, 106.386921, mp_female / mp_player_f_4 (0x688DC87F.yas) (mp009), 4cc922
 623.963225, 367.393841, 106.476921, mp_male / mp_player_m_2 (0x688DC87F.yas) (mp009), 4cc922
 -561.075876, -3683.480610, 82.973000, mp_female / win_04f (0x6C2ADA98.yas) (mp009), 4cc922
--559.202220, -3687.622860, 83.540245, None / 0x1B403C98 (0x6C2ADA98.yas) (mp009), null
+-559.202220, -3687.622860, 83.540245, None / camera_losers_v2 (0x6C2ADA98.yas) (mp009), null
 -556.533440, -3686.991530, 82.961170, mp_male / townfolk_02 (0x6C2ADA98.yas) (mp009), 4cc922
 -559.202220, -3687.622860, 83.540245, None / camera_v3 (0x6C2ADA98.yas) (mp009), null
 -561.075876, -3683.497380, 82.959533, mp_male / win_04 (0x6C2ADA98.yas) (mp009), 4cc922
@@ -12151,7 +12151,7 @@ Blue Marker = n/a
 -557.559170, -3684.139520, 82.943419, mp_male / win_03 (0x6C2ADA98.yas) (mp009), 4cc922
 -558.152770, -3682.400950, 82.951954, mp_male / townfolk_06 (0x6C2ADA98.yas) (mp009), 4cc922
 -559.110250, -3686.120560, 82.948202, mp_male / win_01 (0x6C2ADA98.yas) (mp009), 4cc922
--559.202220, -3687.622860, 83.540245, None / 0x6EE9E3EA (0x6C2ADA98.yas) (mp009), null
+-559.202220, -3687.622860, 83.540245, None / camera_losers_v1 (0x6C2ADA98.yas) (mp009), null
 -559.202220, -3687.622860, 83.540245, None / camera_v1 (0x6C2ADA98.yas) (mp009), null
 -559.829100, -3682.842690, 82.963900, mp_female / townfolk_07f (0x6C2ADA98.yas) (mp009), 4cc922
 -559.844620, -3685.145020, 82.963882, mp_male / win_02 (0x6C2ADA98.yas) (mp009), 4cc922
@@ -12164,7 +12164,7 @@ Blue Marker = n/a
 -560.886543, -3688.110600, 82.983600, mp_female / townfolk_08f (0x6C2ADA98.yas) (mp009), 4cc922
 -559.830580, -3685.145020, 82.975200, mp_female / win_02f (0x6C2ADA98.yas) (mp009), 4cc922
 -562.834080, -3686.280830, 82.984700, mp_female / townfolk_05f (0x6C2ADA98.yas) (mp009), 4cc922
--559.202220, -3687.622860, 83.540245, None / 0xC5E811E5 (0x6C2ADA98.yas) (mp009), null
+-559.202220, -3687.622860, 83.540245, None / camera_losers_v3 (0x6C2ADA98.yas) (mp009), null
 -559.829080, -3682.842740, 82.968246, mp_male / townfolk_07 (0x6C2ADA98.yas) (mp009), 4cc922
 -557.559170, -3684.139520, 82.954900, mp_female / win_03f (0x6C2ADA98.yas) (mp009), 4cc922
 -558.221910, -3691.706670, 82.988900, mp_female / townfolk_01f (0x6C2ADA98.yas) (mp009), 4cc922
@@ -12298,7 +12298,7 @@ Blue Marker = n/a
 2500.954370, -1236.757300, 49.094390, a_c_horse_belgian_mealychestnut / horse_01 (cutscene@law_int.yas) (mp009), 4cc922
 2510.580640, -1241.035549, 50.235501, None / exportcamera (cutscene@law_int.yas) (mp009), null
 2501.005110, -1239.700613, 49.918330, mp_u_m_m_outlaw_coachdriver_01 / law_coach1 (cutscene@law_int.yas) (mp009), 4cc922
-2501.444720, -1239.664991, 50.260106, p_cigarette01x / 0x7A4BA66D (cutscene@law_int.yas) (mp009), 4cc922
+2501.444720, -1239.664991, 50.260106, p_cigarette01x / law_coach1_cigarette01 (cutscene@law_int.yas) (mp009), 4cc922
 2507.851370, -1240.409070, 50.036268, mp_guidomartelli / guido_martelli (cutscene@law_int.yas) (mp009), 4cc922
 2507.806510, -1241.502734, 50.082135, mp_female / mp_player_f_1 (cutscene@law_int.yas) (mp009), 4cc922
 2507.806430, -1241.499395, 50.056255, mp_male / mp_player_m_1 (cutscene@law_int.yas) (mp009), 4cc922
@@ -12355,7 +12355,7 @@ Blue Marker = n/a
 2529.940986, -1241.463981, 50.077003, mp009_p_revolver_cattleman_cut / lambert_revolver (cutscene@law_int.yas) (mp009), 4cc922
 2530.137151, -1241.408481, 50.004656, cs_mp_policechief_lambert / lambert (cutscene@law_int.yas) (mp009), 4cc922
 2530.646814, -1241.528578, 50.110606, p_handcuffs02x / 0x71242835 (cutscene@law_int.yas) (mp009), 4cc922
-2501.476620, -1239.264593, 50.226953, p_cigarette01x / 0x7A4BA66D (cutscene@law_int.yas) (mp009), 4cc922
+2501.476620, -1239.264593, 50.226953, p_cigarette01x / law_coach1_cigarette01 (cutscene@law_int.yas) (mp009), 4cc922
 2527.476270, -1239.354894, 50.029132, mp_guidomartelli / guido_martelli (cutscene@law_int.yas) (mp009), 4cc922
 2527.738473, -1239.976311, 50.069596, mp_female / mp_player_f_1 (cutscene@law_int.yas) (mp009), 4cc922
 2527.733230, -1239.977666, 50.043937, mp_male / mp_player_m_1 (cutscene@law_int.yas) (mp009), 4cc922
@@ -13625,18 +13625,18 @@ Blue Marker = n/a
 -1487.800000, -799.200000, 104.900000, None / camera (script@mpstory@mppout3@int@session_screen.yas) (patchpack004), null
 0.476801, -0.870185, 0.249588, mp004_p_cs_jessicapurse01x / p_cs_jessicapurse01x (script@mpstory@mprev2@ig1_exitwagon@ig1_exitwagon.yas) (patchpack004), 4cc922
 0.309556, -0.689844, 0.500648, cs_mp_jessica / ig_mp_jessica (script@mpstory@mprev2@ig1_exitwagon@ig1_exitwagon.yas) (patchpack004), 4cc922
-0.309366, 0.586669, 1.021658, cs_mp_horley / 0xB184C687 (script@mpstory@mprev2@ig1_exitwagon@ig1_exitwagon.yas) (patchpack004), 4cc922
+0.309366, 0.586669, 1.021658, cs_mp_horley / ig_mp_horley (script@mpstory@mprev2@ig1_exitwagon@ig1_exitwagon.yas) (patchpack004), 4cc922
 0.309556, -0.689565, 0.500410, cs_mp_jessica / ig_mp_jessica (script@mpstory@mprev2@ig1_exitwagon@ig1_exitwagon.yas) (patchpack004), 4cc922
 -798.668945, -1202.476471, 44.193499, cs_mp_jeremiah_shaw / jeremiah_shaw (script@mpstory@mprev2@ig4_confrontation@ig4_confrontation.yas) (patchpack004), 4cc922
--798.189117, -1212.309910, 43.386125, cs_mp_horley / 0xB184C687 (script@mpstory@mprev2@ig4_confrontation@ig4_confrontation.yas) (patchpack004), 4cc922
+-798.189117, -1212.309910, 43.386125, cs_mp_horley / ig_mp_horley (script@mpstory@mprev2@ig4_confrontation@ig4_confrontation.yas) (patchpack004), 4cc922
 -798.621386, -1202.504843, 44.483194, p_cs_letter03x / p_cs_letter03x (script@mpstory@mprev2@ig4_confrontation@ig4_confrontation.yas) (patchpack004), 4cc922
 -798.624206, -1202.444409, 44.193499, cs_mp_jeremiah_shaw / jeremiah_shaw (script@mpstory@mprev2@ig4_confrontation@ig4_confrontation.yas) (patchpack004), 4cc922
--797.954722, -1205.968768, 44.189143, cs_mp_horley / 0xB184C687 (script@mpstory@mprev2@ig4_confrontation@ig4_confrontation.yas) (patchpack004), 4cc922
--795.300490, -1310.526150, 42.746089, cs_mp_horley / 0xB184C687 (script@mpstory@mprev2@ig@mprev2_ig2_jcover@mprev2_ig2_jcover.yas) (patchpack004), 4cc922
+-797.954722, -1205.968768, 44.189143, cs_mp_horley / ig_mp_horley (script@mpstory@mprev2@ig4_confrontation@ig4_confrontation.yas) (patchpack004), 4cc922
+-795.300490, -1310.526150, 42.746089, cs_mp_horley / ig_mp_horley (script@mpstory@mprev2@ig@mprev2_ig2_jcover@mprev2_ig2_jcover.yas) (patchpack004), 4cc922
 -793.925715, -1310.628610, 42.908230, cs_mp_jessica / ig_mp_jessica (script@mpstory@mprev2@ig@mprev2_ig2_jcover@mprev2_ig2_jcover.yas) (patchpack004), 4cc922
 -801.038798, -1307.958400, 43.520526, cs_mp_amos_lansing / 0x29969D2A (script@mpstory@mprev2@ig@mprev2_ig2_jcover@mprev2_ig2_jcover.yas) (patchpack004), 4cc922
 -800.106503, -1311.079400, 43.311482, mp004_p_cs_jessicapurse01x / mp004_p_cs_jessicapurse01x (script@mpstory@mprev2@ig@mprev2_ig2_jcover@mprev2_ig2_jcover.yas) (patchpack004), 4cc922
--800.411851, -1311.305640, 43.557870, cs_mp_horley / 0xB184C687 (script@mpstory@mprev2@ig@mprev2_ig2_jcover@mprev2_ig2_jcover.yas) (patchpack004), 4cc922
+-800.411851, -1311.305640, 43.557870, cs_mp_horley / ig_mp_horley (script@mpstory@mprev2@ig@mprev2_ig2_jcover@mprev2_ig2_jcover.yas) (patchpack004), 4cc922
 -799.852095, -1311.509030, 43.545978, cs_mp_jessica / ig_mp_jessica (script@mpstory@mprev2@ig@mprev2_ig2_jcover@mprev2_ig2_jcover.yas) (patchpack004), 4cc922
 -1208.604000, -1951.993000, 42.719000, p_cs_book_small01x / jessica_book (script@mpstory@mprev2@int_leadin@loops.yas) (patchpack004), 4cc922
 -1205.440789, -1955.645016, 43.030633, s_penelopepurse01x / jessica_purse (script@mpstory@mprev2@int_leadin@loops.yas) (patchpack004), 4cc922

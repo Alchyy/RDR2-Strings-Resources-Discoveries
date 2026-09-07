@@ -451,7 +451,7 @@ Blue Marker = n/a
 -321.917657, 784.664923, 118.021160, male_skeleton / male_skeleton (script@ambient@town@stop_fight_attempt@action.yas) (PS4), 4cc922
 -321.970459, 784.355949, 118.021160, male_skeleton / male_skeleton (script@ambient@town@stop_fight_attempt@action.yas) (PS4), 4cc922
 -313.003121, 806.038392, 119.370908, p_cs_shotglass01x / glass (script@ambient@town@bartender_check_glass@action.yas) (PS4), 4cc922
--313.329223, 805.982900, 118.989900, male_skeleton / 0xE3E5F7E4 (script@ambient@town@bartender_check_glass@action.yas) (PS4), 4cc922
+-313.329223, 805.982900, 118.989900, male_skeleton / male_ (script@ambient@town@bartender_check_glass@action.yas) (PS4), 4cc922
 -313.435234, 804.852516, 119.322834, p_spoon01x / spoon (script@ambient@town@bartender_finish_stew@action.yas) (PS4), 4cc922
 -313.453004, 804.862520, 119.314341, p_spoon01x / spoon (script@ambient@town@bartender_finish_stew@action.yas) (PS4), 4cc922
 -313.459131, 804.812525, 119.358855, p_spoon01x / spoon (script@ambient@town@bartender_finish_stew@action.yas) (PS4), 4cc922
@@ -1721,9 +1721,9 @@ Blue Marker = n/a
 -119.058848, -27.231028, 95.438725, cs_micahbell / micah (script@vignette@micah_9@action.yas) (PS4), 4cc922
 -119.058848, -27.231028, 95.438725, cs_micahbell / micah (script@vignette@micah_9@base.yas) (PS4), 4cc922
 -119.058848, -27.231028, 95.438725, cs_micahbell / micah (script@vignette@micah_9@exit.yas) (PS4), 4cc922
--119.088217, -27.173697, 94.774065, MISSING MODEL / chair (script@vignette@micah_9@action.yas) (PS4), 4cc922
--119.088217, -27.173697, 94.774065, MISSING MODEL / chair (script@vignette@micah_9@base.yas) (PS4), 4cc922
--119.168542, -27.138934, 94.805274, MISSING MODEL / chair (script@vignette@micah_9@exit.yas) (PS4), 4cc922
+-119.088217, -27.173697, 94.774065, UNDEFINED MODEL / chair (script@vignette@micah_9@action.yas) (PS4), 4cc922
+-119.088217, -27.173697, 94.774065, UNDEFINED MODEL / chair (script@vignette@micah_9@base.yas) (PS4), 4cc922
+-119.168542, -27.138934, 94.805274, UNDEFINED MODEL / chair (script@vignette@micah_9@exit.yas) (PS4), 4cc922
 -119.168725, -25.457259, 96.059893, cs_dutch / dutch (script@vignette@dutch_and_john_1@exit_loop.yas) (PS4), 4cc922
 -119.174144, -26.105773, 95.533651, cs_dutch / dutch (script@vignette@dutch_and_john_1@exit.yas) (PS4), 4cc922
 -119.230904, -27.774701, 95.813304, cs_hoseamatthews / hosea (script@vignette@hosea_15@hosea_enter.yas) (PS4), 4cc922
@@ -2763,7 +2763,7 @@ Blue Marker = n/a
 2354.823308, -1546.099428, 42.511529, cs_genstorymale / ped (0x0156CA82.yas) (script@ambient) (PS4), 4cc922
 2355.372091, 1344.747385, 105.951201, cs_marybeth / marybeth (script@vignette@susan_15@action.yas) (PS4), 4cc922
 2355.394492, 1344.720983, 105.858618, cs_marybeth / marybeth (script@vignette@susan_15@base.yas) (PS4), 4cc922
-2355.842989, -1546.289747, 42.129106, MISSING MODEL / rope_coil (0x0156CA82.yas) (script@ambient) (PS4), 4cc922
+2355.842989, -1546.289747, 42.129106, UNDEFINED MODEL / rope_coil (0x0156CA82.yas) (script@ambient) (PS4), 4cc922
 2355.856292, 1380.605429, 106.062764, cs_jackmarston / jack (script@vignette@dog_8@idle_a.yas) (PS4), 4cc922
 2355.856292, 1380.605429, 106.062764, cs_jackmarston / jack (script@vignette@dog_8@idle_b.yas) (PS4), 4cc922
 2355.856292, 1380.605429, 106.062764, cs_jackmarston / jack (script@vignette@dog_8@idle_c.yas) (PS4), 4cc922
@@ -2875,8 +2875,8 @@ Blue Marker = n/a
 3671.884000, 1811.755000, 101.000000, cs_genstorymale / husband (script@beat@town@murdersuicide@scorned.yas) (PS4), 4cc922
 3672.184848, 1813.125936, 101.000000, a_f_m_vhttownfolk_01 / wife (script@beat@town@murdersuicide@scorned.yas) (PS4), 4cc922
 3672.338503, 1813.558168, 101.000000, a_f_m_vhttownfolk_01 / wife (script@beat@town@murdersuicide@scorned.yas) (PS4), 4cc922
-3828.385826, -3568.465448, 49.691067, MISSING MODEL / necklace (script@beat@wilderness@islandstandoff@handover_necklace.yas) (PS4), 4cc922
-3828.412540, -3568.469568, 51.133389, MISSING MODEL / necklace (script@beat@wilderness@islandstandoff@handover_necklace.yas) (PS4), 4cc922
+3828.385826, -3568.465448, 49.691067, UNDEFINED MODEL / necklace (script@beat@wilderness@islandstandoff@handover_necklace.yas) (PS4), 4cc922
+3828.412540, -3568.469568, 51.133389, UNDEFINED MODEL / necklace (script@beat@wilderness@islandstandoff@handover_necklace.yas) (PS4), 4cc922
 3828.505000, -3567.171000, 51.182000, a_m_m_vhttownfolk_01 / 0x76875B84 (script@beat@wilderness@islandstandoff@handover_necklace.yas) (PS4), 4cc922
 3828.559612, -3568.372384, 51.182000, player_zero / pedplayer (script@beat@wilderness@islandstandoff@handover_necklace.yas) (PS4), 4cc922
 3845.153324, -3509.982400, 46.462738, cs_genstorymale / victim_b (script@beat@wilderness@islandstandoff@hiding.yas) (PS4), 4cc922
