@@ -1060,6 +1060,20 @@ Light Blue = Miscellanous
 1462.617000, 1568.906000, 197.446800, a_m_y_wapkids_01 / a_m_y_wapkids_01^1 (useSceneOrigin False) (Cut debugModel) (script@story@ntv0@ig@ig2_wagon_teens@ig2_wagon_teens.yas), 4cc922
 1462.617000, 1568.906000, 197.446800, a_m_y_wapkids_01 / a_m_y_wapkids_01^2 (useSceneOrigin False) (Cut debugModel) (script@story@ntv0@ig@ig2_wagon_teens@ig2_wagon_teens.yas), 4cc922
 1462.617000, 1568.906000, 197.446800, a_m_y_wapkids_01 / a_m_y_wapkids_01^3 (useSceneOrigin False) (Cut debugModel) (script@story@ntv0@ig@ig2_wagon_teens@ig2_wagon_teens.yas), 4cc922
+1483.480000, -7126.710000, 74.810000, p_cs_ledger01x / p_cs_ledger01x (0x495350D4.yas), 4cc922
+1496.730246, -7147.735276, 67.860315, s_m_m_fussarhenchman_01 / s_m_m_fussarhenchman_01^1 (0x495350D4.yas), 4cc922
+1498.777046, -7144.806616, 67.841696, s_m_m_fussarhenchman_01 / s_m_m_fussarhenchman_01^1 (0x495350D4.yas), 4cc922
+1499.801390, -7144.278321, 67.521102, p_cs_ledger01x / p_cs_ledger01x (0x495350D4.yas), 4cc922
+1499.801416, -7144.278352, 67.521122, p_cs_ledger01x / p_cs_ledger01x (0x495350D4.yas), 4cc922
+1499.801458, -7144.278402, 67.521102, p_cs_ledger01x / p_cs_ledger01x (0x495350D4.yas), 4cc922
+1499.801479, -7144.278409, 67.521058, p_cs_ledger01x / p_cs_ledger01x (0x495350D4.yas), 4cc922
+1500.176314, -7143.989300, 67.382295, s_m_m_fussarhenchman_01 / s_m_m_fussarhenchman_01 (0x495350D4.yas), 4cc922
+1500.216944, -7143.942646, 66.839688, p_chair02x / p_chair02x^1 (0x495350D4.yas), 4cc922
+1500.217004, -7143.942586, 66.839656, p_chair02x / p_chair02x^1 (0x495350D4.yas), 4cc922
+1500.217033, -7143.942593, 66.839702, p_chair02x / p_chair02x^1 (0x495350D4.yas), 4cc922
+1500.453647, -7148.996004, 67.380377, s_m_m_fussarhenchman_01 / s_m_m_fussarhenchman_01^2 (0x495350D4.yas), 4cc922
+1500.491636, -7149.193713, 66.848802, p_chair02x / p_chair02x (0x495350D4.yas), 4cc922
+1500.491677, -7149.193763, 66.848802, p_chair02x / p_chair02x (0x495350D4.yas), 4cc922
 1508.915000, -7216.295000, 61.273360, camera (script@cme@smuggler1_cme_02_jungle_01_shot.yas), 4cc922
 1574.730000, 1778.870000, 206.510000, a_c_alligator_01 / arthur (script@story@trn3@ig@ig_5_grabdynamite.yas), 4cc922
 1574.730000, 1778.870000, 206.510000, p_crate22x_small / p_crate22x_small (script@story@trn3@ig@ig_5_grabdynamite.yas), 4cc922
