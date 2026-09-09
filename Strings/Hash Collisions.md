@@ -63,7 +63,9 @@
 | `0x672C7C93` | `cliff_edges[133][166]` | `UNKNOWN` | filename.ymt | script/story/mud4/sheep_herding.ymt |
 | `0xCEFEA526` | `cliff_edges[15][22]` | `gang_odriscollboys_bgv003` | filename.ymt | — |
 | `0x541868F5` | `cliff_edges[32][46]` | `linger_d_joe` | filename.ymt | — |
-| `0xC3829A9E` | `clipset@mech_carry_ped@injured@pickup_body` | `net_fetch_chemical_wagon_big_valley_01_02` | — | — |
+| `0x83A07B68` | `clipset@creatures_mammal@horse@agitated_med@transition@agitated_to_agitated_med@slope@down` | `dlg_teach_that_a_lesson_bht_laramiesleeping` | clip_sets.ymt | — |
+| `0xC3829A9E` | `clipset@mech_carry_ped@injured@pickup_body` | `net_fetch_chemical_wagon_big_valley_01_02` | clip_sets.ymt | — |
+| `0xAB326939` | `clipset@mech_cover@aim@arthur@longarms@scope@low@outro@right@righthand@mid_right_crouch` | `SHAPE_INVALID` | clip_sets.ymt | — |
 | `0xDF8F51A3` | `clothing_item_m_ugarment_005_tint_004` | `vest_mr1_016_c0_000_m` | — | — |
 | `0xCDEA0A19` | `clothing_style_m_r1_offhand_000_cataloguedesc` | `slotid_coach_wagon_02_mod_color` | — | — |
 | `0x2E3A65F2` | `clothing_style_outfit_rho_001` | `hat_mr1_066_c1_000_m+hi` | — | — |
