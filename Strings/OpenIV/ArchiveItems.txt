@@ -43584,6 +43584,7 @@ amb_camp_hrt_agro_1
 amb_camp_hrt_ovhang
 amb_camp_hrt_story_cannibal
 amb_camp_hrt_story_chelonian
+amb_camp_recipes
 amb_camp_roa_creep01
 amb_camp_roa_creep01_1
 amb_camp_roa_rc_calloway
@@ -43597,6 +43598,7 @@ amb_camp_roa_story_pigfarm_6
 amb_camp_roa_story_princess
 amb_camp_roa_story_rhodes
 amb_camp_roa_story_rhodes_1
+amb_camp_schedules
 amb_camp_scm_story_murfee
 amb_camp_scm_story_murfee_1
 amb_camp_tal_story_emranch
@@ -74967,6 +74969,7 @@ cactus_wren.awc
 cadasau
 cahsaud
 cahso.awc
+cairn_locations
 cajav_fsh1_int
 cajav_fsh1_int-1
 cajav_fsh1_int-0
@@ -75342,6 +75345,19 @@ camp_idle_guitar_01.awc
 camp_idle_harmonica_01.awc
 camp_idle_harmonica_02.awc
 camp_locations
+camp_locations_bayou
+camp_locations_big_valley
+camp_locations_cholla_springs
+camp_locations_cumberland_forest
+camp_locations_gaptooth
+camp_locations_great_plains
+camp_locations_grizzlies
+camp_locations_heartlands
+camp_locations_hennigans
+camp_locations_rio_bravo
+camp_locations_roanoke_ridge
+camp_locations_scarlett_meadows
+camp_locations_tall_trees
 camp_stress_test
 campvignettedata
 can01_lightbox
@@ -75807,6 +75823,8 @@ cash_cent_style
 cash_dollar_portion
 cash_dollar_style
 cash_simple
+cash_tags
+cash_tags_mp
 cashb.awc
 cashbau
 casp_coachrobbery_lenny_males_01
@@ -75937,6 +75955,7 @@ catalog_index_double
 catalog_interior
 catalog_mp
 catalog_sp
+catalogue_stamps_data
 catbird.awc
 catch_fish.awc
 catfish_gname_father
@@ -110609,6 +110628,7 @@ curu.awc
 curuaud
 curvelib/main
 cusk1au
+custom_leadins
 custom_playlist
 cut_fud1
 cut_mud
@@ -116275,6 +116295,7 @@ dehrt.awc
 dehrtau
 deliv
 demo1
+demo1aud
 depot_groups
 depot_groups+hi
 derlc.awc
@@ -126625,6 +126646,9 @@ gfh_watson_int-0
 gfh_watson_int_mastered.awc
 gfhi
 gfmp
+ghaf9au
+ghjo9au
+ghla9au
 ghosttraincaboose
 ghosttraincaboose+hi
 ghosttraincaboose_hi
@@ -126637,6 +126661,7 @@ ghosttrainpassenger_hi
 ghosttrainsteamer
 ghosttrainsteamer+hi
 ghosttrainsteamer_hi
+ghse9au
 giant
 giant.awc
 gilbert_knightly.awc
@@ -141164,6 +141189,7 @@ horse_equipment_style_mask_new_001
 horse_equipment_style_mask_new_002
 horse_equipment_style_mask_new_003
 horse_equipment_style_tradersaddle_001_improved
+horse_fence_shop_authored_data_mp
 horse_kick_stall.awc
 horse_near_01.awc
 horse_near_02.awc
@@ -155732,6 +155758,7 @@ kit_emote_taunt_ripper_1
 kit_emote_taunt_war_cry_1
 kitty_hint_cam
 knsg1au
+kotc_common_data
 ksng1.awc
 ksng1au
 kttyaud
@@ -164573,6 +164600,10 @@ logwagon_hi
 logwagon_wheel_lf
 loincloth_mr1_000
 loincloth_mr1_000_alt01
+loltrau
+lombkau
+lominau
+lomrsau
 lon01pr_combo_slod
 lon01pr_combo_slod_children
 lon_01
@@ -177558,6 +177589,7 @@ metal-0-titanium-polished_01
 metal-0-titanium-polished_02
 metal_creaking_cyclic.awc
 metal_movement_foley_a.awc
+metaped_clothing_outfit_tints
 metaped_slods
 metronome.awc
 mfr_01
@@ -183104,6 +183136,7 @@ moon_int-0
 moon_int_mastered.awc
 moon_raider2.awc
 moon_worker1.awc
+moonshine_shop_authored_data_mp
 moonshiner_requests
 moose
 moose.awc
@@ -189948,6 +189981,7 @@ mp_animals_wolf_legendary_01_photo
 mp_animals_wolf_legendary_02_photo
 mp_animals_wolf_legendary_03_photo
 mp_animals_wolf_timber_photo
+mp_archery_locations
 mp_armor_fr1_dummy
 mp_armor_mr1_dummy
 mp_arthurmorgan_fr1_neckwear_000
@@ -196697,6 +196731,7 @@ mp_intro_blk_camp_to_wardrobe
 mp_intro_blk_gang_boss_escape_left
 mp_intro_blk_gang_boss_escape_right
 mp_intro_blk_horses_to_camp
+mp_intro_common_data
 mp_intro_cs_os1.awc
 mp_intro_cs_os2.awc
 mp_intro_cs_os3.awc
@@ -196710,6 +196745,7 @@ mp_intro_gang_tumbleweed1
 mp_intro_gang_valentine2
 mp_intro_gang_valentine2_1
 mp_intro_gang_valentine2_2
+mp_intro_gfh_data
 mp_intro_hideout_blackwater_coverregion[270][288]
 mp_intro_hideout_blackwater_coverregion[270][291]
 mp_intro_hideout_blackwater_coverregion[273][288]
@@ -196736,6 +196772,10 @@ mp_intro_jessica_camp_tumbleweed_coverregion[225][261]
 mp_intro_jessica_camp_tumbleweed_navmesh[225][261]
 mp_intro_jessica_camp_valentine_coverregion[309][321]
 mp_intro_jessica_camp_valentine_navmesh[309][321]
+mp_intro_location_bla
+mp_intro_location_rho
+mp_intro_location_tbl
+mp_intro_location_val
 mp_intro_males_01
 mp_intro_rho_ambush_to_horses
 mp_intro_rho_camp_to_wardrobe
@@ -222637,9 +222677,13 @@ net_as_tall_trees_4
 net_as_tall_trees_5
 net_as_tall_trees_6
 net_assassination_authored
+net_assassination_missions
 net_beat_stalking_hunter_tall_tree_0
 net_beat_stalking_hunter_tall_tree_1
 net_char_creator_data
+net_coach_holdup_authored
+net_coach_holdup_missions
+net_coach_schedule
 net_collectibles
 net_fast_travel
 net_fetch_008_bounty_benedict_01
@@ -223902,15 +223946,19 @@ net_free_roam_spawn_exclusions
 net_gun_for_hire_cutscene
 net_gun_for_hire_dialogue
 net_gun_for_hire_locations
+net_gun_for_hire_locations_demo
 net_gun_for_hire_missions
 net_honor
 net_honor_config
 net_locations
+net_mag4_missions
 net_map_app
 net_minigames
 net_mission_targets_data
 net_moonshine_property
 net_ped_xp_values
+net_playlist_schedule
+net_playlist_schedule_demo
 net_property_data
 net_rank_definitions
 net_rpg_global_stat_data
@@ -235142,6 +235190,7 @@ oregrau
 orepaud
 oreph.awc
 orepht
+oreraud
 orerc
 orerw
 orerw.awc
@@ -265942,6 +265991,7 @@ poison_roots_003
 poisoned_well_02.awc
 poisoned_well_chimes_01.awc
 poker
+poker_emotes
 poker_responses
 pokerarthur
 pokerarthur_responses
@@ -277934,6 +277984,7 @@ reg_scm_treecarving01+hidr
 reg_scm_trelawny_blood_01
 reg_scm_trelawny_blood_01+hi
 reg_scm_trelawny_blood_02
+region_authored_spawns
 region_bounty_data
 region_data
 regions
@@ -278085,6 +278136,7 @@ respawn_j07-2
 respawn_j07-1
 respawn_j08-2
 respawn_k06-6
+respawnlocations
 restbyfire_hint_cam
 restbyfire_orbit_cam
 resup
@@ -305960,6 +306012,13 @@ sheep.awc
 sheep_near_01.awc
 sheep_near_02.awc
 sheep_near_03.awc
+shelf_inv_bait
+shelf_inv_doctor
+shelf_inv_fence
+shelf_inv_french_market
+shelf_inv_general
+shelf_inv_gunsmith
+shelf_inv_market
 shen.awc
 shenaud
 shepherd.awc
@@ -308497,6 +308556,7 @@ sp_missions_20
 sp_missions_21
 sp_missions_22
 sp_missions_tu
+sp_unlock_table
 spad1.awc
 spadaud
 spah
@@ -334287,6 +334347,7 @@ weapon_small
 weapon_small+hi
 weapon_thrown_bolas
 weapon_thrown_bolas_styles
+weapon_variants
 weaponcomponent
 weapons.awc
 weapons/binoculars_cam
