@@ -413,7 +413,7 @@ Light Blue = Miscellanous
 -1803.533827, -432.190444, 158.849904, cs_billwilliamson / ped_companion (0x238E4FE0.yas) (script@beat) (PS4), 4cc922
 -1801.293262, -429.098828, 158.849904, cs_billwilliamson / ped_companion (0x238E4FE0.yas) (script@beat) (PS4), 4cc922
 -1801.303758, -429.131285, 158.849904, cs_billwilliamson / ped_companion (0x238E4FE0.yas) (script@beat) (PS4), 4cc922
--1782.035199, -384.413134, 157.957933, cs_genstorymale / 0x1FF0E61F (script@common@trl1@old_man_hobbling@old_man_hobbling.yas), 4cc922
+-1782.035199, -384.413134, 157.957933, cs_genstorymale / old man (script@common@trl1@old_man_hobbling@old_man_hobbling.yas), 4cc922
 -1775.591495, -392.823935, 157.826830, camera (script@common@trl1@old_man_hobbling@old_man_hobbling.yas), 4cc922
 -1770.075616, -433.807485, 155.262383, 0xE2791FCF / wife (Cut debugModel) (script@story@utp1@ig@ig4@ig4.yas), 4cc922
 -1770.379096, -433.044936, 155.250000, cs_nelsonnemesis / nelsonnemesis (Cut debugModel) (script@story@utp1@ig@ig_4_micah_confronts_nelson@ig_4_micahconfrontsnelson.yas), 4cc922
@@ -1042,6 +1042,21 @@ Light Blue = Miscellanous
 1363.530305, -1310.246128, 75.998849, p_blanketfolded01x / seatblanket (script@common@trl1@impoverished_beggar@beggar_02.yas), 4cc922
 1367.343528, -1313.885916, 76.111286, p_cane01x / cane (script@common@trl1@impoverished_beggar@beggar.yas), 4cc922
 1367.348214, -1314.226692, 77.131288, cs_genstorymale / male (script@common@trl1@impoverished_beggar@beggar.yas), 4cc922
+1391.568079, -645.797091, 71.193339, player_zero / player (script@rcm@dst3@leadin@leadin_left.yas), 4cc922
+1394.771545, -647.985691, 72.402712, camera (script@rcm@dst3@leadin@rsc_1@leadin_wide_player.yas), 4cc922
+1395.056813, -656.404710, 71.968594, player_zero / player (script@rcm@dst3@leadin@leadin_front.yas), 4cc922
+1396.080765, -649.299436, 71.034096, cs_kieran / kieran (script@rcm@dst3@leadin@base.yas), 4cc922
+1396.080765, -649.299436, 71.034096, cs_kieran / kieran (script@rcm@dst3@leadin@leadin_front.yas), 4cc922
+1396.080765, -649.299436, 71.034096, cs_kieran / kieran (script@rcm@dst3@leadin@leadin_left.yas), 4cc922
+1396.627527, -640.137816, 71.986022, camera (script@rcm@dst3@leadin@rsc_1@leadin_left_player.yas), 4cc922
+1396.785222, -647.414853, 71.675531, player_zero / arthur (script@rcm@dst3@leadin@rsc_1@leadin_wide_player.yas), 4cc922
+1398.033079, -641.675091, 71.193339, player_zero / arthur (script@rcm@dst3@leadin@rsc_1@leadin_left_player.yas), 4cc922
+1401.400868, -653.154759, 72.545426, camera (script@rcm@dst3@leadin@rsc_1@leadin_front.yas), 4cc922
+1401.521813, -652.282710, 71.968594, player_zero / arthur (script@rcm@dst3@leadin@rsc_1@leadin_front.yas), 4cc922
+1402.545765, -645.177336, 71.034096, cs_kieran / kieran (script@rcm@dst3@leadin@rsc_1@base.yas), 4cc922
+1402.545765, -645.177436, 71.034096, cs_kieran / kieran (script@rcm@dst3@leadin@rsc_1@leadin_front.yas), 4cc922
+1402.545765, -645.177436, 71.034096, cs_kieran / kieran (script@rcm@dst3@leadin@rsc_1@leadin_left.yas), 4cc922
+1402.545765, -645.177436, 71.034096, cs_kieran / kieran (script@rcm@dst3@leadin@rsc_1@leadin_wide.yas), 4cc922
 1423.872104, 377.646893, 89.695362, cs_abemaclean / abemaclean (Cut debugModel) (script@rcm@mcat@leadin@rsc3@base_dialogue_exit.yas), 4cc922
 1423.872104, 377.646893, 89.695362, cs_abemaclean / abemaclean (Cut debugModel) (script@rcm@mcat@leadin@rsc3@leadin.yas), 4cc922
 1423.872104, 377.646893, 89.768812, cs_abemaclean / abemaclean (Cut debugModel) (script@rcm@mcat@leadin@rsc3@base_dialogue_exit.yas), 4cc922
@@ -3131,6 +3146,7 @@ Light Blue = Miscellanous
 -4453.6000980, -2959.9709470, -16.7464140, Critchly_Ranch (Center Point) (mapdatacullboxes_new.meta)
 -3693.977, -2592.533, -10.527, Bath (arm_03_slod_children.ydd)
 -2600, -5800, 0, Flattened Outskirts Island (gua_out_a_02.rpf)
+-2573.970215, 359.008392, 149.695908, PronghornRanch / prn (parseddata_mp) (cairn_locations.ymt)
 -2562.1616, 2240.1482, 448.64035, Removed Mountain Range (out_c_05.rpf) (Cliffpoints)
 -2460.756, -1007.691, 176.992, region_tal_cochinay (regionvolumes.ymt)
 -2432.4753, 2146.3523, 329.2762, hash_amb_vig_wolves_playing_c (ambientvignettes.ymt)
@@ -3142,6 +3158,7 @@ Light Blue = Miscellanous
 -2366.8, -2390.4, 62.7, nplh_macfarlane_ranch_cottage - property_volumes (scriptpardata.ymt)
 -2365.9, -2393.1, 62.7, nplh_macfarlane_ranch_cottage - wardrobes (scriptpardata.ymt)
 -2361.3728, 2180.239, 340.8387, hash_amb_vig_fox_hunt_in_snow (ambientvignettes.ymt)
+-1952.269409, -1586.29126, 114.831596, ManzanitaPost / mtp (parseddata_mp) (cairn_locations.ymt)
 -1819.4, -374.3, 167.4, nplh_strawberry_hotel_room - cameralocation (scriptpardata.ymt)
 -1815.6, -370.5, 166.9, nplh_strawberry_hotel_room - shack0door0 (scriptpardata.ymt)
 -1812.1, -369, 166.5, region_bgv_strawberry - Hotel Room (scriptpardata.ymt)
@@ -3150,8 +3167,11 @@ Light Blue = Miscellanous
 -1809.5, -370.4, 166.9, nplh_strawberry_hotel_room - shack0door0 (scriptpardata.ymt)
 -1803.8, -367.6, 167.4, nplh_strawberry_hotel_room - cameralocation (scriptpardata.ymt)
 -1802.6, -370.5, 161.7, nplh_strawberry_hotel_room (scriptpardata.ymt)
+-1742.345581, -397.71051, 155.815308, Strawberry / str (parseddata_mp) (cairn_locations.ymt)
 -1698.269043, -2086.957031, 71.453003, region_tal_pacificunionrr (regionvolumes.ymt)
 -1686.64, -1180.41, 90.3724, Unknown Structure (Windmill?) (cliff_edges[86][96].ymt)
+-1455.819946, 2171.254883, 301.528809, ELZ1AUD | ELZ_RSC2_LI (relz1_rsc_2.ymt)
+-1319.675537, 2425.78418, 307.433502, Colter / col (parseddata_mp) (cairn_locations.ymt)
 -1280, -7936, 80.57789, Disabled Terrain Tile (d_07.rpf)
 -1280, -7424, 157.97012, Disabled Terrain Tile (c_07.rpf)
 -1257.973, 836.588, 175.674, vol_mission_area (fetch_gfh_recover.ymt)
@@ -3164,6 +3184,8 @@ Light Blue = Miscellanous
 -1106.621, 2015.718, 371.6989, fog_int_j07_cannibal_01 (popzone_volume.ymt)
 -1013.5032, -2221.9973, 49.4169, hash_amb_vig_dead_buck (ambientvignettes.ymt)
 -872.79297, 1864.7847, 405.4086, vista7 (script/cinematics/vistatreatment/grizzlies_mountain_ne.ymt)
+-815.847412, 315.121704, 94.291298, DownsRanch / dow (parseddata_mp) (cairn_locations.ymt)
+-804.890015, -1230.883545, 42.535801, Blackwater / blk (parseddata_mp) (cairn_locations.ymt)
 -768, -7936, 36.89235, Disabled Terrain Tile (d_08.rpf)
 -768, -7424, 145.6207, Disabled Terrain Tile (c_08.rpf)
 -735.574, 2057.799, 330.57, hash_amb_vig_fox_hunt_in_snow (ambientvignettes.ymt)
@@ -3177,20 +3199,28 @@ Light Blue = Miscellanous
 -634.7005, 2351.0403, 378.18945, Wagon Slod (fghi_7_10_area_slod4_children.ydd)
 -629.39386, 2358.9675, 378.33426, Wagon Slod (fghi_7_10_area_slod4_children.ydd)
 -625.68787, 1736.906, 332.4581, vista10 (script/cinematics/vistatreatment/grizzlies_mountain_ne.ymt)
+-600.165222, 2673.599121, 323.546997, AdlerRanch / adl (parseddata_mp) (cairn_locations.ymt)
 -477.673, 2811.999, 365.575, hash_amb_vig_fox_hunt_in_snow (ambientvignettes.ymt)
 -407.9194, 1822.28, 233.2834, vol_guard_0 (fetch_gfh_destroy.ymt)
+-370, 785.400024, 115.271004, leadindata (pddmn_1.ymt)
 -332.703, -58.0894, 46.3098, Unknown Shack (cliff_edges[113][118].ymt)
 -305.0939, 1875.3994, 232.784, hash_amb_vig_bear_scratch_back (ambientvignettes.ymt)
+-279.550201, 731.27002, 117.617203, Valentine / val (parseddata_mp) (cairn_locations.ymt)
+-232.364502, 637.123291, 112.367104, leadindata (orlar_ext.ymt)
 106.85, -526.516, 53.6085, Unknown Shack (cliff_edges[122][109].ymt)
 153.021, 2457.77, 371.063, Mystery Hole (Cliffpoints)
 203.81, 2244.02, 274.76, Hot Spring (Cliffpoints)
 250.5921, -105.0462, 105.26198, Castors Pond (Center Point) (mapdatacullboxes_new.meta)
+272.700012, -50.900002, 106.800003, leadindata (hmstd_ig1.ymt)
 275.71466, 2324.352, 288.65512, center (chez_porter.ymt)
 331.3141, 2351.3691, 325.1501, chezporter (Center Point) (mapdatacullboxes_new.meta)
+355.7724, 584.549377, 114.670303, CornwallKerosene / ckt (parseddata_mp) (cairn_locations.ymt)
 529.94, 2975.42, 417.05, region_grz_cohutta (regionvolumes.ymt)
 605.5181, -7326.002, 45.44308, fog_int_elh_seacaves_01 (popzone_volume.ymt)
 624.04535, -7249.9736, 136.59967, Corpse (dis_grm_famousemerald.ymap) (Position in relation to Guama)
+631.023987, -7366.387207, 103, leadindata (smg1_mcs2.ymt)
 648.9481, -7381.367, 104.4559, fog_int_elh_seacaves_03 (popzone_volume.ymt)
+652.818909, -1244.998047, 42.694, ELZ2AUD / ELZ2_RSC2_LI (relz2_rsc_2.ymt)
 657.417725, 2033.451172, 272.543610, Iron Cloud (Center Point) (mapdatacullboxes_new.meta)
 659.6184, -7359.127, 63.34873, fog_int_elh_seacaves_02 (popzone_volume.ymt)
 670.2323, -7269.562, 165.8189, 04_cliffs_02_shot (script/story/smuggler1/mission_jump_cameras.ymt)
@@ -3198,10 +3228,12 @@ Light Blue = Miscellanous
 694.6188, -7440.422, 56.34877, fog_int_elh_seacaves_04 (popzone_volume.ymt)
 877.862, 1091.3976, 124.438446, Carmody Dell (Center Point) (mapdatacullboxes_new.meta)
 919.9755, -6681.9927, 38.4, hash_amb_vig_wild_shark (ambientvignettes.ymt)
+1008.132874, -1785.326904, 45.509499, BraithwaiteManor / bra (parseddata_mp) (cairn_locations.ymt)
 1044.108, 1600.7135, 188.8948, Old Fort Wallace (Center Point) (mapdatacullboxes_new.meta)
-1058.1052, 1567.1067, 192.2825, OldFortWallace - ofw (0x5D3EB07E.ymt)
+1058.105225, 1567.106689, 192.282501, OldFortWallace / ofw (parseddata_mp) (cairn_locations.ymt)
+1059.912109, -6762.03125, 55.511002, script@establisher@guarma / RespawnGuarma (respawnlocations.ymt)
 1061.4193, -6879.3403, 38.89, hash_amb_vig_wild_shark (ambientvignettes.ymt)
-1070.3, 1578.922, 194.5547, ncintro_old_fort_wallace (0x7EDC6AEF.ymt)
+1070.3, 1578.922, 194.5547, ncintro_old_fort_wallace (net_coach_schedule.ymt)
 1105.9, 491.4, 98.3, nplh_crop_farm - cameralocation (scriptpardata.ymt)
 1114.6, 493.1, 97.3, nplh_crop_farm - cropfarm0door1 (scriptpardata.ymt)
 1114.8, 487.7, 97.5, nplh_crop_farm - property_volumes (scriptpardata.ymt)
@@ -3228,7 +3260,7 @@ Light Blue = Miscellanous
 1147.2, -965, 67.8, nplh_shack_love_triangle (scriptpardata.ymt)
 1163.7462, -7276.0503, 71.78846, s_urndiscoverable01x (lac_01__strm_0.ymap) (Position in relation to Guama)
 1184, 3146.699951, 375.200012, center (wapiti.ymt)
-1184.5194, 3184.4006, 374.1425, Wapiti - wap (0x5D3EB07E.ymt)
+1184.519409, 3184.400635, 374.142487, Wapiti / wap (parseddata_mp) (cairn_locations.ymt)
 1203.594604, 3166.804932, 373.463593, wapiti (Center Point) (mapdatacullboxes_new.meta)
 1217.1417, -6333.1475, 40.11, hash_amb_vig_wild_shark (ambientvignettes.ymt)
 1248.3854, 1156.3513, 150.65205, Moonshiner Note (document_moonshiner_stash) (Unobtainable)
@@ -3237,17 +3269,30 @@ Light Blue = Miscellanous
 1288, 1436, 164, cmf_volshiprock (popzone_volume.ymt)
 1289.635, -6969.231, 61.546253, Leftover Collision (agu_03__5.ybn)
 1292.7557, 1773.7778, -7.436868, Old J_12 Collision & Navmesh (jklm_7_10_area_lod_combine_collision_15.ybn)
+1302.589966, -1256.944946, 77.0653, Rhodes / rho (parseddata_mp) (cairn_locations.ymt)
 1305.3625, -6669.8447, 40.11, hash_amb_vig_wild_shark (ambientvignettes.ymt)
 1334.7463, -6130.115, 40.11, hash_amb_vig_wild_shark (ambientvignettes.ymt)
+1336.410034, -1369.359009, 78.5, FLMEAUD | FLM2_RC2_LI (rflme_rc_2.ymt)
+1337.609985, -1368.958984, 78.5, FLMEAUD | FLM2_RC2_LI (rflme_rc_2.ymt)
 1365, 2310, 67, fish_gen_northern_roa (popzone_volume.ymt)
 1380.3303, -6146.09, 43.0014, hash_amb_vig_wild_shark (ambientvignettes.ymt)
+1399.270996, -650.366821, 71.073898, DST3AUD | DST3RSC1LI (rdst3_rsc_1.ymt)
+1402.564941, -645.348022, 70, DST3AUD | DST3RSC1LI (rdst3_rsc_1.ymt)
+1423.87207, 377.647003, 88.275002, vorigin (rmcat_rc3.ymt)
 1427.805176, -1599.994995, 80.400101, region_scm_rhodes_horse_shop_agg (regionvolumes.ymt)
+1428.234253, 344.138, 107.685699, EmeraldRanch / emr (parseddata_mp) (cairn_locations.ymt)
 1445.6865, -7331.942, 85.34352, 02_jungle_02_shot (script/story/smuggler1/mission_jump_cameras.ymt)
 1547.0413, -7283.5776, 79.24965, 02_jungle_01_shot (script/story/smuggler1/mission_jump_cameras.ymt)
 1558.7434, 1822.842, 209.92114, bridge_cam_position (script/cinematics/trains/j13-j14.ymt)
+1592.780029, -7126.895996, 81.443001, Multistart (smg1_mcs1.ymt)
+1666.88501, -7174.058105, 76.737999, Multistart (smg1_int.ymt)
 1667, -7177, 76.738, vorigin (smg1_int.ymt)
-1696.7512, 905.3885, 112.7726, AberdeenPigFarm - abe (0x5D3EB07E.ymt)
+1670.547974, -7173.381836, 75.237999, Multistart (smg1_int.ymt)
+1676.822998, 707.955994, 127.099998, vorigin (ntv0_mcs1.ymt)
+1696.751221, 905.388489, 112.772598, AberdeenPigFarm / abe (parseddata_mp) (cairn_locations.ymt)
+1703.015015, -7396.753906, 89.744003, leadindata (rcoln_s4_int.ymt)
 1704.665, -7396.841, 91.6342, fog_int_man_house_01 (popzone_volume.ymt)
+1706.072144, -1380.54895, 43.775101, CaligaHall / cal (parseddata_mp) (cairn_locations.ymt)
 1706.718506, -1005.619751, 50.000000, region_bay_serial_killer (regionvolumes.ymt)
 1711.413, -7401.771, 91.23421, fog_int_man_house_02 (popzone_volume.ymt)
 1760.339, 1350.444, 165.10527, clingman (Center Point) (mapdatacullboxes_new.meta)
@@ -3256,6 +3301,7 @@ Light Blue = Miscellanous
 1837.07, -1957.54, 45.133, Unknown Building 1 (cliff_edges[156][80].ymt)
 1846.398193, 2123.803711, 215.093781, Dzoavits Claim (Center Point) (mapdatacullboxes_new.meta)
 1852.398, 2688.804, 384.0938, The Loft (Center Point) (mapdatacullboxes_new.meta)
+1865.430054, -1857.467041, 42.089001, leadindata (ntv0_int.ymt)
 1890.4866, 300.30182, 76.81897, p_candlegroup04x (hf_murder_before) (shack_hf_int.ytyp)
 1903.84, 2118.43, 238.8478, cml_dzo (popzone_volume.ymt)
 2027.37, -1932.25, 43.1363, Unknown Shack (cliff_edges[160][81].ymt)
@@ -3264,6 +3310,7 @@ Light Blue = Miscellanous
 2059.223, -7070.2573, 45.173733, 01_river_01_shot (script/story/smuggler1/mission_jump_cameras.ymt)
 2088.9592, 3417.844, 280, Dakota River Source (Railway Map)
 2097.0764, -4607.864, 74.16708, El Nido / Miyzon (Position in relation to Guama)
+2108.525635, -589.18158, 40.793301, Lagras / lag (parseddata_mp) (cairn_locations.ymt)
 2290.75, -1460.45, 51.3892, Start Point (data/levels/rdr3/trains_ind2.dat)
 2303.756104, -1473.094971, 41.15916, Criard Slaughterhouse (Center Point) (mapdatacullboxes_new.meta)
 2343.8591, -1495.0234, 46.52639, new_pie_tunnel_dest (ind2) (new_pie_tunnel_int.ytyp)
@@ -3277,6 +3324,9 @@ Light Blue = Miscellanous
 2453.566, 2930.868, 289.728, doverhill (Center Point) (mapdatacullboxes_new.meta)
 2459.04, -1474.48, 45.1397, End Point (data/levels/rdr3/trains_ind2.dat)
 2460.67, -832.546, 43.8784, Unknown Shack (cliff_edges[169][103].ymt)
+2585.655518, -1216.556519, 52.947201, NewBordeaux / nbx (parseddata_mp) (cairn_locations.ymt)
+2591.16748, 773.370789, 86.461502, ButcherCreek / but (parseddata_mp) (cairn_locations.ymt)
+2593.5, -1211.800049, 52.25, ELZ5AUD / ELZ5_RSC1_LI (relz5_rsc_1.ymt)
 2706.81, 709.79, 77.048, nplh_butcher_creek_shack - p_hitchingpost01x (scriptpardata.ymt)
 2714.2148, 3423.673, 233.99313, Old Kamassa River Bed
 2716.2, 711.2, 79.9, nplh_butcher_creek_shack - wardrobes (scriptpardata.ymt)
@@ -3286,10 +3336,12 @@ Light Blue = Miscellanous
 2717.5, 710.1, 79.9, region_roa_butchercreek - Butcher Creek Shack (scriptpardata.ymt)
 2722, 705.1, 80.5, nplh_butcher_creek_shack - cameralocation (scriptpardata.ymt)
 2866.71, 1034.41, 45.929, Unknown Shack (cliff_edges[177][140].ymt)
+2944.992188, 1369.957275, 43.1376, Annesburg / ann (parseddata_mp) (cairn_locations.ymt)
 2957.557617, 1350.247070, 47.126999, BarBrawl_ANNS (barbrawl.meta)
 2979.186, 3003.53, 247.11667, Rocky Seven (Center Point) (mapdatacullboxes_new.meta)
 2981.0574, 2997.6907, 247.255, center (rocky_seven.ymt)
 3266.4194, -3705.5432, 40.721912, beach1_shot1_cam_position (script/story/gua2/explore.ymt)
+3325.223877, -1283.314453, 51.964401, Serendipity / ser (parseddata_mp) (cairn_locations.ymt)
 3464.176, 606.7343, 59.9557, fog_int_dis_roa_aliencave_01 (popzone_volume.ymt)
 3538.46, 48.66695, 128, sis2 (popzone_volume.ymt)
 3576.79, 220.798, 128, sis3 (popzone_volume.ymt)
@@ -3298,8 +3350,8 @@ Light Blue = Miscellanous
 3658.1, 1788.8, 47.7, center (van_horn.ymt)
 3667.53, 381.282, 159.6342, sis1 (popzone_volume.ymt)
 3679.7, 169.3, 43.7, center (sisika.ymt)
-3682.4434, 1837.2781, 44.6143, VanHornTradingPost - vht (0x5D3EB07E.ymt)
-3684.1248, 185.9241, 44.2092, SisikaPenitentiary - sis (0x5D3EB07E.ymt)
+3682.443359, 1837.278076, 44.6143, VanHornTradingPost / vht (parseddata_mp) (cairn_locations.ymt)
+3684.124756, 185.924103, 44.209202, SisikaPenitentiary / sis (parseddata_mp) (cairn_locations.ymt)
 3709.87, 1850.1, 47.54505, Van Horn (Center Point) (mapdatacullboxes_new.meta)
 3808.24, -3564.51, 83.54085, gua_c13 (popzone_volume.ymt)
 3817.21, -3500.91, 83.54085, gua_c12 (popzone_volume.ymt)
@@ -3308,7 +3360,7 @@ Light Blue = Miscellanous
 3901.69, -3215.21, 55.5098, Aguasdulces Tower (Cliffpoints)
 3903.43, -3831.71, 83.85675, lev_01 (popzone_volume.ymt)
 3914, -3810.1, 44.1, center (le_vilaj.ymt)
-3916.0847, -3808.2947, 43.2316, Manicato - man (0x5D3EB07E.ymt)
+3916.084717, -3808.294678, 43.231602, Manicato / man (parseddata_mp) (cairn_locations.ymt)
 3921.86, -3600.22, 83.54085, gua_02 (popzone_volume.ymt)
 3923.01, -3826.19, 108.541, gua_01 (popzone_volume.ymt)
 3924.18, -3424.84, 75.711, gua_ag2 (popzone_volume.ymt)
@@ -3317,7 +3369,7 @@ Light Blue = Miscellanous
 3946.7, -3329.66, 75.711, gua_ag1 (popzone_volume.ymt)
 3948.123, -3265.4045, 56.789253, script_story_fus1_cliff_walk_cinematic_location (script/story/fus1/cliff_walk.ymt)
 3951.81, -3348.85, 68.8065, Fussar's Mansion (Cliffpoints)
-3960.3281, -3326.5396, 64.8869, Aguasdulces - agd (0x5D3EB07E.ymt)
+3960.328125, -3326.539551, 64.886902, Aguasdulces / agd (parseddata_mp) (cairn_locations.ymt)
 3990.63, -3434.42, 83.54085, gua_06 (popzone_volume.ymt)
 4036.11, -3900.89, 74.00815, gua_c2 (popzone_volume.ymt)
 4064.56, -3825.86, 83.54085, gua_27 (popzone_volume.ymt)
@@ -3334,7 +3386,7 @@ Light Blue = Miscellanous
 4242.61700000, -3652.86200000, 36.56728000, elh_01_dummy (elh_01__0.ybn)
 4255.85, -3279, 74.00815, gua_c10 (popzone_volume.ymt)
 4268.91, -2718.742, 107.9367, dirt_metapeditor (popzone_volume.ymt)
-4280.9517, -3439.9175, 71.201, Miyzon - miy (0x5D3EB07E.ymt)
+4280.95166, -3439.91748, 71.200996, Miyzon / miy (parseddata_mp) (cairn_locations.ymt)
 4281.39, -3414.68, 71.9924, gua_miy (popzone_volume.ymt)
 4284.92, -3338.7, 74.00815, gua_12 (popzone_volume.ymt)
 4286.8, -3803.68, 74.00815, gua_c4 (popzone_volume.ymt)

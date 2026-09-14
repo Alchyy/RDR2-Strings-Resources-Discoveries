@@ -5,6 +5,7 @@
 | `0xCC1BD225` | `-2357.347900,659.201965,121.360840` | `UNKNOWN` | animal_transformation_data.ymt | script/cinematics/trains/riobravo.ymt |
 | `0xD47701F7` | `-152.880005,588.328491,111.927200` | `hi@jklm_7_10_area_lod_combine_collision_26` | 0xA628F373.ymt | filename.ybn |
 | `0x961A969B` | `-2030.750000` | `AnimalBonding` | 0x5A4E03A6.ymt | — |
+| `0xE7DF5FAF` | `-2183.199951` | `mgsea_asn_psse_6` | camping_location_lists.ymt | — |
 | `0x62694985` | `-301.899994,786.400024,118.400002` | `WaitForThreatResponse` | 0xD065C845.ymt | — |
 | `0xBC0C4C9A` | `-3741.858643,-2626.360596,-14.244800` | `m_04__slod1_2_1_1` | net_fast_travel.ymt | — |
 | `0xF04CF668` | `-3932.501709,-3289.206543,19.057600` | `y_08__hd_0_-2_0` | ambientvignettes.ymt | filename.ydr |
@@ -12,6 +13,7 @@
 | `0x99E11F55` | `-5028.161133,-3644.384766,-6.023363` | `val_03_mp2_prop01_lod` | camp_locations.ymt | — |
 | `0x6E8C10DC` | `-5610.358887,-3365.730957,19.393000` | `n_710_r_a_rails22` | 0xECA08D76.ymt | — |
 | `0x98642C2C` | `-5659.805664,-3505.072021,-23.151587` | `o_08__collision_2` | 0x7314F055.ymt | filename.ybn |
+| `0x10F7EAB1` | `52.439999` | `greet_abigail_annoyed` | camping_location_lists.ymt | — |
 | `0x678FCD70` | `100.728996` | `MaxAiActivationLimit` | fetch_gfh_intercept.ymt | — |
 | `0xF82860FB` | `1496.737061,422.941803,89.601402` | `UNKNOWN` | net_fast_travel.ymt | 1035_u_m_m_sdcustomvendor_01.yldb |
 | `0x6BEFD512` | `1562.420166,-3.986105,98.298950` | `Manager_Set_Disable_Distance_Cleanup` | camp_locations.ymt | — |

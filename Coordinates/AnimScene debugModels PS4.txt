@@ -833,7 +833,7 @@ Blue Marker = n/a
 -141.558620, -42.161239, 95.139641, p_bottlejd01x / bottle (script@vignette@music@sean_1_p1a2_quiet@action.yas) (PS4), 4cc922
 -141.564232, -21.849338, 96.171378, cs_mrpearson / mrpearson (script@vignette@charles_4@action_b_alt_right.yas) (PS4), 4cc922
 -141.569528, -21.875440, 96.171404, cs_mrpearson / mrpearson (script@vignette@charles_4@action_b_alt_left.yas) (PS4), 4cc922
--141.571646, -42.364784, 94.505825, p_bottlebeer01x_new / 0x2514AFB4 (script@vignette@camp_fire@pearson_1@base_outro.yas) (PS4), 4cc922
+-141.571646, -42.364784, 94.505825, p_bottlebeer01x_new / bottle 2 (script@vignette@camp_fire@pearson_1@base_outro.yas) (PS4), 4cc922
 -141.583374, -42.172235, 95.139588, p_bottlejd01x / uncle_bottle (0x73E88489.yas) (script@vignette) (PS4), 4cc922
 -141.583374, -42.172235, 95.139589, p_bottlejd01x / uncle_bottle (0x9A72320A.yas) (script@vignette) (PS4), 4cc922
 -141.589760, -21.794376, 96.000604, p_knifesharpener01x / knifesharpener01 (script@vignette@charles_4@action_b_alt_front.yas) (PS4), 4cc922
@@ -1350,7 +1350,7 @@ Blue Marker = n/a
 -137.725421, -40.968976, 95.006753, cs_susangrimshaw / susan (script@vignette@music@susan_and_karen_1@base.yas) (PS4), 4cc922
 -137.725421, -40.968982, 95.006753, cs_susangrimshaw / susan (script@vignette@music@uncle_susan_karen_sean_1@outro_base.yas) (PS4), 4cc922
 -137.758316, -17.442631, 95.907354, p_bottlebeer01x / bottle^1 (script@vignette@bill_11@outro_base.yas) (PS4), 4cc922
--137.795647, -41.530986, 94.507102, p_bottlebeer01x_new / 0x1750942C (script@vignette@camp_fire@pearson_1@base_outro.yas) (PS4), 4cc922
+-137.795647, -41.530986, 94.507102, p_bottlebeer01x_new / bottle 1 (script@vignette@camp_fire@pearson_1@base_outro.yas) (PS4), 4cc922
 -137.818647, -40.533267, 95.152487, cs_genstorymale / key_male_b (script@vignette@camp_fire@swanson_1@enter.yas) (PS4), 4cc922
 -137.827035, -19.916139, 95.889020, p_knife03x / knife (script@vignette@wrk@charles_work_2@action.yas) (PS4), 4cc922
 -137.827035, -19.916139, 95.889020, p_knife03x / knife (script@vignette@wrk@charles_work_2@base.yas) (PS4), 4cc922

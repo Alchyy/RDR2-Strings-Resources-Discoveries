@@ -43601,6 +43601,7 @@ amb_camp_roa_story_rhodes_1
 amb_camp_schedules
 amb_camp_scm_story_murfee
 amb_camp_scm_story_murfee_1
+amb_camp_storytellers
 amb_camp_tal_story_emranch
 amb_camps_bay_00
 amb_camps_bay_00_strm
@@ -75344,6 +75345,22 @@ camp_cooking.awc
 camp_idle_guitar_01.awc
 camp_idle_harmonica_01.awc
 camp_idle_harmonica_02.awc
+camp_loc_lists_bay
+camp_loc_lists_bgv
+camp_loc_lists_blu
+camp_loc_lists_cho
+camp_loc_lists_cml
+camp_loc_lists_gap
+camp_loc_lists_grt
+camp_loc_lists_grz_e
+camp_loc_lists_grz_w
+camp_loc_lists_gua
+camp_loc_lists_hen
+camp_loc_lists_hrt
+camp_loc_lists_rio
+camp_loc_lists_roa
+camp_loc_lists_scm
+camp_loc_lists_tal
 camp_locations
 camp_locations_bayou
 camp_locations_big_valley
@@ -75359,6 +75376,7 @@ camp_locations_roanoke_ridge
 camp_locations_scarlett_meadows
 camp_locations_tall_trees
 camp_stress_test
+camping_location_lists
 campvignettedata
 can01_lightbox
 can01pr_combo01_slod
@@ -75969,6 +75987,7 @@ catll_dmno1-2
 catll_dmno1-1
 catll_dmno1-0
 catll_dmno1_mastered_only.awc
+catr4
 caunc_rust2_ext
 caunc_rust2_ext-4
 caunc_rust2_ext-3
@@ -265891,6 +265910,7 @@ player_zero_vest_023_full_chap
 player_zero_vest_025_full_chap
 player_zero_vest_026_co_short_chap
 player_zero_vest_027_full_chap
+playerscenariocameradata
 playerthree_pktwatchchain
 ple_01
 ple_01_0
@@ -275782,6 +275802,7 @@ rcm_chrb1_po2b
 rcm_chrb_tflee
 rcm_chrb_tflee2
 rcm_coachrobbery1
+rcm_colon6
 rcm_crackpot1
 rcm_crackpot2
 rcm_crawley1
@@ -275791,6 +275812,9 @@ rcm_down1
 rcm_down3
 rcm_downe1_assisted
 rcm_dropn_assisted
+rcm_duster21
+rcm_duster41
+rcm_duster62
 rcm_dutch1_charles_dewberry
 rcm_dutch1_charles_dewberryb
 rcm_dutch1_clemens
@@ -330708,6 +330732,11 @@ vfx_test_campfire
 vfx_test_campfire+hi
 vfx_water_striders
 vhtrdau
+vig_ccbll_1
+vig_ccbll_2
+vig_ccswn_1
+vig_ccswn_2
+vig_ccswn_4
 viosnwdrp_p
 vip_pass_b_pop_up_bg
 vip_pass_b_pop_up_purchase_confirmation_bg

@@ -181,7 +181,6 @@ aberdeen pig farm
 aberdeen pig farm (deer)
 aberdeen pig farm (gator)
 aberdeen pig farm standard
-adler ranch
 adversary large
 adversary large stadia
 adversary medium
@@ -344,7 +343,6 @@ assassination (tracking)
 assassination (tracking) intro
 assassination (two crows)
 assassination intro
-aurora basin
 aurora basin (crates)
 aurora basin camp
 b12-9
@@ -461,7 +459,6 @@ bgv_14 robbery
 bgv_16 wagon buddies
 bgv_trap-2
 bgv_trap-1
-big valley
 big valley - bear
 big valley cave
 big valley mountain
@@ -543,7 +540,6 @@ blue water marsh
 bluewater houseboat
 bluewater houseboat far
 bluewater kidnap
-bluewater marsh
 bluewater marsh to lagras
 bluewater marsh wagon circle
 boar - bait 1
@@ -740,7 +736,6 @@ caliban's seat
 calibans seat
 caliga (boat)
 caliga (crates)
-caliga hall
 caliga hall 1
 calumet ravine
 camp raid
@@ -779,7 +774,6 @@ cho_9 dead camper
 cho_10 dead camper
 cho_14 robbery
 cho_22 dead camper
-cholla springs
 cholla springs (iguana)
 cholla springs (pronghorn)
 cholla springs camp
@@ -893,7 +887,6 @@ cuera seco
 cueva seca
 cuevo seco
 cumberland falls
-cumberland forest
 cumberland forest (deer)
 cumberland forest (turkey)
 cumberland forest + northern heartlands
@@ -1017,7 +1010,6 @@ elysian cave
 elysian pool
 elysian pool cave
 elysian pool, far northwest
-emerald ranch
 emerald ranch 2 (relay package)
 emerald ranch 2(multi bag relay)
 emerald ranch (multi bag relay)
@@ -1413,7 +1405,6 @@ gaptooth breach to plainview
 gaptooth breach wagon circle
 gaptooth breach, north
 gaptooth group
-gaptooth ridge
 gaptooth ridge camp
 gaptooth ridge wagon circle
 gaptooth s murder
@@ -1439,7 +1430,6 @@ granite pass
 gre_6 sty-panther
 gre_9 sty-treasure
 gre_10 robbery
-great plains
 great plains 1
 great plains 2
 great plains (intercept)
@@ -1549,7 +1539,6 @@ hennigan's stead (central)
 hennigan's stead (north)
 hennigan's stead (stillwater)
 hennigans group
-hennigans stead
 hennigans stead (deer)
 hennigans stead (turtle)
 hennigans stead wagon circle
@@ -1578,7 +1567,6 @@ horseback - braithwaite manor
 horseback - dakota river
 horseback - emerald ranch
 horseback - ridgewood farm
-horseshoe overlook
 hot springs
 hot springs, ne
 hot springs, sw
@@ -1895,7 +1883,6 @@ lake don julio east
 lake fishing
 lake fishing - flat iron
 lake fishing - o'creagh's run
-lake isabella
 lake isabella shack
 langton 1
 langton 2
@@ -2058,7 +2045,6 @@ macfarlane's ranch station
 macfarlane's ranch to thieves' landing
 macfarlane's station
 macfarlane's, north outskirts
-macfarlanes ranch
 macfarlanes ranch house
 maclean's house
 macleans house
@@ -3211,7 +3197,6 @@ riley's charge
 rileys charge (vehicles)
 rileys charge camp
 ringneck creek
-rio bravo
 rio bravo (condor)
 rio bravo (crates)
 rio bravo (pronghorn)
@@ -3234,7 +3219,6 @@ roa_15 scavenger (cougar)
 roadblock test
 roanoke - crater sacrifice
 roanoke hill (road stop)
-roanoke ridge
 roanoke ridge 1
 roanoke ridge 2
 roanoke ridge 3
@@ -3341,7 +3325,6 @@ saintdenisbounty-removeprotection
 san luis river
 san luis shore
 scarlett meadow horseback (moving)
-scarlett meadows
 scenic view of cinco torres
 scenic view of nuevo paraiso
 scenic view of the grizzlies
@@ -3424,7 +3407,6 @@ sell moonshine - tall trees - thieves landing fence
 sell preferred
 sell sell goods
 sell standard
-shady belle
 shady belle (hideout)
 shady belle assault
 shaky 1
@@ -3543,14 +3525,12 @@ southeast border 09
 southeast border 10
 southeast border 11
 southeast heartlands, scm boarder
-southern roanoke
 southwest heartlands
 special modes 1
 special modes 2
 spider gorge
 st denis (crates)
 st denis docks
-st. denis
 st. denis - m_volhorseshop
 st. denis - m_volhorseshopofflimits
 st. denis - m_volhorseshopprompt
@@ -3660,7 +3640,6 @@ t99-1
 tal_2 scavenger (bear)
 tal_7 robbery
 tal_10 sty-emeraldranch
-tall trees
 tall trees - blackwater camp
 tall trees - blackwater saloon
 tall trees - elk
@@ -3690,7 +3669,6 @@ theboyval-ransackblocking
 theboyval-removeprotection
 theboyval-spawn-restrict
 thieve's landing
-thieves landing
 thieves landing far
 thieves landing hostel
 thieves landing to blackwater
@@ -3827,7 +3805,6 @@ valentine to emerald station
 valentine to fort wallace
 valentine to old greenbank mill
 valentine to rhodes
-valentine train station
 valentine, west edge of town
 valentinebounty-avoid
 valentinebounty-focus
@@ -3855,7 +3832,6 @@ valtrainclerk-protection
 valtrainclerk-ransackblocking
 valtrainclerk-removeprotection
 valtrainclerk-spawn-restrict
-van horn
 van horn 2(multi bag relay)
 van horn (multi bag relay)
 van horn bounty board
@@ -4230,6 +4206,7 @@ zzmquzzuz0qvgdf8tjp1ig
 -5065.770020
 -5057.700195
 -5050.589844
+-5048.000000
 -5039.799805
 -5038.390137
 -5033.770020
@@ -4726,6 +4703,7 @@ zzmquzzuz0qvgdf8tjp1ig
 -2841.570068
 -2839.649902
 -2839.798096
+-2832.209961
 -2832.699951
 -2826.969971
 -2824.199951
@@ -4787,6 +4765,7 @@ zzmquzzuz0qvgdf8tjp1ig
 -2722.669922
 -2721.429932
 -2718.010010
+-2718.689941
 -2717.360107
 -2717.689941
 -2711.510010
@@ -5118,6 +5097,7 @@ zzmquzzuz0qvgdf8tjp1ig
 -2190.959961
 -2189.459961
 -2189.760010
+-2183.199951
 -2182.080078
 -2181.439941
 -2181.909912
@@ -6962,6 +6942,7 @@ zzmquzzuz0qvgdf8tjp1ig
 -313.970001
 -312.600006
 -311.299988
+-310.130005
 -310.350006
 -310.410004
 -310.480011
@@ -7146,6 +7127,7 @@ zzmquzzuz0qvgdf8tjp1ig
 -219.270004
 -219.600006
 -218.000000
+-218.330002
 -218.720001
 -218.800003
 -217.199997
@@ -21602,6 +21584,7 @@ zzmquzzuz0qvgdf8tjp1ig
 41.408001
 41.410000
 41.417000
+41.419998
 41.421001
 41.421951
 41.422001
@@ -21893,6 +21876,7 @@ zzmquzzuz0qvgdf8tjp1ig
 43.419800
 43.430000
 43.438999
+43.439999
 43.454399
 43.459999
 43.466999
@@ -23184,6 +23168,7 @@ zzmquzzuz0qvgdf8tjp1ig
 52.403900
 52.418499
 52.421001
+52.439999
 52.451900
 52.452000
 52.454700
@@ -48676,6 +48661,7 @@ zzmquzzuz0qvgdf8tjp1ig
 785.400024
 786.200012
 787.250000
+789.369995
 792.797974
 793.590027
 795.119995

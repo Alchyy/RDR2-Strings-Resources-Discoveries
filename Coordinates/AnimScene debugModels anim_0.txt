@@ -4766,7 +4766,7 @@ Blue Marker = n/a
 -1783.735065, -404.332821, 156.471202, s_m_m_strlumberjack_01 / pedpeeperb (script@beat@town@peepingtom@preenpeepers.yas), 4cc922
 -1783.735066, -404.332821, 156.471202, s_m_m_strlumberjack_01 / pedpeeperb (script@beat@town@peepingtom@preenpeepers.yas), 4cc922
 -1783.743829, -359.285814, 164.697698, cs_marybeth / marybeth (cutscene@fin2_ext_p8_t04.yas), 4cc922
--1782.035199, -384.413134, 157.957933, cs_genstorymale / 0x1FF0E61F (script@common@trl1@old_man_hobbling@old_man_hobbling.yas), 4cc922
+-1782.035199, -384.413134, 157.957933, cs_genstorymale / old man (script@common@trl1@old_man_hobbling@old_man_hobbling.yas), 4cc922
 -1782.828500, 1760.039100, 235.271040, None / camera (script@cme@rprsn1_cme_lake.yas), null
 -1781.130510, -180.949076, 195.032763, cs_wintonholmes / u_m_m_grisurvivalist_01 (script@proc@loansharking@hunter@lshnt2@leadin@mcs1@base.yas), 4cc922
 -1781.130510, -180.949076, 195.032763, cs_wintonholmes / u_m_m_grisurvivalist_01 (script@proc@loansharking@hunter@lshnt2@leadin@mcs1@front.yas), 4cc922
@@ -20941,8 +20941,8 @@ Blue Marker = n/a
 -141.561531, -16.598023, 95.219998, cs_revswanson / 0x1115B437 (script@vignette@swanson_21@action_b_alt_right.yas), 4cc922
 -141.566750, -57.271991, 94.901187, cs_johnmarston / johnmarston (cutscene@rmud3_s1_int.yas), 4cc922
 -141.571030, -41.963811, 95.323195, p_bowl04x_stew / bowl0 (script@vignette@john_3@action.yas), 4cc922
--141.571646, -42.364784, 94.505825, p_bottlebeer01x_new / 0x2514AFB4 (script@vignette@camp_fire@pearson_1@action.yas), 4cc922
--141.571646, -42.364784, 94.505825, p_bottlebeer01x_new / 0x2514AFB4 (script@vignette@camp_fire@pearson_1@base_intro.yas), 4cc922
+-141.571646, -42.364784, 94.505825, p_bottlebeer01x_new / bottle 2 (script@vignette@camp_fire@pearson_1@action.yas), 4cc922
+-141.571646, -42.364784, 94.505825, p_bottlebeer01x_new / bottle 2 (script@vignette@camp_fire@pearson_1@base_intro.yas), 4cc922
 -141.574291, -40.216119, 95.517317, cs_genstorymale / key_male_a (script@vignette@camp_fire@swanson_2@action.yas), 4cc922
 -141.575751, -42.166210, 95.169251, p_bottlejd01x / key_bottle_a (script@vignette@camp_fire@bill_6@action.yas), 4cc922
 -141.578985, -16.599487, 96.093113, cs_revswanson / 0x1115B437 (script@vignette@swanson_21@action_a.yas), 4cc922
@@ -22830,8 +22830,8 @@ Blue Marker = n/a
 -137.782893, -20.388902, 96.036528, p_bottlebeer01x / rag (script@vignette@sean_2@exit.yas), 4cc922
 -137.787380, -14.238510, 96.147725, player_zero / arthur (cutscene@rdst2_rsc_1.yas), 4cc922
 -137.788236, -32.571666, 95.984241, p_cigarlit01x / p_cigarlit01x (cutscene@mud1_mcs5.yas), 4cc922
--137.795647, -41.530986, 94.507102, p_bottlebeer01x_new / 0x1750942C (script@vignette@camp_fire@pearson_1@action.yas), 4cc922
--137.795647, -41.530986, 94.507102, p_bottlebeer01x_new / 0x1750942C (script@vignette@camp_fire@pearson_1@base_intro.yas), 4cc922
+-137.795647, -41.530986, 94.507102, p_bottlebeer01x_new / bottle 1 (script@vignette@camp_fire@pearson_1@action.yas), 4cc922
+-137.795647, -41.530986, 94.507102, p_bottlebeer01x_new / bottle 1 (script@vignette@camp_fire@pearson_1@base_intro.yas), 4cc922
 -137.808441, -17.458983, 95.873240, p_cs_vegsack_down / sack_2 (script@vignette@pearson_4@action_back.yas), 4cc922
 -137.808441, -17.458983, 95.873240, p_cs_vegsack_down / sack_2 (script@vignette@pearson_4@base.yas), 4cc922
 -137.815400, -41.005354, 95.506683, cs_uncle / uncle (script@vignette@camp_fire@uncle_and_dutch_1@action.yas), 4cc922
@@ -35428,11 +35428,11 @@ Blue Marker = n/a
 659.763805, -1257.872652, 43.268084, cs_jackmarston / jack (script@vignette@abigail_10@action_b.yas), 4cc922
 659.763805, -1257.872652, 43.268084, cs_jackmarston / jack (script@vignette@abigail_10@action_b_alt.yas), 4cc922
 659.763805, -1257.872652, 43.268084, cs_jackmarston / jack (script@vignette@abigail_10@base_outro.yas), 4cc922
-659.786708, -1253.741911, 42.666292, p_chair_crate15x / 0x8EE5318E (script@vignette@abigail_10@abigail_trans.yas), 4cc922
-659.786708, -1253.741911, 42.666292, p_chair_crate15x / 0x8EE5318E (script@vignette@abigail_10@base_intro.yas), 4cc922
-659.786748, -1253.742411, 42.666292, p_chair_crate15x / 0x8EE5318E (script@vignette@abigail_10@action_a.yas), 4cc922
-659.786748, -1253.742411, 42.666292, p_chair_crate15x / 0x8EE5318E (script@vignette@abigail_10@action_b.yas), 4cc922
-659.786748, -1253.742411, 42.666292, p_chair_crate15x / 0x8EE5318E (script@vignette@abigail_10@action_b_alt.yas), 4cc922
+659.786708, -1253.741911, 42.666292, p_chair_crate15x / crate 2 (script@vignette@abigail_10@abigail_trans.yas), 4cc922
+659.786708, -1253.741911, 42.666292, p_chair_crate15x / crate 2 (script@vignette@abigail_10@base_intro.yas), 4cc922
+659.786748, -1253.742411, 42.666292, p_chair_crate15x / crate 2 (script@vignette@abigail_10@action_a.yas), 4cc922
+659.786748, -1253.742411, 42.666292, p_chair_crate15x / crate 2 (script@vignette@abigail_10@action_b.yas), 4cc922
+659.786748, -1253.742411, 42.666292, p_chair_crate15x / crate 2 (script@vignette@abigail_10@action_b_alt.yas), 4cc922
 659.948637, -1247.287226, 43.867657, player_zero / arthur (script@story@brt3@leadin@int@leadin_front_l.yas), 4cc922
 659.966833, -1253.674371, 43.674265, cs_abigailroberts / abigail (script@vignette@abigail_10@abigail_trans.yas), 4cc922
 659.970601, -1248.508496, 43.671472, player_zero / arthur (cutscene@rfud2_rsc_2.yas), 4cc922
@@ -35449,11 +35449,11 @@ Blue Marker = n/a
 660.352047, -1254.106935, 43.264265, cs_jackmarston / jack (script@vignette@abigail_10@action_a.yas), 4cc922
 660.360679, -1273.357400, 43.119522, p_bottlejd01x / bottle (script@vignette@karen_4@base.yas), 4cc922
 660.374569, -1276.543068, 43.718060, cs_lenny / lenny (script@vignette@micah_16@action_a.yas), 4cc922
-660.376660, -1254.256309, 42.666292, p_chair_crate02x / 0x7FB4932D (script@vignette@abigail_10@abigail_trans.yas), 4cc922
-660.376660, -1254.256309, 42.666292, p_chair_crate02x / 0x7FB4932D (script@vignette@abigail_10@base_intro.yas), 4cc922
-660.376700, -1254.256809, 42.666292, p_chair_crate02x / 0x7FB4932D (script@vignette@abigail_10@action_a.yas), 4cc922
-660.376700, -1254.256809, 42.666292, p_chair_crate02x / 0x7FB4932D (script@vignette@abigail_10@action_b.yas), 4cc922
-660.376700, -1254.256809, 42.666292, p_chair_crate02x / 0x7FB4932D (script@vignette@abigail_10@action_b_alt.yas), 4cc922
+660.376660, -1254.256309, 42.666292, p_chair_crate02x / crate 1 (script@vignette@abigail_10@abigail_trans.yas), 4cc922
+660.376660, -1254.256309, 42.666292, p_chair_crate02x / crate 1 (script@vignette@abigail_10@base_intro.yas), 4cc922
+660.376700, -1254.256809, 42.666292, p_chair_crate02x / crate 1 (script@vignette@abigail_10@action_a.yas), 4cc922
+660.376700, -1254.256809, 42.666292, p_chair_crate02x / crate 1 (script@vignette@abigail_10@action_b.yas), 4cc922
+660.376700, -1254.256809, 42.666292, p_chair_crate02x / crate 1 (script@vignette@abigail_10@action_b_alt.yas), 4cc922
 660.388765, -1246.432225, 44.333422, None / exportcamera (cutscene@brt3_int.yas), null
 660.427741, -1258.386019, 43.184599, cs_abigailroberts / abigail (script@vignette@abigail_7@action_a.yas), 4cc922
 660.427741, -1258.386019, 43.184599, cs_abigailroberts / abigail (script@vignette@abigail_7@action_b.yas), 4cc922
