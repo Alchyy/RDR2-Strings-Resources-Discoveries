@@ -2,10 +2,10 @@
 
 | Hash | String A | String B | File Origin A | File Origin B |
 |------|----------|----------|---------------|---------------|
-| `0xCC1BD225` | `-2357.347900,659.201965,121.360840` | `UNKNOWN` | animal_transformation_data.ymt | script/cinematics/trains/riobravo.ymt |
 | `0xD47701F7` | `-152.880005,588.328491,111.927200` | `hi@jklm_7_10_area_lod_combine_collision_26` | 0xA628F373.ymt | filename.ybn |
 | `0x961A969B` | `-2030.750000` | `AnimalBonding` | 0x5A4E03A6.ymt | — |
 | `0xE7DF5FAF` | `-2183.199951` | `mgsea_asn_psse_6` | camping_location_lists.ymt | — |
+| `0xCC1BD225` | `-2357.347900,659.201965,121.360840` | `UNKNOWN` | animal_transformation_data.ymt | script/cinematics/trains/riobravo.ymt |
 | `0x62694985` | `-301.899994,786.400024,118.400002` | `WaitForThreatResponse` | 0xD065C845.ymt | — |
 | `0xBC0C4C9A` | `-3741.858643,-2626.360596,-14.244800` | `m_04__slod1_2_1_1` | net_fast_travel.ymt | — |
 | `0xF04CF668` | `-3932.501709,-3289.206543,19.057600` | `y_08__hd_0_-2_0` | ambientvignettes.ymt | filename.ydr |
@@ -13,7 +13,6 @@
 | `0x99E11F55` | `-5028.161133,-3644.384766,-6.023363` | `val_03_mp2_prop01_lod` | camp_locations.ymt | — |
 | `0x6E8C10DC` | `-5610.358887,-3365.730957,19.393000` | `n_710_r_a_rails22` | 0xECA08D76.ymt | — |
 | `0x98642C2C` | `-5659.805664,-3505.072021,-23.151587` | `o_08__collision_2` | 0x7314F055.ymt | filename.ybn |
-| `0x10F7EAB1` | `52.439999` | `greet_abigail_annoyed` | camping_location_lists.ymt | — |
 | `0x678FCD70` | `100.728996` | `MaxAiActivationLimit` | fetch_gfh_intercept.ymt | — |
 | `0xF82860FB` | `1496.737061,422.941803,89.601402` | `UNKNOWN` | net_fast_travel.ymt | 1035_u_m_m_sdcustomvendor_01.yldb |
 | `0x6BEFD512` | `1562.420166,-3.986105,98.298950` | `Manager_Set_Disable_Distance_Cleanup` | camp_locations.ymt | — |
@@ -24,8 +23,10 @@
 | `0xC065884E` | `317.769714` | `amb_camp@world_camp_dynamic_fire@logdrop@male_a@react_look@loop@generic` | ambientvignettes.ymt | — |
 | `0x926A71CD` | `368.090393,-1283.578125,42.264198` | `w_melee_knife02_odr4_int_p1_t06_shot_1` | ambientvignettes.ymt | — |
 | `0xD0B9DEEB` | `5027432` | `UNKNOWN` | 0x1100C814.ymt | unsg2au.yldb |
+| `0x10F7EAB1` | `52.439999` | `greet_abigail_annoyed` | camping_location_lists.ymt | — |
 | `0x0EEF620F` | `55` | `UNKNOWN` | parseddata files | 0484_u_m_m_valsheriff_01.yldb |
 | `0xE5C50FBB` | `56` | `UNKNOWN` | parseddata files | 0484_u_m_m_valsheriff_01.yldb |
+| `0xE9EEA046` | `572.555725,1688.945068,186.632996` | `cmes_rktty_s5_int` | — | 525828447.ymt |
 | `0x085A7EEF` | `59.831299` | `UNKNOWN` | net_fast_travel.ymt | reir_rider.yldb |
 | `0x279E2718` | `701.806030` | `y_06__lod_1_-3_-3` | 0x5A4E03A6.ymt | y_06_.ymap |
 | `0xAAB9C076` | `905783836` | `mob4_scared_civ` | filename.ymt | cutscene@mob4_mcs2.yas |
@@ -65,12 +66,21 @@
 | `0x672C7C93` | `cliff_edges[133][166]` | `UNKNOWN` | filename.ymt | script/story/mud4/sheep_herding.ymt |
 | `0xCEFEA526` | `cliff_edges[15][22]` | `gang_odriscollboys_bgv003` | filename.ymt | — |
 | `0x541868F5` | `cliff_edges[32][46]` | `linger_d_joe` | filename.ymt | — |
+| `0x66D3A680` | `cliff_edges[64][94]` | `cmes_ghla9_post_int` | — | 2033652016.ymt |
 | `0x83A07B68` | `clipset@creatures_mammal@horse@agitated_med@transition@agitated_to_agitated_med@slope@down` | `dlg_teach_that_a_lesson_bht_laramiesleeping` | clip_sets.ymt | — |
 | `0xC3829A9E` | `clipset@mech_carry_ped@injured@pickup_body` | `net_fetch_chemical_wagon_big_valley_01_02` | clip_sets.ymt | — |
 | `0xAB326939` | `clipset@mech_cover@aim@arthur@longarms@scope@low@outro@right@righthand@mid_right_crouch` | `SHAPE_INVALID` | clip_sets.ymt | — |
 | `0xDF8F51A3` | `clothing_item_m_ugarment_005_tint_004` | `vest_mr1_016_c0_000_m` | — | — |
+| `0xF4EE6CDC` | `clothing_item_talisman_holster_none_desc` | `cmes_nts3_ig15_a` | — | 1229347366.ymt |
 | `0xCDEA0A19` | `clothing_style_m_r1_offhand_000_cataloguedesc` | `slotid_coach_wagon_02_mod_color` | — | — |
 | `0x2E3A65F2` | `clothing_style_outfit_rho_001` | `hat_mr1_066_c1_000_m+hi` | — | — |
+| `0x79DDE76B` | `cmes_gng2_ig_int_wt1` | `cs_germanson_face_rdtc1_rsc4_p1a1_t03_shot_1` | 2828969194.ymt | rdtc1_rsc4.ycd |
+| `0x933A3B51` | `cmes_hunhc_h_hesi` | `cmes_ind1_pty_vmn_r1` | 251896795.ymt | 4087501653.ymt |
+| `0xE769B85B` | `cmes_lbowl_2_hogtied` | `player_zero_jbib_003_c0_000_nm+hi` | 428711890.ymt | filename.ytd |
+| `0xD322EC43` | `cmes_masn_1_shout_1` | `p_crd_6_d01x_rho` | 659224349.ymt | filename.ydr |
+| `0xCC8F0830` | `cmes_p_r7_mcs1` | `s_94__slod1_2_0_1_children` | 1398567329.ymt | filename.ydd |
+| `0x9C2CD1A4` | `cmes_robt_s3_ig1_p1` | `dmonk_antag_a_07` | 652752641.ymt | — |
+| `0x86ECFF27` | `cmes_tho_posse_small` | `script@cinematics@fasttravel@stagecoach` | 2353834577.ymt | — |
 | `0x8A35AE45` | `col_cabin_blanket02` | `rho_fl_wood08_ma` | — | — |
 | `0x59764F90` | `completion_skin_animal` | `p_axe01x_ph_r_hand` | — | — |
 | `0x5AC27E4D` | `coverregion[312][162]` | `new_exotic_table01_nm` | — | — |

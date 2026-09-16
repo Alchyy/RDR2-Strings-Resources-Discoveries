@@ -1418,6 +1418,7 @@ GenTooFarHash
 GeneralDelay
 GenerateRadius
 GenericSkinningSize
+GestureCharacterName
 GestureSettingsName
 Gestures
 GetIn
