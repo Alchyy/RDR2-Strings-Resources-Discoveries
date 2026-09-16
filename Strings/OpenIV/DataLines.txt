@@ -65488,6 +65488,7 @@ arthurneg
 arthurpos
 artist
 artist_action_artist
+artsoau
 artur
 as_ambarino_shack
 as_ambarino_tracking
@@ -82880,6 +82881,7 @@ bh008_female1
 bh008_female2
 bh008_female3
 bh008_finley
+bh008_ginfiltrator
 bh008_ginfiltrator1
 bh008_lawman1
 bh008_male1
@@ -107426,6 +107428,7 @@ christalive_anselm
 christalive_chair
 christalive_pen
 christmas
+chrm3au
 chrm4au
 chs2aud
 chs3aud
@@ -365584,6 +365587,7 @@ lomtr_elitelaw1
 lomtr_routedock1
 lomtr_routelaw1
 lomtr_seniorlaw
+lomtrau
 lon
 lon01pr_combo_13_lod
 lon01pr_combo_14_lod
@@ -434055,6 +434059,7 @@ mpuni_spared2
 mpuni_taken1
 mpuni_taken2
 mpuniau
+mr53aud
 mr_end
 mr_hawksbill
 mr_start
@@ -442463,6 +442468,8 @@ naswo_cvtalkwf
 naswoau
 nat1_horseboat
 nat007_female1
+nat007_male1
+nat007_male2
 nat007_poacher1
 nat007_poacher2
 nat007_poacher3
@@ -553452,6 +553459,7 @@ reset
 reset_after_played_frozen_underground_dialogue_line
 reset_help_on_complete
 reset_loop
+resfval
 resfvht
 residents1
 residents2
@@ -593141,6 +593149,7 @@ shk_shack_it_02_slod_children
 shk_shackmhpr_combo_23_lod
 shk_shackmhpr_combo_slod
 shk_shackmhpr_combo_slod_children
+shmcaud
 shmwc_set1_int
 shmwc_set1_out
 shmwc_set2_int
@@ -596539,6 +596548,7 @@ sklraud
 sklt_entera
 sklt_enterb
 skltau
+sksg1au
 sksg2au
 sksk2_killer
 skujv
@@ -601065,6 +601075,7 @@ srock04
 srrgaud
 srsgaud
 srvdaud
+ssaaaud
 ssc_cabin_01
 ssc_cabin_01_dec
 ssc_cabin_01_lod

@@ -165282,6 +165282,7 @@ lominau
 lomrs.awc
 lomrsau
 lomtr.awc
+lomtrau
 lon01pr_combo_slod
 lon01pr_combo_slod_children
 lon_01
@@ -278830,6 +278831,7 @@ reservation_stage0_navmesh[285][297]
 reservation_stage0_navmesh[285][300]
 reservation_stage0as_[45][50]
 resf.awc
+resfval
 resfvht
 respawn_01_mastered_20_02_18.awc
 respawn_03_mastered_20_02_18.awc
@@ -306853,6 +306855,7 @@ shk_shack_it_02_lod
 shk_shack_it_02_slod_children
 shk_shackmhpr_combo_slod
 shk_shackmhpr_combo_slod_children
+shmcaud
 shocked_amazement_01_os.awc
 shocked_amazement_02_os.awc
 shocked_amazement_03_os.awc
@@ -307855,6 +307858,7 @@ sklt.awc
 skltau
 skmh1.awc
 skotr.awc
+sksg1au
 sksg2au
 sksk1.awc
 sksk2.awc
@@ -309558,6 +309562,7 @@ srrgaud
 srsgaud
 srvdaud
 srvdd.awc
+ssaaaud
 ssc_cabin_01
 ssc_cabin_01+hidr
 ssc_cabin_01_dec
