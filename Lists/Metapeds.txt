@@ -45,7 +45,7 @@ Line  1022:    meta_animal_outfit_bear_000
 Line  1226:    meta_animal_outfit_bear_001
 Line  1421:    meta_outfit_camp_dead_bear
 Line  1603:    meta_outfit_animal_mp_bear_000
-Line  1809:    0x17956843				(meta_outfit_animal_mp_bear_000 + collar)
+Line  1809:    mp_legendarybounty_yukon_001
 Line  2031:    meta_outfit_mp_legendary_bear_01
 
 ---------------------------------------------------------update\metapeds\a_c_beaver_01.ymt (4 Outfits)
@@ -188,7 +188,7 @@ Line  5666:    n/a
 Line  5999:    n/a
 Line  6332:    n/a
 Line  6665:    n/a
-Line  7020:    0x96E198AD
+Line  7020:    meta_outfit_animal_cowmilking
 
 ---------------------------------------------------------update\metapeds\a_c_coyote_01.ymt (13 Outfits)
 Line     5:    n/a
@@ -229,8 +229,8 @@ Line   476:    meta_outfit_animal_deer_000
 Line   709:    meta_outfit_animal_deer_001
 Line   942:    meta_outfit_animal_poison_deer
 Line  1005:    meta_outfit_injured_arrow_deer
-Cut Outfit:    0xE963C930 (script@rcm@prsn@leadout@ext@leadout)
-Cut Outfit:    0x84D8801B (mech_skin@...) (7 files)
+Cut Outfit:    0x84D8801B (mech_skin@...) (7 files)					...1
+Cut Outfit:    0xE963C930 (script@rcm@prsn@leadout@ext@leadout)		...3
 
 ---------------------------------------------------------update\metapeds\a_c_dogamericanfoxhound_01.ymt (5 Outfits)
 Line     5:    n/a
@@ -251,15 +251,15 @@ Line   165:    n/a
 Line   245:    default_a_c_dogbluetickcoonhound_01
 Line   325:    0x1077332B
 Line   386:    meta_outfit_animal_poison_dogbluetickcoonhound
-Line   479:    0xA5A7DDF6
+Line   479:    meta_outfit_animal_dograbid01
 Line   572:    meta_outfit_animal_poison
 
 ---------------------------------------------------------update\metapeds\a_c_dogcatahoulacur_01.ymt (7 Outfits)
 Line     5:    n/a
 Line    96:    meta_outfit_camp_friendly_dog
-Line   187:    0xA9D30CC0
-Line   305:    0xF401A11C
-Line   423:    0x064945AB
+Line   187:    mp_legendarybounty_yukon_002
+Line   305:    mp_legendarybounty_yukon_003
+Line   423:    mp_legendarybounty_yukon_004
 Line   541:    unnamed_outfit_001
 Line   632:    unnamed_outfit_002
 
@@ -4146,9 +4146,9 @@ Line  5467:    n/a
 Line  5930:    n/a
 Line  6173:    n/a
 Line  6644:    0x2D4F2E13
-Line  6796:    0x450F30B3
-Line  7067:    0xDF51E52E
-Line  7530:    0xD01446B3
+Line  6796:    re_chaingang_prisoner_01
+Line  7067:    re_chaingang_prisoner_02
+Line  7530:    re_chaingang_prisoner_03
 
 ---------------------------------------------------------update\metapeds\a_m_m_smhthug_01.ymt (24 Outfits)
 Line     5:    n/a
@@ -6258,7 +6258,7 @@ Line   403:    meta_outfit_prison_wagon
 Line     5:    meta_outfit_default
 
 ---------------------------------------------------------update\metapeds\cs_mp_maggie.ymt (2 Outfits)
-Line     5:    0x704A7769
+Line     5:    meta_outfit_before_burn
 Line   162:    meta_outfit_default
 
 ---------------------------------------------------------update\metapeds\cs_mp_marshall_davies.ymt (2 Outfits)
@@ -6499,7 +6499,7 @@ Line     5:    meta_outfit_default
 Line     5:    meta_outfit_default
 Line   443:    meta_outfit_healthy
 Line   881:    meta_outfit_healthy_001
-Line  1341:    0x27296232
+Line  1341:    meta_outfit_less_rough
 Line  1779:    meta_outfit_older_healthy
 
 ---------------------------------------------------------update\metapeds\cs_samaritan.ymt (1 Outfit)
@@ -7557,8 +7557,8 @@ Line 21192:    0x9296AEA8
 Line 21367:    0xA0514A1D
 Line 21607:    0x472697C9
 Line 21774:    0x729494D9
-Line 21930:    0xE1729645
-Line 22163:    0xBBC24AE1
+Line 21930:    0xE1729645	// charmgambler_01
+Line 22163:    0xBBC24AE1	// charmgambler_02
 Line 22338:    0x19A982B5
 Line 22569:    0xD023EFB3
 Line 22784:    0xD9560217
@@ -10318,16 +10318,16 @@ Line  8090:    mp_f_shop_000
 Line  8206:    mp_f_shop_001
 Line  8311:    mp_f_shop_002
 Line  8427:    mp_f_shop_003
-Line  8510:    0xC6F5F59E
-Line  8708:    0x7AD65D60
-Line  8932:    0x649030D4
-Line  9188:    0x1E422411
-Line  9396:    0x89D7FB63
-Line  9550:    0x8FF00767
-Line  9704:    0xF8A7D8D5
-Line  9902:    0xB248CC18
-Line 10067:    0x9D0AA19C
-Line 10287:    0x9C52EED1
+Line  8510:    mp_freeroam_tut_f_01
+Line  8708:    mp_freeroam_tut_f_02
+Line  8932:    mp_freeroam_tut_f_03
+Line  9188:    mp_freeroam_tut_f_04
+Line  9396:    mp_freeroam_tut_f_05
+Line  9550:    mp_freeroam_tut_f_06
+Line  9704:    mp_freeroam_tut_f_07
+Line  9902:    mp_freeroam_tut_f_08
+Line 10067:    mp_freeroam_tut_f_09
+Line 10287:    mp_freeroam_tut_f_10
 Line 10452:    mp_juggernaut_000
 Line 10515:    mp_juggernaut_001
 Line 10576:    mp_juggernaut_002
@@ -10360,10 +10360,10 @@ Line 14474:    mpcreator_head_012_v_002
 Line 14606:    mpcreator_head_013_v_002
 Line 14734:    mpcreator_head_014_v_002
 Line 14866:    mpcreator_heavy
-Line 14962:    0x01F19E7B
+Line 14962:    mpcreator_heavy_muscular
 Line 15058:    mpcreator_neutral
 Line 15154:    mpcreator_skinny
-Line 15250:    0x03AC0BCD
+Line 15250:    mpcreator_skinny_muscular
 
 ---------------------------------------------------------update\metapeds\mp_fm_bountytarget_females_dlc008_01.ymt (5 Outfits)
 Line     5:    emerald_target_01
@@ -10497,21 +10497,21 @@ Line   197:    vanhorn_thug_02
 Line   353:    vanhorn_thug_03
 
 ---------------------------------------------------------update\metapeds\mp_freeroam_tut_females_01.ymt (5 Outfits)
-Line     5:    0xC6F5F59E
-Line   211:    0x7AD65D60
-Line   435:    0x649030D4
-Line   695:    0x1E422411
-Line   908:    0x89D7FB63
+Line     5:    mp_freeroam_tut_f_01
+Line   211:    mp_freeroam_tut_f_02
+Line   435:    mp_freeroam_tut_f_03
+Line   695:    mp_freeroam_tut_f_04
+Line   908:    mp_freeroam_tut_f_05
 
 ---------------------------------------------------------update\metapeds\mp_freeroam_tut_males_01.ymt (8 Outfits)
-Line     5:    0x4F3946C6
-Line   275:    0x5D0BE26B
-Line   531:    0xF3AC0FA9
-Line   771:    0x0159AB04
-Line  1015:    0x8454B0FC
-Line  1191:    0x9BA2DF98
-Line  1389:    0xA874793B
-Line  1625:    0x3E42A4D9
+Line     5:    mp_freeroam_tut_m_01
+Line   275:    mp_freeroam_tut_m_02
+Line   531:    mp_freeroam_tut_m_03
+Line   771:    mp_freeroam_tut_m_04
+Line  1015:    mp_freeroam_tut_m_05
+Line  1191:    mp_freeroam_tut_m_06
+Line  1389:    mp_freeroam_tut_m_07
+Line  1625:    mp_freeroam_tut_m_08
 
 ---------------------------------------------------------update\metapeds\mp_guidomartelli.ymt (1 Outfit)
 Line     5:    meta_outfit_default
@@ -12018,11 +12018,11 @@ Line 20769:    mp_asn_sdgraveyard_tar_04
 Line 20966:    mp_asn_sdgraveyard_tar_05
 Line 21198:    mp_asn_sdgraveyard_tar_06
 Line 21378:    mp_hideout_hangingdog_01
-Line 21631:    0x9D3E158E
-Line 21804:    0xAA8FB031
-Line 22005:    0xBFF1DAF5
-Line 22186:    0xCF6A79E6
-Line 22403:    0x53A68260
+Line 21631:    mp_intro_odriscoll_01
+Line 21804:    mp_intro_odriscoll_02
+Line 22005:    mp_intro_odriscoll_03
+Line 22186:    mp_intro_odriscoll_04
+Line 22403:    mp_intro_odriscoll_05
 Line 22636:    0x5FF34ED5
 
 ---------------------------------------------------------update\metapeds\mp_g_m_m_uniduster_02.ymt (53 Outfits)
@@ -12635,9 +12635,9 @@ Line     5:    mp_intro_horseback_01
 Line   156:    mp_intro_horseback_02
 Line   396:    mp_intro_horseback_03
 Line   539:    mp_intro_horseback_04
-Line   766:    0xD496F846
+Line   766:    mp_intro_jenkins
 Line   991:    0xB72AB218
-Line  1216:    0x49C4D4CE
+Line  1216:    mp_intro_megaphone
 Line  1337:    0x41FF96CB
 Line  1480:    0x66C9D6D5
 Line  1623:    mp_intro_prisoner_01
@@ -12732,27 +12732,27 @@ Line  3094:    0x0A0FE521
 Line  3187:    meta_wearable_moneybags
 Line  3226:    mp_blackrose_000
 Line  3375:    mp_copperhead_000
-Line  3513:    0x4F3946C6
-Line  3772:    0x5D0BE26B
-Line  4028:    0xF3AC0FA9
-Line  4264:    0x0159AB04
-Line  4492:    0x8454B0FC
-Line  4646:    0x9BA2DF98
-Line  4839:    0xA874793B
-Line  5086:    0x3E42A4D9
-Line  5326:    0xC27AAD53
-Line  5535:    0x5F426C68
-Line  5700:    0x730193FE
-Line  5898:    0x8095AF26
-Line  6096:    0x4F5BCCB3
-Line  6272:    0x5D08680C
-Line  6437:    0xD9FF61E4
-Line  6602:    0xC7213C28
-Line  6767:    0x95A9594D
-Line  6921:    0xA46476C3
-Line  7097:    0x20BA6F59
-Line  7295:    0x4E7ACBF9
-Line  7573:    0xC98CC227
+Line  3513:    mp_freeroam_tut_m_01
+Line  3772:    mp_freeroam_tut_m_02
+Line  4028:    mp_freeroam_tut_m_03
+Line  4264:    mp_freeroam_tut_m_04
+Line  4492:    mp_freeroam_tut_m_05
+Line  4646:    mp_freeroam_tut_m_06
+Line  4839:    mp_freeroam_tut_m_07
+Line  5086:    mp_freeroam_tut_m_08
+Line  5326:    mp_freeroam_tut_m_09
+Line  5535:    mp_freeroam_tut_m_10
+Line  5700:    mp_freeroam_tut_m_11
+Line  5898:    mp_freeroam_tut_m_12
+Line  6096:    mp_freeroam_tut_m_13
+Line  6272:    mp_freeroam_tut_m_14
+Line  6437:    mp_freeroam_tut_m_15
+Line  6602:    mp_freeroam_tut_m_16
+Line  6767:    mp_freeroam_tut_m_17
+Line  6921:    mp_freeroam_tut_m_18
+Line  7097:    mp_freeroam_tut_m_19
+Line  7295:    mp_freeroam_tut_m_20
+Line  7573:    mp_freeroam_tut_m_21
 Line  7771:    mp_juggernaut_000
 Line  7834:    mp_juggernaut_001
 Line  7895:    mp_juggernaut_002
@@ -12838,10 +12838,10 @@ Line 17941:    mpcreator_head_012_v_002
 Line 18069:    mpcreator_head_013_v_002
 Line 18205:    mpcreator_head_014_v_002
 Line 18329:    mpcreator_heavy
-Line 18425:    0x01F19E7B
+Line 18425:    mpcreator_heavy_muscular
 Line 18521:    mpcreator_neutral
 Line 18617:    mpcreator_skinny
-Line 18713:    0x03AC0BCD
+Line 18713:    mpcreator_skinny_muscular
 
 ---------------------------------------------------------update\metapeds\mp_oth_recipient_males_01.ymt (5 Outfits)
 Line     5:    mp_oth_benedictpoint_rcp_01
@@ -13120,21 +13120,21 @@ Line   479:    mp_re_animalattack_warm_04
 
 ---------------------------------------------------------update\metapeds\mp_re_duel_females_01.ymt (4 Outfits)
 Line     5:    mp_re_duel_bountyhunter_01
-Line   186:    0x9739797F
-Line   348:    0x7BF342F3
+Line   186:    mp_re_duel_lovetriangle_01
+Line   348:    mp_re_duel_lovetriangle_02
 Line   557:    0x900D66F1
 
 ---------------------------------------------------------update\metapeds\mp_re_duel_males_01.ymt (4 Outfits)
-Line     5:    0xD898D184
+Line     5:    mp_re_duel_crude_01
 Line   165:    0xF6465BBC
 Line   329:    0xA1FE9F6A
 Line   474:    0xD7DE8B21
 
 ---------------------------------------------------------update\metapeds\mp_re_graverobber_females_01.ymt (1 Outfit)
-Line     5:    0x9A690D1F
+Line     5:    mp_re_graverobber_robber_02
 
 ---------------------------------------------------------update\metapeds\mp_re_graverobber_males_01.ymt (1 Outfit)
-Line     5:    0x0403E04B
+Line     5:    mp_re_graverobber_robber_01
 
 ---------------------------------------------------------update\metapeds\mp_re_hobodog_females_01.ymt (2 Outfits)
 Line     5:    0xF3AEBD8C
@@ -14991,8 +14991,8 @@ Line 33222:    metaped_valentinecl_003
 ---------------------------------------------------------update\metapeds\p_c_horse_01.ymt (1 Outfit) + (2 Cut Outfits) + (1 Settings.ymt)
 Line     5:    n/a
 Cut Outfit:    meta_horse_default (script@story@mud5@leadout@mcs3@leadout_toride)
-Cut Outfit:    0xDABAFDE0 (script@beat@wilderness@discoverables@overturned_hearse@overturned_hearse)
-Cut Outfit:    0xDABAFDE0 (script@beat@wilderness@wilderness_chest_3@wilderness_chest_3)
+Cut Outfit:    p_c_horsedead_01 (script@beat@wilderness@discoverables@overturned_hearse@overturned_hearse)
+Cut Outfit:    p_c_horsedead_01 (script@beat@wilderness@wilderness_chest_3@wilderness_chest_3)
 
 Settings.ymt	meta_horse_just_saddle_only (script@vignette@hosea_14@...) (7 files)
 
@@ -15890,9 +15890,9 @@ Line     5:    n/a
 Line   365:    0x37CA6D89
 
 ---------------------------------------------------------update\metapeds\re_townburial_males_01.ymt (18 Outfits)
-Line     5:    0x0DCE57EF
-Line   289:    0x4F6FC389
-Line   518:    0xFB34FC0B
+Line     5:    re_townburial_corpse_campreturn
+Line   289:    re_townburial_corpse_skinnerbro
+Line   518:    re_townburial_corpse_skinnersearch
 Line   795:    re_townburial_gravedigger_01
 Line  1125:    re_townburial_mourner_01
 Line  1423:    re_townburial_mourner_02
@@ -16564,8 +16564,8 @@ Line 13919:    n/a
 Line 14129:    n/a
 Line 14396:    n/a
 Line 14663:    n/a
-Line 14890:    0xD1E10EF4
-Line 15298:    0x82867040
+Line 14890:    re_chaingang_law_01
+Line 15298:    re_chaingang_law_02
 Line 15706:    re_law_driver_01
 Line 15897:    re_law_passenger_01
 Line 16145:    re_law_passenger_02
@@ -17511,12 +17511,12 @@ Line     5:    n/a
 ---------------------------------------------------------update\metapeds\u_m_m_bht_skinnerbrother.ymt (3 Outfits)
 Line     5:    n/a
 Line   241:    meta_outfit_default
-Line   477:    0x4F6FC389
+Line   477:    re_townburial_corpse_skinnerbro
 
 ---------------------------------------------------------update\metapeds\u_m_m_bht_skinnersearch.ymt (3 Outfits)
 Line     5:    n/a
 Line   307:    meta_outfit_default
-Line   609:    0xFB34FC0B
+Line   609:    re_townburial_corpse_skinnersearch
 
 ---------------------------------------------------------update\metapeds\u_m_m_bht_strawberryduel.ymt (1 Outfit)
 Line     5:    n/a
@@ -18094,11 +18094,11 @@ Line    79:    0x85E29F7F
 Line   153:    0xB5437E38
 Line   227:    0x9FC95344
 Line   301:    0x598146B9
-Line   375:    0xD03EEDF0
-Line   441:    0x9DF10955
-Line   507:    0xEB74A45F
-Line   573:    0xBB0BC38A
-Line   639:    0x18F87F66
+Line   375:    0xD03EEDF0	0
+Line   441:    0x9DF10955	1
+Line   507:    0xEB74A45F	2
+Line   573:    0xBB0BC38A	3
+Line   639:    0x18F87F66	4
 Line   705:    0x70AD8AD5
 Line   766:    0x2CE44DF8
 Line   840:    0x3E927154
@@ -21410,7 +21410,7 @@ Line  3218:    n/a
 Line  3348:    n/a
 Line  3507:    n/a
 Line  3737:    n/a
-Line  3900:    0x86A10E76
+Line  3900:    meta_outfit_guard_dazed
 Line  4063:    meta_outfit_guard_normal
 Line  4197:    0x38E1576F
 Line  4435:    0x428A6AC1
@@ -22051,26 +22051,26 @@ Line     5:    mp_rescue_rivalshack_vip_01
 Line   155:    mp_rescue_rivalshack_vip_02
 
 ---------------------------------------------------------update\metapeds_val\mp_re_rivalcollector_males_01.ymt (20 Outfits)
-Line     5:    0xE20A9564
-Line   199:    0x4CD16AEC
-Line   382:    0x3E8BCE61
-Line   546:    0x2956A3F7
-Line   732:    0x1B18077A
-Line   937:    0xBCEA4B2C
-Line  1130:    0xAF28AFA9
-Line  1312:    0x986F8237
-Line  1509:    0x8A96E682
-Line  1681:    0x632316C7
-Line  1867:    0x3508D62F
-Line  2105:    0x25F7B855
-Line  2310:    0x13B993D9
-Line  2507:    0x4274714E
-Line  2693:    0x342ED4C3
-Line  2898:    0x5F3F2AE3
-Line  3069:    0x51048E6E
-Line  3244:    0x7BC9E3F8
-Line  3441:    0x6D884775
-Line  3624:    0x99A5224E
+Line     5:    mp_re_rivalcollector_cold_01
+Line   199:    mp_re_rivalcollector_cold_02
+Line   382:    mp_re_rivalcollector_cold_03
+Line   546:    mp_re_rivalcollector_cold_04
+Line   732:    mp_re_rivalcollector_cold_05
+Line   937:    mp_re_rivalcollector_cold_06
+Line  1130:    mp_re_rivalcollector_cold_07
+Line  1312:    mp_re_rivalcollector_cold_08
+Line  1509:    mp_re_rivalcollector_cold_09
+Line  1681:    mp_re_rivalcollector_cold_10
+Line  1867:    mp_re_rivalcollector_warm_01
+Line  2105:    mp_re_rivalcollector_warm_02
+Line  2310:    mp_re_rivalcollector_warm_03
+Line  2507:    mp_re_rivalcollector_warm_04
+Line  2693:    mp_re_rivalcollector_warm_05
+Line  2898:    mp_re_rivalcollector_warm_06
+Line  3069:    mp_re_rivalcollector_warm_07
+Line  3244:    mp_re_rivalcollector_warm_08
+Line  3441:    mp_re_rivalcollector_warm_09
+Line  3624:    mp_re_rivalcollector_warm_10
 
 ---------------------------------------------------------update\metapeds_val\mp_u_m_m_protect_valentine_01.ymt (1 Outfit)
 Line     5:    meta_outfit_default
