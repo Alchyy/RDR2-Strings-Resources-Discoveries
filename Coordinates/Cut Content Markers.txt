@@ -3110,6 +3110,7 @@ Light Blue = Miscellanous
 2910, 490, 55, Tallulah Jetty Props?, 9D00FF
 2920.4844, 1342.5623, 45.372604, ann_setlrs_reg_int (Cut interior), 9D00FF
 2920.7095, 1343.5851, 36.61043, ann_setlrs_int (ntv3 cutscene), 9D00FF
+2923.129, 1351.4222, 45.26451, ann_04_rdtc3_rsc4 (ann_04_rdtc3_rsc4_fakeint.ymap), 9D00FF
 3038.2942, 1369.0724, 41.61308, ann_houseboat_ramp (ann_trainrob1_planks.ymap), 9D00FF
 3042.9336, 1378.027, 41.639034, ann_01_houseboat_mooring (ann_houseboat_trainrob1_01.ymap), 9D00FF
 3317.297, 216.9514, 41.55624, dis_roa_charmscreepy01 (dis_roa_00_long_0.ymap), 9D00FF
@@ -3369,7 +3370,6 @@ Light Blue = Miscellanous
 2722, 705.1, 80.5, nplh_butcher_creek_shack - cameralocation (scriptpardata.ymt)
 2866.71, 1034.41, 45.929, Unknown Shack (cliff_edges[177][140].ymt)
 2893.68, 2570.4, 173.7, iz_dov_lab_int_room_dov_lab_main (proj_game.dat325.rel)
-2923.129, 1351.4222, 45.26451, ann_04_rdtc3_rsc4 (ann_04_rdtc3_rsc4_fakeint.ymap)
 2926, 1368, 46, ann_genstore_int (Speculative Coords) (proj_game.dat325.rel)
 2944.992188, 1369.957275, 43.1376, Annesburg / ann (parseddata_mp) (cairn_locations.ymt)
 2957.557617, 1350.247070, 47.126999, BarBrawl_ANNS (barbrawl.meta)
@@ -3415,8 +3415,7 @@ Light Blue = Miscellanous
 3927.9, -3324, 64.6, center (aguasdulces.ymt)
 3946.7, -3329.66, 75.711, gua_ag1 (popzone_volume.ymt)
 3948.123, -3265.4045, 56.789253, script_story_fus1_cliff_walk_cinematic_location (script/story/fus1/cliff_walk.ymt)
-3950.15, -3291.21, 58.28, iz_guarma_cave_deep_04 (proj_game.dat325.rel)
-3950.15, -3291.21, 58.28, iz_guarma_cave_pit (proj_game.dat325.rel)
+3950.15, -3291.21, 58.28, iz_guarma_cave_deep_04 & iz_guarma_cave_pit (proj_game.dat325.rel)
 3951.81, -3348.85, 68.8065, Fussar's Mansion (Cliffpoints)
 3960.328125, -3326.539551, 64.886902, Aguasdulces / agd (parseddata_mp) (cairn_locations.ymt)
 3963.49, -3300.33, 67.57, 0xC4914F0A (AmbientRule) (proj_game.dat325.rel)

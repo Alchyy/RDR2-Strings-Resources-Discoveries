@@ -16442,7 +16442,6 @@ cmsf3_aaad_01
 cmsf3_aaae_01
 cmsf3_aaaf_01
 cmsf3_aaag_01
-coastal_hud_01
 cock_a_doodle_doo_01
 cock_a_doodle_doo_02
 cock_a_doodle_doo_03
