@@ -18730,7 +18730,9 @@ AGE_ADULT
 AGE_CHILD
 AGE_OLD
 AGE_YOUNG
+AIK_BLOCK_NON_ANIMSCENE_LOOKS
 AIK_DISABLE_ARM_IK
+AIK_DISABLE_CONTOUR_IK
 AIK_DISABLE_HEAD_IK
 AIK_DISABLE_LEG_IK
 AIK_DISABLE_LEG_POSTURE_IK
@@ -20153,6 +20155,7 @@ STYLE_LOCALE_MEXICAN
 STYLE_LOCALE_POLISH
 STYLE_LOCALE_PORTUGUESE
 STYLE_LOCALE_RUSSIAN
+STYLE_LOCALE_SIMPLIFIED_CHINESE
 STYLE_LOCALE_SPANISH
 ST_GAME
 ST_PLAYER
@@ -25742,6 +25745,7 @@ a_c_cat_01_teef_000_c0_000_m
 a_c_cat_01_teef_000_c0_000_m+hi
 a_c_cat_01_teef_000_c0_000_nm
 a_c_cat_01_teef_000_c0_000_nm+hi
+a_c_cat_01a
 a_c_cedarwaxwing_01
 a_c_cedarwaxwing_01_head_000
 a_c_cedarwaxwing_01_head_000_ab
@@ -26773,6 +26777,7 @@ a_c_doghound_01_uppr_poison_000_c0_000_m
 a_c_doghound_01_uppr_poison_000_c0_000_m+hi
 a_c_doghound_01_uppr_poison_000_c0_000_nm
 a_c_doghound_01_uppr_poison_000_c0_000_nm+hi
+a_c_doghound_01a
 a_c_doghusky_01
 a_c_doghusky_01_head_000
 a_c_doghusky_01_head_000_ab
@@ -26858,6 +26863,7 @@ a_c_doglab_01_uppr_000_c0_002_ab
 a_c_doglab_01_uppr_000_c0_002_ab+hi
 a_c_doglab_01_uppr_000_m
 a_c_doglab_01_uppr_000_nm
+a_c_doglab_01a
 a_c_doglion_01
 a_c_doglion_01_dual_rktty_s3_mcs1_p1_t03_shot_1
 a_c_doglion_01_head_000
@@ -27181,6 +27187,7 @@ a_c_eagle_01_head_001
 a_c_eagle_01_head_002
 a_c_eagle_01_head_003
 a_c_eagle_01_head_004
+a_c_eagle_01a
 a_c_egret_01
 a_c_egret_01_fd_001
 a_c_egret_01_fd_001_ab
@@ -28017,6 +28024,7 @@ a_c_fox_01_uppr_poison_000_c0_000_m
 a_c_fox_01_uppr_poison_000_c0_000_m+hi
 a_c_fox_01_uppr_poison_000_c0_000_nm
 a_c_fox_01_uppr_poison_000_c0_000_nm+hi
+a_c_fox_01a
 a_c_frogbull_01
 a_c_frogbull_01_head
 a_c_frogbull_01_head_000
@@ -28152,6 +28160,7 @@ a_c_goat_01_uppr_000_c0_002_ab
 a_c_goat_01_uppr_000_c0_002_ab+hi
 a_c_goat_01_uppr_000_m
 a_c_goat_01_uppr_000_nm
+a_c_goat_01a
 a_c_goosecanada_01
 a_c_goosecanada_01_head_000
 a_c_goosecanada_01_head_000_ab
@@ -28253,6 +28262,7 @@ a_c_heron_01_lowr_001_c0_001_ab+hi
 a_c_heron_01_lowr_001_c0_002_ab
 a_c_heron_01_lowr_001_c0_002_ab+hi
 a_c_heron_01_plumes_001
+a_c_heron_01a
 a_c_horse_01
 a_c_horse_all_breeds
 a_c_horse_americanpaint_greyovero
@@ -29718,6 +29728,7 @@ a_c_rat_01_head_001_c0_000_nm
 a_c_rat_01_head_001_c0_000_nm+hi
 a_c_rat_01_head_001_m
 a_c_rat_01_head_001_nm
+a_c_ratdead_01
 a_c_raven_01
 a_c_raven_01_head
 a_c_raven_01_head_000
@@ -30104,6 +30115,7 @@ a_c_snake_01_pelt_001_c0_003_ab
 a_c_snake_01_pelt_001_c0_003_ab+hi
 a_c_snake_01_pelt_001_m
 a_c_snake_01_pelt_001_nm
+a_c_snake_01a
 a_c_snake_pelt_01
 a_c_snake_pelt_01_pelt_001
 a_c_snakeblacktailrattle_01
@@ -30263,6 +30275,7 @@ a_c_songbird_01_head_000_c0_001_ab
 a_c_songbird_01_head_000_c0_001_ab+hi
 a_c_songbird_01_head_000_m
 a_c_songbird_01_head_000_nm
+a_c_songbird_01a
 a_c_sparrow_01
 a_c_sparrow_01_head_000
 a_c_sparrow_01_head_000_ab
@@ -30278,6 +30291,7 @@ a_c_sparrow_01_head_000_c0_002_ab
 a_c_sparrow_01_head_000_c0_002_ab+hi
 a_c_sparrow_01_head_000_m
 a_c_sparrow_01_head_000_nm
+a_c_sparrow_01a
 a_c_squirrel_01
 a_c_squirrel_01_head
 a_c_squirrel_01_head_000
@@ -30649,6 +30663,7 @@ a_c_wolf_uppr_000_c0_004_ab
 a_c_wolf_uppr_000_c0_004_ab+hi
 a_c_wolf_uppr_000_m
 a_c_wolf_uppr_000_nm
+a_c_wolfdead_01
 a_c_woodpecker_01
 a_c_woodpecker_01_head_000
 a_c_woodpecker_01_head_000_ab
@@ -30699,6 +30714,7 @@ a_f_m_asbtownfolk_01^1_dual_rrfa_s1_int_p1_t05_shot_2
 a_f_m_asbtownfolk_01_dual_rrfa_s1_int_p1_t05_shot_1
 a_f_m_asbtownfolk_01_dual_rrfa_s1_int_p1_t05_shot_2
 a_f_m_asbtownfolk_01_r2pvg
+a_f_m_bathingladies_01_r2pvg
 a_f_m_bivfancytravellers_01
 a_f_m_blwtownfolk_01
 a_f_m_blwtownfolk_01_r2pvg
@@ -30973,6 +30989,7 @@ a_f_m_strtownfolk_01_dual
 a_f_m_strtownfolk_01_dual_fin2_ext_p7_t02_shot_1
 a_f_m_strtownfolk_01_r2pvg
 a_f_m_tumtownfolk_01
+a_f_m_tumtownfolk_01_r2pvg
 a_f_m_tumtownfolk_02_r2pvg
 a_f_m_unicorpse
 a_f_m_unicorpse_01
@@ -31503,6 +31520,7 @@ a_m_m_lowersdtownfolk_01
 a_m_m_lowersdtownfolk_01_r2pvg
 a_m_m_lowersdtownfolk_02
 a_m_m_lowersdtownfolk_02_r2pvg
+a_m_m_lowersdtownfolk_03_r2pvg
 a_m_m_middlesdtownfolk_01
 a_m_m_middlesdtownfolk_01^1
 a_m_m_middlesdtownfolk_01^1_dual
@@ -32133,6 +32151,7 @@ a_m_m_sclroughtravellers_01^3
 a_m_m_sclroughtravellers_01_dual_dbt3_mcs1_p1_t00_shot_1
 a_m_m_sclroughtravellers_01_dual_mob3_mcs2_p1_t02_shot_1
 a_m_m_sclroughtravellers_01_dual_mob3_mcs2_p1_t02_shot_2
+a_m_m_sclroughtravellers_01_r2pvg
 a_m_m_sdchinatown_01
 a_m_m_sdchinatown_01_r2pvg
 a_m_m_sddockforeman_01
@@ -66134,6 +66153,7 @@ audio_text_label
 audio_voiceover
 audio_voiceover_highhonor
 audio_voiceover_lowhonor
+audiomixer
 audiomusic
 audiosfx
 aur01pr_combo02_13_lod
@@ -79393,6 +79413,8 @@ bay_volwater
 bayou
 bayou coastal
 bayou ground
+bayou orange plantation
+bayou scenario coverage
 bayou_animals
 bayou_ghosting
 bayou_maggie_intro_trigger
@@ -83073,7 +83095,10 @@ bidleloop2
 bidleloop3
 bidletoargue
 big valley
+big valley dead forest wolf pack
 big valley little creek
+big valley scenario coverage
+big valley segment of the dakota river
 big_01_
 big_01__interior_shack_bv_int_milo_
 big_01__strm_0
@@ -86010,6 +86035,8 @@ bluejay_tal_volablake
 bluejay_tal_volwholeregion
 bluewater
 bluewater marsh
+bluewater marsh swamp waterway
+bluewater marsh waterway
 bluewater_houseboat
 bluewater_marsh
 bluewatermarsh
@@ -86133,6 +86160,7 @@ bnp2_stop
 bnp2_train
 bnp2_train_cs
 bnp2aud
+bnp11_begin_os
 bnp11_fail
 bnp11_pre
 bnp11_sneak_in
@@ -86528,6 +86556,7 @@ book_base_to_action
 book_call_arthur_a
 book_call_arthur_b
 book_call_arthur_dismissed
+book_close
 book_cnv1_p1_action_a
 book_cnv1_p1_action_b
 book_cnv1_p1_action_c
@@ -86592,8 +86621,14 @@ book_react_lillianpowell
 book_react_p_cigaretteholder01x
 book_react_p_cs_book03x
 book_react_p_glass06x
+book_w13-9_h18-4
+book_w13-9_h18-4_twopage
 book_w13_9h18_4
+book_w15-8_h20-6
+book_w15-8_h20-6_d1_twopage
+book_w15-8_h20-6_journal
 book_w15_8h20_6
+book_w21-3_h27-7
 book_w21_3h27_7
 book_wait
 book_wait_a
@@ -105468,6 +105503,7 @@ changesteptime
 changetime
 changetimemax
 changetimemin
+channel catfish fishing holes
 chanting
 chaps
 chaps_301
@@ -107290,6 +107326,9 @@ choking_ped
 cholla springs
 cholla springs armadillo
 cholla springs cougar
+cholla springs scenario coverage
+cholla springs west half
+cholla springs wolf packs
 cholla_springs
 cholla_springs_00
 cholla_springs_camp
@@ -118440,6 +118479,7 @@ clipset@mech_cover@loco@cowboy@shortarms@base@low@110@fwd@no_lean
 clipset@mech_cover@loco@cowboy@shortarms@base@low@110@left@no_lean
 clipset@mech_cover@loco@cowboy@shortarms@base@low@110@right@no_lean
 clipset@mech_cover@loco@extra@core
+clipset@mech_cover@loco@extra@core@covertocover
 clipset@mech_cover@loco@extra@dual
 clipset@mech_cover@loco@extra@longarms
 clipset@mech_cover@loco@female@bow@base@high@left@lefthand@no_lean
@@ -119119,6 +119159,7 @@ clipset@mech_inspection@two_fold_map@base
 clipset@mech_inspection@two_fold_map@satchel
 clipset@mech_inspection@weapons@longarms@carbine@base
 clipset@mech_inspection@weapons@longarms@carbine@counter_shop
+clipset@mech_inspection@weapons@longarms@carbine@equipped
 clipset@mech_inspection@weapons@longarms@repeater_evans@base
 clipset@mech_inspection@weapons@longarms@repeater_litchfield@base
 clipset@mech_inspection@weapons@longarms@repeater_winchester@base
@@ -119132,8 +119173,10 @@ clipset@mech_inspection@weapons@longarms@shotgun_semi_auto@base
 clipset@mech_inspection@weapons@longarms@sniper_carcano@base
 clipset@mech_inspection@weapons@longarms@sniper_rolling_block@base
 clipset@mech_inspection@weapons@shortarms@cattleman@base
+clipset@mech_inspection@weapons@shortarms@cattleman@equipped
 clipset@mech_inspection@weapons@shortarms@m1899@base
 clipset@mech_inspection@weapons@shortarms@schofield@counter_shop
+clipset@mech_inspection@weapons@shortarms@schofield@equipped
 clipset@mech_inspection@weapons@shortarms@semi_auto@base
 clipset@mech_inspection@weapons@shortarms@volcanic@base
 clipset@mech_inventory@discard@fallback@base@bow@back
@@ -156878,6 +156921,7 @@ clothsim_charlessmith_hair_000
 clothsim_coat_000
 clothsim_cs_bill_ms1_coat_000
 clothsim_cs_micah_hair_000
+clothsim_cs_micahbell_hair_003
 clothsim_germandaughter_hair_000
 clothsim_javier_largecoat_002
 clothsim_jm_coat_007
@@ -156901,6 +156945,7 @@ clothsim_player_zero_coat_002
 clothsim_player_zero_coat_003
 clothsim_player_zero_coat_004
 clothsim_player_zero_mask_002
+clothsim_playerhair_l09
 clothsim_pz_014_open
 clothsim_pz_coat_000_open
 clothsim_sean_hair
@@ -194327,6 +194372,7 @@ coopclay2tumbleweed_1
 coopclay2tumbleweed_2
 coopclay2valentine_1
 coopclay2valentine_2
+cooperhead landing
 coopgunslinger01_1
 coopgunslinger01_2
 coopgunslinger02_1
@@ -200971,6 +201017,8 @@ cp_sdobesemen_01_mf1_coat_026
 cp_sdobesemen_01_mf1_pant_012
 cp_sdobesemen_01_mf1_uppr_102
 cp_sdobesemen_01_mf1_vest_011
+cp_son1_pvg
+cp_son3_pvg
 cpainduration
 cpainmag
 cpaintwistmag
@@ -205345,6 +205393,8 @@ crossing
 crossing_cam
 crossing_cam_position
 crossing_cam_target
+crossline01
+crossline02
 crossriver_01
 crossroads
 crossroads_ambush
@@ -249501,6 +249551,7 @@ cumb_saplin_pine_cc_sim
 cumb_twigs_ab
 cumberland
 cumberland forest
+cumberland forest segment of the dakota river
 cumberland_falls
 cumberland_forest
 cumberland_forest_00
@@ -260990,6 +261041,7 @@ dnj3aud
 dnj4aud
 dnkkv
 dno
+do not use
 do_it
 do_it_hostage
 do_it_killer
@@ -263093,6 +263145,7 @@ document_wjrnal_desc
 document_young_grimshaw_photo
 document_young_grimshaw_photo_desc
 documentfolder
+documents/maps/treasure_map_01
 dodge_back_a_-0
 dodge_back_a_0
 dodge_back_left_a_-45
@@ -266836,6 +266889,7 @@ east_trigger
 east_watsons
 easter_egg
 eastern heartlands
+eastern temperate grizzlies
 eastgate
 eastpatrol
 easy
@@ -288306,6 +288360,7 @@ fin2_micah_hideout_coverregion[285][342]
 fin2_micah_hideout_navmesh[282][342]
 fin2_micah_hideout_navmesh[285][339]
 fin2_micah_hideout_navmesh[285][342]
+fin2_micah_os
 fin2_mountain
 fin2_restart_1
 fin2_restart_2
@@ -288840,6 +288895,7 @@ fishing01_invite
 fishing02_invite
 fishing2
 fishing lake sturgeon
+fishing locations for general southern fish
 fishing_01x
 fishing_all_arthur
 fishing_all_book
@@ -289037,6 +289093,7 @@ flaskbarn
 flaskchickens
 flaskjawharp
 flaskpiss
+flat iron lake waterway
 flat_female
 flat_iron_lake
 flat_ma
@@ -292841,6 +292898,7 @@ fus2_beatguard1
 fus2_beatworker1
 fus2_chair
 fus2_dart_cam_hint
+fus2_dart_os
 fus2_end
 fus2_ext
 fus2_ext_p1_t06_shot_1
@@ -297356,6 +297414,9 @@ gaptooth
 gaptooth1
 gaptooth2
 gaptooth ridge
+gaptooth ridge scenario coverage
+gaptooth ridge southern half
+gaptooth ridge wolf packs
 gaptooth_breach
 gaptooth_cam
 gaptooth_cam_position
@@ -301506,6 +301567,8 @@ gre_rd_sgn_playlistmarker_02
 gre_rd_sgn_playlistmarker_03
 gre_rd_sgn_playlistmarker_04
 great plains
+great plains scenario coverage
+great plains side of flat iron lake
 great_plains
 great_plains_camp
 greatplains
@@ -302561,6 +302624,8 @@ grizeast_roanoke
 grizzled_jon
 grizzled_jon_pvg
 grizzlies
+grizzlies stream waters
+grizzlies wolf pack test
 grizzlies/grizzlies_bear_01
 grizzlies/grizzlies_raven_01
 grizzlies_animals
@@ -304418,6 +304483,7 @@ guargau
 guarma
 guarma coast
 guarma interior
+guarma ocean waters -legacy
 guarma_female
 guarma_female_timid_poor
 guarma_male
@@ -314682,6 +314748,9 @@ heartlandoverflow_cam_target
 heartlandoverflow_static
 heartlandoverflow_static_cam
 heartlands
+heartlands gun shack
+heartlands scenario coverage
+heartlands waterway
 heartlands/heartlands_buffalo_herd_perschar_1
 heartlands/heartlands_deer_herd_perschar_1
 heartlands/heartlands_pronghorn_herd_perschar_1
@@ -315215,6 +315284,8 @@ henchman9
 henniganharriet
 hennigans
 hennigans stead
+hennigans stead foxes
+hennigans stead scenario coverage
 hennigans stead south
 hennigans_ghosting
 hennigans_maggie_intro_trigger
@@ -339472,6 +339543,7 @@ ind3_swimguard3
 ind3_tailor
 ind3_target
 ind3_target_pvg
+ind3_timelapse_os
 ind3_to_poker
 ind3_tre_scuffle
 ind3aud
@@ -347329,6 +347401,7 @@ jbo1_ext
 jbo1_ext_p1_t02_shot_1
 jbo1_ext_p1_t03_shot_1
 jbo1_ext_p1_t03_shot_2
+jbo1_start
 jbo2_ext
 jbo2_ext_p1_t04_shot_1
 jbo2_ext_p1_t04_shot_2
@@ -347337,27 +347410,34 @@ jbo2_ext_p3_t02_shot_1
 jbo3_ext
 jbo3_ext_p1_t07_shot_1
 jbo3_ext_p2_t02_shot_1
+jbo3_start
 jbo4_ext
 jbo4_ext_p1_t03_shot_1
+jbo5_begin
 jbo5_ext
 jbo5_ext_p1a1_t01_shot_1
 jbo5_ext_p2_t05_shot_1
 jbo5_ext_p3a1_t01_shot_1
+jbo6_begin
 jbo6_ext
 jbo6_ext_p1_t04_shot_1
 jbo6_ext_p2_t01_shot_1
+jbo7_begin
 jbo7_ext
 jbo7_ext_p1_t03_a1_shot_1
 jbo7_ext_p1_t03_shot_1
 jbo7_ext_p1_t03_shot_2
+jbo7_start
 jbo8_ext
 jbo8_ext_p1_t01_shot_1
 jbo8_ext_p1_t01_shot_2
+jbo9_begin
 jbo9_ext
 jbo9_ext_p1_t04_shot_1
 jbo9_ext_p2_t01_shot_1
 jbo10_ext
 jbo10_ext_p1_t03_shot_1
+jbo11_begin
 jbo11_ext
 jbo11_ext_p1_t07_shot_1
 jbo11_ext_p2_t01_shot_1
@@ -359234,6 +359314,7 @@ lakay_static
 lakay_static_cam
 lakaybunkhouse_int_lod
 lake isabella
+lake sturgeon fishing holes
 lake_isabella
 lakedonjulio
 lakedonjulio_cam
@@ -359486,6 +359567,7 @@ large_type_count
 large_uncommon
 largemaxtime
 largemintime
+largemouth bass fishing holes
 largemult
 largeshort_hat_male
 largevolwest_west
@@ -359513,6 +359595,7 @@ lassoprimary
 lassoseated
 lassotired
 last
+last team standing
 last_animal
 last_clue_found
 last_courier_remaining
@@ -363733,18 +363816,23 @@ letters/letter_billdischarge
 letters/letter_boots_with_note
 letters/letter_catfishloansharking
 letters/letter_charleschaternay
+letters/letter_dinobonesinvitation
 letters/letter_disco_slave
 letters/letter_electricchair
 letters/letter_frankenstein
 letters/letter_gang0
 letters/letter_gang_recruitment
 letters/letter_gavin_friend
+letters/letter_klan_newsletter
 letters/letter_lovetriangleshack
 letters/letter_mayorpermission
 letters/letter_rarefishinvitation
+letters/letter_rockcarvingsinvitation
 letters/letter_sadie_telegram
 letters/letter_shackhusband01
 letters/letter_shackhusband02
+letters/letter_taxidermyinvitation
+letters/letter_taxidermyvacation
 lev_01
 lev_01_
 lev_01__h
@@ -365085,6 +365173,7 @@ loadwagon_utilliwag
 loan_bank
 loan_emr_man
 loan_emr_woman
+loan_emr_woman_pvg
 loan_hunter
 loan_hunter2
 loan_jweathers
@@ -365838,6 +365927,7 @@ longgrass
 longhair
 longidle
 longloop_ig_jackmarston
+longnose gar fishing holes
 lonnies_1
 lonnies_1_pvg
 lonnies_2
@@ -375922,6 +376012,7 @@ mar52_end_stop
 mar52_end_stop_owm
 mar52_fail
 mar52_start
+mar53_abigail
 mar53_despunked
 mar53_fail
 mar53_race_over
@@ -392298,6 +392389,7 @@ mob5_breach
 mob5_breached
 mob5_bronte
 mob5_bronte_2
+mob5_bronte_cs_os
 mob5_cmi_rt
 mob5_cop_flank
 mob5_ddg_rt
@@ -404858,6 +404950,9 @@ mp009_s_interact_lanternskull01x
 mp009_s_lev_des
 mp009_s_mp_medicinebox01x
 mp009_s_mp_pickup_jewelrybag01x
+mp popzone replacement for previous scenario-only bear
+mp popzone replacement for previous scenario-only panther
+mp popzone replacement for previous scenario-only wolf
 mp/animal_sighting/bear
 mp/animal_sighting/intros
 mp/debtcollector2
@@ -435339,6 +435434,7 @@ mud2_charles_cam_hint
 mud2_crowd01
 mud2_crowd1
 mud2_end
+mud2_ending_os
 mud2_ext
 mud2_ext_p1a1_m1_t02_shot_1
 mud2_ext_p2a1m2_t02_shot_1
@@ -435656,6 +435752,9 @@ mud3b_mcs1_p2_t02_shot_4
 mud3b_mcs1_p3_t00_shot_1
 mud3b_mcs2
 mud3b_mcs2_p1_t03_shot_1
+mud3b_oneshot_2
+mud3b_oneshot_3
+mud3b_oneshot_5
 mud3b_optimization
 mud3b_restart_1
 mud3b_restart_2
@@ -436115,6 +436214,7 @@ musician_hatchet
 musician_hogtie
 musician_lockbox
 musician_map
+muskie fishing holes
 muskrat
 muskrat_animal_damage
 muskrat_bay_volinterior
@@ -444313,6 +444413,7 @@ nbd1_mcs5_p4_t05_shot_1
 nbd1_move
 nbd1_msc1_lo
 nbd1_northpassenger03x
+nbd1_oneshot_11
 nbd1_patrol
 nbd1_pinkerton
 nbd1_pinkerton1
@@ -455799,6 +455900,7 @@ no_time_for_dawdling_ig_dutch
 no_trigger
 no_weapons
 no_z_probe
+noambientmult
 nocamp_camera_fov
 nocamp_camera_position
 nocamp_camera_progress
@@ -456758,6 +456860,7 @@ northeastpatrol
 northern big valley
 northern big valley bear
 northern heartlands
+northern pike fishing holes
 northern roanoke
 northern scarlett meadows
 northern valentine
@@ -457205,6 +457308,7 @@ nts2_mcs4
 nts2_mcs4_p1m1_t02_shot_1
 nts2_mcs4_p1m1_t02_shot_2
 nts2_move
+nts2_oneshot_5_os
 nts2_patrol
 nts2_pre_boom
 nts2_raise
@@ -498558,6 +498662,7 @@ palxcp
 pamphlet
 pamphlet1
 pamphlets/pamphlet_helgerson
+pamphlets/pamphlet_herbs_chewing_tobacco
 pamphlets/pamphlet_item_cover_scent
 pamphlets/pamphlet_item_dynamite_arrow
 pamphlets/pamphlet_item_fire_arrow
@@ -508966,6 +509071,7 @@ persist_defaults
 persist_items
 persistence
 persistent_go_to_complete
+persistent_sheriff_test_pvg
 persistent_tags
 persistentcharacter
 persona_award_tunables
@@ -532428,6 +532534,7 @@ prop_human_seat_chair_table_drinking_whiskey
 prop_human_seat_chair_table_drinking_whiskey_moonshine
 prop_human_seat_chair_table_eating_knife_fork
 prop_human_seat_chair_table_fan_whore
+prop_human_seat_chair_table_smoke_roll
 prop_human_seat_chair_theater
 prop_human_seat_chair_whittle
 prop_human_seat_chair_whittle_male_c
@@ -547465,8 +547572,10 @@ rbh_target15
 rbh_target18
 rbh_target20
 rbh_target21
+rbh_target21_pvg
 rbh_target22
 rbh_target23
+rbill_martha_pvg
 rblowershare
 rbmaxbroommomentarm
 rbmaxbroommomentarmairborne
@@ -547542,6 +547651,7 @@ rbo_rd_sgn_slod
 rbo_rd_sgn_strm_0
 rbp2_bwhenchman
 rbp_mrs_calhoon
+rbp_mrs_calhoon_pvg
 rbp_protester1
 rbpivot
 rbra_chase
@@ -549402,6 +549512,7 @@ rdtc31_canoes
 rdtc31_combat
 rdtc31_fail
 rdtc31_hostage
+rdtc31_oneshot_3
 rdtc31_return
 rdtc31_ride
 rdtc31_start
@@ -552191,6 +552302,7 @@ redw21_stop
 redw22_agrees
 redw22_fail
 redw22_found_cs
+redw22_found_cs_os
 redw22_horse
 redw22_restart_1
 redw22_return
@@ -558165,6 +558277,8 @@ rio4_bridge_2_cam_position
 rio4_bridge_2_cam_progress
 rio4_bridge_2_cam_target
 rio bravo
+rio bravo scenario coverage
+rio bravo wolf packs
 rio_0
 rio_001
 rio_1
@@ -558364,6 +558478,7 @@ rjck2_rsc5
 rjck2_rsc5_p1_t03_shot_1
 rjck2_start
 rjck2_stop
+rjck2_timelapse_os
 rjmsn_4_fail
 rkf
 rkf_ranch_hand
@@ -559031,7 +559146,9 @@ roadside
 roaforest
 roanoke
 roanoke ridge
+roanoke ridge waterway
 roanoke river
+roanoke scenario coverage
 roanoke/roa_bear_1
 roanoke/roa_trapper_1
 roanoke_00
@@ -559449,6 +559566,7 @@ robscavenger
 robsquatters
 robstart
 robt1_fail
+robt1_outro_os
 robt1_second_bottles
 robt1_start
 robt1_stop
@@ -559689,6 +559807,7 @@ rockyseven/rks_dog
 rockyseven/rks_tenant
 rockyseven_widow
 rod_grip
+roddf1_exit_os
 roddf1_fail
 roddf1_fight
 roddf1_stop
@@ -559697,6 +559816,7 @@ roddf2_chase_3
 roddf2_cs_start
 roddf2_fail
 roddf2_found_in_tree
+roddf2_outro_os
 roddf2_search_clearing
 roddf2_search_smoke
 roddf2_start
@@ -559932,6 +560052,16 @@ rooftop_jump
 rooftops
 room
 room02
+room_bra_man_bra
+room_bra_man_brb
+room_bra_man_brc
+room_bra_man_brd
+room_bra_man_dining
+room_bra_man_hall_lower
+room_bra_man_hall_side
+room_bra_man_kitch
+room_bra_man_library
+room_bra_man_parlor
 room_bra_man_ref_a
 room_bra_man_ref_b
 room_bra_man_ref_c
@@ -579038,6 +579168,7 @@ sad2_ig13_monst
 sad2_int
 sad2_int_p2_t12_shot_1
 sad2_jeb
+sad2_oneshot_3
 sad2_ped_female1
 sad2_ped_female2
 sad2_ped_male1
@@ -579099,6 +579230,7 @@ sad3_mcs1
 sad3_mcs1_p1_t05_shot_1
 sad3_mcs2
 sad3_mcs2_li
+sad3_mcs2_os
 sad3_mcs2_p1_t07_shot_1
 sad3_mcs2_p1_t07_shot_2
 sad3_mcs2_p2m1_t01_shot_1
@@ -579124,6 +579256,7 @@ sad3_nav_rhodes_shootout_00_coverregion[342][291]
 sad3_nav_rhodes_shootout_00_coverregion[345][291]
 sad3_nav_rhodes_shootout_00_navmesh[342][291]
 sad3_nav_rhodes_shootout_00_navmesh[345][291]
+sad3_outro_os
 sad3_post_snipe
 sad3_pull_out_treatment
 sad3_pull_out_treatment_request
@@ -579245,11 +579378,13 @@ sad5_int_p1_t07_shot_4
 sad5_int_p1_t07_shot_5
 sad5_int_p1_t07_shot_6
 sad5_langton
+sad5_langton_pvg
 sad5_nav_rockblock
 sad5_nav_rockblock_coverregion[261][267]
 sad5_nav_rockblock_coverregion[261][270]
 sad5_nav_rockblock_navmesh[261][267]
 sad5_nav_rockblock_navmesh[261][270]
+sad5_oneshot_3
 sad5_pikes
 sad5_restart_1
 sad5_restart_2
@@ -581692,7 +581827,10 @@ scarf_mr1_026_m
 scarf_mr1_026_nm
 scarlett
 scarlett meadows
+scarlett meadows dairyfarm scenario coverage
 scarlett meadows forest creek
+scarlett meadows scenario coverage
+scarlett meadows waterway
 scarlett/scm_bra_field_guard
 scarlett/scm_bra_field_guard_2
 scarlett/scm_bra_field_guard_3
@@ -590957,6 +591095,7 @@ ser_staff_stuff01
 ser_staff_stuff02
 ser_stage_details01
 serendipity
+serendipity waterway
 serendipity_schedule
 serendipity_schedule_mp
 sergio
@@ -595687,6 +595826,7 @@ sis_wall_rails_e_lod
 sis_wall_rails_f
 sis_wall_rails_f_lod
 sisika
+sisika island -legacy
 sisika_penitentiary
 sisikapenitentiary
 sisikapenitentiary/sis_bridge_guard
@@ -598349,6 +598489,8 @@ smm_shack_mmm_ph
 smodel
 smodelposse
 smoke
+smoke dir
+smoke intensity
 smoke_annesburg_01
 smoke_annesburg_02
 smoke_annesburg_03
@@ -598778,6 +598920,7 @@ snore_in
 snore_in_big_rolloff
 snore_out
 snow
+snow-covered grizzlies
 snow_1400
 snow_2100
 snow_clean
@@ -598789,6 +598932,7 @@ snow_sm
 snow_upper
 snowclearing
 snowlight
+snowy grizzlies wildlife coverage
 so_you_found_me_l_corpse
 so_you_found_me_l_vampire
 so_you_found_me_l_w_melee_knife02
@@ -598902,6 +599046,7 @@ sock_tr1_001_c3_999_ab
 sock_tr1_001_c3_999_ab+hi
 sock_tr1_001_m
 sock_tr1_001_nm
+sockeye salmon fishing holes
 sod_01
 sod_01_interior_sod_house_int_milo_
 sod_01_lod
@@ -602827,6 +602972,7 @@ steamdonkey02
 steamer
 steamerdummy
 steamreact_player
+steelhead trout fishing holes
 steer_left
 steer_left_cruise
 steer_left_fast
@@ -611383,6 +611529,8 @@ talktoclerk_envelope^1
 talktoclerk_pen
 talktoclerk_player
 tall trees
+tall trees scenario coverage
+tall trees waterway
 tall_5_rope_ends
 tall_sack_cover_01
 tall_snowy_cover_01
@@ -612932,6 +613080,9 @@ thats_it_chair
 thats_it_husband
 thats_it_lady_uniexconfeds
 thats_it_wife
+the land east of roanoke ridge
+the land south of flat iron lake
+the land south of scarlett meadows and bayou nwa
 the_01
 the_01_
 the_01__barrel04b_rsref001_l2
@@ -614502,6 +614653,7 @@ torch_c
 torch_crops
 torch_hosea
 torch_john
+torch_light
 torch_react_left_rallymale02
 torch_react_right_rallymale02
 torhodes
@@ -614673,6 +614825,9 @@ townswamp
 towntumbleweed
 townvalentine
 townvanhorn
+toxic pond in st denis
+toxic waters in southern roanoke
+toxic waters of annesburg
 toxic_moonshine_effect
 toybalcony
 toyroom
@@ -634998,8 +635153,12 @@ valentine
 valentine1
 valentine2
 valentine3
+valentine auction yard
 valentine doctor
+valentine main town strip
+valentine old town district
 valentine train station
+valentine west residental district
 valentine/endlesssummer/val_town_worker_3
 valentine/endlesssummer/val_town_worker_4
 valentine/endlesssummer/val_town_worker_5
@@ -653189,7 +653348,9 @@ west_trigger
 westentrance
 western big valley
 western grizzlies
+western grizzlies scenario coverage
 western heartlands
+western temperate grizzlies wildlife coverage
 westpatrol
 westpen
 westside
@@ -654749,6 +654910,7 @@ wolf3_cam_target
 wolf3_loop_a
 wolf4
 wolf5
+wolf man
 wolf_0
 wolf_01
 wolf_01_01_walk

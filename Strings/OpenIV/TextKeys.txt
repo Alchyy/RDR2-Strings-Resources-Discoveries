@@ -108535,6 +108535,7 @@ nt_inv_sent
 nt_inv_sp_save
 nt_inv_switch_freemode
 nt_inv_switch_private
+nt_invalid_name_replacement
 ntint_nat_int_1
 ntint_nat_int_2
 ntint_nat_int_3

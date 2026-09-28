@@ -10,6 +10,7 @@
 | `0xBC0C4C9A` | `-3741.858643,-2626.360596,-14.244800` | `m_04__slod1_2_1_1` | net_fast_travel.ymt | — |
 | `0xF04CF668` | `-3932.501709,-3289.206543,19.057600` | `y_08__hd_0_-2_0` | ambientvignettes.ymt | filename.ydr |
 | `0xA989B3D8` | `-3956.450195,-2784.729736,-15.075400` | `Manager_Set_Mission_Prevent_Thread` | fetch_dynamic_hideout.ymt | — |
+| `0xBFA69E5D` | `-4146.816895,-3362.903564,40.140400` | `az_heartlands_plains_mesas` | — | proj_game.dat325.rel |
 | `0x99E11F55` | `-5028.161133,-3644.384766,-6.023363` | `val_03_mp2_prop01_lod` | camp_locations.ymt | — |
 | `0x6E8C10DC` | `-5610.358887,-3365.730957,19.393000` | `n_710_r_a_rails22` | 0xECA08D76.ymt | — |
 | `0x98642C2C` | `-5659.805664,-3505.072021,-23.151587` | `o_08__collision_2` | 0x7314F055.ymt | filename.ybn |
