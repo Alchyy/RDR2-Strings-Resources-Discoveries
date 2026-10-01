@@ -3160,6 +3160,7 @@ Light Blue = Miscellanous
 -2365.9, -2393.1, 62.7, nplh_macfarlane_ranch_cottage - wardrobes (scriptpardata.ymt)
 -2361.3728, 2180.239, 340.8387, hash_amb_vig_fox_hunt_in_snow (ambientvignettes.ymt)
 -2116.98, 88.91, 239.74, iz_col_cave_int_main_room_main + iz_winter2_cave0x_int (proj_game.dat325.rel)
+-1984.8259, -1580.799, 127.75671, Windmill Slod (pq_05_06_area_slod3_children.ydd)
 -1952.269409, -1586.29126, 114.831596, ManzanitaPost / mtp (parseddata_mp) (cairn_locations.ymt)
 -1842, -418, 162, str_res03_int (Speculative Coords) (proj_game.dat325.rel)
 -1836, -406, 162, str_playhouse_int (Speculative Coords) (proj_game.dat325.rel)

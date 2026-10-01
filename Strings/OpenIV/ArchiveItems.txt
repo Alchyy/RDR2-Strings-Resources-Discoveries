@@ -101040,6 +101040,7 @@ crackpot_a.awc
 crackpot_b.awc
 crackpot_c.awc
 crackpot_robot.awc
+crackpotrowboat000
 crafting_launcher_flow
 crafting_menu_feedback
 crane_hook_movement.awc

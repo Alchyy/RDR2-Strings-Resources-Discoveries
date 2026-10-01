@@ -162,5 +162,6 @@
 | `0x55742E4E` | `s_bckinboat_l` | `UNKNOWN` | — | teen_jack.yldb |
 | `0x44662EDA` | `sdn_mp` | `shovel` | — | — |
 | `0x15118567` | `SetAnimalTuningFloatParam` | `TimeBefore` | — | — |
+| `0x1A377BBF` | `ss_am/cjh10` | `UNKNOWN` | proj_game.dat325.rel | cutscene@odr1_ext.yas |
 | `0x9FE9EE95` | `Summer_Endless_S` | `uiBehaviorStyledStateMultiTarget` | — | — |
 | `0x9AE63D30` | `trad_gn_slngang_01` | `veh_driveby@aim@coach@exterior@shortarms@base@mid_right@outro` | — | — |

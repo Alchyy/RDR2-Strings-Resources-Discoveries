@@ -4,6 +4,10 @@ AmbientZone positions from game.dat325.rel, proj_game.dat325.rel, dlcextrasp_gam
 -535.38, 2670.48, 324.25, az_adler_barn_zone_01, 4cc922
 -554.63, 2689.31, 324.26, az_adler_ranch, 4cc922
 2073.31, -339.59, 42.5, az_agnes_dowd_01, 4cc922
+1462.45, -6856.27, 71.85, az_aguasdulces_cropfields_01, 4cc922
+1563.91, -6964.21, 76.37, az_aguasdulces_cropfields_02, 4cc922
+1340.42, -7087.72, 64.77, az_aguasdulces_cropfields_03, 4cc922
+1429.12, -7042.9, 64.77, az_aguasdulces_cropfields_04, 4cc922
 1290.09, -6986.7, 63.31, az_aguasdulces_hillside_01, 4cc922
 1324.52, -6866.58, 45.13, az_aguasdulces_lower, 4cc922
 1350.55, -6802.61, 57.89, az_aguasdulces_tower, 4cc922
@@ -288,6 +292,7 @@ AmbientZone positions from game.dat325.rel, proj_game.dat325.rel, dlcextrasp_gam
 339.11, -680.9, 46.58, az_flat_iron_lake_pier, 4cc922
 -1601.39, -907.07, 87.4, az_fort_riggs_area, 4cc922
 -1578.65, -926.24, 85.4, az_fort_riggs_schoolhouse, 4cc922
+1321.83, -7223.69, 57.77, az_fussar2_corpse_area, 4cc922
 3286.27, -1312.37, 36.22, az_grand_korrigan_01, 4cc922
 3286.27, -1312.37, 36.22, az_grand_korrigan_02, 4cc922
 3286.27, -1312.37, 36.22, az_grand_korrigan_03, 4cc922
@@ -375,6 +380,9 @@ AmbientZone positions from game.dat325.rel, proj_game.dat325.rel, dlcextrasp_gam
 1179.76, -6794.7, 37.12, az_guarma_coast_south, 4cc922
 596.46, -7381.04, 39.55, az_guarma_coast_south_cliffs_01, 4cc922
 1256.66, -6275.93, 70.68, az_guarma_coast_west, 4cc922
+1033.17, -7107.01, 76.22, az_guarma_coastal_trees_01, 4cc922
+1402.08, -6721.14, 53.93, az_guarma_coastal_trees_02, 4cc922
+1264.9, -6994.75, 50.23, az_guarma_coastal_trees_03, 4cc922
 703.38, -7382.28, 136.05, az_guarma_dense_jungle_01, 4cc922
 1786.59, -6997.27, 128.01, az_guarma_dense_jungle_02, 4cc922
 2047.78, -6670.29, 242.59, az_guarma_dense_jungle_03_peak, 4cc922
@@ -384,6 +392,7 @@ AmbientZone positions from game.dat325.rel, proj_game.dat325.rel, dlcextrasp_gam
 849.5, -7364.68, 89.82, az_guarma_dense_jungle_06, 4cc922
 1784.16, -5976.97, 70.56, az_guarma_el_nido_ruins_01, 4cc922
 1785.07, -5975.91, 90.35, az_guarma_el_nido_ruins_area, 4cc922
+1368.15, -7238.93, 71.76, az_guarma_jungle_riverside_01, 4cc922
 1143.83, -7290.64, 70.49, az_guarma_la_capilla_ruins_01, 4cc922
 1175.5, -7243.23, 77.79, az_guarma_la_capilla_ruins_02, 4cc922
 1990.61, -4524.89, 51.73, az_guarma_landing_area_01, 4cc922
@@ -396,6 +405,7 @@ AmbientZone positions from game.dat325.rel, proj_game.dat325.rel, dlcextrasp_gam
 1609.24, -7161.68, 77.49, az_guarma_river_03, 4cc922
 1249.76, -7115.26, 41.83, az_guarma_river_end, 4cc922
 1267.79, -7005.26, 40.92, az_guarma_shore_area_01, 4cc922
+1142.72, -7293.85, 78.14, az_guarma_southern_end_hillside_01, 4cc922
 -2187.01, 738.53, 126.31, az_hanging_dog_ranch, 4cc922
 -2220.43, 757.53, 126.6, az_hanging_dog_ranch_int_barn, 4cc922
 534.6, 652.47, 61, az_heartlands_oil_fields_area_01, 4cc922
@@ -847,6 +857,8 @@ AmbientZone positions from game.dat325.rel, proj_game.dat325.rel, dlcextrasp_gam
 -5177.53, -4095.1, -20, az_old_red_san_luis_river_ao1, 4cc922
 -2905.59, -254.3, 186.92, az_pagan_ritual_discoverable, 4cc922
 -628.72, -57.57, 83.35, az_painted_sky_horse_barn_int, 4cc922
+2321.34, 1039.67, 81.73, az_poisoned_well_cave_deep02, 4cc922
+2294.08, 1119.36, 96.79, az_poisoned_well_cave_midway, 4cc922
 -2515.81, 494.82, 143.87, az_pronghorn_ranch_area, 4cc922
 -2547.93, 399.08, 146.24, az_pronghorn_ranch_horse_barn_int, 4cc922
 -1184.69, -1945.23, 43.53, az_quakers_cove_area, 4cc922
@@ -920,7 +932,6 @@ AmbientZone positions from game.dat325.rel, proj_game.dat325.rel, dlcextrasp_gam
 2472.38, 599.71, 68.78, az_roanoke_ridge_river_tributary_01, 4cc922
 2361, 183, 91.47, az_roanoke_ridge_south_01, 4cc922
 3025.58, 1776.02, 74.48, az_rocky_seven, 4cc922
-2845.05, -1152.28, 43.91, az_saint_denis_ambience_respawn, 4cc922
 2839.45, -1283.07, 56.53, az_saint_denis_building_construction_01, 4cc922
 2753.12, -1365.13, 43.82, az_saint_denis_building_construction_02, 4cc922
 2220.24, -1350.97, 54.54, az_saint_denis_caliga_bridge_01, 4cc922
@@ -941,6 +952,7 @@ AmbientZone positions from game.dat325.rel, proj_game.dat325.rel, dlcextrasp_gam
 2687.47, -1320.65, 54.33, az_saint_denis_commercial_district_04, 4cc922
 2656.08, -1213.24, 59.8, az_saint_denis_commercial_district_05, 4cc922
 2840.87, -1213.92, 47.98, az_saint_denis_courtyard_market_01, 4cc922
+2840.21, -1230.12, 48.98, az_saint_denis_courtyard_market_02, 4cc922
 2713.62, -1423.07, 54.33, az_saint_denis_docks_01, 4cc922
 2814.64, -1407.48, 59.59, az_saint_denis_docks_02, 4cc922
 2633.63, -1517.55, 54.33, az_saint_denis_docks_03, 4cc922
@@ -1030,6 +1042,7 @@ AmbientZone positions from game.dat325.rel, proj_game.dat325.rel, dlcextrasp_gam
 1906.27, -1821.53, 40.6, az_shady_belle_pier_03, 4cc922
 3260.22, -627.76, -62.94, az_sisika_penitentiary_area, 4cc922
 -35.13, 1228.48, 172.68, az_six_point_cabin, 4cc922
+992.31, -6743.56, 57.58, az_smg2_int_walla, 4cc922
 -1810.12, -430.66, 157.7, az_strawberry_alleys_carpenter_doctor, 4cc922
 -1769.56, -378.33, 157.69, az_strawberry_alleys_frt_hotel, 4cc922
 -1782.46, -363.59, 158.72, az_strawberry_alleys_hotel_mayor, 4cc922
@@ -1142,6 +1155,7 @@ AmbientZone positions from game.dat325.rel, proj_game.dat325.rel, dlcextrasp_gam
 2963.95, 521.8, 46.25, az_van_horn_trading_post_town, 4cc922
 441.68, 2238.26, 240.96, az_wapiti_settlement, 4cc922
 -1818.15, 652.59, 138.88, az_watsons_cabin, 4cc922
+-701.5, -1273.96, 65.3, az_west_elizabeth_great_plains_blackwater_coast, 4cc922
 -1494.44, -1584.32, 67.95, az_west_elizabeth_great_plains_central_01, 4cc922
 -1193.8, -1439.87, 67.95, az_west_elizabeth_great_plains_central_02, 4cc922
 -895.07, -1466.53, 67.95, az_west_elizabeth_great_plains_central_03, 4cc922
@@ -1149,8 +1163,13 @@ AmbientZone positions from game.dat325.rel, proj_game.dat325.rel, dlcextrasp_gam
 -1227.81, -1733.06, 67.95, az_west_elizabeth_great_plains_central_05, 4cc922
 -1221.87, -1865.51, 76.84, az_west_elizabeth_great_plains_central_06, 4cc922
 -1026.2, -1312.71, 67.95, az_west_elizabeth_great_plains_central_07, 4cc922
+-716.94, -1499.45, 65.3, az_west_elizabeth_great_plains_east_01_coast, 4cc922
+-740.47, -1810.91, 65.3, az_west_elizabeth_great_plains_east_02_coast, 4cc922
 -1495.6, -1213.38, 71.3, az_west_elizabeth_great_plains_north_02, 4cc922
+-836.22, -1112.05, 65.3, az_west_elizabeth_great_plains_north_03_coast, 4cc922
 -1797, -1264.48, 75.3, az_west_elizabeth_great_plains_north_04, 4cc922
+-985.13, -1950.55, 75.3, az_west_elizabeth_great_plains_south_01_coast, 4cc922
+-1231.33, -1974.96, 75.3, az_west_elizabeth_great_plains_south_02_coast, 4cc922
 -2383.1, -1249.78, 135.95, az_west_elizabeth_tall_trees_central_01, 4cc922
 -2189.78, -1470.12, 135.95, az_west_elizabeth_tall_trees_central_02, 4cc922
 -1973.67, -1740.11, 135.95, az_west_elizabeth_tall_trees_central_03_warm, 4cc922
@@ -1174,6 +1193,40 @@ AmbientZone positions from game.dat325.rel, proj_game.dat325.rel, dlcextrasp_gam
 2793.5, 652.86, 75.37, az_whispering_trees_discoverable, 4cc922
 -1229.98, 2439.36, 307.97, az_wnt1_bridge, 4cc922
 -1321.19, 2438.4, 310, az_wnt1_cabin, 4cc922
+1987.24, -579.25, 59.85, az_wz_bayou_nwa_swamp_north, 4cc922
+1950.27, -1345.27, 59.85, az_wz_bayou_nwa_swamp_south, 4cc922
+-1060.12, 414.21, 49.84, az_wz_big_valley_cumberland_falls, 4cc922
+-1357.7, -695.25, 169.45, az_wz_big_valley_south_waterfalls_01, 4cc922
+-1170.3, -814.22, 169.45, az_wz_big_valley_south_waterfalls_02, 4cc922
+2686.22, 2038.81, 113.23, az_wz_brandywine_drop_waterfall_01, 4cc922
+-1007.54, 713.93, 102.92, az_wz_cattail_pond_waterfalls, 4cc922
+-947.13, 603.98, 79.62, az_wz_cumberland_falls_waterfalls_01, 4cc922
+2327, 996.83, 254.98, az_wz_elysian_pool_waterfall, 4cc922
+-160.32, 1721.32, 165.11, az_wz_granite_pass_waterfall_01, 4cc922
+665.95, 2250.97, 238.29, az_wz_grizzlies_central_lake, 4cc922
+-1838.04, 1672.22, 260.21, az_wz_grizzlies_west_lake, 4cc922
+-1043.94, 812.14, 132.58, az_wz_grizzlies_west_south_lake, 4cc922
+-1043.72, 863.88, 120.61, az_wz_grizzlies_west_waterfall_01, 4cc922
+-1065.62, 973.18, 137.12, az_wz_grizzlies_west_waterfall_02, 4cc922
+-1123.6, 1044.22, 163.33, az_wz_grizzlies_west_waterfalls_03, 4cc922
+-1223.11, 1148.9, 188.37, az_wz_grizzlies_west_waterfalls_04, 4cc922
+-1274.97, 1244.16, 201.24, az_wz_grizzlies_west_waterfalls_05, 4cc922
+-1341.2, 1345.01, 206.27, az_wz_grizzlies_west_waterfalls_06, 4cc922
+-1396.68, 1399.16, 221.94, az_wz_grizzlies_west_waterfalls_07, 4cc922
+-1416.77, 1439.94, 232.56, az_wz_grizzlies_west_waterfalls_08, 4cc922
+-1456.17, 1575.94, 240, az_wz_grizzlies_west_waterfalls_09, 4cc922
+765.14, -6044.22, 73.61, az_wz_guarma_ocean, 4cc922
+-2274.78, -2007.19, 447.45, az_wz_lower_montana_waterfall_01, 4cc922
+-2280.91, -2003.59, 102.54, az_wz_lower_montana_waterfall_02, 4cc922
+-2248.59, -2026.13, 209.95, az_wz_lower_montana_waterfall_03, 4cc922
+-2478.23, -414.75, 147.52, az_wz_owanjila_dam_lake, 4cc922
+2444.39, -1391.34, 52.47, az_wz_saint_denis_industrial_lake, 4cc922
+-2084.24, -85.63, 220.81, az_wz_strawberry_north_waterfall_01, 4cc922
+-2194.72, -549.33, 132.7, az_wz_upper_montana_waterfalls_01 (game.dat325.rel), 4cc922
+-1287.43, 1270.6, 193.69, az_wz_waterfall_grizzlies_south_west_01, 4cc922
+-1896.11, 1864.31, 379.27, az_wz_waterfall_grizzlies_west_01, 4cc922
+-1851.18, 2308.6, 456.94, az_wz_waterfall_grizzlies_west_02, 4cc922
+-1856.73, 2340.51, 374.77, az_wz_waterfall_grizzlies_west_03, 4cc922
 -554.95, 2704.98, 325, iz_adl_cabin01_int_main_room, 4cc922
 0, 0, 0, iz_agu_boiler_int_main_zone, 4cc922
 1506.28, -7179.86, 63.86, iz_agu_fus_cave_int_room_fussar_cave01, 4cc922
@@ -1236,6 +1289,7 @@ AmbientZone positions from game.dat325.rel, proj_game.dat325.rel, dlcextrasp_gam
 -1021.38, 1692.16, 245.75, iz_gri_g1_shack_int_room_grishack01_main, 4cc922
 3950.15, -3291.21, 58.28, iz_guarma_cave_deep_04, 4cc922
 3950.15, -3291.21, 58.28, iz_guarma_cave_pit, 4cc922
+2300.82, 1158.04, 102.97, iz_j_14_cave_room_j_14_cave_main, 4cc922
 2305.94, 1073, 89.9, iz_l_14_cave_room_l_14_cave_deep, 4cc922
 2321.34, 1039.67, 81.73, iz_l_14_cave_room_l_14_cave_deep02, 4cc922
 2305.53, 1163.54, 102.74, iz_l_14_cave_room_l_14_cave_ent, 4cc922
@@ -1321,11 +1375,10 @@ AmbientZone positions from game.dat325.rel, proj_game.dat325.rel, dlcextrasp_gam
 1823.37, -1202.23, 43.94, 0x02B49564, c92222
 2857.06, -1198.49, 47.94, 0x02CCCE2F, c92222
 74.38, 920.84, 148.77, 0x02FA2FAD, c92222
--836.22, -1112.05, 65.3, 0x0336DFC1, c92222
 2863.32, 1453.72, 73.5, 0x034A109F, c92222
 193.72, 986.33, 192.19, 0x036FF807, c92222
 2550.44, 794.59, 77.53, 0x03732FBE, c92222
--2390, -3890, 15, 0x03C3B3E0, c92222
+-2390, -3890, 15, 0x03C3B3E0 (az_mexico_south2), ff9d00
 2282.36, 605.06, 85.29, 0x03D669C8, c92222
 -1768.03, -424.99, 149.22, 0x04B84FDF, c92222
 2745.72, -1224.1, 50.15, 0x0574C2E7, c92222
@@ -1336,10 +1389,9 @@ AmbientZone positions from game.dat325.rel, proj_game.dat325.rel, dlcextrasp_gam
 2689.39, -1437.14, 46, 0x071D7DD1, c92222
 -1464.98, -2764.2, 60.42, 0x073B5C27, c92222
 1303.77, -6924.57, 50.92, 0x074A6581, c92222
-2686.22, 2038.81, 113.23, 0x0790F9A6, c92222
 2820.68, -1036.25, 53.8, 0x07A8738C, c92222
 2782.85, -1210.86, 48.7, 0x07EB6672, c92222
--2404.92, -2574.79, 35, 0x088E7251, c92222
+-2404.92, -2574.79, 35, 0x088E7251 (az_frontier_east), ff9d00
 2690.23, 2225, 171.3, 0x08E8E8EE, c92222
 2612.48, 1939.67, 82.07, 0x08FB803B, c92222
 2172.24, -619.11, 40.67, 0x0995F971, c92222
@@ -1430,10 +1482,8 @@ AmbientZone positions from game.dat325.rel, proj_game.dat325.rel, dlcextrasp_gam
 -641.73, 882.44, 116.91, 0x252F6817, c92222
 -6102.28, -3360.75, 3.83, 0x254ACF9C, c92222
 1337.7, -1309.41, 71.72, 0x254E0B85, c92222
--1341.2, 1345.01, 206.27, 0x2589804D, c92222
 -1351.29, 2437.57, 309.25, 0x262682FE, c92222
 1081.94, 1879.56, 335.16, 0x2658D4EF, c92222
--2248.59, -2026.13, 209.95, 0x266476D0, c92222
 -3040.51, -2328.01, 10.61, 0x27284553, c92222
 2777.35, -1313.14, 48.02, 0x275F4868, c92222
 -2488.74, -1467.39, 147.57, 0x2775BCAE, c92222
@@ -1450,12 +1500,10 @@ AmbientZone positions from game.dat325.rel, proj_game.dat325.rel, dlcextrasp_gam
 -2142.3, -1701.14, 136.83, 0x2A42DFCE, c92222
 -3600.74, -3834.77, -8.06, 0x2A65D50B, c92222
 2542.5, 417.59, 77.65, 0x2A800B5C, c92222
--740.47, -1810.91, 65.3, 0x2A9E7E5E, c92222
 2662.34, -1213.79, 58.8, 0x2B155962, c92222
 -1884.31, 1354.32, 203.35, 0x2B4724EE, c92222
 2781.34, -1224.05, 48.7, 0x2B4BE6B5, c92222
 2308.54, -331.59, 51.43, 0x2BAF5685, c92222
-2300.82, 1158.04, 102.97, 0x2BF3CD4B, c92222
 1270.62, -2250.9, 96, 0x2C2F3930, c92222
 -1024.9, 180.19, 83.82, 0x2C865235, c92222
 -208.71, 643.79, 106.77, 0x2CFEBDC3, c92222
@@ -1467,10 +1515,8 @@ AmbientZone positions from game.dat325.rel, proj_game.dat325.rel, dlcextrasp_gam
 571.07, 1916.9, 187.52, 0x2E14C90F, c92222
 2757.06, -1122, 48.62, 0x2E30CD39, c92222
 466.73, 1366.65, 169.85, 0x2EA49FDC (online_game.dat325.rel), c92222
-1429.12, -7042.9, 64.77, 0x2ECBA7DA, c92222
 -1863.38, -2806.09, 39.42, 0x2F1C4497, c92222
 2747.01, -1137.72, 50.63, 0x2F4DF3E6, c92222
--1007.54, 713.93, 102.92, 0x2FDCC54B, c92222
 -2080.74, -1904.08, 116.48, 0x2FEEE45A, c92222
 -281.94, 751.67, 111.8, 0x30090D79, c92222
 -1546.02, 456.32, 112.96, 0x3015F902, c92222
@@ -1498,7 +1544,6 @@ AmbientZone positions from game.dat325.rel, proj_game.dat325.rel, dlcextrasp_gam
 -1813.85, -348.27, 161.58, 0x37447C0C, c92222
 -218.32, 202.31, 82.73, 0x3792618B, c92222
 -2313.39, -482.4, 147.82, 0x37965BB9, c92222
--1396.68, 1399.16, 221.94, 0x37DA24EE, c92222
 2676.8, -1194.86, 54.31, 0x3874E25D, c92222
 -2228.37, -1467.21, 143.83, 0x387D7C43, c92222
 1627.35, -821.49, 47.73, 0x388F97D3, c92222
@@ -1508,11 +1553,9 @@ AmbientZone positions from game.dat325.rel, proj_game.dat325.rel, dlcextrasp_gam
 1740.67, -969.05, 44.21, 0x3A361B24, c92222
 469.94, 629.48, 110, 0x3A3C1895, c92222
 -795.56, 823.09, 94.82, 0x3A54DF0A, c92222
--2194.72, -549.33, 132.7, 0x3AB4D76C (game.dat325.rel), c92222
 -300.83, 805.32, 119, 0x3B078F11, c92222
 -1360.73, 2409.71, 308.25, 0x3BE0AE72, c92222
 -4549.46, -3978.45, -8.06, 0x3C13F867, c92222
-1033.17, -7107.01, 76.22, 0x3C3A806A, c92222
 -1421.42, 322.9, 92.75, 0x3CD0B41E, c92222
 -1588.17, -2817.21, -34, 0x3D613DFE, c92222
 467.72, 61, 124.58, 0x3D896D42, c92222
@@ -1522,7 +1565,6 @@ AmbientZone positions from game.dat325.rel, proj_game.dat325.rel, dlcextrasp_gam
 3467.52, 528.41, 150, 0x3E6514FE, c92222
 2539.83, -1263.12, 58.8, 0x3E6C000F, c92222
 2220.67, 1942.52, 185.12, 0x3E9DAD7A, c92222
--1123.6, 1044.22, 163.33, 0x3EDF32F0, c92222
 -255.71, 635.74, 119.54, 0x3F020123, c92222
 1311.24, -6843.16, 44.96, 0x3F0AAE4F, c92222
 1988, 725.7, 176.5, 0x3F21A89B, c92222
@@ -1547,7 +1589,6 @@ AmbientZone positions from game.dat325.rel, proj_game.dat325.rel, dlcextrasp_gam
 2839.99, -1133.97, 43.91, 0x45BB915C, c92222
 -597.13, -453.23, 66, 0x464BA945, c92222
 1409.73, -1125.42, 75.37, 0x46535471, c92222
--1043.72, 863.88, 120.61, 0x46C12500, c92222
 2227.83, -1352.92, 43.19, 0x475B3A57, c92222
 2931.46, 1411.24, 96, 0x47749517, c92222
 -2903.73, -2370.23, 65.61, 0x477DB73B, c92222
@@ -1565,7 +1606,6 @@ AmbientZone positions from game.dat325.rel, proj_game.dat325.rel, dlcextrasp_gam
 1472.98, -1792.65, 56.61, 0x4A1E8E6B, c92222
 579.93, 1678.22, 188, 0x4A35638E, c92222
 50.91, 492.22, 159.31, 0x4AEB0C84, c92222
-1987.24, -579.25, 59.85, 0x4AF97C16, c92222
 2333.56, -1219.65, 45.21, 0x4BEA4507, c92222
 2660.59, -1249.41, 56.71, 0x4C3E0AC9, c92222
 4298.96, -3677.53, 97.19, 0x4C921743, c92222
@@ -1586,7 +1626,6 @@ AmbientZone positions from game.dat325.rel, proj_game.dat325.rel, dlcextrasp_gam
 -6235.35, -3969.42, -8.06, 0x5157A65A, c92222
 468.92, 1275.16, 190.19, 0x517CDE8F, c92222
 2721.24, -1210.56, 51.31, 0x519C2A13, c92222
--1223.11, 1148.9, 188.37, 0x530D5B54, c92222
 2834.45, -1155.45, 44.91, 0x53567B9D, c92222
 2731.22, -1213.58, 50.44, 0x5369C146, c92222
 1689.55, -5824.33, 49.25, 0x537EADFE, c92222
@@ -1616,7 +1655,6 @@ AmbientZone positions from game.dat325.rel, proj_game.dat325.rel, dlcextrasp_gam
 -2184.82, -1952.89, 110.85, 0x58BEAE2E, c92222
 2039.25, -4666.04, 51.22, 0x592C4EFE, c92222
 -2036.4, -1418.19, 125.75, 0x5949F5E2, c92222
-2321.34, 1039.67, 81.73, 0x595115AC, c92222
 2903.38, 1393.08, 61.76, 0x59C93B70, c92222
 2805, -1374, 46, 0x59F0F223, c92222
 658.83, 62.71, 156.41, 0x5A0DAAC9, c92222
@@ -1655,15 +1693,11 @@ AmbientZone positions from game.dat325.rel, proj_game.dat325.rel, dlcextrasp_gam
 2400.44, -1044.09, 45.37, 0x62AE7DFF, c92222
 -295.52, 806.91, 122.89, 0x62DF2C1F, c92222
 2535.04, -1374.07, 54.33, 0x62EB643B, c92222
--1065.62, 973.18, 137.12, 0x637B5E74, c92222
 2920.6, 1348.15, 44.07, 0x6389CF0B, c92222
 -1249.49, -2210.26, 98.72, 0x639552E6, c92222
 2781.13, -1211.97, 53.43, 0x63CBC25E, c92222
--160.32, 1721.32, 165.11, 0x63F06F2A, c92222
 -1479.65, 266.25, 103.75, 0x640D8297, c92222
 -1716.38, 434.12, 105.63, 0x65160FF9 (game.dat325.rel), c92222
--985.13, -1950.55, 75.3, 0x6553FA0A, c92222
--1274.97, 1244.16, 201.24, 0x6558FFEB, c92222
 -2260.9, -1433.34, 139.05, 0x657C0AD5, c92222
 470.4, 732.2, 122.8, 0x659E909C, c92222
 1328.4, 1544.8, 201, 0x65D91581, c92222
@@ -1681,9 +1715,6 @@ AmbientZone positions from game.dat325.rel, proj_game.dat325.rel, dlcextrasp_gam
 2520.87, 2301.48, 193.78, 0x699509BA, c92222
 300.9, 328.41, 155.44, 0x69BF22A9, c92222
 2520.12, -1242.58, 52.74, 0x69D44227, c92222
--2478.23, -414.75, 147.52, 0x69F42677, c92222
-2840.21, -1230.12, 48.98, 0x6A443ACA, c92222
-1563.91, -6964.21, 76.37, 0x6A5A9EFB, c92222
 2730.33, -1283.59, 58.8, 0x6B05337A, c92222
 -251.14, 675.2, 128.73, 0x6B2EBC9C, c92222
 555.52, 1956.88, 186.24, 0x6B474A38, c92222
@@ -1697,7 +1728,6 @@ AmbientZone positions from game.dat325.rel, proj_game.dat325.rel, dlcextrasp_gam
 -643.04, -428.86, 66, 0x6CCDF649, c92222
 2788.39, -1186.76, 48.23, 0x6D26DBBB, c92222
 2904.55, 1384.26, 54.65, 0x6D56B505, c92222
--1456.17, 1575.94, 240, 0x6D88904A, c92222
 3513.6, -599.22, -251.48, 0x6D96E671, c92222
 -1130.93, -540.33, 83, 0x6DF9C559, c92222
 -196.65, 592.36, 117.77, 0x6EDE41B5, c92222
@@ -1718,10 +1748,9 @@ AmbientZone positions from game.dat325.rel, proj_game.dat325.rel, dlcextrasp_gam
 1524.12, -7160, 64.27, 0x727815D9, c92222
 1464.71, -1779.12, 56.61, 0x72A3C776, c92222
 -2469.26, 798.24, 132.34, 0x72CC7C25, c92222
--4315, -4060, 15, 0x72FE216F, c92222
+-4315, -4060, 15, 0x72FE216F (az_mexico_central2), ff9d00
 2705.22, -1309.69, 49.8, 0x7321A868, c92222
 -1392.39, -205.12, 58.57, 0x73309CCE, c92222
-1340.42, -7087.72, 64.77, 0x738DB161, c92222
 2284.94, -728.23, 43.28, 0x746D255A, c92222
 1386.2, 270.69, 97.14, 0x74820AF5, c92222
 2952.15, 1339.69, 44.25, 0x74E0F666, c92222
@@ -1739,7 +1768,7 @@ AmbientZone positions from game.dat325.rel, proj_game.dat325.rel, dlcextrasp_gam
 466.73, 1366.65, 169.85, 0x795D354C (online_game.dat325.rel), c92222
 2643.35, -1196.77, 54.71, 0x795E988C, c92222
 563.56, 597.44, 68.57, 0x7A07A24B, c92222
--3485.12, -1823.03, 25, 0x7A0E1DA3, c92222
+-3485.12, -1823.03, 25, 0x7A0E1DA3 (az_frontier_central), ff9d00
 1442.68, -883.6, 62.09, 0x7A33091E, c92222
 3179.86, 577.66, 42.27, 0x7A879D84, c92222
 1548.71, -695.97, 48.48, 0x7AADE6B4, c92222
@@ -1766,7 +1795,6 @@ AmbientZone positions from game.dat325.rel, proj_game.dat325.rel, dlcextrasp_gam
 -1046, 115.53, 114.71, 0x808E2016, c92222
 3075.1, 2428.79, 167.47, 0x80AAC509, c92222
 1742.73, -969.28, 42.5, 0x812EA8C9, c92222
--1287.43, 1270.6, 193.69, 0x813C5E7C, c92222
 -2332.58, -1680.23, 126.36, 0x816A2047, c92222
 -487.93, 1197.05, 131.79, 0x81C49BE6, c92222
 -5637.5, -4087.5, 15, 0x81E9F299, c92222
@@ -1799,12 +1827,10 @@ AmbientZone positions from game.dat325.rel, proj_game.dat325.rel, dlcextrasp_gam
 1587.19, 473.97, 122, 0x8BBEF669, c92222
 2762.67, -1224.3, 50.02, 0x8BEEAE74, c92222
 2894, 627, 58, 0x8C058C19, c92222
--1416.77, 1439.94, 232.56, 0x8C38CDAA, c92222
 2461.68, -1531.9, 43.08, 0x8C4E0E5B, c92222
 1892.43, -791.91, 43.99, 0x8CCF507F, c92222
 230.34, -456, 84.56, 0x8CDEBF36, c92222
 2567.32, -1418.75, 54.33, 0x8CF6B859, c92222
-992.31, -6743.56, 57.58, 0x8D17BF94, c92222
 -1343.68, -199.99, 102.29, 0x8D1F66D8, c92222
 -235.4, 785.3, 120.7, 0x8D89D7BC, c92222
 -1354.48, 2440.65, 309, 0x8DC19E47, c92222
@@ -1812,7 +1838,6 @@ AmbientZone positions from game.dat325.rel, proj_game.dat325.rel, dlcextrasp_gam
 2294.4, -753.91, 42.26, 0x8E4A447B, c92222
 -273.1, -37.02, 56.2, 0x8E72ED52, c92222
 1842.18, -1419.04, 48.27, 0x8E765C54, c92222
--1043.94, 812.14, 132.58, 0x8F0626FE, c92222
 -783.16, -659.82, 55.3, 0x8F47A872, c92222
 2441.99, -1166.89, 65, 0x8F699706, c92222
 1466.44, 774.7, 93.5, 0x908639AD, c92222
@@ -1827,7 +1852,6 @@ AmbientZone positions from game.dat325.rel, proj_game.dat325.rel, dlcextrasp_gam
 -1168.32, 480.29, 121.88, 0x92C4C483, c92222
 923.07, -677.43, 70.56, 0x92DCAF1B, c92222
 1697.71, -905.44, 45.5, 0x92F14C4E, c92222
--947.13, 603.98, 79.62, 0x93C769C2, c92222
 1025.15, -1982.96, 46.99, 0x94102ACC, c92222
 -309.95, 478.25, 83.75, 0x9432C512, c92222
 2596.69, 764.81, 81.76, 0x9448167A, c92222
@@ -1843,7 +1867,6 @@ AmbientZone positions from game.dat325.rel, proj_game.dat325.rel, dlcextrasp_gam
 2649.8, -1367.1, 48.78, 0x9854FA15, c92222
 3364.21, -684.2, 54.68, 0x98599F06, c92222
 2689.3, -1313.38, 52.92, 0x98703743, c92222
-1264.9, -6994.75, 50.23, 0x98AFB953, c92222
 699.98, -532.26, 85.26, 0x98FA27CF, c92222
 -1503.38, -327.84, 136.52, 0x991F3D05, c92222
 -1560.49, 2994.19, 622.5, 0x99A1B0AB, c92222
@@ -1869,7 +1892,6 @@ AmbientZone positions from game.dat325.rel, proj_game.dat325.rel, dlcextrasp_gam
 -2488.74, -1467.39, 147.57, 0x9E4D37FB, c92222
 2064.22, -1185.18, 41.42, 0x9EC3E83F, c92222
 1877.84, -1214.59, 43.99, 0x9F18F512, c92222
-665.95, 2250.97, 238.29, 0x9F4263BF, c92222
 -161.94, 498.93, 104.91, 0x9F61D757, c92222
 -1484.04, -154.61, 39.34, 0x9F7E8258, c92222
 -5141.89, -3809.95, 26.49, 0x9F845EAD, c92222
@@ -1886,8 +1908,7 @@ AmbientZone positions from game.dat325.rel, proj_game.dat325.rel, dlcextrasp_gam
 -1000, -800, 500, 0xA1DAFF6C (online_game.dat325.rel), c92222
 -150.43, 1700.86, 156.68, 0xA23D94C5, c92222
 2828.11, 1241.72, 128.85, 0xA2AA1F8E (online_game.dat325.rel), c92222
-2444.39, -1391.34, 52.47, 0xA2C0768F, c92222
--2737.5, -3485, 15, 0xA36BE4E3, c92222
+-2737.5, -3485, 15, 0xA36BE4E3 (az_mexico_east1), ff9d00
 -1876.42, 1330.92, 203.28, 0xA377335D, c92222
 -849.56, -1235.04, 44.17, 0xA3C00B0F, c92222
 -2285.65, -2821.5, 36.92, 0xA3C7ADE8, c92222
@@ -1919,7 +1940,6 @@ AmbientZone positions from game.dat325.rel, proj_game.dat325.rel, dlcextrasp_gam
 2563.01, 1027.63, 118.84, 0xAA1B9C3B, c92222
 -1879.53, 1319.14, 201.91, 0xAA5EC12C, c92222
 -1357.84, 2426.65, 309, 0xAA7C57BC, c92222
-1402.08, -6721.14, 53.93, 0xAAD25D98, c92222
 2666.02, -338.13, 45.63, 0xAAF4453E, c92222
 1622.48, 1451.25, 178.23, 0xAB3FBDBE, c92222
 1697.47, -886.81, 52.48, 0xAB8BED74, c92222
@@ -1935,19 +1955,17 @@ AmbientZone positions from game.dat325.rel, proj_game.dat325.rel, dlcextrasp_gam
 466.73, 1366.65, 169.85, 0xAEEC2069 (online_game.dat325.rel), c92222
 -1416.88, -215.67, -10.56, 0xAF244AA3, c92222
 2375.76, -1216.12, 51.2, 0xB00194A7, c92222
--1880, -3345, 15, 0xB02F7E76, c92222
+-1880, -3345, 15, 0xB02F7E76 (az_mexico_east3), ff9d00
 2347.41, -1537.83, 41.38, 0xB0658019, c92222
 1869.95, 1139.74, 128.85, 0xB073BB21 (online_game.dat325.rel), c92222
 494, -305.76, 146.58, 0xB0750569, c92222
 2692.4, -1332.75, 52.97, 0xB0B30F60, c92222
 2598.58, -1135.57, 56.01, 0xB0DCA151, c92222
 -1312.39, 2436.45, 313.04, 0xB11B4DD0 (online_game.dat325.rel), c92222
--2265, -3420, 15, 0xB12A8060, c92222
+-2265, -3420, 15, 0xB12A8060 (az_mexico_east2), ff9d00
 -1385.79, -279.12, 108.32, 0xB1BD26D5, c92222
 1007.9, -6744, 73.63, 0xB262CC49, c92222
 -1813.31, -397.98, 212.63, 0xB2678FDB, c92222
-1321.83, -7223.69, 57.77, 0xB2933ABC, c92222
-1142.72, -7293.85, 78.14, 0xB295A825, c92222
 1975, -679, 43, 0xB2C036C2, c92222
 1264.81, 2372.1, 338.25, 0xB32C17EA, c92222
 -775, -878, 55.3, 0xB53F343C, c92222
@@ -1959,7 +1977,6 @@ AmbientZone positions from game.dat325.rel, proj_game.dat325.rel, dlcextrasp_gam
 976.69, -463.2, 89.27, 0xB6236421, c92222
 2695.57, -1272.4, 51.8, 0xB6360C6A, c92222
 311.68, 304.56, 154.38, 0xB648E33E, c92222
--2084.24, -85.63, 220.81, 0xB6664890, c92222
 354.2, 1627.49, 167.68, 0xB6AC2559, c92222
 -1467.3, -58.9, 114.5, 0xB6C2375E, c92222
 -1341.59, 830.57, 121.88, 0xB7578DA8, c92222
@@ -1987,7 +2004,7 @@ AmbientZone positions from game.dat325.rel, proj_game.dat325.rel, dlcextrasp_gam
 533.39, 1815.89, 201, 0xBE01022A, c92222
 2283.44, 600.64, 89.91, 0xBE082693, c92222
 -1791.89, -386.41, 158.01, 0xBE141468, c92222
--1370, -3340, 15, 0xBE3D1A91, c92222
+-1370, -3340, 15, 0xBE3D1A91 (az_mexico_east4), ff9d00
 2373.83, -1386.22, 44.85, 0xBE9299C6, c92222
 -338.08, 801.09, 116.89, 0xBEDC710C, c92222
 -1699.58, -2105.84, 48.88, 0xBF4B2982, c92222
@@ -2007,7 +2024,6 @@ AmbientZone positions from game.dat325.rel, proj_game.dat325.rel, dlcextrasp_gam
 2915.19, 2341.79, 210.15, 0xC17EF13E, c92222
 2870.84, -1176.52, 47.25, 0xC1A9CE32, c92222
 335.6, -766.36, 43.85, 0xC1D4E8CA, c92222
--1357.7, -695.25, 169.45, 0xC223E981, c92222
 2321.17, -1540.6, 39.38, 0xC28C2466, c92222
 2792.84, -1305.92, 48.02, 0xC2B1171B, c92222
 3149.73, 808.92, 42.27, 0xC2D1AE1B, c92222
@@ -2029,9 +2045,8 @@ AmbientZone positions from game.dat325.rel, proj_game.dat325.rel, dlcextrasp_gam
 2689.96, -327.68, 45.63, 0xC51D7990, c92222
 -1740.53, -3045.33, -12.53, 0xC5591EE2, c92222
 579.57, 1959.07, 410.26, 0xC5705AD0, c92222
--5239.13, -3990.91, 15, 0xC5C7ED15, c92222
+-5239.13, -3990.91, 15, 0xC5C7ED15 (az_frontier_west2), ff9d00
 2706.57, -1338.55, 47.99, 0xC5F8C8D7, c92222
-1368.15, -7238.93, 71.76, 0xC63D314E, c92222
 2716.2, -1409.53, 48.69, 0xC655A876, c92222
 556.71, 544.38, 109.29, 0xC6794C19, c92222
 -193.36, 232.93, 74.22, 0xC715C0EA, c92222
@@ -2048,20 +2063,17 @@ AmbientZone positions from game.dat325.rel, proj_game.dat325.rel, dlcextrasp_gam
 -2210.03, -1712.55, 143.54, 0xCBCEC984, c92222
 2769.56, 2195.35, 173.8, 0xCC4F828C, c92222
 2826.3, -1208.92, 48.31, 0xCC69BAFA, c92222
--1341.5, -2930, 15, 0xCCA3375D, c92222
+-1341.5, -2930, 15, 0xCCA3375D (az_mexico_east5), ff9d00
 2216.54, 1650.63, 115.96, 0xCCD073D6 (online_game.dat325.rel), c92222
 -686.84, 530.21, 101.38, 0xCCD1363F, c92222
 2839.99, -1200, 48.31, 0xCCFA5C23, c92222
--716.94, -1499.45, 65.3, 0xCD244D27, c92222
 1867.26, 1780.09, 202.98, 0xCD650B29, c92222
 267.94, 1741.99, 188, 0xCD8A09C1, c92222
 2827.09, -1119.15, 43.91, 0xCDA5E3C2, c92222
 2769.13, -1138.72, 48.54, 0xCDA9C31F, c92222
 2796.789, -3246.64, 150, 0xCDAD338C, c92222
 -5499.56, -3938.7, -17.8, 0xCE1EF272, c92222
-2327, 996.83, 254.98, 0xCF21CE21, c92222
-1462.45, -6856.27, 71.85, 0xCF33E8AC, c92222
--1464.5, -2435, 35, 0xCFA48C38, c92222
+-1464.5, -2435, 35, 0xCFA48C38 (az_frontier_east2), ff9d00
 2821.49, -1423.85, 43.08, 0xCFBA9533, c92222
 -2506.53, -383.77, 165.23, 0xCFF6FD50, c92222
 2643.52, -1184.37, 55.34, 0xD0115F95, c92222
@@ -2075,7 +2087,6 @@ AmbientZone positions from game.dat325.rel, proj_game.dat325.rel, dlcextrasp_gam
 1945.16, -681.96, 42.25, 0xD1EA5349, c92222
 1393.07, 336.19, 95.38, 0xD237150B, c92222
 2740.02, -1399.07, 46.91, 0xD2559949, c92222
--1856.73, 2340.51, 374.77, 0xD34637B8, c92222
 1516.62, -749.33, 53.51, 0xD3B7CCC2, c92222
 559.19, 569.2, 120.86, 0xD42FEA60, c92222
 478.45, 675.67, 130, 0xD4960298, c92222
@@ -2108,7 +2119,6 @@ AmbientZone positions from game.dat325.rel, proj_game.dat325.rel, dlcextrasp_gam
 -776.86, -1362.63, 45.32, 0xDC064ECE, c92222
 2664.08, -1526.1, 43.08, 0xDC4FAE5D, c92222
 35.91, 1730.3, 179.09, 0xDC52D28A, c92222
-765.14, -6044.22, 73.61, 0xDC90F7D5, c92222
 2834.4, -1191.8, 48.31, 0xDDAE24B9, c92222
 -1878.08, 181.5, 172.08, 0xDDD5BD20, c92222
 2710.07, -1290.56, 50.07, 0xDE0902C1, c92222
@@ -2131,7 +2141,6 @@ AmbientZone positions from game.dat325.rel, proj_game.dat325.rel, dlcextrasp_gam
 2623.86, -1333.95, 56, 0xE2C04049, c92222
 2401.66, -1079.88, 54.42, 0xE2CB71F2, c92222
 2531.94, 2308.25, 186.11, 0xE32C83D9, c92222
--1060.12, 414.21, 49.84, 0xE3529CAD, c92222
 -1477.65, -118.9, 81.86, 0xE35AB55F, c92222
 579.79, 604.22, 112.12, 0xE36DCBBC, c92222
 1631.4, 1839.13, 205.24, 0xE3A437A7, c92222
@@ -2143,11 +2152,9 @@ AmbientZone positions from game.dat325.rel, proj_game.dat325.rel, dlcextrasp_gam
 2802.66, -1224.46, 49.26, 0xE45CA25B, c92222
 2812.85, -1135.64, 47.25, 0xE4685A2C, c92222
 2728.04, -1357.59, 46.12, 0xE4721A6E, c92222
--1851.18, 2308.6, 456.94, 0xE4815A2E, c92222
--1838.04, 1672.22, 260.21, 0xE4878465, c92222
--2165, -3032.5, 25, 0xE4B44B80, c92222
+-2165, -3032.5, 25, 0xE4B44B80 (az_frontier_east_ao2), ff9d00
 2840.61, 1439.47, 88.14, 0xE4BA3619, c92222
--4144.5, -4692.5, 15, 0xE4C7C745, c92222
+-4144.5, -4692.5, 15, 0xE4C7C745 (az_mexico_south_temp), ff9d00
 3736.49, -1674.27, 150, 0xE535E29D, c92222
 2632.34, -1240.71, 53.71, 0xE54E2811, c92222
 2368.26, 593.29, 136.47, 0xE5696F7C, c92222
@@ -2160,11 +2167,11 @@ AmbientZone positions from game.dat325.rel, proj_game.dat325.rel, dlcextrasp_gam
 2323.68, -1551.19, 43.08, 0xE8A946F4, c92222
 -798.57, -1320.78, 49.38, 0xE8C5498F, c92222
 1614.74, -5889.97, 63.86, 0xE93F8A1E, c92222
+2845.05, -1152.28, 43.91, 0xE9587FC3, c92222
 -4953.89, -4040.88, -19.08, 0xE96C2910, c92222
 559.77, 1974.67, 212.53, 0xE995A31A, c92222
 2780.19, -1302.81, 48.7, 0xE9AF7292, c92222
 2895.7, 626.35, 58, 0xE9C415BB, c92222
--1170.3, -814.22, 169.45, 0xE9DBB8F0, c92222
 484.98, 1774.06, 153.68, 0xE9E3FBE9, c92222
 1116.79, 439.93, 97.88, 0xEA1404E6, c92222
 1319.64, -7224.66, 56.56, 0xEA227639, c92222
@@ -2188,8 +2195,8 @@ AmbientZone positions from game.dat325.rel, proj_game.dat325.rel, dlcextrasp_gam
 2024.63, -4593.73, 60.61, 0xEE31449D, c92222
 2689.62, 900.5, 93.05, 0xEEDF8F86, c92222
 2356.09, 943.5, 75.04, 0xEF3157F5, c92222
--5465, -1905, 15, 0xEF53EF2D, c92222
--2785, -3310, 25, 0xEF7260FC, c92222
+-5465, -1905, 15, 0xEF53EF2D (az_frontier_west), ff9d00
+-2785, -3310, 25, 0xEF7260FC (az_frontier_east_ao1), ff9d00
 2669.26, -1323.54, 52.8, 0xEFB2820C, c92222
 269.49, 1742.57, 188, 0xEFF75DB5, c92222
 -1320.59, 2439.66, 308.25, 0xEFFC96AB, c92222
@@ -2202,15 +2209,11 @@ AmbientZone positions from game.dat325.rel, proj_game.dat325.rel, dlcextrasp_gam
 -536.71, 961.38, 124.24, 0xF0D681FB, c92222
 211.14, 784.03, 148.77, 0xF0E18B7C, c92222
 458.21, 684.33, 290, 0xF148587D, c92222
--2280.91, -2003.59, 102.54, 0xF1570CB6, c92222
 -1403.09, -253.05, 40.28, 0xF1A051EA, c92222
 2602.17, -1209.95, 58.8, 0xF2006739, c92222
 -1351.29, 2437.57, 309.25, 0xF298B655, c92222
-1950.27, -1345.27, 59.85, 0xF2D3049D, c92222
 1960.29, -4579.76, 17.3, 0xF3AF748C, c92222
--1231.33, -1974.96, 75.3, 0xF4049446, c92222
 -1906.03, 1348.91, 199.87, 0xF441B6E0, c92222
-2294.08, 1119.36, 96.79, 0xF50E5C93, c92222
 -323.02, 801.53, 118.59, 0xF50F5C12, c92222
 2501.22, 1437.15, 115.96, 0xF54344BB (online_game.dat325.rel), c92222
 1908.64, -1273.34, 44.91, 0xF56D743E, c92222
@@ -2218,9 +2221,7 @@ AmbientZone positions from game.dat325.rel, proj_game.dat325.rel, dlcextrasp_gam
 -2315.2, -477.81, 139.85, 0xF5B9EF19 (game.dat325.rel), c92222
 -1254.47, -2259.32, 98.72, 0xF5C5FD30, c92222
 2839.41, -1202.66, 49.7, 0xF5F0E41D, c92222
--701.5, -1273.96, 65.3, 0xF5FB0914, c92222
 -220.19, 675.18, 119.54, 0xF62BEF78, c92222
--1896.11, 1864.31, 379.27, 0xF6BBFEA3, c92222
 438.15, 2229.77, 248.07, 0xF7372BF1, c92222
 -6091.03, -3197.71, -13.18, 0xF77DEE92, c92222
 1518.63, -749.95, 55.64, 0xF7929702, c92222
@@ -2244,6 +2245,5 @@ AmbientZone positions from game.dat325.rel, proj_game.dat325.rel, dlcextrasp_gam
 -1429.35, -2677.87, 56.03, 0xFCCD4373 (online_game.dat325.rel), c92222
 1937.23, -679.55, 42.6, 0xFD5BAC88, c92222
 2984.04, 507.43, 55.87, 0xFEEEFEC7, c92222
--2274.78, -2007.19, 447.45, 0xFF00A809, c92222
 -2488.74, -1467.39, 147.57, 0xFF2A1103, c92222
 30.14, -1539.6, 87.9, 0xFF53EC22, c92222

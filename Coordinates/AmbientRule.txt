@@ -1,5 +1,6 @@
 AmbientRules from game.dat325.rel, proj_game.dat325.rel, dlcextrasp_game.dat325.rel & online_game.dat325.rel
 
+0, 0, 0, ar_big_valley_cumberland_falls, 4cc922
 -1513.99, 298.64, 98.95, ar_big_valley_little_creek_waterfall_01, 4cc922
 -1439.07, -663.93, 99.6, ar_big_valley_south_waterfall_01, 4cc922
 -1426.98, -667.33, 95.4, ar_big_valley_south_waterfall_02, 4cc922
@@ -22,6 +23,17 @@ AmbientRules from game.dat325.rel, proj_game.dat325.rel, dlcextrasp_game.dat325.
 237.43, 1940.8, 203.83, ar_cotorra_springs_01, 4cc922
 177.24, 1810.45, 200.06, ar_cotorra_springs_02, 4cc922
 143.68, 1866.62, 200.19, ar_cotorra_springs_03, 4cc922
+-936, 576.5, 56.94, ar_cumberland_falls_waterfalls_01, 4cc922
+-937.78, 584.28, 63.13, ar_cumberland_falls_waterfalls_02, 4cc922
+-938.59, 590.54, 68.07, ar_cumberland_falls_waterfalls_03, 4cc922
+-939.22, 597.26, 71.36, ar_cumberland_falls_waterfalls_04, 4cc922
+-940.4, 602.23, 73.48, ar_cumberland_falls_waterfalls_05, 4cc922
+-943.94, 608.28, 76.48, ar_cumberland_falls_waterfalls_06, 4cc922
+-947.74, 613.46, 81.12, ar_cumberland_falls_waterfalls_07, 4cc922
+-950.35, 616.86, 82.01, ar_cumberland_falls_waterfalls_08, 4cc922
+-957.5, 620.04, 83.05, ar_cumberland_falls_waterfalls_09, 4cc922
+-964.08, 622.09, 84.18, ar_cumberland_falls_waterfalls_10, 4cc922
+-968.96, 623.21, 84.89, ar_cumberland_falls_waterfalls_11, 4cc922
 -1043.06, 864.44, 117.91, ar_grizzlies_west_waterfall_01, 4cc922
 -1053.21, 936.72, 127.22, ar_grizzlies_west_waterfall_02, 4cc922
 -1054.6, 962.27, 131.8, ar_grizzlies_west_waterfall_02_01, 4cc922
@@ -51,6 +63,7 @@ AmbientRules from game.dat325.rel, proj_game.dat325.rel, dlcextrasp_game.dat325.
 -1408.65, 1403.68, 218.85, ar_grizzlies_west_waterfalls_07_03, 4cc922
 -1416.48, 1439.94, 223.37, ar_grizzlies_west_waterfalls_08_01, 4cc922
 -1444.98, 1558.09, 231.1, ar_grizzlies_west_waterfalls_09_00, 4cc922
+-1449.94, 1563.96, 231.81, ar_grizzlies_west_waterfalls_09_01, 4cc922
 -1458.12, 1572.66, 232.76, ar_grizzlies_west_waterfalls_09_02, 4cc922
 -1464.55, 1591.84, 233.37, ar_grizzlies_west_waterfalls_09_03, 4cc922
 -1479.01, -2753.79, 37.35, ar_manteca_falls_rapids, 4cc922
@@ -80,6 +93,7 @@ AmbientRules from game.dat325.rel, proj_game.dat325.rel, dlcextrasp_game.dat325.
 -1770.04, 2113.52, 278.22, ar_waterfall_grizzlies_west_10, 4cc922
 -1768.31, 2080.94, 270.02, ar_waterfall_grizzlies_west_11, 4cc922
 -1778.65, 1993.62, 254.61, ar_waterfall_grizzlies_west_12, 4cc922
+2680.82, 914.35, 89.85, 0xDD6C1420, c92222
 1201.74, -7281, 81.81, 0x0041ABA9, c92222
 -1819, -371.9, 166.4, 0x0152E4AF, c92222
 1411, -1281, 80, 0x01932919, c92222
@@ -90,7 +104,6 @@ AmbientRules from game.dat325.rel, proj_game.dat325.rel, dlcextrasp_game.dat325.
 -555.52, 2712.17, 320.29, 0x04372876, c92222
 2794.87, -1213.59, 48.75, 0x0444CEC7, c92222
 -1457, 2175.2, 300, 0x04C2E8AA, c92222
--1449.94, 1563.96, 231.81, 0x04CDAB42, c92222
 2882.43, -1346.83, 52.18, 0x04D9065F, c92222
 2525.96, -1462.57, 46.83, 0x04E20322, c92222
 2300.1, 1094.1, 91.4, 0x05368532, c92222
@@ -153,7 +166,6 @@ AmbientRules from game.dat325.rel, proj_game.dat325.rel, dlcextrasp_game.dat325.
 1464.52, 316.29, 92.16, 0x1C24165E, c92222
 704.89, -1241.48, 56.25, 0x1C59AC08, c92222
 2643.3, -1175.7, 53, 0x1CF91326, c92222
--964.08, 622.09, 84.18, 0x1D809F30, c92222
 1363, -6817, 64, 0x1D8ECC63, c92222
 -619.1, 531.1, 95.4, 0x1DA3887A, c92222
 -2203.77, -530.02, 132.09, 0x1DC5AACE (game.dat325.rel), c92222
@@ -303,7 +315,6 @@ AmbientRules from game.dat325.rel, proj_game.dat325.rel, dlcextrasp_game.dat325.
 4, 80, 10, 0x54125D74, c92222
 193.4, 992.5, 190.2, 0x5414E870 (online_game.dat325.rel), c92222
 2550.5, -1437.7, 46.9, 0x5433784D, c92222
--968.96, 623.21, 84.89, 0x557D8F29, c92222
 2928.49, 1382.47, 55.68, 0x55B86D4B, c92222
 2203.6, 651.5, 96.1, 0x55F9A631, c92222
 -1438, 2138.5, 299, 0x567A0D24, c92222
@@ -316,8 +327,6 @@ AmbientRules from game.dat325.rel, proj_game.dat325.rel, dlcextrasp_game.dat325.
 -1797.61, -398.48, 153.3, 0x5C24C737, c92222
 2817.5, -1327.6, 48.1, 0x5C93E953, c92222
 2818.09, -1256.02, 51.34, 0x5C972578, c92222
--937.78, 584.28, 63.13, 0x5CA11C10, c92222
-0, 0, 0, 0x5CC2626F, c92222
 2696.71, -1219.1, 53.29, 0x5CEBB814, c92222
 -1791.2, -387.8, 160.6, 0x5D6DB896, c92222
 2758.55, -1131.88, 52.03, 0x5E4D7A97, c92222
@@ -382,7 +391,6 @@ AmbientRules from game.dat325.rel, proj_game.dat325.rel, dlcextrasp_game.dat325.
 1417.9, 295.1, 102.3, 0x77332102, c92222
 2692.13, -1333.04, 53.05, 0x77520FBA, c92222
 1879.12, -4539.38, 44.05, 0x792538F5, c92222
--939.22, 597.26, 71.36, 0x792ED52B, c92222
 -2719.76, 677.26, 165.08, 0x7930EC24, c92222
 2234.8, -758.8, 43.1, 0x79A564AC (online_game.dat325.rel), c92222
 -1592, -1452.48, 93, 0x7A4CBCAB, c92222
@@ -422,7 +430,6 @@ AmbientRules from game.dat325.rel, proj_game.dat325.rel, dlcextrasp_game.dat325.
 -130, -64, 99, 0x89B8C6EB, c92222
 -439.27, 502.51, 98.83, 0x8A06FFC8, c92222
 -2587, -94, 130, 0x8A920BB5, c92222
--936, 576.5, 56.94, 0x8B02F8D3, c92222
 -2901.8, 654.1, 60.3, 0x8B797139, c92222
 2039.15, -4601.22, 86.66, 0x8BFD0FC7, c92222
 0, 0, 0, 0x8C45AA30, c92222
@@ -461,7 +468,6 @@ AmbientRules from game.dat325.rel, proj_game.dat325.rel, dlcextrasp_game.dat325.
 -1696.16, 399.32, 104.63, 0x960B334A (game.dat325.rel), c92222
 501.17, 677.82, 116.8, 0x980B7EC0, c92222
 595, 571.6, 112, 0x98F04C0A, c92222
--943.94, 608.28, 76.48, 0x991014ED, c92222
 -294, 735, 130, 0x99AFA048, c92222
 -1948.5, 1332.5, 214.5, 0x99C60920, c92222
 -2314.27, -477.63, 139.24, 0x99CAD16F (game.dat325.rel), c92222
@@ -502,7 +508,6 @@ AmbientRules from game.dat325.rel, proj_game.dat325.rel, dlcextrasp_game.dat325.
 2253.4, -769.3, 44.8, 0xA66EE836 (online_game.dat325.rel), c92222
 -867, -1280, 43.3, 0xA73C4839, c92222
 2772.43, -1227.22, 47.19, 0xA7708B84, c92222
--938.59, 590.54, 68.07, 0xA777B1BC, c92222
 2740.25, -1166.35, 52.79, 0xA7A78BF6, c92222
 2280.3, -1449.3, 47.6, 0xA7D354AC, c92222
 2942.17, 1380.93, 56.28, 0xA80CC718, c92222
@@ -545,7 +550,6 @@ AmbientRules from game.dat325.rel, proj_game.dat325.rel, dlcextrasp_game.dat325.
 -1556.56, 3089.78, 469.64, 0xB5FEDFF1, c92222
 2729.86, -1184.21, 48.37, 0xB62728F5, c92222
 1633.51, -5833.78, 55.5, 0xB6307C41, c92222
--940.4, 602.23, 73.48, 0xB64A4F61, c92222
 2653.53, -1370.98, 48.73, 0xB72E3A1D, c92222
 -2142, 108.3, 239.8, 0xB799BBF1, c92222
 -304.9, 707.3, 124.4, 0xB79B2CFE, c92222
@@ -631,14 +635,12 @@ AmbientRules from game.dat325.rel, proj_game.dat325.rel, dlcextrasp_game.dat325.
 -2806.9, 2.62, 156.22, 0xD94C57B7 (game.dat325.rel), c92222
 1181.17, 2038.65, 322.51, 0xDA1DBC69, c92222
 1201.9, -1275.9, 79.2, 0xDA838378, c92222
--947.74, 613.46, 81.12, 0xDAD118D6, c92222
 -1817.7, -370.1, 163.3, 0xDB37FDA6, c92222
 2869.23, 1389.14, 75.41, 0xDC20CC7F, c92222
 2882, 1368, 67, 0xDC4AFA73, c92222
 -1894.1, 1333.5, 203.7, 0xDCEFFF27, c92222
 2023.46, -4716.19, 50.72, 0xDCF716C7, c92222
 -592.18, -3791.67, 96.29, 0xDD2826AC (online_game.dat325.rel), c92222
-2680.82, 914.35, 89.85, 0xDD6C1420, c92222
 2605.8, -1386.6, 46.1, 0xDDCCB95E, c92222
 -1800.48, -397.01, 155.97, 0xDF90CEF8, c92222
 -2210.68, -533.39, 131.9, 0xE03BAFD7 (game.dat325.rel), c92222
@@ -663,7 +665,6 @@ AmbientRules from game.dat325.rel, proj_game.dat325.rel, dlcextrasp_game.dat325.
 -39, 4, 115, 0xE811431B, c92222
 -264, 669.5, 112.9, 0xE852DF2A, c92222
 -296.82, 278.41, 83.55, 0xE8558EB8, c92222
--950.35, 616.86, 82.01, 0xE87A3428, c92222
 -1789.5, -388, 160.7, 0xE90E468A, c92222
 2622.7, -1355.2, 49.92, 0xE9283183, c92222
 1515.03, -7169.96, 63.81, 0xE9404666, c92222
@@ -678,7 +679,6 @@ AmbientRules from game.dat325.rel, proj_game.dat325.rel, dlcextrasp_game.dat325.
 0, 0, 0, 0xEDAE1C47 (game.dat325.rel), c92222
 -2544.81, 399.5, 155.38, 0xEE6525E1, c92222
 1994.64, -4708.78, 45.68, 0xEEB548F7, c92222
--957.5, 620.04, 83.05, 0xEF5DC1EF, c92222
 2104.71, -4653.83, 57.39, 0xEF7D2BE8, c92222
 -1889, 1331, 201, 0xEF9B1A38, c92222
 1323.9, -1323, 78.2, 0xEF9EE638, c92222
