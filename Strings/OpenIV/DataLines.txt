@@ -43798,6 +43798,7 @@ alligator_animal_damage
 alligator_attack
 alligator_clues
 alligator_eats_boar
+alligator_emerge
 alligator_enter_fast
 alligator_growl
 alligator_large

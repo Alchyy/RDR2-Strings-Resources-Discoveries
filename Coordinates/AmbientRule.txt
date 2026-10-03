@@ -1,6 +1,6 @@
 AmbientRules from game.dat325.rel, proj_game.dat325.rel, dlcextrasp_game.dat325.rel & online_game.dat325.rel
 
-ExplicitSpawn = WorldRelative
+ExplicitSpawnPositionUsage = WorldRelative
 
 0, 0, 0, ar_big_valley_cumberland_falls, 4cc922
 -1513.99, 298.64, 98.95, ar_big_valley_little_creek_waterfall_01, 4cc922
