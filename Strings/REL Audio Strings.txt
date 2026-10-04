@@ -4001,6 +4001,7 @@ cicadas_shrill_master
 cicadas_tropical_day_master
 cin_tor_int_limbo
 cin_tor_int_room_cin_tor_01
+cin_tor_int_room_cin_tor_stairway
 city_night_metal
 city_night_wooden
 city_swamp_general_hum_01
@@ -4090,6 +4091,7 @@ col_barn_int_room_col_barn_main
 col_bunkhouse_int_limbo
 col_bunkhouse_int_room_col_bunkhouse_main
 col_cabin_int_limbo
+col_cabin_int_room_col_cabin_addon
 col_cabin_int_room_col_cabin_main
 col_cabin_int_room_col_cabin_room01
 col_cabin_int_room_col_cabin_room02
@@ -4452,6 +4454,8 @@ crn1_wagon_spotted_md
 crn1_woodsgoon1_pvg
 crn1_woodsgoon2_pvg
 cro_house_int_limbo
+cro_house_int_room_cro_house_br1
+cro_house_int_room_cro_house_br2
 cro_house_int_room_cro_house_hall
 cro_house_int_room_cro_house_kitchen
 crocodile
@@ -5183,6 +5187,7 @@ death_scene
 death_screen_enter
 death_screen_exit
 deborah_macginess_pvg
+debug_interior
 decay
 decreaserate
 deer_agony
@@ -7951,6 +7956,7 @@ locust_ratchet_06
 locust_ratchet_07
 locust_ratchet_master
 lof_outpost_int_limbo
+lof_outpost_int_room_outpost_all
 lof_outpost_int_room_outpost_basement
 log_impact_01
 log_impact_02
@@ -8319,6 +8325,7 @@ metal_squeak_05
 mfr_blacksmith01_int_limbo
 mfr_blacksmith01_int_room_mfr_blacksmith01_main
 mfr_cottage01_int_limbo
+mfr_cottage01_int_room_mfr_cottage01_br01
 mfr_cottage01_int_room_mfr_cottage01_main
 mfr_rancher_pvg
 mg_bathing_start
@@ -9958,6 +9965,7 @@ new_art_int_room_art_gallery02
 new_art_int_room_art_hall
 new_art_int_room_art_hall_upper
 new_art_int_room_art_reception
+new_art_int_room_art_tickets
 new_art_res_limbo
 new_art_res_room_new_art_res_main
 new_barber_int_limbo
@@ -10000,13 +10008,16 @@ new_gunsmi01_int_main
 new_gunsmi01_int_main_limbo
 new_gunsmi01_int_main_main_room
 new_hotel_3rd_floor_int_limbo
+new_hotel_3rd_floor_int_room_new_hotel_3rd_back
 new_hotel_3rd_floor_int_room_new_hotel_3rd_hall
 new_magic_es_int_limbo
 new_magic_es_int_room_magic_int_lobby
 new_magic_es_int_room_magic_int_main
 new_magic_es_int_room_magic_int_projector
 new_magic_int_limbo
+new_magic_int_room_magic_int_lobby
 new_magic_int_room_magic_int_main
+new_magic_int_room_magic_int_projector
 new_man_bronte_room_00_dining
 new_man_bronte_room_00_kitchen
 new_man_bronte_room_00_music
@@ -10015,6 +10026,7 @@ new_man_bronte_room_00_sitting
 new_man_bronte_room_00_study
 new_man_bronte_room_00_wine
 new_man_bronte_room_bedroom_dressing
+new_man_bronte_room_bedroom_ensuite
 new_man_bronte_room_bedroom_master
 new_man_bronte_room_bedroom_twin
 new_man_bronte_room_hallway_top
@@ -10026,6 +10038,8 @@ new_man_gala_int_room_gala_bed_b
 new_man_gala_int_room_gala_foyer
 new_man_gala_int_room_gala_kitchen
 new_man_gala_int_room_gala_library
+new_man_gala_int_room_gala_mez_lower
+new_man_gala_int_room_gala_mez_upper
 new_man_gala_int_room_gala_music
 new_man_gala_int_room_gala_pantry
 new_man_gala_int_room_gala_study
@@ -12483,6 +12497,7 @@ rho_gunsmith_int_room_stairs1
 rho_saloon_int_limbo
 rho_saloon_int_room_rho_sal_bath
 rho_saloon_int_room_rho_sal_main
+rho_saloon_int_room_rho_sal_rm01
 rho_sheriff_int_limbo
 rho_sheriff_int_room_main
 rho_slum_player_int_limbo
@@ -12847,6 +12862,7 @@ robt_gkab
 robt_groupie_0_pvg
 robt_jnaa
 roc_house_int_limbo
+roc_house_int_room_roc_hse_bed01
 roc_house_int_room_roc_hse_bed02
 roc_house_int_room_roc_hse_main
 rock_body_01
@@ -16431,10 +16447,17 @@ sha_mansion_int_room_sha_man_upperbed
 shack_ai_int_limbo
 shack_ai_int_room_shack_ai_main
 shack_b_a_int_limbo
+shack_b_a_int_room_shack_b_a_br1
+shack_b_a_int_room_shack_b_a_br2
+shack_b_a_int_room_shack_b_a_br3
 shack_b_a_int_room_shack_b_a_main
 shack_b_b_int_limbo
+shack_b_b_int_room_shack_b_b_br1
+shack_b_b_int_room_shack_b_b_br2
 shack_b_b_int_room_shack_b_b_main
 shack_b_c_int_limbo
+shack_b_c_int_room_shack_b_c_br1
+shack_b_c_int_room_shack_b_c_br2
 shack_b_c_int_room_shack_b_c_main
 shack_bv_int_limbo
 shack_bv_int_room_shack_bv_main
@@ -19912,6 +19935,7 @@ tum_butcher
 tum_butcher_pvg
 tum_general_store_pvg
 tum_genstore_int_limbo
+tum_genstore_int_room_tum_genstore_dressrm
 tum_genstore_int_room_tum_genstore_main
 tum_gunsmith_int_limbo
 tum_gunsmith_int_room_tum_gunsmith_main
@@ -19925,6 +19949,7 @@ tum_roomnbath_int_room_tum_rnb_corridor
 tum_roomnbath_int_room_tum_rnb_foyer
 tum_roomnbath_int_room_tum_rnb_room
 tum_saloon_int_limbo
+tum_saloon_int_room_tum_saloon_gambling
 tum_saloon_int_room_tum_saloon_main
 turkey_flight
 turkey_flight_random
@@ -19934,7 +19959,9 @@ turkey_walk
 turtlesnapping_near_01
 tv_scene
 twi_shack01_int_limbo
+twi_shack01_int_room_twi_shack01_br01
 twi_shack01_int_room_twi_shack01_main
+twi_shack01_int_room_twi_shack01_rm2
 u
 u_m_m_bivforeman_01_r2pvg
 u_m_m_htlforeman_01_r2pvg
@@ -20019,6 +20046,9 @@ val_carriagehouse_int_limbo
 val_doctor_int_limbo
 val_doctor_pvg
 val_general_store_pvg
+val_genstore_interior
+val_genstore_interior_limbo
+val_genstore_interior_rm_main
 val_genstore_limbo
 val_gunsmith_int_main_limbo
 val_gunsmith_int_main_room_main
@@ -20050,6 +20080,7 @@ val_saloon2_int_room_mayor02
 val_saloon_int_limbo
 val_saloon_int_room_bed01
 val_saloon_int_room_bed02
+val_saloon_int_room_bed03
 val_saloon_int_room_bed04
 val_saloon_int_room_bed05
 val_saloon_int_room_bed06
@@ -20062,6 +20093,7 @@ val_stable_int_limbo
 val_stable_int_room_val_stable_main
 val_trainstn_int_limbo
 val_trainstn_int_room_station
+val_trainstn_interior
 val_trainstn_interior_center_room
 val_trainstn_interior_left_room
 val_trainstn_interior_limbo

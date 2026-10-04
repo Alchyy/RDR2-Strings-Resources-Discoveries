@@ -2890,6 +2890,7 @@ Light Blue = Miscellanous
 2794.079, 2518.085, 163.5692, right horse 11 (train_robbery4.ysc), 2323FF
 2795.617, 2507.83, 161.8457, right horse 10 (train_robbery4.ysc), 2323FF
 2892.75, 2593.08, 185.33, TASK::TASK_LOOK_AT_COORD (rcm_crackpot2.ysc), 2323FF
+2965, 475, 45, m_volTallulahJetty_Restriction (roanokeridge_population.ysc), 2323FF
 3018.176, 556.0834, 43.6546, PHINEAS_T_RAMSBOTTOM (rcm_collect_cigarette_cards1.ysc), 2323FF
 3043.875, 2282.176, 133.0114, s_m_y_army_01 (train_robbery4.ysc), 2323FF
 3059.949, 2276.733, 128.0094, s_m_y_army_01 (train_robbery4.ysc), 2323FF
@@ -3311,6 +3312,7 @@ Light Blue = Miscellanous
 1558.7434, 1822.842, 209.92114, bridge_cam_position (script/cinematics/trains/j13-j14.ymt)
 1573.88, 858.91, 100, shoreline_river_heartlands_wetlands_east_0_00 (game.dat325.rel)
 1575.14, 959.66, 90, shoreline_river_heartlands_wetlands_east_1_00 (game.dat325.rel)
+1585.3417, -5127.673, 140.82323, Blue Tile (vwxy_11_14_area_slod4.ydr)
 1592.780029, -7126.895996, 81.443001, Multistart (smg1_mcs1.ymt)
 1609.66, 3312.41, 432.09, az_the_grizzlies_calumet_ravine_01 (proj_game.dat325.rel)
 1666.88501, -7174.058105, 76.737999, Multistart (smg1_int.ymt)
