@@ -1691,6 +1691,7 @@ acweapons_top_tip
 add_log
 add_plants
 addanidir
+addanim
 addperdir
 addprog
 adl
@@ -4030,10 +4031,13 @@ axisl_0
 axisl_1
 axisl_2
 axisl_3
+axism_y
 axisr_0
 axisr_1
 axisr_2
 axisr_3
+axisw_d
+axisw_u
 b_spot_crst1_1
 b_spot_crst1_2
 babi1_act_1
@@ -49236,6 +49240,7 @@ eat_meat
 eat_side
 eat_snack
 eat_stew
+ec_reboot_msg
 edcap
 edit_teams
 edown21_go
@@ -69634,6 +69639,7 @@ hud_estab
 hud_g_s_force
 hud_g_s_heart
 hud_g_s_maint
+hud_game_upd_rq
 hud_gonechar1
 hud_gonechar2
 hud_gonechar3
@@ -114883,6 +114889,7 @@ p_wc_resp_ig1c_1
 p_wc_resp_ig1c_2
 p_wc_resp_ig1d_1
 p_wc_resp_ig1d_2
+pad_reassigned
 page_fishing
 page_give
 page_horse
@@ -143609,6 +143616,10 @@ sfsmov_1
 sfsmov_2
 sg_ald_dam
 sg_ald_dam_pc
+sg_ald_pairpad
+sg_ald_pairpad_agn
+sg_ald_pairpad_manual
+sg_ald_pairpad_manual_agn
 sg_ald_sign_agn
 sg_ald_signin
 sg_auto_failed
@@ -150999,6 +151010,7 @@ start_train_engine
 stash_box
 state_bounties_link
 state_bounties_title
+state_type
 station_annesberg
 station_armadillo
 station_blackwater
@@ -158770,6 +158782,9 @@ ui_scf_settings_unlink_message
 ui_scf_settings_unsubscribe
 ui_scf_settings_view_policies
 ui_scf_unrock
+ui_scf_unsupported_chars_common_replacement
+ui_scf_unsupported_chars_ugc_desc_replacement
+ui_scf_unsupported_chars_ugc_title_replacement
 ui_scf_view_crew_profile
 ui_scf_view_gamer_card
 ui_scf_view_player_profile

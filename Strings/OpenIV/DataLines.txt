@@ -39224,6 +39224,7 @@ activehorseheading
 activehorsepos
 activekeyframe
 activelookblendinweight
+activeposemask
 activities
 activity
 activity_time
@@ -60507,16 +60508,19 @@ anim_code_test
 anim_event
 anim_gen
 anim_group_ladders_base
+anim_group_ladders_water_mounts
 anim_group_react_flee_shocking@intro@back
 anim_group_react_flee_shocking@intro@front
 anim_group_react_flee_shocking@intro@left
 anim_group_react_flee_shocking@intro@right
+anim_group_react_shocking_walks
 anim_group_reaction_gunfire_intro
 anim_group_reaction_gunfire_intro@back
 anim_group_reaction_gunfire_intro@front
 anim_group_reaction_gunfire_intro@left
 anim_group_reaction_gunfire_intro@right
 anim_group_reaction_gunfire_runs
+anim_group_std_ped
 anim_group_visemes_f_lo
 anim_group_visemes_m_lo
 anim_phase
@@ -60781,6 +60785,9 @@ anim_scene_wagon_thieves
 anim_scene_wagon_thieves_jorge
 anim_scene_wagon_thieves_rio_bravo
 anim_scenes
+anim_wall_or_fence_climb_hand
+anim_wall_or_fence_climb_launch
+anim_wall_or_fence_climb_scrape
 animal
 animal0_released
 animal1_released
@@ -65763,6 +65770,7 @@ assembledynamite_trans_stickydymsingle05
 assembledynamite_trans_stickydymtbundle
 asset_name
 assets
+assets:/anim/ingame
 assetviewer_platform
 assist_foaling
 assistant
@@ -66158,6 +66166,7 @@ audio_voiceover_lowhonor
 audiomixer
 audiomusic
 audiosfx
+audiotrigger
 aur01pr_combo02_13_lod
 aur01pr_combo02_14_lod
 aur01pr_combo02_dslod
@@ -79587,6 +79596,8 @@ bck_l_enter
 bck_l_enter_short
 bck_r_enter
 bck_r_enter_short
+bclambertodive
+bclambertoparachute
 bcnu5_action
 bcnu5au
 bconaud
@@ -85439,6 +85450,8 @@ bleft
 bleftcover
 blend
 blend_decal
+blend_out_idle_turn
+blend_out_start
 blend_type
 blendarms
 blendback
@@ -86327,6 +86340,7 @@ boat_small_sdn
 boat_small_vht
 boat_stationary
 boat_swamp
+boat_water_entry_shake
 boathit_general_camera
 boathit_general_flash
 boathit_general_mason
@@ -90564,6 +90578,7 @@ breakdowndooratempt_loop_dutch
 breakdowndooratempt_loop_hosea
 breakfallback
 breakfront
+breakglass
 breaking_front_left_wheel
 breakingstrength
 breakl
@@ -94651,7 +94666,12 @@ buyer_to_cower
 buyer_to_idle
 buynewspaper
 buysmokes
+bvaultdefault
 bvaultlow
+bvaultshallow
+bvaultslide
+bvaultuberwide
+bvaultwide
 bvb_bridge
 bvb_bridge2
 bvb_bridge2_decal
@@ -101050,6 +101070,7 @@ cameraa1
 camerab
 camerabox_aim_camera
 camerac
+cameracut
 cameradata
 cameraindex
 cameralocation
@@ -103660,6 +103681,7 @@ ccdv2_actaint
 ccdv2_actb
 ccdv2_actc
 ccdv2au
+ccevent_type_set_package_index
 cch
 cch18_acbalt
 cch18_acta
@@ -104039,6 +104061,7 @@ ccmrb_wlk_sdb_cnv1
 ccoltau
 ccombatflow
 ccombatmeleegroup
+ccombatmountedattackergroup
 ccombattaskmanager
 ccombocoat_mr1_021
 ccombocoat_mr1_021_ab
@@ -104963,6 +104986,7 @@ ceventshockingweirdped
 ceventshockingweirdpedapproaching
 ceventsuspiciousactivity
 ceventvehicledamageweapon
+ceventwhistlingheard
 cf_coffee_cup
 cfa2aud
 cfam1_a
@@ -128541,6 +128565,7 @@ close_to_cage
 close_to_gen
 close_to_guard
 close_to_mid
+close_trunk
 close_ui
 closechew_loop_long
 closechew_loop_short
@@ -196347,6 +196372,7 @@ coverdooridle_chair
 coverdooridle_crate
 coverdooridle_desk
 coverdooridle_dutch
+coverexitinterrupt
 coverleftclipset
 coverloco
 coverloco2distancemth
@@ -249270,6 +249296,7 @@ ctaskmotionsweep
 ctaskmotionswimming
 ctaskmotiontennis
 ctaskmountedapproach
+ctaskmountfollownearestroad
 ctaskmovebeinformation
 ctaskmovecircle
 ctaskmovecombatmounted
@@ -249312,6 +249339,7 @@ ctaskopenvehicledoorfromoutside
 ctaskpersistentcharacter
 ctaskpickuponfoot
 ctaskplanechase
+ctaskplaycuffedsecondaryanims
 ctaskplaydead
 ctaskplayerarrested
 ctaskplayeronfoot
@@ -249336,6 +249364,7 @@ ctaskreacttoexplosion
 ctaskreacttoimminentexplosion
 ctaskreacttopursuit
 ctaskreloadgun
+ctaskriderrearup
 ctaskridetrain
 ctaskrobped
 ctasksearch
@@ -255624,6 +255653,7 @@ death_bandage
 death_bool
 death_engineer
 death_fail_in_effect_shake
+death_fail_out_effect_shake
 death_fwd
 death_gargle
 death_high_short
@@ -256174,6 +256204,7 @@ default_em_pen6_c
 default_equipment
 default_facial_camera
 default_female
+default_first_person_aim_control_helper
 default_first_person_recoil_shake
 default_fish_cast_a_05
 default_fishing_aim_camera
@@ -256203,6 +256234,7 @@ default_inspection_fps
 default_inspection_modifier
 default_inspection_request
 default_inspection_settings
+default_kill_effect_shake
 default_landing
 default_law_perception
 default_leadin_camera
@@ -256220,6 +256252,7 @@ default_moonshine_buyer
 default_moose
 default_mounting_modifier
 default_muskrat
+default_near_clip_scanner
 default_nervous
 default_no_stealth
 default_nobehind
@@ -260000,6 +260033,7 @@ disable_use_horsemap_collision
 disable_waypoint_trail
 disable_world_state
 disablearmcollision
+disablearmik
 disablecollision
 disabled
 disabled_on_trigger
@@ -260794,6 +260828,7 @@ dissarmbilly_rhonly_john_face
 dist
 distance
 distanceHaze
+distancexy
 distant_idle_01_bedrollclosed01x
 distant_idle_01_boiler01x
 distant_idle_01_charles
@@ -288649,6 +288684,7 @@ finish_cam_progress
 finish_cam_target
 finish_off_brawler_orbit_request
 finished
+finished_trigger
 finitialsearchradius
 finnerradius
 finsu1b_lod
@@ -288831,6 +288867,7 @@ first_fall_cam
 first_hideout
 first_knife
 first_ped_line_delivered
+first_person_aim_shake
 first_person_boat_camera
 first_person_cannon_turret_camera
 first_person_canoe_camera
@@ -288845,6 +288882,7 @@ first_person_interior_wagon_camera
 first_person_restricted_interior_wagon_camera
 first_person_revolving_cannon_turret_camera
 first_person_rowboat_camera
+first_person_shooter_no_aim_control_helper
 first_person_train_camera
 first_person_vehicle_camera
 first_person_wagon_back_hang_camera
@@ -289051,6 +289089,7 @@ fishingspot3
 fishingspot_1
 fishingspot_2
 fishingspot_3
+fist_to_face
 fists_or_knife
 five_star
 fivefingerfillet_02_invite
@@ -291496,6 +291535,8 @@ follow_me_thug01
 follow_mrs_geddes
 follow_my_lead_player_face
 follow_offset
+follow_ped_in_water_camera
+follow_ped_on_horse_camera
 follow_ped_on_seat_camera
 follow_pit_boss
 follow_player
@@ -291799,7 +291840,9 @@ forward_thug_a
 forward_thug_b
 forward_thug_c
 forwardmode
+forwardoffsetoflegik
 forwardroll
+forwardvelrotation
 fossils_common
 fossils_rare
 fossils_uncommon
@@ -291896,11 +291939,13 @@ fps_cover_modifier
 fps_jumping_shake
 fps_landing_shake
 fps_looting_modifier
+fps_melee_hit_shake
 fps_melee_modifier
 fps_pistol_recoil_shake
 fps_run_shake
 fps_shotgun_recoil_shake
 fps_sprint_shake
+fps_zoom_in_shake
 fpskr
 fqahv
 fr_2_n
@@ -298765,6 +298810,7 @@ get_to_the_horses
 get_to_wagon
 get_up
 get_up_cig
+get_up_front
 get_up_hurry_p_doorsgl02x
 get_up_hurry_quicker_p_doorsgl02x
 get_up_hurry_quicker_u_m_m_lrshomesteadtenant_01
@@ -301333,6 +301379,7 @@ gpb_pla_trestle04
 gpb_pla_trestle04_dec
 gpb_pla_trestle04_lod
 gped_excited_return_1
+gpos
 gps_block
 gps_block_box
 gps_disable_area
@@ -301348,6 +301395,7 @@ grab_base_player
 grab_bottle
 grab_box
 grab_buyer
+grab_cash
 grab_combat
 grab_crayfish
 grab_door
@@ -301357,6 +301405,7 @@ grab_enter_player
 grab_face
 grab_failure_left
 grab_foreman
+grab_frame
 grab_gun
 grab_herbs
 grab_hook
@@ -315176,6 +315225,7 @@ helpback_02_jack
 helpback_03_jack
 helpback_04_jack
 helpback_05_jack
+helperfunctions
 helpers
 helpfront
 helpfront_01_jack
@@ -315831,6 +315881,7 @@ high_right_close_opp
 high_right_gen
 high_smash_l
 high_smash_r
+high_speed_vehicle_shake
 high_target
 high_tier_repeaters
 high_tier_revolvers
@@ -321132,6 +321183,7 @@ hrs_nor_wlk_rgt_jmp_lnd
 hrs_nor_wlk_rgt_jmp_lnd_down
 hrs_nor_wlk_rgt_jmp_lnd_low
 hrs_nor_wlk_rgt_jmp_lnd_up
+hrsobstacleavoidancecontrol
 hrt
 hrt_001
 hrt_1
@@ -342359,6 +342411,7 @@ ishot
 isininterior
 isinspecting
 isinspectingground
+isinwater
 isjohnmarston
 isl
 island_avoidance
@@ -349448,6 +349501,7 @@ kTextType_EMAIL
 kTextType_FILENAME
 kTextType_GAMERTAG
 kTextType_NUMERIC
+kTextType_PASSWORD
 kVector4
 kW
 kX
@@ -359485,6 +359539,7 @@ land_to_walk
 landfromfall
 landing
 landingnormal
+landingtype
 landmark_beryls_dream
 landmark_black_balsam_rise
 landmark_black_bone_forest
@@ -363173,6 +363228,12 @@ left_exit_ped01
 left_exit_relieved
 left_first
 left_flinch
+left_foot_jump
+left_foot_run
+left_foot_scuff
+left_foot_soft
+left_foot_sprint
+left_foot_walk
 left_front_arthur
 left_front_camera
 left_front_eagle
@@ -376135,6 +376196,22 @@ mark_objectives_found
 mark_objectives_surrendered
 marker
 markers_core
+markertype_cylinder
+markertype_halo
+markertype_halo_point
+markertype_halo_rotate
+markertype_num_0
+markertype_num_1
+markertype_num_2
+markertype_num_3
+markertype_num_4
+markertype_num_5
+markertype_num_6
+markertype_num_7
+markertype_num_8
+markertype_num_9
+markertype_ring
+markertype_sphere
 market
 market1
 market2
@@ -387706,7 +387783,9 @@ melee
 melee_aim_camera
 melee_aim_in_cover_camera
 melee_attacker
+melee_body_hit
 melee_bring_it_on
+melee_combat_fabric_swing_quiet_med
 melee_effort_1
 melee_effort_2
 melee_effort_3
@@ -390461,6 +390540,10 @@ mhorse__defense
 mhorse__defense_players
 mhorse__trample_damage
 mhp
+mi_playerped_player_one
+mi_playerped_player_three
+mi_playerped_player_two
+mi_playerped_player_zero
 mic
 mic_01_12_slod
 mic_01_12_slod_children
@@ -456008,6 +456091,7 @@ nod
 node
 nodecals
 nodirectlight
+nofilter
 noharm_l
 noharm_l_chain
 noharm_r
@@ -456895,6 +456979,8 @@ normal_open_two_door02
 normal_open_two_door_l
 normal_open_two_door_r
 normal_pistol
+normal_pistol_to_injured_strafe
+normal_rifle_to_injured_strafe
 normal_to_injured
 normal_to_intimidated
 normal_town
@@ -528911,6 +528997,7 @@ playersickdoctorsopinionoutbad
 playersickdoctorsopinionoutgood
 playersickguarma
 playersickguarmamod
+playerspecialability
 playerspeedmax
 playerstamina
 playerthree
@@ -529638,7 +529725,10 @@ pointgunelbowattitude
 pointgunerrorthreshold
 pointgungravityopposition
 pointgunoridamp
+pointgunoristiff
 pointgunposdamp
+pointgunposstiff
+pointgunrifleconstraintmindistance
 pois
 poison
 poison_action
@@ -535827,6 +535917,7 @@ psp_wapiti
 psp_wapiti_rain
 psp_watsonscabin
 pstory
+psuccess
 ptfx
 ptfx_required
 ptfxs
@@ -549627,6 +549718,7 @@ rdst21_move
 rdst21_restart_1
 rdst21_start
 rdstargetlinearvelocity
+rdstargetlinearvelocitydecaytime
 rdsusestartingfriction
 rdtc0_rsc_1
 rdtc1_approach
@@ -552559,6 +552651,7 @@ referenceclip
 referenceframe
 referencelooped
 referenceplayrate
+refframe
 refill_glass_under_bar
 refillbasin
 refined
@@ -558176,6 +558269,12 @@ right_exit_ped01
 right_exit_relieved
 right_first
 right_flinch
+right_foot_jump
+right_foot_run
+right_foot_scuff
+right_foot_soft
+right_foot_sprint
+right_foot_walk
 right_gesture
 right_gesture_to_setup_charlessmith
 right_hand_fanning_01
@@ -581136,6 +581235,8 @@ say_goodbye_boy
 say_goodbye_horse
 say_goodbye_target
 say_goodbye_woman
+say_grunt_climb_easy_up
+say_grunt_climb_hard_up
 say_something
 say_something_female
 say_something_male
@@ -582415,6 +582516,8 @@ scm_volmackudzu
 scm_volnorth
 scm_volscenario
 scm_volwholeregion
+scnl
+scnr
 scoop_base_bigwin
 scoop_base_smallwin
 scoop_splitpot
@@ -599482,6 +599585,7 @@ soup_breakout_rt_skinner03
 soupkitchenline
 source_ped_id
 sourceclip
+sourceframe
 sourcelooped
 sourceplayrate
 soutfit
@@ -602768,6 +602872,7 @@ startsleep_charles
 startsleep_fork
 startsleep_plate
 startsleep_uncle
+startsliding
 starttime
 startunderbed
 startweak
@@ -605684,7 +605789,9 @@ suptrnmove
 suptrnstat
 supwag
 sure_(arthur_only)_arthur
+surfacedepth
 surfaceincline
+surfacename
 surgery
 surgery_dropoff
 surgery_dropoff_bandage
@@ -640544,6 +640651,7 @@ vehicle_wanderer_modifier
 vehicledeathkeyframe
 vehicleflags
 vehicleheading
+vehiclenavigationhelper
 vehiclepos
 vehicles
 vehicles/boat_cam
@@ -652573,6 +652681,8 @@ weapon_bone_matte
 weapon_bow
 weapon_bow_cataloguedesc
 weapon_bow_charles
+weapon_bow_dynamite
+weapon_bow_fire
 weapon_bow_improved
 weapon_bow_improved_cataloguedesc
 weapon_bow_improved_desc
@@ -652705,6 +652815,7 @@ weapon_melee_machete_collector
 weapon_melee_machete_collector_desc
 weapon_melee_machete_horror
 weapon_melee_machete_horror_desc
+weapon_melee_tomahawk
 weapon_melee_torch
 weapon_melee_torch_crowd
 weapon_mod

@@ -3630,6 +3630,7 @@ StaminaDrainModifier
 Stances
 Stand
 StandLeftHand
+StandStillTime
 StandardWaypointStyle
 StandingClipSet
 StartDelayDuration
@@ -4924,6 +4925,8 @@ fHitchingOffset
 fHorizontalClearance
 fHorizontalClearanceFirstPerson
 fIdleSpeed
+fJumpAngleMax
+fJumpAngleMin
 fKd
 fKi
 fKp
@@ -5057,6 +5060,7 @@ fSDFStep
 fSeatAngleOffset
 fSelfForceModifier
 fSidestepSpeed
+fSlide
 fSlopeBlockingProbeZOffset
 fSlopeNormal
 fSlopeSecondProbeDist
@@ -5073,6 +5077,7 @@ fSprintIntentionTapIncreaseRate
 fStartMaxZoom
 fStartMinZoom
 fStartTime
+fStickSpringDamping
 fStopSpeed
 fStoppingDistanceOffset
 fStrengthMultiplier
@@ -5479,10 +5484,12 @@ maxAgeWearControl
 maxCrossOverShift
 maxDeceleration
 maxDirtTileAmount
+maxDistanceToConsider
 maxForwardSlowdownDist
 maxHealth
 maxHeight
 maxItems
+maxPedsPerCarriage
 maxPitchAngle
 maxReverseSpeed
 maxSettings
@@ -5510,6 +5517,7 @@ midPoint
 minAgeWearControl
 minCrossOverShift
 minDirtTileAmount
+minDistanceToConsider
 minFirstBulletImpulseForce
 minForwardSlowdownDist
 minHeight
@@ -5622,6 +5630,7 @@ outfitType
 outfits
 overlay
 overlayData
+overriddenFocusDistance
 overrideBlendDuration
 overrideDayIntensity
 overrideDayIntensityMultiplier
@@ -5709,6 +5718,8 @@ powerGridId
 preStream
 preloadTime
 presetName
+prestreamAssets
+prestreamMap
 previousSiblingIndex
 pricemodifiers
 priority
@@ -5732,6 +5743,7 @@ propnormal
 propset
 propsetNames
 pscversion
+ptFxAssetHashName
 ptFxAssetName
 ptFxAttachBone
 ptFxBloodBodyArmourHashName
@@ -5890,6 +5902,7 @@ searchResults
 searchType
 searchTypes
 seat
+sectionStartTime
 sections
 sellprices
 serveronly
@@ -5953,6 +5966,8 @@ spawnerInfos
 spawningGroups
 specIntensity
 specialAbilityChargeEvents
+speedEvoMax
+speedEvoMin
 speedMult
 speedUpThreshMax
 speedUpThreshMin
@@ -6060,6 +6075,7 @@ timeunits
 tint0
 tint1
 tint2
+tintAmount
 tintColor
 tintOverrideIndex
 tintPreset
@@ -6072,6 +6088,7 @@ trailLeadInOutLength
 trailLeadInRenderSettingsGroup
 trailLeadOutRenderSettingsGroup
 trainBudget
+trainConfigIndex
 trainConfigs
 trainConfigsName
 trainGroups
@@ -6267,6 +6284,8 @@ widthMax
 widthMin
 widthMult
 widthRatio
+windSpeedMax
+windSpeedMin
 wingProbeTimeDistance
 wrapAmount
 wrapLength
