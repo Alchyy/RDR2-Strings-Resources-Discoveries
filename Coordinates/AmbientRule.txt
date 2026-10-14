@@ -85,11 +85,14 @@ x, y, z, AmbientRule / Sound
 0, 0, 15, ar_saint_denis_courtyard_pigeon_wings / pigeon_wings_pass_courtyard_master, 4cc922
 0, 0, 15, ar_saint_denis_courtyard_sparrow_song / sparrow_song_courtyards_master, 4cc922
 0, 0, 15, ar_saint_denis_courtyard_tiny_wings / 0xB732889C, 4cc922
+2817.5, -1327.6, 48.1, ar_saint_denis_middle_economic_market_butchers_flies_close / butcher_flies_master, 4cc922
 -2079.22, -110.69, 222.86, ar_strawberry_north_waterfall_01 / 0xAE67BD47, 4cc922
 -2079.6, -99.81, 227.04, ar_strawberry_north_waterfall_02 / 0x2DD4DE2F, 4cc922
 -2085.72, -75.67, 239.75, ar_strawberry_north_waterfall_03 / 0xBF545F20, 4cc922
 -2087.81, -66.71, 245.78, ar_strawberry_north_waterfall_04 / 0x3B978980, 4cc922
 -2091.59, -56.58, 251.36, ar_strawberry_north_waterfall_05 / 0x75979CBE, 4cc922
+-1728.06, -451.47, 146.37, ar_strawberry_river_rapids_sounds_01 / 0x075398AF, 4cc922
+-1736.05, -441.36, 148.21, ar_strawberry_river_rapids_sounds_02 / 0x075398AF, 4cc922
 3, 80, 10, ar_testbed_css_both / 0x899D02EA, 4cc922
 4, 80, 10, ar_testbed_css_prp / 0x4184A82E, 4cc922
 5, 80, 10, ar_testbed_dirsound / 0x3F7A01F3, 4cc922
@@ -100,6 +103,12 @@ x, y, z, AmbientRule / Sound
 19, 80, 10, ar_testbed_rolloff_mod / 0x5AA08C49, 4cc922
 -1897.8, 1332.9, 205, ar_the_grizzlies_west_mining_town_shack_main_chains / 0x123FDB5F, 4cc922
 -1897, 1332, 204, ar_the_grizzlies_west_mining_town_shack_main_wings / pigeon_wings_pass_master, 4cc922
+917.15, -729.44, 68.81, ar_train_idle_a / 0x2DE30F67, 4cc922
+924.13, -714.35, 69.94, ar_train_idle_b / 0x2DE30F67, 4cc922
+927.06, -693.27, 70.22, ar_train_idle_c / 0x2DE30F67, 4cc922
+923.83, -678.99, 70.33, ar_train_idle_d / 0x2DE30F67, 4cc922
+917.59, -663.6, 70.52, ar_train_idle_e / 0x2DE30F67, 4cc922
+2, 2, 0, ar_train_interior_metal_stove_rattle / 0xF4B87AD2, 4cc922
 -2179.56, -576.47, 122.62, ar_upper_montana_waterfall_01 / 0xBFA9420E (game.dat325.rel), 4cc922
 -2188.29, -572.98, 123.49, ar_upper_montana_waterfall_02 / 0x3B978980 (game.dat325.rel), 4cc922
 -2203.77, -530.02, 132.09, ar_upper_montana_waterfall_03 / 0xCF58E16D (game.dat325.rel), 4cc922
@@ -112,7 +121,7 @@ x, y, z, AmbientRule / Sound
 -1396.43, 3011.23, 415.48, ar_waterfall_colter_west_06 / 0xD913FED8, 4cc922
 -1346.72, 2948.35, 394.56, ar_waterfall_colter_west_07 / 0x8FAFEC11, 4cc922
 -1364.75, 2952.88, 400.92, ar_waterfall_colter_west_08 / 0xD913FED8, 4cc922
--1556.56, 3089.78, 469.64, ar_waterfall_colter_west_large / 0x913F14B3, 4cc922
+-1556.56, 3089.78, 469.64, ar_waterfall_colter_west_large / waterfall_colter_west_large, 4cc922
 -1286.84, 1270.68, 193.27, ar_waterfall_grizzlies_south_west_01 / 0x7757CF24, 4cc922
 -1851.88, 2319.06, 351, ar_waterfall_grizzlies_west_03 / 0x48B64E23, 4cc922
 -1842.49, 2270.89, 335.62, ar_waterfall_grizzlies_west_04 / 0x537C63AF, 4cc922
@@ -133,16 +142,14 @@ x, y, z, AmbientRule / Sound
 -242.29, 1839.2, 200.84, 0x042E20A0 / 0x3B978980, c92222
 -555.52, 2712.17, 320.29, 0x04372876 / 0xB1B92E97, c92222
 2794.87, -1213.59, 48.75, 0x0444CEC7 / 0x5D4E3179, c92222
--1457, 2175.2, 300, 0x04C2E8AA / 0xCF229D2C, c92222
+-1457, 2175.2, 300, 0x04C2E8AA / cave_mouth_wind_master, c92222
 2882.43, -1346.83, 52.18, 0x04D9065F / 0xD3A109F8, c92222
 2525.96, -1462.57, 46.83, 0x04E20322 / 0x6B4787C5, c92222
 2300.1, 1094.1, 91.4, 0x05368532 / 0x6C1490BA, c92222
--1728.06, -451.47, 146.37, 0x05B2E4FC / 0x075398AF, c92222
 -1817, -370.8, 166.8, 0x066830C0 / 0x56BC4A48, c92222
 2630.34, -1372.57, 49.43, 0x066F6C11 / 0xF489F484, c92222
 3.2, -3.8, -4.6, 0x06CABEC3 / 0x93B3F287, c92222
-4308.9, -3696.7, 108.8, 0x070B1BDC / 0xCF229D2C, c92222
-2, 2, 0, 0x07360272 / 0xF4B87AD2, c92222
+4308.9, -3696.7, 108.8, 0x070B1BDC / cave_mouth_wind_master, c92222
 -2592.64, 409.92, 153.23, 0x077C77E2 / 0xE4B3400E, c92222
 2768.86, -1520.36, 55.99, 0x07B5CFAE / 0xF6A1DD58, c92222
 2924.27, 1387.72, 55.78, 0x07D6F569 / 0x958E4ABB, c92222
@@ -358,7 +365,6 @@ x, y, z, AmbientRule / Sound
 220.9, 988.9, 191.2, 0x5AC8B8B9 / 0xD01B50C9 (online_game.dat325.rel), c92222
 3.99, 3.5, -5, 0x5B9D1C7D / 0x3505F931, c92222
 -1797.61, -398.48, 153.3, 0x5C24C737 / 0x316E5A37, c92222
-2817.5, -1327.6, 48.1, 0x5C93E953 / butcher_flies_master, c92222
 2818.09, -1256.02, 51.34, 0x5C972578 / 0xB96EB4F5, c92222
 2696.71, -1219.1, 53.29, 0x5CEBB814 / 0xDB4849F0, c92222
 -1791.2, -387.8, 160.6, 0x5D6DB896 / 0x083E96FB, c92222
@@ -370,7 +376,7 @@ x, y, z, AmbientRule / Sound
 -587.95, -4587.81, 81.79, 0x5F150058 / 0x40CFCF08 (online_game.dat325.rel), c92222
 -5957.6, -3181.8, -21.7, 0x5F51D7E1 / 0x62E543E1 (dlcextrasp_game.dat325.rel), c92222
 2525.39, -1202.63, 81.56, 0x5FDDB452 / 0xBAF9032C, c92222
-2798.1, 1382.5, 71.7, 0x604477E6 / 0xCF229D2C, c92222
+2798.1, 1382.5, 71.7, 0x604477E6 / cave_mouth_wind_master, c92222
 -532, 2671, 322.7, 0x6064B050 / 0xB1B92E97, c92222
 -1798.72, -397.96, 157.78, 0x60AAC7A0 / 0x34B412D3, c92222
 2893.82, 1396.32, 64.66, 0x60CD8D5E / 0xFC7CBDE2, c92222
@@ -389,7 +395,6 @@ x, y, z, AmbientRule / Sound
 -2482.18, 464.94, 167.62, 0x6457D4C5 / dove_a_master, c92222
 -2113.2, 138, 233.3, 0x64BA162F / 0xBAAA41BC, c92222
 1.8, -10.8, 0.34, 0x662D7628 / 0x18CE9065, c92222
-917.15, -729.44, 68.81, 0x66B6B293 / 0x2DE30F67, c92222
 2947.4, 1377.58, 56.05, 0x66C8E345 / 0x54E788CC, c92222
 -2909, -254, 166, 0x66D2BB5A / 0x552CB7F5, c92222
 -1452, 2156, 302, 0x695D32EA / 0xD87FC07E, c92222
@@ -436,7 +441,7 @@ x, y, z, AmbientRule / Sound
 13, 80, 10, 0x7A7F8A52 / 0x82583D7F, c92222
 2606.4, -1436.5, 47.2, 0x7B954724 / 0xC0943859, c92222
 -1410.5, 1162.6, 227.1, 0x7BB4069C / 0xA5CE3E3D, c92222
-2725.4, 1312, 90.5, 0x7BB72ECB / 0xCF229D2C, c92222
+2725.4, 1312, 90.5, 0x7BB72ECB / cave_mouth_wind_master, c92222
 1201.9, -1275.9, 79.2, 0x7BBF4A7C / 0xDDA72770, c92222
 2906.11, 1392.42, 60.44, 0x7C13D5AC / 0x65D9AA12, c92222
 -1419, 2114, 298.9, 0x7D2FDF39 / 0x282E0576, c92222
@@ -485,7 +490,7 @@ x, y, z, AmbientRule / Sound
 2298.1, 1123.5, 97.1, 0x8FB50679 / 0xEAAB59DC, c92222
 1744.62, -412.18, 50.13, 0x900FDBC9 / 0xCA05444A, c92222
 -2373.8, -1592.3, 154.54, 0x9093C691 / insects_corpse_flies_master, c92222
--992.9, 2104, 391, 0x9177C8D2 / 0xCF229D2C, c92222
+-992.9, 2104, 391, 0x9177C8D2 / cave_mouth_wind_master, c92222
 1992.83, -4571.41, 58.23, 0x91A97A8F / lemur_b_distant_streaming_master, c92222
 2355.55, 1396.68, 105.79, 0x91C451C2 / 0x3B7A3995 (online_game.dat325.rel), c92222
 2513, 2287, 177, 0x923BB88D / 0x70FC0554, c92222
@@ -514,7 +519,6 @@ x, y, z, AmbientRule / Sound
 2950.78, 1375.6, 51.51, 0x9B5306E3 / 0x3C66E063, c92222
 -226.2, 667.7, 118.6, 0x9B56DA45 / 0x39BDD7CD, c92222
 1924.72, -4613.22, 72.35, 0x9B74FF52 / screaming_piha_distant_master, c92222
-923.83, -678.99, 70.33, 0x9BC61CB1 / 0x2DE30F67, c92222
 365.25, -16.04, 95, 0x9BD9CC86 / mud_bubble_master, c92222
 -4254.2, -3484.2, 38.1, 0x9BF075D0 / 0x8940B937 (online_game.dat325.rel), c92222
 460.26, 681.7, 122.05, 0x9C04FC7E / 0xCD10DDDE, c92222
@@ -524,7 +528,6 @@ x, y, z, AmbientRule / Sound
 -2638.01, 382.23, 164.44, 0x9D4F6B1F / 0x155A56BA, c92222
 1346.1, -1374.1, 82.7, 0x9D5E9471 / 0xFF952B5E, c92222
 2921.1, 1388.87, 56.07, 0x9D6914CE / 0x678725CB, c92222
-917.59, -663.6, 70.52, 0x9D84202D / 0x2DE30F67, c92222
 -2, 0.5, -2.285, 0x9DEA65A1 / 0x2B8F35E6, c92222
 1, 80, 10, 0x9E4A8821 / 0x828BDA06, c92222
 1499.5, -7169.2, 55, 0x9F14B3A6 / 0xDB5D3D60, c92222
@@ -572,7 +575,7 @@ x, y, z, AmbientRule / Sound
 -2858.48, 69.66, 174.01, 0xAEE682E8 / 0x877AAF50 (game.dat325.rel), c92222
 20, 80, 10, 0xAFFC76C7 / 0x7C1FAD8C, c92222
 2671.92, -1229.48, 58.24, 0xB0826FE5 / 0xB96EB4F5, c92222
-2781, 1339, 71.6, 0xB0B7D2F2 / 0xCF229D2C, c92222
+2781, 1339, 71.6, 0xB0B7D2F2 / cave_mouth_wind_master, c92222
 2262.45, -763.98, 45.03, 0xB0F3909C / 0x90E627AE, c92222
 2305.9, 1118.5, 97, 0xB13DFE49 / 0xC36CC268, c92222
 2077.36, -4642.95, 59.26, 0xB143F4BB / 0xC854575F, c92222
@@ -592,7 +595,6 @@ x, y, z, AmbientRule / Sound
 -2142, 108.3, 239.8, 0xB799BBF1 / 0xD87FC07E, c92222
 -304.9, 707.3, 124.4, 0xB79B2CFE / 0x484A09F5, c92222
 2688.6, -823.06, 43.61, 0xB81BB029 / 0x947FBA76, c92222
-924.13, -714.35, 69.94, 0xB878D616 / 0x2DE30F67, c92222
 -5857.1, -2755.2, -5.2, 0xB8827648 / 0xD01B50C9 (online_game.dat325.rel), c92222
 -555.79, -4045.49, 75.47, 0xB8D7BA1F / 0x747B3037 (online_game.dat325.rel), c92222
 2740.39, -1219.97, 56.27, 0xB96C2F7B / 0x218B2D75, c92222
@@ -633,9 +635,8 @@ x, y, z, AmbientRule / Sound
 2287.9, 1047.5, 79.7, 0xC908791F / 0x64A17BF7, c92222
 2604.28, -1462, 47.98, 0xC9290BA5 / 0x483E0911, c92222
 -249, 674, 117, 0xC980487F / 0xE6CE90D3, c92222
--2121.21, 34.05, 266.54, 0xC9B07091 / 0xCF229D2C, c92222
+-2121.21, 34.05, 266.54, 0xC9B07091 / cave_mouth_wind_master, c92222
 -239, 752, 117, 0xCA899C42 / 0xE1537F8F, c92222
-927.06, -693.27, 70.22, 0xCAF7FB14 / 0x2DE30F67, c92222
 2880.46, 1397.1, 69.29, 0xCB21758F / 0x78B2C8FB, c92222
 2902.39, 1393.24, 61.91, 0xCBD57258 / 0x678725CB, c92222
 492.9, -304, 150, 0xCC118EA5 / 0x366873D7, c92222
@@ -727,7 +728,6 @@ x, y, z, AmbientRule / Sound
 3973, -3298, 68.5, 0xF34ED4D0 / hanging_chains_loop_master, c92222
 -2530.18, 345.86, 170.55, 0xF354E54A / 0x52A3F8C6, c92222
 2281.78, -1540.34, 52.37, 0xF35643EE / 0xD3A109F8, c92222
--1736.05, -441.36, 148.21, 0xF3684067 / 0x075398AF, c92222
 2676.75, -825.7, 42.43, 0xF4E9E7B3 / 0x087556A9, c92222
 -1067, 601, 100.4, 0xF524FC2E / 0xAF43270C, c92222
 830.9, 1924.71, 255.95, 0xF533DB9C / 0x5CB20C66, c92222
@@ -740,7 +740,7 @@ x, y, z, AmbientRule / Sound
 4.1, -9.35, 0, 0xF7A5677E / 0x15F6BA47, c92222
 588.73, 624.92, 110.44, 0xF7DA91F6 / 0x098AE37F, c92222
 2858, -1197, 45.6, 0xF9153DF0 / 0x4C5C1E54, c92222
-2745.5, 1414, 89.7, 0xF954AA04 / 0xCF229D2C, c92222
+2745.5, 1414, 89.7, 0xF954AA04 / cave_mouth_wind_master, c92222
 -2726.61, -321.66, 144.39, 0xF9621F4E / 0xBF545F20 (game.dat325.rel), c92222
 1181.7, 2036.7, 324, 0xF9E465AD / 0x20ADEB72, c92222
 2564.4, -1408.3, 48.8, 0xFA07F1DC / 0xD22E6B78, c92222

@@ -699,7 +699,7 @@ Light Blue = Miscellanous
 -210.144000, 618.894000, 112.270000, player_zero / arthur (useSceneOrigin False) (script@rcm@mcat@leadin@rsc1@leadin_front.yas), 4cc922
 -209.008265, 611.045504, 113.822965, camera (script@rcm@mcat@leadin@rsc1@leadin_right.yas), 4cc922
 -207.856150, 610.705634, 113.281289, player_zero / arthur (script@rcm@mcat@leadin@rsc1@leadin_right.yas), 4cc922
--205.315872, 612.348649, 112.501896, p_cs_bridecatalogue01x / p_cs_bridecatalogue01x (0x7B8EB6C0.yas), 4cc922
+-205.315872, 612.348649, 112.501896, p_cs_bridecatalogue01x / p_cs_bridecatalogue01x (script@rcm@mcat@leadin@rsc1@attract_dialogue.yas), 4cc922
 -205.315872, 612.348649, 112.501896, p_cs_bridecatalogue01x / p_cs_bridecatalogue01x (script@rcm@mcat@leadin@rsc1@base.yas), 4cc922
 -205.315872, 612.348649, 112.501896, p_cs_bridecatalogue01x / p_cs_bridecatalogue01x (script@rcm@mcat@leadin@rsc1@leadin_front.yas), 4cc922
 -205.337472, 612.344700, 112.501899, p_cs_bridecatalogue01x / p_cs_bridecatalogue01x (script@rcm@mcat@leadin@rsc1@leadin_back.yas), 4cc922
@@ -710,7 +710,7 @@ Light Blue = Miscellanous
 -204.702559, 612.490441, 113.273160, cs_abemaclean / abemaclean (Cut debugModel) (script@rcm@mcat@leadin@rsc1@leadin_back.yas), 4cc922
 -204.702559, 612.490441, 113.273160, cs_abemaclean / abemaclean (Cut debugModel) (script@rcm@mcat@leadin@rsc1@leadin_left.yas), 4cc922
 -204.702559, 612.490441, 113.273160, cs_abemaclean / abemaclean (Cut debugModel) (script@rcm@mcat@leadin@rsc1@leadin_right.yas), 4cc922
--204.819131, 612.589363, 113.280641, cs_abemaclean / abemaclean (Cut debugModel) (0x7B8EB6C0.yas), 4cc922
+-204.819131, 612.589363, 113.280641, cs_abemaclean / abemaclean (Cut debugModel) (script@rcm@mcat@leadin@rsc1@attract_dialogue.yas), 4cc922
 -204.819131, 612.589363, 113.280641, cs_abemaclean / abemaclean (Cut debugModel) (script@rcm@mcat@leadin@rsc1@base.yas), 4cc922
 -204.819131, 612.589363, 113.280641, cs_abemaclean / abemaclean (Cut debugModel) (script@rcm@mcat@leadin@rsc1@leadin_front.yas), 4cc922
 -203.340600, 616.574610, 113.337202, player_zero / arthur (script@rcm@mcat@leadin@rsc1@leadin_left.yas), 4cc922
@@ -3140,13 +3140,16 @@ Light Blue = Miscellanous
 -5548.9, -2399.6, -8.7, nplh_silent_stead - wardrobes (scriptpardata.ymt)
 -5545, -2413.4, -8.4, nplh_silent_stead (scriptpardata.ymt)
 -5543.5, -2404.5, -7.1, nplh_silent_stead - cameralocation (scriptpardata.ymt)
+-5490.95, -4540.72, 29.58, az_mz_nuevo_paraiso_01 (Music Zone)
 -4777.35, -3763.8, 10.6466, Plainview Foreman Office (Cliffpoints)
 -4758.89, -3718.33, 30.3428, Plainview Oil Derrick (Cliffpoints)
 -4689.61, -3732.16, 31.3428, Plainview Oil Derrick (Cliffpoints)
 -4664.41, -3645.18, 28.8837, Plainview Oil Derrick (Cliffpoints)
 -4626.87, -3753.5, 34.1229, Plainview Oil Derrick (Cliffpoints)
 -4453.6000980, -2959.9709470, -16.7464140, Critchly_Ranch (Center Point) (mapdatacullboxes_new.meta)
+-4336.82, -4531.48, 0.58, az_mz_nuevo_paraiso_02 (Music Zone)
 -3693.977, -2592.533, -10.527, Bath (arm_03_slod_children.ydd)
+-3393.91, -4503.5, 0.58, az_mz_nuevo_paraiso_03 (Music Zone)
 -2600, -5800, 0, Flattened Outskirts Island (gua_out_a_02.rpf)
 -2573.970215, 359.008392, 149.695908, PronghornRanch / prn (parseddata_mp) (cairn_locations.ymt)
 -2562.1616, 2240.1482, 448.64035, Removed Mountain Range (out_c_05.rpf) (Cliffpoints)
@@ -3160,10 +3163,12 @@ Light Blue = Miscellanous
 -2366.8, -2390.4, 62.7, nplh_macfarlane_ranch_cottage - property_volumes (scriptpardata.ymt)
 -2365.9, -2393.1, 62.7, nplh_macfarlane_ranch_cottage - wardrobes (scriptpardata.ymt)
 -2361.3728, 2180.239, 340.8387, hash_amb_vig_fox_hunt_in_snow (ambientvignettes.ymt)
+-2234.96, -4604.69, 0.58, az_mz_nuevo_paraiso_04 (Music Zone)
 -2122.9385, -3389.9756, 45, El Presidio Navmesh (navmesh[273][249].ynv)
 -2116.98, 88.91, 239.74, iz_col_cave_int_main_room_main + iz_winter2_cave0x_int (proj_game.dat325.rel)
 -1984.8259, -1580.799, 127.75671, Windmill Slod (pq_05_06_area_slod3_children.ydd)
 -1952.269409, -1586.29126, 114.831596, ManzanitaPost / mtp (parseddata_mp) (cairn_locations.ymt)
+-1855.12, -3594.81, 0.58, az_mz_nuevo_paraiso_05 (Music Zone)
 -1842, -418, 162, str_res03_int (Speculative Coords) (proj_game.dat325.rel)
 -1836, -406, 162, str_playhouse_int (Speculative Coords) (proj_game.dat325.rel)
 -1819.4, -374.3, 167.4, nplh_strawberry_hotel_room - cameralocation (scriptpardata.ymt)

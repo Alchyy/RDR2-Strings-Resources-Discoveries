@@ -1621,7 +1621,7 @@
 -414.9657, 1752.632, 218.8368, amv_che (amv_zone_121.ymt), ff9d00
 -413.6096, 1714.744, 218.0868, amv_che (amv_zone_121.ymt), ff9d00
 -413.7307, 1748.287, 216.457, 0x66884588 (door) (amv_zone_121.ymt), ffffff
--412.9394, 500.2029, 97.94453, 0x59502AF5 (amv_zone_14.ymt), c92222
+-412.9394, 500.2029, 97.94453, amv_cen_e_camp_stage_4 (amv_zone_14.ymt), c92222
 -411.1835, 1748.967, 217.132, amv_che (amv_zone_121.ymt), ff9d00
 -408.2432, 654.7692, 117.7418, amv_valentine_05 (amv_zone_10.ymt), ff9d00
 -403.4666, 1727.478, 217.5368, amv_che (amv_zone_121.ymt), ff9d00

@@ -365040,6 +365040,18 @@ load_mp_bounty_hunter_expanded_shepherd_02.jpg
 load_mp_bounty_hunter_expanded_shepherd_03.jpg
 load_mp_combat_race_01.jpg
 load_mp_combat_race_02.jpg
+load_mp_coop_animal_base_carlier_01.jpg
+load_mp_coop_animal_base_carlier_02.jpg
+load_mp_coop_animal_base_wolf_man_01.jpg
+load_mp_coop_animal_base_wolf_man_02.jpg
+load_mp_coop_bounty_base_alcazar_01.jpg
+load_mp_coop_bounty_base_alcazar_02.jpg
+load_mp_coop_bounty_base_borodin_01.jpg
+load_mp_coop_bounty_base_borodin_02.jpg
+load_mp_coop_bounty_base_doyle_01.jpg
+load_mp_coop_bounty_base_doyle_02.jpg
+load_mp_coop_bounty_base_tucker_01.jpg
+load_mp_coop_bounty_base_tucker_02.jpg
 load_mp_coop_clay2_blackwater_01.jpg
 load_mp_coop_clay2_blackwater_02.jpg
 load_mp_coop_clay2_rhodes_01.jpg
@@ -365075,6 +365087,8 @@ load_mp_coop_moonshiner04_03.jpg
 load_mp_coop_moonshiner05_01.jpg
 load_mp_coop_moonshiner05_02.jpg
 load_mp_coop_moonshiner05_03.jpg
+load_mp_coop_moving_train_bounty_clempson_01.jpg
+load_mp_coop_moving_train_bounty_clempson_02.jpg
 load_mp_coop_multi_target_owlhoot_01.jpg
 load_mp_coop_multi_target_owlhoot_02.jpg
 load_mp_coop_outlaw01_01.jpg
@@ -365086,6 +365100,8 @@ load_mp_coop_outlaw04_01.jpg
 load_mp_coop_revenge01_01.jpg
 load_mp_coop_revenge01_02.jpg
 load_mp_coop_revenge02_01.jpg
+load_mp_coop_sharp_shooter_base_vincenza_01.jpg
+load_mp_coop_sharp_shooter_base_vincenza_02.jpg
 load_mp_creation_01.jpg
 load_mp_creation_02.jpg
 load_mp_deathmatch_01.jpg
@@ -656976,6 +656992,7 @@ x:/rdr3/art/textures/lighting/amv/amv_volumes/amv_cat_shack01_int/
 x:/rdr3/art/textures/lighting/amv/amv_volumes/amv_cen_e_01/
 x:/rdr3/art/textures/lighting/amv/amv_volumes/amv_cen_e_camp_stage_2/
 x:/rdr3/art/textures/lighting/amv/amv_volumes/amv_cen_e_camp_stage_3/
+x:/rdr3/art/textures/lighting/amv/amv_volumes/amv_cen_e_camp_stage_4/
 x:/rdr3/art/textures/lighting/amv/amv_volumes/amv_che/
 x:/rdr3/art/textures/lighting/amv/amv_volumes/amv_cin_01/
 x:/rdr3/art/textures/lighting/amv/amv_volumes/amv_cin_tor_int/
